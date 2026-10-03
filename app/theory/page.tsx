@@ -1,66 +1,14 @@
 import Link from "next/link";
 import { module100Series } from "./data";
 
+const domains = [
+  { code: "100", title: "Fondamentaux", description: "Les notions essentielles pour comprendre la logistique.", modules: module100Series },
+  { code: "200", title: "Clients & communication", description: "La relation client, la communication et le marketing.", modules: [] },
+  { code: "300", title: "Approvisionnement", description: "Du besoin à la réception et au contrôle des marchandises.", modules: [] },
+  { code: "400", title: "Entreposage", description: "Les espaces, méthodes et équipements de stockage.", modules: [] },
+  { code: "500", title: "Production & flux", description: "Production, maintenance, qualité et circulation des flux.", modules: [] },
+];
+
 export default function TheoryPage() {
-  return (
-    <main className="min-h-screen bg-slate-950 px-6 py-10 text-slate-50">
-      <div className="mx-auto max-w-6xl">
-        <header className="mb-8 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
-          <div>
-            <p className="text-sm uppercase tracking-[0.25em] text-cyan-400">Logistics Academy</p>
-            <h1 className="mt-2 text-3xl font-bold text-white">Théorie</h1>
-          </div>
-          <div className="flex flex-wrap gap-2">
-            <Link
-              href="/theory-falc"
-              className="rounded-full border border-emerald-400/40 bg-emerald-500/10 px-4 py-2 text-sm font-medium text-emerald-300 transition hover:bg-emerald-500/20"
-            >
-              Mode FALC
-            </Link>
-            <Link
-              href="/glossary"
-              className="rounded-full border border-violet-400/40 bg-violet-500/10 px-4 py-2 text-sm font-medium text-violet-300 hover:bg-violet-500/20"
-            >
-              Glossaire
-            </Link>
-          </div>
-        </header>
-
-        <section className="mb-8 rounded-2xl border border-cyan-800 bg-cyan-950/20 p-5">
-          <p className="text-lg font-semibold text-cyan-200">Module 100</p>
-          <h2 className="mt-2 text-2xl font-bold text-white">Fondements de la logistique</h2>
-          <p className="mt-2 text-slate-300">
-            Sélectionnez un sous-module pour consulter la théorie complète puis passer en mode FALC.
-          </p>
-        </section>
-
-        <div className="grid gap-5 md:grid-cols-2 xl:grid-cols-3">
-          {module100Series.map((module) => (
-            <Link
-              key={module.code}
-              href={`/theory/${module.code}`}
-              className="group rounded-2xl border border-slate-800 bg-slate-900 p-5 transition hover:border-cyan-500/60 hover:bg-slate-800"
-            >
-              <p className="text-sm uppercase tracking-[0.2em] text-cyan-400">Module {module.code}</p>
-              <h3 className="mt-3 text-xl font-semibold text-white">{module.title}</h3>
-              <p className="mt-3 text-sm leading-6 text-slate-300">{module.summary}</p>
-
-              <ul className="mt-4 space-y-2 text-sm text-slate-300">
-                {module.points.slice(0, 2).map((point) => (
-                  <li key={point} className="flex gap-2">
-                    <span className="mt-1 h-2 w-2 rounded-full bg-cyan-400" />
-                    <span>{point}</span>
-                  </li>
-                ))}
-              </ul>
-
-              <div className="mt-5 inline-flex items-center text-sm font-medium text-cyan-300 group-hover:text-cyan-200">
-                Ouvrir le module →
-              </div>
-            </Link>
-          ))}
-        </div>
-      </div>
-    </main>
-  );
+  return <main className="min-h-screen bg-[#f7f8f6] text-slate-900"><header className="border-b border-slate-200 bg-white"><div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-5"><Link href="/" className="text-lg font-bold">Logi<span className="text-teal-700">Cours</span></Link><Link href="/" className="text-sm font-medium text-slate-600 hover:text-teal-700">← Accueil</Link></div></header><div className="mx-auto max-w-6xl px-5 py-12"><p className="text-sm font-semibold uppercase tracking-wider text-teal-700">Bibliothèque de cours</p><h1 className="mt-2 text-4xl font-bold tracking-tight">La théorie de la logistique</h1><p className="mt-4 max-w-2xl text-lg leading-8 text-slate-600">Choisissez un domaine pour avancer dans votre parcours, à votre rythme.</p><div className="mt-10 flex flex-col gap-8">{domains.map((domain) => <section key={domain.code} className="rounded-2xl border border-slate-200 bg-white p-6"><div className="flex flex-col justify-between gap-3 sm:flex-row sm:items-start"><div><span className="text-xs font-bold tracking-[.2em] text-teal-700">MODULE {domain.code}</span><h2 className="mt-2 text-2xl font-bold">{domain.title}</h2><p className="mt-2 text-slate-600">{domain.description}</p></div><span className="rounded-full bg-slate-100 px-3 py-1 text-xs font-semibold text-slate-600">{domain.modules.length ? `${domain.modules.length} modules disponibles` : "Bientôt disponible"}</span></div>{domain.modules.length > 0 ? <div className="mt-6 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">{domain.modules.map((module) => <Link href={`/theory/${module.code}`} key={module.code} className="rounded-xl border border-slate-200 p-4 hover:border-teal-300 hover:bg-teal-50/40"><div className="flex items-center justify-between"><span className="text-sm font-bold text-teal-700">M{module.code}</span><span className="text-slate-400">→</span></div><h3 className="mt-3 font-semibold">{module.title}</h3><p className="mt-2 line-clamp-2 text-sm leading-6 text-slate-500">{module.summary}</p></Link>)}</div> : <div className="mt-6 rounded-xl border border-dashed border-slate-300 bg-slate-50 p-5 text-sm text-slate-500">Le contenu de ce domaine sera intégré à la prochaine étape. Les supports PDF sources sont conservés dans le dossier <code className="rounded bg-slate-200 px-1">docs/</code>.</div>}</section>)}</div></div></main>;
 }
