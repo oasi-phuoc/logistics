@@ -1,0 +1,219 @@
+{
+ "code": "109",
+ "title": "Accès et protection des données",
+ "domain": "100",
+ "pdf": "Entersite_M109.pdf",
+ "pages": 9,
+ "words": 1936,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chaque entreprise a intérêt à garder ses données importantes confidentielles, qu'il s'agisse d'une PME ou d'une grande entreprise et que les biens coûtent 10 francs ou 2'000 francs. Il existe différentes raisons de retenir des informations ou de mettre des objets sous clé. Par exemple, (Apple) souhaite dévoiler l'aspect du nouvel (IPhone) qu’au moment de sa sortie ou une entreprise conserve un lingot d'or en lieu sûr car il a une grande valeur. Cependant, il ne s’agit pas toujours d’informations et d’objets aussi spectaculaires. Les collaborateurs de la Poste suisse sont eux aussi confrontés dans leur travail quotidien à diverses informations qui ne sont pas destinées au public. La protection des accès et des données s'est fortement accrue ces dernières années et les collaborateurs y sont de plus en plus confrontés. Il revient à l’entreprise de communiquer comment ils doivent agir. Les collaborateurs, quant à eux, ont la tâche de suivre les instructions."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 109"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-1",
+   "number": "9.1",
+   "title": "Autorisation d'accès",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Accepterais-tu qu'un étranger ait un accès illimité à ton appartement? Probablement pas. C'est pourquoi, comme la plupart des gens, tu fermes la porte de ton appartement. Celui qui se trouve dans l'appartement d'un habitant sans son consentement commet une violation de domicile et celui qui s'introduit de force dans un appartement commet un cambriolage. Un propriétaire d'entreprise ne veut pas non plus d'hôtes indésirables dans son entreprise. C'est pourquoi il définit, selon la fonction de ses employés, le droit d'accès aux locaux et leur remet les clés ou badges correspondants (en cas de sécurité électronique). Une responsabilité particulière est liée à chaque clé ou badge. Le respect des règles suivantes fait partie de cette responsabilité. La clé ou le badge:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "ne doit jamais être confiée à une autre personne sans contrôle. Cela vaut pour toutes les personnes étrangères à l'entreprise, y compris les connaissances et les proches.",
+      "doit être conservé en lieu sûr lorsqu'il n'est pas utilisé.",
+      "ne doit jamais être laissé sur les portes.",
+      "ne doit jamais être déposé sous les paillassons de porte ou dans les boîtes aux lettres.",
+      "ne doit pas porter de mention de l'entreprise à laquelle il appartient pour des raisons de sécurité."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "RReemmaarrqquuee:: la perte d'une clé ou d'un badge doit être immédiatement signalée à l'employeur afin qu'il puisse prendre les mesures nécessaires."
+    },
+    {
+     "t": "p",
+     "text": "Dans certaines circonstances, la perte d'une clé peut coûter assez cher. Si le propriétaire de l'entreprise ne veut pas prendre de risque, il remplace toutes les serrures qui peuvent être ouvertes avec la clé perdue. Dans les systèmes de fermeture récents qui fonctionnent avec une puce électronique, les clés perdues peuvent être désactivées. Il n'est pas nécessaire de remplacer les serrures, mais la désactivation entraîne aussi des conséquences financières."
+    }
+   ]
+  },
+  {
+   "id": "s-9-2",
+   "number": "9.2",
+   "title": "Secret épistolaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sous le titre \"Infractions contre l'honneur et le domaine secret ou privé\", le Code pénal suisse (CP) contient une série de dispositions visant à protéger la sphère privée d'une personne (par ex. atteinte à l'honneur et diffamation). La violation du secret épistolaire est sanctionnée par l'article 179. Le secret épistolaire ne s'applique pas seulement à la sphère professionnelle, mais aussi à la sphère privée. Sa violation est ce que l'on appelle un délit sur plainte, c'est-à-dire que les autorités ne procèdent à des investigations que si la personne lésée en fait la demande (contrairement à un délit poursuivi d'office, où les autorités doivent procéder à des investigations de leur propre chef dès qu'elles ont connaissance de l'infraction)."
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "Cooddee ppéénnaall ssuuiissssee ((CCPP)) 2.1 Actes punissables contre le domaine secret ou privé. Violation du secret épistolaire Article 179 \" Quiconque, sans en avoir le droit, ouvre un pli ou colis fermé pour prendre connaissance de son contenu, quiconque, ayant pris connaissance de certains faits en ouvrant un pli ou colis fermé qui ne lui est pas destiné, divulgue ces faits ou en tire profit, est, sur plainte, puni d’une amende\"."
+    },
+    {
+     "t": "p",
+     "text": "Pour les employés, cela signifie"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le contenu des lettres ou des colis qu'ils doivent transporter ne les concerne pas. Cela ne vaut pas seulement pour les collaborateurs de la Poste, mais aussi pour ceux d'un service de courrier interne à l'entreprise. Les particuliers ne sont pas non plus concernés par le courrier des autres. Les personnes lésées peuvent dénoncer un acte, mais doivent en fournir la preuve.",
+      "Seules les personnes chargées d'ouvrir le courrier reçu dans l'entreprise peuvent le faire. Mais même avec un mandat, seul le courrier qui ne contient pas de nom personnel dans les champs d'adresse peut être ouvert sans problème. Si l'adresse contient un nom personnel, c'est l'ordre des champs d'adresse qui compte. Le courrier portant la mention \"personnel\", \"confidentiel\" ou \"personnel/confidentiel\" ne doit jamais être ouvert."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les exemples d'adresses suivants montrent quand le courrier peut être ouvert et quand il ne peut pas l'être:"
+    },
+    {
+     "t": "p",
+     "text": "EnterSite AG 2, rue de la Rigi 5102 Rupperswil"
+    },
+    {
+     "t": "p",
+     "text": "EnterSite AG A l'attention de Reto Gugger 2, rue de la Rigi 5102 Rupperswil"
+    },
+    {
+     "t": "p",
+     "text": "Monsieur Reto Gugger EnterSite AG 2, rue de la Rigi 5102 Rupperswil Personnel/confidentiel Monsieur Reto Gugger EnterSite AG 2, rue de la Rigi 5102 Rupperswil"
+    },
+    {
+     "t": "note",
+     "kind": "good",
+     "label": "Bonne pratique",
+     "text": "Ouvrir Sans avis contraire Ouvrir sur instruction NN’’ouvrir que si M. Gugger l’a expressément demandé Ne jamais ouvrir"
+    }
+   ]
+  },
+  {
+   "id": "s-9-3",
+   "number": "9.3",
+   "title": "Secret postal",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le secret postal est défini dans le code pénal de manière encore un peu plus large que le secret de l'écriture. Il protège non seulement le contenu d'un courrier, mais aussi son expéditeur et son destinataire dans ses fonctions. Cela signifie par exemple qu'un facteur n'a pas le droit de dire à un tiers qui reçoit du courrier, de qui et à quelle fréquence. Les informations qui concernent la sphère hautement privée d'une personne ne doivent jamais être transmises. Il s'agit par exemple d'informations sur la notification d'actes judiciaires ou de commandements de payer. Il peut être dangereux que des logisticiens travaillant dans le service de livraison, racontent le soir à leurs collègues que l'AVS sera versée le lendemain matin. Ils mettent ainsi en danger aussi bien les livreurs que les bénéficiaires de la rente."
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "Code pénal suisse (CP) Violation du secret de la poste et des télécommunications Article 321ter 1 «Quiconque, en sa qualité de fonctionnaire, d’employé ou d’auxiliaire d’une organisation fournissant des services postaux ou de télécommunication, transmet à un tiers des renseignements sur les relations postales, le trafic des paiements ou les télécommunications de la clientèle, ouvre un envoi fermé ou cherche à prendre connaissance de son contenu ou encore fournit à un tiers l’occasion de se livrer à un tel acte est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire."
+    },
+    {
+     "t": "p",
+     "text": "2 De même, quiconque détermine par la tromperie une personne astreinte au secret en vertu de l’al. 1 à violer ce secret est puni d’une peine privative de liberté de trois ans au plus ou d’une peine pécuniaire."
+    },
+    {
+     "t": "p",
+     "text": "3 La violation du secret postal ou du secret des télécommunications demeure punissable après que l’emploi ou la charge ont pris fin."
+    },
+    {
+     "t": "p",
+     "text": "4 La violation du secret postal ou du secret des télécommunications n’est pas punissable en tant qu’elle est requise pour déterminer l’ayant droit ou pour prévenir la survenance de dommages."
+    },
+    {
+     "t": "p",
+     "text": "5 L’art. 179 octies ainsi que les dispositions des législations fédérale et cantonales statuant une obligation de renseigner une autorité ou de témoigner en justice sont réservés »."
+    }
+   ]
+  },
+  {
+   "id": "s-9-4",
+   "number": "9.4",
+   "title": "Secret des affaires",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Conformément aux dispositions du code des obligations, tout employé est tenu de garder les secrets d'affaires de son employeur (article 324, paragraphe 4, CO). Celui qui ne respecte pas cette règle peut être dénoncé par son employeur."
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "CCode des obligations (CO) II. devoir de diligence et de loyauté Article 321, paragraphe 4"
+    },
+    {
+     "t": "p",
+     "text": "1 \" Le travailleur exécute avec soin le travail qui lui est confié et sauvegarde fidèlement les intérêts légitimes de l'employeur. 2 Il est tenu d’utiliser selon les règles en la matière les machines, les instruments de travail, les appareils et les installations techniques ainsi que les véhicules de l’employeur, et de les traiter avec soin, de même que le matériel mis à sa disposition pour l’exécution de son travail. 3 Pendant la durée du contrat, le travailleur ne doit pas accomplir du travail rémunéré pour un tiers dans la mesure où il lèse son devoir de fidélité et, notamment, fait concurrence à l’employeur. 4 Pendant la durée du contrat, le travailleur ne doit pas utiliser ni révéler des faits destinés à rester confidentiels, tels que les secrets de fabrication et d’affaires dont il a pris connaissance au service de l’employeur; il est tenu de garder le secret même après la fin du contrat, tant que l’exige la sauvegarde des intérêts légitimes de l’employeur\"."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: d'une manière générale, les travailleurs ont tout intérêt à faire preuve de beaucoup de retenue lorsqu'ils \"bavardent\" sur leur entreprise. Les critiques exprimées à haute voix et en public, en particulier, laissent une impression négative."
+    }
+   ]
+  },
+  {
+   "id": "s-9-5",
+   "number": "9.5",
+   "title": "Sécurité des données",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La protection des données d'une entreprise a toujours été importante. Aujourd'hui, à l'ère du traitement électronique des données, elle revêt une importance encore plus grande. La première \"porte\" d'accès au système informatique d'une entreprise est généralement un nom d'utilisateur et un mot de passe. Seules les personnes connaissant le mot de passe peuvent se connecter au système, ce que l'on appelle \"se connecter\" dans le jargon. Le système enregistre chaque accès avec la date et l'heure. L'administrateur du système peut ainsi constater à tout moment si et quand des utilisateurs non autorisés se sont introduits dans le système. Les droits d'accès aux différents domaines de l'entreprise correspondent en général à la fonction et à la mission des collaborateurs. Ainsi, tous, y compris les apprentis, peuvent accéder aux données dont ils ont besoin pour effectuer leur travail. De nos jours, le réseau et les moyens informatiques sont dans la plupart des cas mis en place et entretenus par des spécialistes, les administrateurs système. Néanmoins, les collaborateurs, y compris les logisticiens, doivent respecter certaines règles."
+    }
+   ]
+  },
+  {
+   "id": "s-9-5-1",
+   "number": "9.5.1",
+   "title": "Protection par mot de passe",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La protection par mot de passe n'est pas seulement utile à l'entreprise, mais aussi aux collaborateurs. Un mot de passe peut empêcher que des personnes non autorisées se connectent au système sous le nom d'utilisateur des collaborateurs et y fassent des bêtises. Pour qu'un mot de passe soit efficace, personne d'autre ne doit le connaître, il ne doit être écrit nulle part et il doit être difficile à trouver. Les mots de passe tels que la date de naissance, le lieu de résidence, les surnoms ou le nom de la petite amie sont certes faciles à mémoriser, mais toute personne souhaitant les découvrir tentera d'abord de les utiliser. Il ne faut jamais utiliser un mot de passe à plusieurs fins, et surtout pas le mot de passe Windows pour n'importe quel site Internet."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: les bons mots de passe comportent au moins huit caractères et sont des combinaisons de lettres majuscules et minuscules, de chiffres et de caractères spéciaux."
+    },
+    {
+     "t": "p",
+     "text": "Il est conseillé de changer de mot de passe de temps en temps. La plupart des systèmes d'exploitation exigent un changement de mot de passe à intervalles réguliers. Les virus informatiques, également appelés vers informatiques et chevaux de Troie, sont des programmes aux modes d'action différents. Ils peuvent entraîner des conséquences plus ou moins graves. C'est moins grave lorsqu'ils ne provoquent \"que\" des effets indésirables lors de l'exécution d'applications. Mais s'ils formatent le disque dur et effacent ainsi toutes les données ou s'ils espionnent les mots de passe des comptes bancaires, les dommages peuvent être très importants. C'est l'imprudence et l'insouciance des utilisateurs qui tombent dans les pièges des pirates et permettent ainsi aux virus informatiques, aux vers et aux chevaux de Troie de se propager à la vitesse de l'éclair sur Internet."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras des explications complémentaires sur ce thème dans le module 805."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 109"
+     ]
+    }
+   ]
+  }
+ ]
+}

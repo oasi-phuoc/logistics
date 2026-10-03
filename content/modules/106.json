@@ -1,0 +1,641 @@
+{
+ "code": "106",
+ "title": "L’élimination des déchets CH",
+ "domain": "100",
+ "pdf": "Entersite_M106.pdf",
+ "pages": 35,
+ "words": 7810,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Des marchandises de grande valeur Les marchandises de valeur sont conservées dans des zones de stockage particulièrement sécurisées. Des séparations en grillage sont souvent installées dans les entrepôts de marchandises. Ce n’est pas toujours la valeur de la marchandise qui est déterminante du besoin de protection. Il peut s’agir aussi d’autres produits qui peuvent être sujets au vol comme de l’alcool ou des produits à base de tabac. Dans le domaine pharmaceutique, les drogues ou produits apparentés doivent être conservés avec une protection particulière. Ce sont souvent les clients qui exigent une protection particulière de la part des prestataires logistiques. Un stockage sous protection particulière peut également être nécessaire pour des raisons de confidentialité. Ceci peut être le cas, par exemple, pour de nouveaux produits qui doivent être protégés de la concurrence. On protège les marchandises dans des locaux verrouillables, ou des systèmes de stockage tels que des armoires ou des rayonnages rotatifs verticaux."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 105"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La Suisse est souvent considérée comme la championne du monde de l'élimination des déchets. En tant que futur(e) logisticien(ne), connaissez-vous le concept d'élimination des déchets de la Suisse? Savez-vous quelles sont les filières d'élimination mises en place par la Suisse et qui est responsable de l'élimination des déchets? L'élimination des déchets est aujourd'hui organisée de manière très professionnelle. Il existe des organisations qui développent en permanence les concepts d'élimination de la Suisse. Le rôle des logisticiennes et logisticiens est de soutenir autant que possible l'organisation, et, par conséquent, l'environnement, tout en mettant en œuvre les directives en matière d’élimination."
+    },
+    {
+     "t": "p",
+     "text": "6.1 Qu'est-ce qu'un déchet? Il n'est pas toujours évident de définir un déchet. La loi définit les déchets comme suit:"
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "Loi sur la protection de l'environnement (LPE) Article 7, paragraphe 6 « Par déchets, on entend les choses meubles dont le détenteur se défait ou dont l’élimination est commandée par l’intérêt public »"
+    },
+    {
+     "t": "p",
+     "text": "Il s’agit donc avant tout d’une question de temps; tout bien de consommation tôt ou tard ne sert plus, et devient alors un déchet. Contrairement aux biens de consommation, la nature ne connaît pas les déchets. Car les processus naturels se composent de cycles, au cours desquels chaque substance retourne à son état d’origine de façon périodique. Les déchets sont donc toujours produits par l’homme. Au fil des siècles, la production mondiale de déchets a considérablement évolué. Longtemps, il a été possible, dans une certaine mesure, d’éliminer dans le jardin les choses qui ne servaient plus. Ce type d’élimination n’était pas encore problématique puisqu’il s’agissait de petites quantités de déchets et que ceux-ci étaient moins nocifs pour l’environnement. La plupart d’entre eux étaient en effet composés de substances organiques, comme le bois, l’argile ou les restes de nourriture. Mais avec le développement des grandes villes et l’industrialisation, la production de déchets par unité de surface a rapidement augmenté. Une réglementation de l’élimination s’est avérée nécessaire. De plus, les produits de consommation et les déchets ont une composition de plus en plus complexe."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: l'association de différents matériaux rend encore plus difficile une élimination respectueuse de l'environnement. (Source: OFEV)"
+    },
+    {
+     "t": "p",
+     "text": "Dans le langage technique, les déchets sont appelés résidus, résidus stabilisés de manière résiduelle, ou de matières revalorisables Ces termes indiquent que les déchets ne sont pas toujours gênants ou superflus, mais qu'ils peuvent être réutilisés de manière judicieuse dans certaines circonstances. Le défi réside dans la diversité des matières résiduelles:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les résidus peuvent se présenter sous forme solide, liquides ou gazeuse."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ils peuvent se présenter sous une forme pure ou être mélangés à d'autres substances."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les résidus peuvent s’avérer inoffensifs, dangereux ou toxiques (voire les deux à la fois).",
+      "Les déchets résiduels peuvent être réutilisables et valorisables."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Cependant, certains déchets ne peuvent être que comprimés ou neutralisés."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple de la vie quotidienne L'eau devient aussi un déchet. L'eau est un bien extrêmement précieux à l'échelle mondiale. Elle se transforme toutefois en eaux usées dès qu'elle a été utilisée en tirant la chasse d'eau des toilettes, par exemple. Elle est polluée et arrive à la station d'épuration via le réseau d'égouts. Les boues d'épuration, qui se déposent dans la station d'épuration à partir des eaux usées, sont aussi un type de déchet. Depuis que les boues d'épuration ne peuvent plus être épandues comme engrais dans l'agriculture, elles servent de combustible dans les usines d'incinération pour les ordures ménagères (UIOM)."
+    },
+    {
+     "t": "p",
+     "text": "Une définition possible des déchets pourrait être:"
+    },
+    {
+     "t": "p",
+     "text": "« Une mauvaise matière au mauvais moment, dans la mauvaise situation et au mauvais endroit »."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2",
+   "number": "6.2",
+   "title": "L’importance et rôle des déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'élimination des déchets a pris beaucoup d'importance ces dernières années. Ce phénomène est dû aux raisons suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "une conscience écologique croissante des personnes et des entreprises;",
+      "la pression exercée sur le consommateur afin de le pousser à acheter des produits favorables à l’environnement;",
+      "la considération de la protection de l’environnement comme facteur concurrentiel;",
+      "l’augmentation des coûts d’élimination des déchets;",
+      "le renforcement de la réglementation d’un point de vue légal."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour la logistique d’élimination des déchets d’une entreprise, cela signifie:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "développer une attitude positive favorisant une élimination dans les règles et orientée vers l’avenir;",
+      "rechercher des solutions économiques;",
+      "présenter les plans mis en place et les résultats atteints."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La logistique d’élimination des déchets réglemente l’organisation du flux de matériel interne et externe des déchets produits. L’élimination des déchets se divise en plusieurs prestations. Les prestations suivantes sont les principales:"
+    },
+    {
+     "t": "p",
+     "text": "Prestation centrale Prestation complémentaire Prestation d’informations Stockage Transport Recyclage Collecte Tri Conditionnement"
+    },
+    {
+     "t": "p",
+     "text": "Traitement des commandes"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: L’élimination des déchets signifie: mettre en valeur, exploiter ou faire disparaître les déchets."
+    }
+   ]
+  },
+  {
+   "id": "s-6-3",
+   "number": "6.3",
+   "title": "Flux de matières dans la gestion des déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "80 – 90 millions de tonnes de déchet par année"
+    },
+    {
+     "t": "p",
+     "text": "L'OFEV distingue les types de déchets suivants: Déchets urbains • Déchets provenant des ménages"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Déchets provenant d'entreprises comptant moins de 250 emplois à temps plein et dont la composition est comparable à celle des déchets ménagers en termes de contenu et de quantité. les matériaux de déblais et matériaux d'excavation",
+      "Les matériaux de déblais sont des matériaux qui sont excavés sous le sol, lors de travaux de construction, par exemple des roches meubles, du gravier et du sable.",
+      "Les matériaux d'excavation sont principalement constitués de blocs de roches et de roches brisées qui sont extraits du sous-sol par des moyens mécaniques ou à l'explosif dans le cadre de travaux de construction."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chaque année, la Suisse produit environ 80 à 90 millions de tonnes de déchets. La plus grande partie est constituée de matériaux d'excavation et de déblais non pollués ainsi que de matériaux de déconstruction. En raison de son niveau de vie élevé, la Suisse produit 716 kg de déchets par personne, soit l'un des volumes de déchets urbains les plus élevés au monde. Près de 53 % de ces déchets sont recyclés. Afin de réduire la forte consommation de matières premières primaires de la Suisse, la Confédération veut prendre en compte tous les flux de matériaux et de substances tout au long de la chaîne de création de valeur - de l'extraction des matières premières à la gestion des déchets en passant par la conception des produits. Source: OFEV"
+    }
+   ]
+  },
+  {
+   "id": "s-6-4",
+   "number": "6.4",
+   "title": "Les modes d’élimination des déchets en Suisse",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En comparaison avec d'autres pays, la Suisse dispose d'un système de gestion des déchets moderne et bien structuré. Des voies d'élimination telles que l'incinération dans les usines d'incinération des ordures ménagères (UIOM) et la mise en décharge ou le recyclage des produits se sont établis. Le recyclage est considéré comme un objectif principal et doit être encore plus encouragé et renforcé à l'avenir."
+    }
+   ]
+  },
+  {
+   "id": "s-6-4-1",
+   "number": "6.4.1",
+   "title": "Décharges",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La méthode d'élimination \"mise en décharge\" est souvent comprise de manière négative. Les résidus de l'incinération des déchets ou les déchets qui ne se prêtent pas à une valorisation (incinération ou recyclage) sont déposés dans des décharges autorisées. Pour pouvoir être mis en décharge, les déchets doivent répondre à certaines exigences. S'ils ne les remplissent pas, ils sont traités jusqu'à ce que l'état souhaité soit atteint. En Suisse, il existe cinq types de décharges. Ils sont désignés par les lettres A à E. Celles-ci représentent, dans l'ordre croissant, le potentiel de danger croissant des déchets déposés (p. ex.: type A = aucun danger, type E = fort potentiel de danger). L'autorisation de mise en décharge est mesurée en fonction des polluants dont l'objet est porteur."
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "LL''article 30c, alinéa 1, de la loi sur la protection de l'environnement (LPE) stipule que « Les déchets destinés à être stockés définitivement doivent être traités de façon à contenir le moins possible de carbone organique et à être aussi peu solubles dans l’eau que possible. »."
+    },
+    {
+     "t": "p",
+     "text": "Type A Les décharges de type A sont destinées aux déchets tels que les matériaux d'excavation et de percement. Toute suspicion de pollution peut être exclue pour ce type de déchets. Ce type de décharge ne présente pas d'exigences particulièrement élevées en matière de stockage. Type B Les déchets individuels désignés sont autorisés dans les décharges de type B, ainsi que les déchets minéraux, pour autant que les exigences relatives aux polluants soient remplies. Pour ce type de décharge, on parle également de décharge pour matériaux inertes. Le mot \"inerte\" a sa racine en latin et signifie \"non impliqué\", \"inactif\" ou \"inerte\". Les matériaux inertes réagissent peu ou pas du tout aux influences environnementales et ne libèrent presque pas de substances nocives dans l'environnement. Seuls les matériaux de type rocheux, dont les polluants ne se détachent que très difficilement, peuvent être déposés dans des décharges pour matériaux inertes. Type C Les décharges de type C sont prévues pour le stockage de déchets inorganiques, difficilement solubles et contenant des métaux résiduels. Cela implique généralement leur traitement préalable afin d'éliminer en grande partie les nuisances. Type D Les résidus de l’incinération sont appelés \"mâchefers\". Les \"scories\" sont également produites lors de l'incinération dans une UIOM. Ce type de déchet se retrouve typiquement dans les décharges de type D. Type E La décharge de type E contient des déchets qui entraînent des polluants élevés. Pour ces produits, il faut s'attendre à des processus chimiques ou biologiques. Les exigences pour ce type de décharge sont particulièrement strictes. L'emplacement et l'exécution, la surveillance des gaz d'échappement et des lixiviats sont strictement réglementés."
+    },
+    {
+     "t": "p",
+     "text": "Désignation de la décharge Type de placement Exemples de produits Type A Matériaux d'excavation et de déblais Gravier, terre, sable Type B Matériaux inertes Briques, tuiles, béton Type C Déchets inorganiques Terre polluée, balayures publiques Type D Les résidus d’incinération Résidus de combustion de l'UIOM Type E Réacteur Matériau d'isolation, résidus d'amiante, asphalte de finition"
+    }
+   ]
+  },
+  {
+   "id": "s-6-4-2",
+   "number": "6.4.2",
+   "title": "L’incinération - usine d'incinération des ordures ménagères (UIOM)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En Suisse, l’ensemble des déchets inflammables non recyclables doit être incinéré dans des installations appropriées. La majeure partie de ces matériaux atterrissent dans l’une des 30 usines d’incinération du pays. Seuls le mâchefer et les résidus de filtration finissent dans des décharges."
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "LL''article 30c, alinéa 2, de la loi sur la protection de l'environnement (LPE) stipule que « il est interdit d’incinérer les déchets ailleurs que dans une installation, à l’exception des déchets naturels, provenant des forêts, des champs et des jardins, si leur incinération n’entraîne pas d’immissions excessives »."
+    },
+    {
+     "t": "p",
+     "text": "Dans les années à venir, l'incinération des déchets restera une voie d'élimination importante pour la Suisse. L'incinération des déchets permet essentiellement d'atteindre trois objectifs: réduction du volume et du poids, réduction des émissions polluantes, production d'énergie et utilisation du chauffage urbain."
+    },
+    {
+     "t": "p",
+     "text": "Réduction du volume et du poids L’incinération permet de réduire le volume des déchets de 90 % et leur poids de 75 %. Cette réduction est essentielle pour pouvoir économiser de l’espace pour les décharges. Par ailleurs, le mâchefer constitue une matière homogène facilement compactable.."
+    },
+    {
+     "t": "p",
+     "text": "Réduction des volumes et du poids dans l’UIOM"
+    },
+    {
+     "t": "p",
+     "text": "Réduction des émissions de polluants Les déchets incinérables qui se décomposent dans les décharges émettent de grandes quantités de gaz polluants, notamment du méthane et du CO2. L’incinération individuelle dans les cheminées ou dans les jardins entraîne en outre une forte pollution de l’air, générant des poussières fines et d’autres substances nocives. Ces dernières années, d’importantes sommes ont été investies dans l’amélioration des usines d’incinération et notamment dans les équipements de lavage des fumées. Des filtres électriques retiennent les cendres et la poussière. Les substances nocives sous forme de gaz telles que le dioxyde de soufre et l’acide chlorhydrique sont largement éliminées au moyen d’installations de lavage des fumées. Depuis 2002 des installations de réduction des oxydes d’azote (DeNOx) sont en service partout. Celles-ci fonctionnent comme les catalyseurs des voitures. La part des UIOM dans les émissions d’oxydes d’azote a pu être réduite, passant de 3,1 % en 1995 à 0,9 % aujourd’hui."
+    },
+    {
+     "t": "p",
+     "text": "En août 2014, un accord a été signé dans le but de réduire les émissions provenant de l'incinération des déchets et de mettre en place des incitations pour une utilisation plus efficace de l'énergie dans les usines de traitement des ordures ménagères. Les 30 usines d'incinération des ordures ménagères en Suisse produisent environ 5 pour cent de l'ensemble des émissions de gaz à effet de serre du pays. L'accord prévoit une réduction supplémentaire des émissions de CO2 dites nettes, de l'incinération des déchets."
+    },
+    {
+     "t": "p",
+     "text": "Les trois types de filtres pour le nettoyage des fumées dans une usine d’incinération"
+    },
+    {
+     "t": "p",
+     "text": "La production d'énergie et l’utilisation du chauffage urbain Une UIOM avec récupération de chaleur peut convertir environ 25 % de l’énergie d’incinération en courant électrique. Les 75 % restants peuvent être utilisés comme chaleur. Une partie de l’énergie générée par les déchets se perd via la cheminée ou les cendres et le mâchefer chaud. Une autre perte de chaleur est due aux éléments de l’installation qui ne sont pas isolés à 100 %. La chaleur ainsi récupérée permet d’économiser chaque année l’importation d’environ 215 000 tonnes de produits pétroliers."
+    },
+    {
+     "t": "p",
+     "text": "Le chauffage à distance – centrale et point de collecte L’UIOM ne sert pas uniquement à l’incinération proprement dite, mais est aussi un point de collecte central pour tous les types de déchets d’une région. Ses portes sont aussi ouvertes aux particuliers. La proximité de la population et les bonnes prestations de service évitent que les déchets ne soient déposés dans des décharges sauvages, qu’ils soient éliminés de façon inappropriée ou même brûlés au jardin. Les clients sont conseillés relativement au tri des déchets et dans le choix du lieu de dépôt approprié."
+    }
+   ]
+  },
+  {
+   "id": "s-6-4-3",
+   "number": "6.4.3",
+   "title": "Le recyclage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La troisième voie d'élimination est considérée comme l’objectif principal de l'élimination: le recyclage."
+    },
+    {
+     "t": "p",
+     "text": "Par recyclage, on entend le processus de collecte, de tri, de traitement et de valorisation des matières."
+    },
+    {
+     "t": "p",
+     "text": "Le recyclage est une utilisation multiple des matières premières grâce à un circuit fermé des matériaux recyclables. Si une matière première est obtenue à partir de matériaux mis au rebut, on parle de matière première secondaire. Recycler signifie redonner de la valeur à une chose. Lorsque vous utilisez des restes de votre repas de la veille au lieu de les jeter, pour en faire par exemple une soupe, vous leur redonnez une valeur. Les déchets peuvent ainsi fournir la matière première nécessaire à certains produits, en vue de les réutiliser comme avant ou d’une manière différente. L’idée de la réutilisation des déchets ne date pas d’aujourd’hui. Dans la Rome antique déjà, les excréments étaient collectés et vendus aux paysans comme engrais pour leurs champs. Plus tard, les chiffonniers se sont chargés de ramasser, trier et réutiliser les déchets textiles. Le recyclage d’autres déchets est également devenu une évidence. Les déchets alimentaires ont servi à fabriquer des aliments pour les animaux domestiques, les os et les cheveux se sont révélés constituer des matières très utiles. Les déchets de bois et de papier étaient brûlés pour le chauffage et les parties métalliques étaient fondues ou reforgées."
+    },
+    {
+     "t": "p",
+     "text": "L’industrialisation Au cours de l’industrialisation, la quantité et la composition des déchets se sont transformées. Les premiers fours à incinération pour ordures ménagères ont vu le jour à Londres. Le premier four à incinération en Suisse a été mis en service à Zurich en 1904. Après les deux guerres mondiales, les gens ont connu une prospérité grandissante. Ils ont pu s’offrir des produits de luxe qui étaient généralement vendus dans un emballage couteux. L’ensemble des bouteilles, du papier aluminium, des sachets fraîcheur et autres boîtes de conserve ont conduit à une situation d’urgence en matière d’ordures. Un ménage qui autrefois pouvait fonctionner avec environ 150 objets, utilise aujourd’hui plus de 20 000 objets, du cure-dent au fixateur pour cheveux, de l’armoire au trombone de bureau. Ne pas jeter quelque chose permet de réduire la quantité de déchets et de préserver de précieuses matières premières. La quantité de matières premières non renouvelables est limitée. Elles seront un jour épuisées. Le recyclage ne réduit pas seulement la quantité de déchets, il permet également d'économiser les matières premières."
+    },
+    {
+     "t": "p",
+     "text": "\" Le changement devient possible lorsqu’un grand nombre de petites gens font de petites choses par petits pas est possible\"."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "proverbe chinois-"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L’importance du recyclage Intérêt du recyclage: réduction de la quantité de déchets, préservation de matières premières qui se raréfient, diminution des émissions de CO2 et économie d’énergie. Un « déchet » doit être recyclé lorsque cela permet un impact moindre sur l’environnement tant du point de vue de son élimination que de celui de la nouvelle production à laquelle il contribue. Le recyclage des déchets doit, par ailleurs, être assuré sur le plan économique, sur le long terme. Le recyclage ne fonctionne que lorsqu’il présente une rentabilité économique (c’est le cas du verre par exemple). Les observations montrent que les fluctuations du marché des matières premières, surtout lorsque les prix augmentent, influencent directement la rentabilité du recyclage."
+    },
+    {
+     "t": "p",
+     "text": "Un grand nombre de matières ou de leurs composants utilisés aujourd’hui présentent encore des caractéristiques techniques qui ne permettent pas leur recyclage. Dans ces cas, pour de trop petites quantités, le faible profit lié à la réutilisation rend le recyclage pratiquement impossible. 1 tonne de recyclé......les emballages en aluminium permettent d'économiser autant de pollution que 30'500 km de trajet en voiture génèrent - soit 30 fois la distance Zurich-Barcelone.... les appareils électriques et électroniques (y compris les ampoules) permettent d'économiser autant de pollution que 247'500 km de trajets en train générés par les CFF - soit 48 fois de l'ensemble du réseau ferroviaire suisse....les textiles et les chaussures permettent d'économiser autant de pollution que 26'400 kilomètres de vol ou environ 4 fois le trajet Zurich-New York....de fer blanc / acier permettent d'économiser autant de pollution que 14'500 rouleaux de papier WC (FSC) en génèrent....les piles et les batteries permettent d'économiser autant de pollution que 2'652 litres de mazout générés....les bouteilles de boissons en PET permettent d'économiser autant d'énergie qu'une lampe à économie d'énergie de 12 watts en consomme pendant 52 ans....les emballages en verre permettent d'économiser autant d'impacts environnementaux que l'utilisation continue d'un ordinateur portable pendant 1,7 an. Source: swissrecycling.ch"
+    },
+    {
+     "t": "p",
+     "text": "La récupération et la distribution La récupération s'occupe du retour des substances, des produits, des pièces, des emballages et des moyens de transport pendant et après la distribution."
+    },
+    {
+     "t": "p",
+     "text": "Déchets urbains recyclés provenant des ménages et de l'industrie Le bon fonctionnement du recyclage des déchets et des matériaux recyclables dépend souvent du système de collecte. Si le consommateur doit parcourir des kilomètres pour se rendre au point de collecte le plus proche, la tentation est grande de choisir le chemin \"le plus proche\" pour l'élimination. Les déchets urbains sont collectés à intervalles réguliers par le service de ramassage des ordures. Pour les matériaux recyclables et les substances"
+    },
+    {
+     "t": "p",
+     "text": "polluantes, des points de collecte communaux sont disponibles dans la plupart des communes. Avec un taux de recyclage de 53 pour cent, la Suisse fait partie des leaders européens. Néanmoins, les citoyens ne devraient pas se reposer sur leurs lauriers, car un tri correct et cohérent des déchets restera important à l'avenir. Le recyclage des matériaux recyclables a de nombreuses importantes fonctions: il permet de préserver les ressources, d'économiser de l'énergie, de réduire la pollution par le CO2 et de créer des matières premières secondaires. En 2020, l'office fédéral de l'environnement (OFEV) a publié les taux de recyclages suivants: Quantité par habitant Quantité Total Taux Vieux papiers (papier et carton) 139.9 Kg 1'209'000 t 82 % Déchets biogènes compostés ou fermentés dans des installations centrales (à l'exception du compost domestique) 162.5 Kg 1'405'000 t - Verre usagé y compris les bouteilles en verre 41.2 Kg 34.1 Kg 356'000 t 295'000 t 94 % Appareils électriques et électroniques 15.2 Kg 131'000 t - Textiles 6.4 Kg 55'400 t - Bouteilles de boissons en PET 4.2 Kg 36'300 t 81 % Fer-blanc (boîtes de conserve + couvercles) 1.4 Kg 12'400 t - Emballages en aluminium Y compris canettes de boissons 1.5 Kg 1.3 Kg 13'300 t 11'500 t 94 % Piles 0.4 Kg 3'111 t 64 % Quantité totale recyclée (ménage et commerce) 372.7 Kg 3'221'511 t 53 %"
+    },
+    {
+     "t": "p",
+     "text": "Conteneur communal de collecte pour le verre Les points de rencontre entre la distribution et la redistribution La distribution et la redistribution ne peuvent pas être considérées chacune dans leur coin. Lorsqu’une centrale de distribution livre des marchandises à ses filiales (distribution), le récipient et les déchets des filiales sont récupérés par la centrale lors du retour de la livraison (redistribution). La prise de conscience croissante en faveur de l’environnement et la taxe obligatoire pour l’élimination des déchets ont conduit au fait que la redistribution est toujours liée à la distribution des marchandises."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple: le commerce de détail Les points de vente sont approvisionnés en marchandises par une centrale de distribution. Le point de vente sert en premier lieu à la vente. Chaque point de vente produit cependant aussi des déchets, à savoir notamment:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "des marchandises avariées, inutilisables ou endommagées;",
+      "du matériel d’emballage;",
+      "des retours de clients (bouteilles PET, bouteilles en verre, appareils électriques, piles)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Dans le commerce de détail, la centrale de distribution constitue en général un point de reprise pour les points de vente. Non seulement elle reprend les déchets, mais elle les trie aussi et les élimine de façon appropriée. Les clients éliminent également une partie de leurs déchets via les points de vente. Cela concerne avant tout des produits devenus inutilisables et qui doivent être repris par les points de vente. Le reste est éliminé soit via les installations communales, soit (moins courant) directement via un point d’élimination ou de recyclage."
+    },
+    {
+     "t": "p",
+     "text": "Les systèmes de transport Avant de pouvoir recycler des déchets, un système ou concept de transport doit être mis en place afin de transporter ces déchets (matières premières) aux points prévus à cet effet. a) Le système de livraison Lorsque le client assure lui-même le transport de ses déchets jusqu’au point de collecte ou jusqu’à l’installation d’élimination, on parle de système de livraison. Puis, à partir du point de collecte, c’est un système d’enlèvement qui prend le relais. Des véhicules de ramassage se rendent régulièrement aux points de collecte pour récupérer les conteneurs pleins. Les points de collecte ne fonctionnent en règle générale que s’ils sont surveillés et bien gérés."
+    },
+    {
+     "t": "p",
+     "text": "b) Système d’enlèvement Le système d’enlèvement le plus connu est celui du ramassage des ordures ménagères. Le dernier relevé de l’OFEV en matière de déchets a révélé que 3,12 millions de tonnes de déchets sont éliminées chaque année par le ramassage des ordures ménagères, soit une quantité de 430 kilogrammes par habitant. 3,01 des 3,12 millions de tonnes ont été acheminées dans des usines d’incinération pour y être brûlées. Près de 100 000 tonnes ont été déposées dans des décharges. Le financement du recyclage La contribution anticipée de recyclage (CAR) ou contribution anticipée à l’élimination (CAE): Le système a été mis en place au sein du marché, et la participation de chacun est libre. Certains producteurs ou importateurs exigent une contribution des consommateurs comprise dans le prix du produit. L’argent ainsi récolté est disposé dans un fonds géré par une association. Celle-ci est responsable de la collecte, du transport et du recyclage des emballages ou produits usés. Le chemin du consommateur à l’entité chargée de l’élimination des déchets varie cependant selon la branche concernée. Les communes sont malheureusement de plus en plus sollicitées pour la gestion de la collecte et du transport de certaines matières. En d’autres termes, ces processus sont financés via la taxe de base. Dans le meilleur des cas, l’organisme chargé de l’élimination remet à la commune une partie des frais mis en œuvre. Cette somme ne couvre cependant qu’une partie des coûts supportés par la commune. Exemples: fer blanc, bouteilles PET. La taxe d'élimination anticipée TEA (taxe anticipée de recyclage, TAR): L’art. 32a (bis 1) de la LPE dispose que les producteurs et importateurs commercialisant des produits qui deviennent des déchets et qui doivent être traités séparément ou pouvant être recyclés, peuvent être amenés à payer une taxe d’élimination anticipée auprès d’une organisation privée mandatée et surveillée par la confédération. Le montant de cette taxe est déterminé par le département fédéral de l’intérieur. Une organisation de droit privé ou de droit public est mandatée dans le but d’organiser l’élimination et la distribution des moyens. Lors de l’achat d’une pile, une taxe d’élimination est payée (20 centimes en moyenne). Celle-ci est ensuite versée à un fonds. Tous les commerçants sont dans l’obligation de reprendre les piles ou batteries des consommateurs dans la mesure où celles-ci n’excèdent pas 5 kg. Les montants récoltés par le fonds sont à la disposition d’une organisation privée, l’Organisation d’intérêt pour l’élimination des piles (INOBAT). Elle organise la collecte de piles qu’elle livre ensuite à deux entreprises d’élimination (Batrec AG et Recymet SA). L’organisation INOBAT est également chargée de la publicité liée à l’obligation de retour des piles et batteries."
+    },
+    {
+     "t": "p",
+     "text": "Organisations de recyclage en Suisse Compostage de matières végétales Site internet sur le recyclage des matières végétales, plate-forme pour les adeptes du compostage, les recycleurs professionnels et les responsables des villes, communes et cantons. www.kompost.ch"
+    },
+    {
+     "t": "p",
+     "text": "Recyclage de canettes en aluminium Cette organisation est engagée depuis 20 ans dans la collecte et la revalorisation d’emballages en aluminium vides et a développé un concept de ramassage et de recyclage. www.igora.ch"
+    },
+    {
+     "t": "p",
+     "text": "Recyclage des bouteilles PET L’Association PRS PET-Recycling Schweiz a été créée en 1990 et se consacre à la collecte des bouteilles en PET depuis l’entrée en vigueur de l’Ordonnance sur les emballages pour boissons. https://petrecycling.ch Recyclage des piles INOBAT est l'acronyme de «Interessenorganisation Batterieentsorgung/Organisation d'intérêt pour l'élimination des piles». INOBAT est organisée sous la forme d'une coopérative de droit privé et compte près de 140 entreprises membres tirées des secteurs de la production, de l'importation et du commerce https://www.inobat.ch"
+    },
+    {
+     "t": "p",
+     "text": "Recyclage du papier et du carton «Verein Recycling Papier + Karton» «Recyclage papier + carton» est le nom d'une association qui regroupe des entreprises et des organisations confrontées aux questions d'élimination de vieux papiers et de la logistique qui en découle."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "https://www.altpapier.ch"
+    },
+    {
+     "t": "p",
+     "text": "Recyclage de fer blanc FERRO Recycling, association pour la promotion du recyclage des boîtes de conserve en fer blanc, a été créée en 1987."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "https://ferrorecycling.ch"
+    },
+    {
+     "t": "p",
+     "text": "Recyclage de verre usagé Vetrorecycling est un département de Vetropack, une société leader dans l’industrie du conditionnement, qui dispose d'entreprises de production de verre en Suisse, en Autriche, en République tchèque, en Slovaquie, en Croatie et en Ukraine."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "https://www.vetropack.com"
+    },
+    {
+     "t": "p",
+     "text": "Élimination et recyclage d’appareils électriques La fondation SENS est une fondation d’intérêt public indépendante et neutre. Elle a pour but de promouvoir des solutions d’élimination organisées relevant de l’économie privée."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "https://www.sens.ch"
+    },
+    {
+     "t": "p",
+     "text": "Élimination et recyclage d’appareils électroniques Swico Recycling est une commission neutre. Elle se charge de l'élimination des appareils électriques et électroniques en fin de vie qui proviennent des secteurs de l'informatique, de l'électronique grand public, de la bureautique, de la télécommunication, de l'industrie graphique ainsi que des technologies de mesure"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "et médicales. https://www.swico.ch"
+    },
+    {
+     "t": "p",
+     "text": "Élimination de luminaires L’Association suisse pour l’éclairage SLG a créé la Fondation Suisse pour le recyclage des sources lumineuses et luminaires (SLRS) pour assurer une élimination appropriée des luminaires."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "www.slrs.ch"
+    },
+    {
+     "t": "p",
+     "text": "Les matières organiques Le compostage Près d’un tiers des déchets urbains peuvent être compostés. Ce processus a lieu d’une part localement, par les particuliers disposant d’un compostage dans leur jardin, et d’autre part via les communes. Ces dernières ramassent les déchets végétaux et les livrent à de grandes installations de compostage. Ces installations transforment les déchets végétaux en un compost très riche pouvant être utilisé comme engrais ou améliorant le sol. Comment obtient-on du compost? Une fois les matières organiques périssables mises en tas, le processus de décomposition par les microorganismes commence relativement vite. Il s’agit d’un principe de « putréfaction » sans apport d’air. Au cours de cette phase, des substances métaboliques mal odorantes, comme par exemple le méthane, l’hydrogène sulfuré, l’ammoniaque ou l’acide butyrique sont libérées. Un tas de compost peut atteindre des températures de 50 à 70 °C en son milieu. Ce processus tue toutes les semences de mauvaises herbes, les germes et les organismes nocifs. Ensuite, le compost se refroidit et est réduit en petites particules par de petits animaux comme les acariens, les mille pattes, les cloportes et les vers. Il devient de plus en plus noir. Arrivé à maturité, le compost est friable, terreux et a une odeur rappelant la forêt."
+    },
+    {
+     "t": "p",
+     "text": "Production de biogaz: Une installation de biogaz sert à produire du biogaz par fermentation de biomasse. Les installations de biogaz agricoles procèdent généralement à la fermentation du lisier et de l’ensilage. Différentes variétés de microorganismes transforment la biomasse en méthane et dioxyde de carbone. Dans la plupart des installations de biogaz, le gaz produit sur place est utilisé dans une installation de couplage chaleur/force pour produire de l’électricité et de la chaleur."
+    },
+    {
+     "t": "p",
+     "text": "La collecte du papier Le papier est très certainement le premier matériau qui a été collecté systématiquement. Des générations entières d’écoliers connaissent la collecte de vieux papiers. La matière première utilisée pour fabriquer du papier est le bois, autrement dit une matière première renouvelable. L’utilisation de bois pour la fabrication de papiers de grande qualité est donc justifiée. Le papier recyclé est néanmoins tout aussi intéressant pour de nombreuses utilisations. Le papier ne peut pas être réutilisé à l’infini. Les fibres du papier deviennent de plus en plus courtes, d’où la nécessité pour le papier recyclé de toujours contenir une certaine part de papier de qualité. Le papier recyclé est avant tout transformé en papier journal et en carton. «Recycling Papier + Karton» (Recyclage papier + cartons) est une association qui sert de plate-forme d’échange pour les entreprises et organisations de la chaîne du papier."
+    },
+    {
+     "t": "p",
+     "text": "Les matières inorganiques Le reyclage du métal Les métaux comptent parmi les matières premières les plus précieuses. Leur recyclage permet non seulement d’économiser des coûts, mais aussi et surtout de l’énergie."
+    },
+    {
+     "t": "p",
+     "text": "Installation de biogaz à Henniez VD"
+    },
+    {
+     "t": "p",
+     "text": "a) Les métal ferreux Dans un ménage, on trouve du fer principalement dans les boîtes de conserve. Cette affirmation peut se prouver à l’aide d’un aimant: si la boîte est attirée par celui-ci, elle est en acier (fer). La surface des boîtes de conserve est généralement revêtue d’étain protégeant contre la corrosion. Le terme technique correspondant est « fer blanc ». Les boîtes de conserve bon marché sont galvanisées. Selon leur contenu, l’intérieur des boîtes est revêtu de matière plastique. La collecte des boîtes en fer blanc est largement répandue en Suisse. Un collecteur est mis à disposition dans la plupart des communes. b) L’aluminium Un quotidien sans aluminium est impensable aujourd’hui. Nous enveloppons notre casse-croûte dans un film en aluminium, nous pressons la moutarde d’un tube en aluminium et si nous avons soif, nous ouvrons une cannette en aluminium. La collecte de l’aluminium est parfaitement ancrée dans les mœurs de la population suisse. L’aluminium peut être fondu et transformé en de nouveaux objets, presque sans perte de qualité. La production d’aluminium à partir de sa matière première qu’est la bauxite nécessite une consommation d’énergie particulièrement importante: près de 20 fois plus d’énergie que la refonte d’aluminium usagé. Depuis 20 ans, la coopérative IGORA s'occupe du ramassage et du recyclage des emballages en aluminium vides. En collaboration avec l'industrie des boissons et de l'aluminium, la coopérative a élaboré un concept de collecte et de recyclage basé non pas sur la contrainte, mais sur l’acte volontaire. Les emballages en aluminium ont connu un grand essor grâce à des produits comme les boissons énergétiques."
+    },
+    {
+     "t": "p",
+     "text": "Le Verre a) Collecte Le verre usagé est principalement éliminé via des points de collecte communaux permanents. La Suisse compte aujourd’hui un total de près de 22 000 conteneurs à verre qui appartiennent aux communes et aux agglomérations. A partir de ces points de collecte et de manière régulière, le verre est acheminé vers des entrepôts régionaux temporaires, puis vers des installations de transformation, par rail et par unité de 25 tonnes. Un réseau de 45 entreprises disposant de l’infrastructure et du savoir-faire nécessaires se chargent aujourd’hui de la collecte et de l’acheminement vers les sites de transformation. Entre le point de collecte permanent et l’entrepôt régional le plus proche, le verre ne parcourt jamais plus de 25 km sur la route. b) Transformation en bouteilles de verre Sur le tapis de tri, on retire manuellement les couleurs spéciales, la porcelaine, la céramique et les autres corps étrangers. Un broyeur confère aux débris de verre le grain optimal pour le processus de fusion. Un tamis permet d’évacuer d’autres corps étrangers et les grains trop grands. Les éléments métalliques ou en céramique sont retirés au moyen d’aimants et de séparateurs de métal et de céramique. Le papier et les autres matériaux légers sont aspirés. Après un dernier contrôle, le verre usagé ainsi préparé arrive à la production. Outre le verre usagé, qui représente jusqu’à 90 % du total, les principales matières premières pour la fabrication du verre sont la silice, le calcaire et la soude. Ce mélange de matières premières est fondu à 1600 °C. Des gouttes de verre incandescentes sont coupées de la matière en fusion qui s’écoule en continu et sont guidées vers un premier moule. La forme grossière ainsi obtenue reçoit sa forme définitive dans le moule final sous l’action d’air comprimé. La bouteille finie et encore incandescente est lentement refroidie dans un four de refroidissement, pour équilibrer les tensions auxquelles la matière est exposée. Un traitement de surface permet ensuite de protéger les bouteilles des rayures et de la casse."
+    },
+    {
+     "t": "p",
+     "text": "Le recyclage des matières plastiques a) Le faible taux de collecte pour les matières plastiques En Suisse, seules 50 000 tonnes environ de déchets plastiques sont collectées séparément et recyclées. Cette faible proportion de recyclage en comparaison à d’autres matériaux, comme le verre, s'explique par plusieurs raisons. En effet, il n'existe pas d'industrie de recyclage bien organisée pour le plastique avec des marchés correspondants. Une autre raison s’explique par le nombre important de types de plastiques différents. Selon leur utilisation, les plastiques contiennent différents additifs tels que des plastifiants, des stabilisateurs, des pigments ou des retardateurs de flamme. Cela rend difficile la collecte d'un seul type de plastique."
+    },
+    {
+     "t": "p",
+     "text": "b) Les bouteilles en PET PET est une abréviation qui signifie « polyéthylène téréphtalate ». Ce mot est si difficile à prononcer que nous n’utiliserons ci-après que l’abréviation PET. Dans le monde entier, 15 milliards de bouteilles sont fabriquées chaque année à partir de ce matériau. En 2008, 35 825 tonnes de bouteilles PET ont été ramassées en Suisse, tandis que les ventes de bouteilles sur le marché suisse représentaient, pour la même année, 45 712 tonnes. Le taux de recyclage a atteint 78 %. En d’autres termes, 8 bouteilles sur 10 ont été collectées. La collecte de ce matériau est financée par une taxe de recyclage anticipée sur les bouteilles PET à usage unique et non consignées. A l’origine, le PET n’a pas été développé pour la production de bouteilles. Son histoire a commencé pendant la seconde guerre mondiale, lorsqu’il a fallu trouver un matériau de remplacement pour la production des parachutes en soie japonaise. Ce tout nouveau matériau a alors dominé l’industrie vestimentaire pendant de nombreuses années. Sur le marché suisse, le PET est apparu pour la première fois en 1984 sous la forme de bouteilles. Henniez produit alors, pour la première fois, des bouteilles d’eau minérale de 1,6 décilitre en PET pour Swissair."
+    },
+    {
+     "t": "p",
+     "text": "Les piles Parmi les quelque 3500 tonnes de piles achetées chaque année en Suisse par les ménages, 30 % atterrissent encore dans les ordures ménagères. Ce type d’élimination est non seulement indésirable, mais il conduit aussi au gaspillage de précieuses matières premières. Les fabricants et importateurs de piles ont entre-temps obtenu un grand succès grâce à leur engagement en faveur d’une réduction des substances polluantes et des déchets. Aujourd’hui, 95 % des piles vendues en Suisse sont peu polluantes. Les piles qui peuvent être rechargées jusqu’à 1000 fois, ainsi que la plupart des piles boutons font cependant partie des types des piles polluantes."
+    },
+    {
+     "t": "p",
+     "text": "Les piles usagées sont reprises par les points de vente de piles ainsi que par les points de collecte communaux, régionaux et autres. Il existe ainsi un réseau de 10 000 points de collecte, les communes contribuant grandement à la préservation de l’environnement dans ce domaine. A la demande de l’Office fédéral de l’environnement (OFEV), une coopérative privée, INOBAT, gère la taxe d’élimination anticipée (TEA) que versent les consommateurs en achetant des piles et des batteries. L’objectif majeur d’INOBAT est d’accroître le taux de collecte actuel de 70,6 % pour les piles usagées à la valeur cible préconisée par l’OFEV, à savoir 80 %."
+    },
+    {
+     "t": "p",
+     "text": "Les appareils électroniques Depuis 15 ans, SWICO se charge de l’élimination et du recyclage des appareils électroniques usagés. En 2008, SWICO Recycling a collecté 50 754 tonnes d’appareils électroniques. Les substances suivantes sont retirées de ces appareils:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "50 % métaux (fer, aluminium, cuivre ou acier chromé);",
+      "25 % matières plastiques;",
+      "15 % verre de tube cathodique."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les cartes de circuits imprimés sont quantitativement insignifiantes, mais contiennent différents métaux précieux (or, argent et palladium) qui rendent leur recyclage particulièrement intéressant. A peine 1 % de la quantité traitée correspond à des matières polluantes. Parmi celles-ci figurent les batteries, les condensateurs ou les éléments contenant du mercure. Les appareils électriques et sources lumineuses La fondation SENS eRecycling gère un système de reprise des appareils électriques et électroniques ainsi que des ampoules dans toute la Suisse. La fondation d’intérêt public organise la récupération pour:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "les petits appareils électroménagers;",
+      "les gros appareils électroménagers;",
+      "les machines diverses et les outils de jardinage et de bricolage;",
+      "les jouets;",
+      "les luminaires et les sources lumineuses."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-5",
+   "number": "6.5",
+   "title": "Objectif 2030 - la pyramide des déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Au niveau national, deux objectifs fondamentaux ont été fixés pour valoriser et réduire les déchets: 1) dissocier la production de déchets de la croissance économique 2) éviter les effets nuisibles des déchets sur l’homme et sur l’environnement."
+    },
+    {
+     "t": "p",
+     "text": "Concrètement, l’OFEV vise d’ici 2030 un cycle des matériaux économique global, basé à 75 % sur des matières premières secondaires et seulement à 25 % sur des matières premières primaires. La pyramide des déchets montre comment atteindre ces objectifs:"
+    },
+    {
+     "t": "p",
+     "text": "L’objectif de la prévention: éviter plutôt que réduire et réduire plutôt que valoriser (selon l’expression anglaise « Reduce, Reuse, Recycle »). Éviter de produire des déchets est donc la priorité absolue pour une gestion efficace de ceux-ci. Ce n’est que lorsqu’il n’est pas possible d’éviter la production de déchets qu’il faut les réduire et, enfin, les valoriser"
+    }
+   ]
+  },
+  {
+   "id": "s-6-6",
+   "number": "6.6",
+   "title": "L’élimination des déchets dans les entreprises de logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entreprises/services logistiques produisent pratiquement tous les types de déchets avec, en première ligne, des matériaux d’emballage. Les déchets produits par les entreprises de production sont généralement éliminés par le service logistique. Les centrales de distribution sont souvent confrontées à l’élimination des déchets récupérés des points de vente. Le flux des déchets et leur gestion dépendent par conséquent de l’activité de l’entreprise. Pour conditionner les déchets, ceux-ci sont souvent passés dans des compacteurs ou des broyeurs. Un exemple de concept d'élimination en entreprise peut se présenter comme suit:"
+    },
+    {
+     "t": "p",
+     "text": "Les concepts d’élimination des entreprises sont aussi divers que les entreprises elles-mêmes. L’exemple illustré ci-dessus pourrait s’appliquer à une centrale de distribution de taille moyenne qui approvisionne le commerce de détail. Le concept ne comprend pas l’élimination des ordures de l’entreprise (balayage, déchets de bureau, etc.). Les entreprises de logistique peuvent également collaborer avec des entreprises d’élimination professionnelles offrant leurs services comme suit:"
+    }
+   ]
+  },
+  {
+   "id": "s-6-6-1",
+   "number": "6.6.1",
+   "title": "La check-list comme aide à l'exécution dans le concept de gestion des",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "déchets Des check-lists d’aide à l’exécution pour l’élimination sont établies afin de guider les collaborateurs. La présente check-list indique à ces derniers comment procéder à l’élimination du déchet concerné."
+    },
+    {
+     "t": "p",
+     "text": "Structure de la check-list: 1 Groupe auquel appartient le déchet conformément à l’OFEV (Office fédéral de l’environnement); classification des matières valorisables par ordre alphabétique Déchets du groupe A: déchets inoffensifs (ordures ménagères par ex.). Déchets du groupe B: déchets avec risque de contamination (entachés de sang ou d’excrément par ex.) Déchets du groupe C: déchets contenant des agents infectieux transmissibles devant obligatoirement être indiqués Déchets du groupe D: déchets spéciaux (produits chimiques anciens, vernis, produits phytopharmaceutiques) Déchets du groupe E: déchets médicaux devant répondre à des exigences additionnelles liées à des raisons d’éthique (déchets corporels, réserves de sang par ex.) 2 Matière valorisable 3 Symbole du sac poubelle 4 Groupe auquel appartient le déchet conformément à l’OFEV 5 Conteneurs d’élimination pour la matière valorisable 6 Consignes liées au conteneur7 7 Consignes liées à la manutention de la matière valorisable 8 Point de collecte de l’unité d’organisation (par ex. service) 9 Organisme responsable du transport vers le point de collecte sur les lieux concernés10 10 Lieux du point de collecte 11 Entreprise/organisation chargée de l’élimination12 12 Symbole correspondant au recyclage13 13 Avertissements sur les risques liés à la matière14 14 Classification des matières dangereuses conformément à l’ADR/SDR (ADR: Accord européen relatif au transport international, SDR: Ordonnance relative au transport de matières dangereuses sur les routes) 15 Dans cet exemple, il s'agit de la classe 15: 15 Classe de marchandises dangereuses selon ADR/SDR (ADR: accord européen relatif au transport international des marchandises dangereuses, SDR: ordonnance relative au transport des marchandises dangereuses par route)"
+    }
+   ]
+  },
+  {
+   "id": "s-6-7",
+   "number": "6.7",
+   "title": "Les déchets sauvages",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le littering est le fait de jeter ou d'abandonner sur la voie publique de petites quantités de déchets urbains, sans utiliser les infrastructures prévues. Près des trois quarts des communes considèrent le littering comme un problème. Le littering cause une nuisance pour tous et entraîne des coûts élevés. Cette mauvaise habitude est constatée surtout dans les rues, sur les places publiques, dans les parcs et après les grandes manifestations. Les plus grandes quantités de pollution proviennent des emballages jetables et des contenants de boissons de la \"restauration volante\" (emballages de boissons et récipients à emporter), des produits imprimés (journaux, publicité imprimée) et des mégots de cigarettes. Le littering n'est pas seulement le fait de jeunes, mais de tous les tranches d'âge. C'est un problème de société qui ne peut être résolu qu'avec l'aide de tous. Les déchets sauvages sont des déchets urbains. Leur élimination relève de la compétence des cantons."
+    }
+   ]
+  },
+  {
+   "id": "s-6-7-1",
+   "number": "6.7.1",
+   "title": "Les causes du littering",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les causes du littering sont multiples. L'espace public et la nature libre deviennent des espaces mobiles. De nombreuses activités sont déplacées de la sphère privée vers la sphère publique, en particulier pendant les mois d'été. C'était par exemple le cas de manière accrue pendant la pandémie de Covid 19, période durant laquelle le littering a plus que doublé. Une autre raison réside dans le fait, qu’il y a un faible contrôle social de l'espace public. L'anonymat augmente la probabilité à laisser traîner des restes, sans contrôle. Ce comportement peut encore être renforcé par des effets de groupe, les valeurs personnelles ayant une influence considérable sur le littering."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la cause du littering s’expliquer par les valeurs personnelles de la personne."
+    }
+   ]
+  },
+  {
+   "id": "s-6-7-2",
+   "number": "6.7.2",
+   "title": "Les conséquences du littering",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les effets du littering sont multiples et nous sommes tous concernés. L'OFEV les divise en trois groupes: les effets esthétiques, écologiques et économiques."
+    },
+    {
+     "t": "p",
+     "text": "Les effets esthétiques La propreté est un élément essentiel et constitue un aspect important de la qualité de vie de la population et de l'image d'une ville ou d'un espace public. Le littering est une pollution visuelle et porte donc atteinte à la qualité"
+    },
+    {
+     "t": "p",
+     "text": "d'un espace de vie. Les villes touristiques ont particulièrement besoin de donner une impression de propreté et de convivialité."
+    },
+    {
+     "t": "p",
+     "text": "Ville touristique?"
+    },
+    {
+     "t": "p",
+     "text": "L’impact écologique Les matériaux grillagés ne peuvent pas être réintroduits dans les cycles de matières et sont soustraits au recyclage. De nouvelles ressources doivent être extraites et traitées, avec l'impact environnemental que cela représente. Le littering constitue également une menace pour les animaux et les plantes, et par conséquent pour l'homme. Les dommages ne sont pas seulement dus au processus de production supplémentaire nécessaire, mais également à l'impact environnemental des produits abandonnés."
+    },
+    {
+     "t": "p",
+     "text": "L’impact économique Les réflexions écologiques, mais aussi économiques, parlent en défaveur du littering. Les déchets sauvages coûtent cher. Les coûts de nettoyage s'élèvent à environ 200 millions de francs par an. De plus, les mesures de prévention et les campagnes d'information coûtent cher également. Au sens large, il y a également des coûts lorsque des touristes évitent un lieu à cause de la saleté."
+    },
+    {
+     "t": "p",
+     "text": "Coûts de nettoyage du littering dans les transports publics, total: 48 millions de CHF/an Cigarettes 5 % 2,4 millions de CHF Emballages à emporter 26 % 12,5 millions de CHF Journaux et dépliants 24 % 11,4 millions de CHF Emballages pour boissons 36 % 17,1 millions de CHF Divers 9 % 4,3 millions de CHF"
+    },
+    {
+     "t": "p",
+     "text": "Coûts de nettoyage du littering dans les communes, total: 144 millions de CHF/an Cigarettes 36 % 52,5 millions de CHF Emballages à emporter 19 % 26,7 millions de CHF Journaux et dépliants 5 % 7,1 millions de CHF Emballages pour boissons 35 % 50,6 millions de CHF Divers 5 % 7,3 millions de CHF Source: OFEV"
+    }
+   ]
+  },
+  {
+   "id": "s-6-7-3",
+   "number": "6.7.3",
+   "title": "Les types de littering",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il n'y a pas qu’un seul type de littering, mais des motivations différentes qui conduisent au littering. La motivation dépend de différents facteurs, comme par exemple l'environnement, la culture, l'éducation et la prospérité. Jusqu'à présent, quelques études ont établi des typologies de littering. L'illustration suivante montre la typologie à l'aide d'une étude ENCAMS (Environmental Campaigns), basée sur les déclarations de jeunes sur le thème du littering:"
+    },
+    {
+     "t": "p",
+     "text": "Les « représentants » pour chaque type de littering, se comportent pour la plupart, différemment lorsqu'ils sont en groupe ou lorsqu'ils sont seuls - les litterings ont tendance à être plus nombreux en groupe."
+    }
+   ]
+  },
+  {
+   "id": "s-6-7-4",
+   "number": "6.7.4",
+   "title": "Mesures à prendre",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le littering ne peut être combattu efficacement que si différentes mesures sont combinées et prises de manière ciblée. Les mesures relatives au comportement humain ont le plus grand impact. L'éducation à travers un comportement exemplaire a le plus grand impact. De plus, les trois mesures suivantes peuvent contribuer à une solution: Travail des relations publiques et de sensibilisation: cela peut se faire par le biais d'affiches publicitaires, d'annonces, d'événements, de facebook, etc. dans les communes et les quartiers. Un soutien sous forme d'affiches ou de spécialistes peut être commandé ou réservé gratuitement auprès de la Communauté d'intérêts pour un monde propre (IGSU). L'information et l'éducation: le développement des connaissances liées à l'environnement et des compétences d'actions concrètes sont très importantes, surtout pour les jeunes. Différentes organisations proposent un matériel pédagogique complet ou des visites dans les écoles afin de montrer aux enfants et aux jeunes comment utiliser les ressources naturelles de manière responsable. Les activités répétitives sur ce thème sont celles qui donnent les meilleurs résultats. Les sanctions: le travail de sensibilisation et d'information est utile, mais il n'a pas toujours l'effet escompté et pas sur tous les groupes de population. C'est pourquoi certains cantons et villes ont créé une base légale d'une amende pour le littering. D'autres villes renoncent aux amendes, car cette sanction ne serait pas applicable dans la réalité du terrain."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 106"
+     ]
+    }
+   ]
+  }
+ ]
+}

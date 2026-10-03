@@ -1,0 +1,167 @@
+{
+ "code": "103",
+ "title": "Tâches et objectifs de la logistique",
+ "domain": "100",
+ "pdf": "Entersite_M103.pdf",
+ "pages": 5,
+ "words": 797,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique n'a cessé d'évoluer au cours des dernières années. La numérisation et la mondialisation ont exigé des adaptations. Les tâches et les objectifs de la logistique sont néanmoins restés très similaires, voire identiques. Au final, la logistique est jugée par le client sur des critères très simples. Un exemple: vous venez de commander en ligne la dernière console de jeu auprès d'un grand magasin. Quels critères doivent être remplis pour que vous considériez la livraison comme bonne?"
+    },
+    {
+     "t": "p",
+     "text": "-"
+    },
+    {
+     "t": "p",
+     "text": "-"
+    },
+    {
+     "t": "p",
+     "text": "-"
+    },
+    {
+     "t": "p",
+     "text": "Discutez de vos critères avec votre voisin(e) de pupitre et complétez-les si nécessaire."
+    },
+    {
+     "t": "p",
+     "text": "Nous vivons à une époque où les processus commerciaux doivent être organisés de manière efficace afin de répondre à la croissance du marché et aux besoins des clients. En conséquence, le terme de logistique est devenu très populaire. Auparavant, les livraisons et les achats au détail étaient effectués en personne ou par des canaux tels que le fax, le téléphone et le courrier recommandé. Aujourd'hui, la technologie et le monde numérique permettent de faire des achats en un seul clic de souris. Les entreprises communiquent entre elles à l'aide de logiciels sophistiqués. Le marketing prend une nouvelle forme. Les processus commerciaux (opérationnels, organisationnels, administratifs) sont planifiés d'un point de vue stratégique. La stratégie vise à optimiser la communication entre les secteurs au sein de l'entreprise ou entre les parties internes et externes. Cela doit permettre d'améliorer la production et la distribution. La tactique sert à saisir les changements soudains sur le marché afin que l'entreprise puisse y réagir de manière appropriée. Les ressources sont optimisées afin de réduire les coûts tout en augmentant les bénéfices. L'entreprise devient une organisation d'actifs et de capitaux. L'organisation est gérée dans les moindres détails afin de faire prospérer l'entreprise. Selon les principes de la gestion d'entreprise, une entreprise réalise des bénéfices lorsqu'elle travaille de manière efficace et efficiente:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "L'efficacité est la capacité d'un établissement à atteindre les objectifs fixés dans les délais impartis,",
+      "L'efficience est la réalisation des objectifs sans gaspillage de ressources."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La logistique est l'ensemble des activités organisationnelles, administratives et stratégiques qui régissent le flux de matières et d'informations connexes dans l'entreprise; depuis la source chez les fournisseurs à la livraison des produits finis aux clients et au service après-vente. En d'autres termes, la logistique d'entreprise est une partie spécifique de la chaîne d'approvisionnement dont la mission est d'optimiser les activités de l'entreprise et ses relations avec le monde extérieur, en optimisant les ressources et en rendant les processus efficaces et efficients."
+    },
+    {
+     "t": "p",
+     "text": "Objectifs de la logistique"
+    },
+    {
+     "t": "p",
+     "text": "Objectif de la logistique"
+    },
+    {
+     "t": "p",
+     "text": "Les principales activités de la logistique sont l'acquisition de matériel et de ressources de production, y compris le capital humain, la transformation des ressources en produits ou services et la distribution des produits ou services sur le marché."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1",
+   "number": "3.1",
+   "title": "Définition de la logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Même si le terme, la logistique est facile à interpréter, la Society Of Logistic Engineers (S.O.L.E.) propose une autre définition:"
+    },
+    {
+     "t": "p",
+     "text": "\"La logistique est l'art et la science de l'organisation, de la planification et de l'activité technique en ce qui concerne les exigences, la définition, l'approvisionnement et les ressources nécessaires pour soutenir les objectifs, les plans et les opérations\". Source: http://www.sole.org/"
+    }
+   ]
+  },
+  {
+   "id": "s-3-2",
+   "number": "3.2",
+   "title": "Présentation simplifiée des tâches et des objectifs de la logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Au fil des années, la logistique a connu différentes définitions des tâches et des objectifs à atteindre. Les définitions ont évolué et se sont étoffées."
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-1",
+   "number": "3.2.1",
+   "title": "Objectif",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'objectif de la logistique peut être déduit de la définition du terme:"
+    },
+    {
+     "t": "p",
+     "text": "L'objectif de la logistique est d'assurer le meilleur flux possible de marchandises et de données."
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-2",
+   "number": "3.2.2",
+   "title": "Tâches",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique ne peut atteindre cet objectif ambitieux qu'en fournissant des prestations de haute qualité, ce qui signifie qu'elle doit remplir les \"tâches B\" suivantes:"
+    },
+    {
+     "t": "p",
+     "text": "Définition des 6B selon le professeur Jünemann:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Bonne marchandise",
+      "Bonne quantité",
+      "Bonne qualité",
+      "Bon moment",
+      "Bon endroit",
+      "Bon prix"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Deux autres \"B\" se sont ajoutés et gagnent en importance:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Bonnes informations",
+      "Bons clients"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La logistique consiste donc à rendre les biens disponibles. Les 6B montrent quels aspects doivent être pris en compte pour qu'une tâche logistique puisse être exécutée avec succès."
+    },
+    {
+     "t": "p",
+     "text": "Le développement d'une définition de la logistique Pendant des années, la logistique s'est concentrée sur les 4B, à savoir le bon produit, dans la bonne qualité, au bon moment et au bon endroit. Entre-temps, la quantité et les coûts sont venus s'y ajouter pour répondre à la réduction de l'intégration verticale (par exemple dans le cas d'une"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "production en flux tendu, ( module 504). C'est ainsi que les 6B se sont établis comme éléments clés de la logistique. L'évolution n'est pas encore terminée. Aujourd'hui, on parle aussi de 7B (6B plus la bonne information) ou de 8B (6B plus la bonne information et le bon client). On parle de ces extensions parce que la gestion et l'importance des processus logistiques augmentent, tant dans la production industrielle que dans l'ensemble de la société."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 103"
+     ]
+    }
+   ]
+  }
+ ]
+}

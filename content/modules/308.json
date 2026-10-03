@@ -1,0 +1,524 @@
+{
+ "code": "308",
+ "title": "Les contrôles de quantités",
+ "domain": "300",
+ "pdf": "M308.pdf",
+ "pages": 21,
+ "words": 3936,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les unités de mesure et les systèmes de comptage ne sont pas les mêmes partout dans le monde. Par exemple, la température en Europe est mesurée en degrés Celsius et au-dessus de l'Atlantique en Fahrenheit. Bien que ces deux systèmes servent à mesurer la température, ils ont une base de calcul différente. Dans la logistique également, différents instruments de mesure sont utilisés pour effectuer le contrôle quantitatif et qualitatif des marchandises."
+    },
+    {
+     "t": "p",
+     "text": "Compter, mesurer et peser sont des fonctions de contrôle qui ont toujours eu une grande importance dans le transport de marchandises. En Europe, le système décimal (système des dizaines) s'est imposé. Néanmoins, dans certains domaines, il existe encore des unités de comptage et de mesure qui diffèrent du système décimal (par exemple la douzaine). Il existe différents systèmes de mesure et de comptage dans le monde. Les unités de mesure étrangères les plus courantes sont connues dans notre pays (par exemple le baril en rapport avec le prix du pétrole), d'autres ne sont connues qu'en voyage. Si vous voulez boire une bière en Angleterre, ne commandez ni une bouteille ni un \"demi\", mais \"a pint\" - ce qui correspond à 5,68 dl."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "\u0003\u0003Quelques exemples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Baril (USA): 158,8 l de pétrole",
+      "Gallon (USA): 3,79 l de liquides, carburants",
+      "Gallon (GB): 4,55 l de liquides",
+      "Douzaine: 12 crayons",
+      "Grosse = 12 douzaines: 144 crayons",
+      "Inch (pouce): 2,54 cm Ordinateurs, palettes, conteneurs",
+      "Carat: 0,2 g de pierres précieuses",
+      "Paire: deux pièces de textile, chaussures",
+      "Pint (GB): 0,568 l de liquide (bière)",
+      "Shipping ton (États-Unis): 1,132 m3 de fret maritime",
+      "Tonnage brut (TB): désigne la taille d'un navire, remplace l'ancienne"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Tonneau de jauge brute (TJB)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "TJB (tonneau de jauge brute)",
+      "Twenty-foot Equivalent Unit (TEU): 1 TEU correspond à une unité de conteneur de 20 pieds."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-8-1",
+   "number": "8.1",
+   "title": "Mesurer",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lorsque l'on entend le mot \"mesurer\", on pense généralement à la mesure de la longueur, de la largeur (épaisseur) ou de la hauteur d'un objet. La mesure de la longueur est en effet une mesure très utilisée et importante. Au Moyen Âge, les gens utilisaient entre autres les mesures des parties du corps comme mesures de longueur. Les pas, les pieds ou les coudes sont encore en partie utilisés aujourd'hui."
+    },
+    {
+     "t": "p",
+     "text": "1 pied = 0,3048 m"
+    },
+    {
+     "t": "p",
+     "text": "Il existait également une multitude de mesures pour calculer les volumes et les poids. Celles-ci variaient non seulement d'un pays à l'autre, mais aussi d'une région à l'autre. C'est pourquoi ce fut un grand progrès lorsque l'Assemblée nationale française décida en 1791 d'introduire des mesures uniformes pour le pays. Elle a fixé la nouvelle mesure de longueur comme suit: elle doit correspondre à un dix-millionième de la distance entre le Pôle Nord et l'Equateur."
+    },
+    {
+     "t": "p",
+     "text": "Le nom de \"mètre\" n'a été donné que plus tard à la nouvelle mesure. En France, les nouvelles mesures ont été rapidement introduites. Dans les autres pays, il fallut des décennies pour qu'elle s'impose. En 1875, 17 États, dont la Suisse, ont signé la Convention du mètre (traité international). Aujourd'hui, la Convention compte 51 membres à part entière et 26 États membres associés. Le \"mètre étalon\" de 1799, fabriqué en France, une tige en alliage de platine et d'iridium, peut être admiré à Paris."
+    },
+    {
+     "t": "p",
+     "text": "1795: le mètre étalon est fixé à Paris"
+    },
+    {
+     "t": "p",
+     "text": "Des copies de l'ancien mètre sont conservées dans la plupart des pays européens. Jusqu'au milieu du siècle dernier, les mesures en mètres étaient étalonnées sur le mètre d'origine, après quoi il a été mis au rebut. Avec les progrès de la technique, des méthodes de mesure plus précises ont été possibles."
+    }
+   ]
+  },
+  {
+   "id": "s-8-2",
+   "number": "8.2",
+   "title": "Les techniques de comptage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le comptage de différentes grandeurs requiert des compétences dans le maniement des nombres. Il existe des séries de nombres qui peuvent être reconnues immédiatement et sans opération de calcul (par exemple la série de 10), mais aussi des calculs qui sont nettement plus compliqués. La division en quantités partielles facilite le travail et évite par exemple qu'un envoi de marchandises de 1536 pièces dans des cartons de 12 pièces soit contrôlé de façon que chaque pièce soit comptée. Dans cet exemple, les quantités partielles sont 128 cartons et 12 pièces (par carton). Il faut donc compter la quantité de 128 et la quantité de 12. Cela signifie que les cartons doivent être comptés entièrement, mais que le nombre de pièces par carton ne doit être compté que sous la forme d’échantillon. Le reste est une simple multiplication qui permet de prouver que le nombre de pièces livrées est"
+    },
+    {
+     "t": "p",
+     "text": "correct. Le contrôle du comptage est encore plus simple s'il se base sur trois quantités partielles: le nombre de pièces dans les cartons (12), le nombre de cartons dans une couche (32), le nombre de couches (4). La multiplication de ces trois grandeurs donne le nombre de pièces."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "\u0003\u0003Un exemple simple: 8 pièces par couche x 4 couches = 32 pièces"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "\u0003\u0003Un exemple plus complexe: 2 couches de 12 pièces, 1 couche de 27 pièces et 3 couches de 4 emballages de 21 pièces chacun = 303 pièces"
+    }
+   ]
+  },
+  {
+   "id": "s-8-2-1",
+   "number": "8.2.1",
+   "title": "Les accessoires pour le comptage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans l'exemple simple ci-dessus, le résultat peut être calculé immédiatement et sans outils. Pour les tâches plus complexes, il faut utiliser des moyens auxiliaires."
+    },
+    {
+     "t": "p",
+     "text": "Compteur manuel Le compteur manuel est un outil simple qui facilite les opérations de comptage. Le compteur est équipé d'un bouton qui additionne en continu à chaque \"clic\" sur l'écran. Cet auxiliaire convient pour saisir de grandes quantités qui sont comptées sur une longue période. Il pourrait par exemple être utilisé par une personne qui contrôle le nombre de visiteurs à l'entrée d'un événement. Chaque personne qui arrive est \"cliquée\" et à la fin de la soirée, on connaît le nombre exact de visiteurs."
+    },
+    {
+     "t": "p",
+     "text": "Compteur manuel"
+    }
+   ]
+  },
+  {
+   "id": "s-8-2-2",
+   "number": "8.2.2",
+   "title": "Les accessoires pour mesurer les longueurs au travail et dans la vie",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "quotidienne Pour la mesure au travail et dans la vie quotidienne, ni la précision du mètre d’origine ni la définition exacte d'un mètre n'ont d'importance. Dans la plupart des cas, un \"mètre\" ordinaire fait l'affaire."
+    },
+    {
+     "t": "p",
+     "text": "Le compteur métrique Le compteur métrique aide à mesurer et à la division rationnelle des fils, de cordages et des câbles ainsi qu'à mesurer des longueurs, des largeurs et des hauteurs. Les compteurs métriques n'ont pas échappé à l'évolution: en de nombreux endroits, ils ont été remplacés par la technologie laser. Mais il existe toujours des modèles de compteurs simples. Ils prennent la mesure en les guidant manuellement sur une distance donnée."
+    },
+    {
+     "t": "p",
+     "text": "Compteur de mètres sous forme analogique"
+    },
+    {
+     "t": "p",
+     "text": "Appareil de mesure avec technologie laser"
+    },
+    {
+     "t": "p",
+     "text": "Les outils sont encore plus spécifiques lorsqu'il s'agit de mesurer et de couper des ficelles, des cordes ou des câbles. Le produit à mesurer est passé sous une roue de mesure reliée à un compteur. Le rapport permet de déterminer la mesure à appliquer. L'appareil compte les centimètres, les mètres ou d'autres unités de longueur."
+    },
+    {
+     "t": "p",
+     "text": "Chez les producteurs de câbles, les câbles sont coupés à la bonne dimension de manière entièrement automatique lors de la confection."
+    }
+   ]
+  },
+  {
+   "id": "s-8-2-3",
+   "number": "8.2.3",
+   "title": "Les accessoires de mesure des longueurs",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si le résultat de la mesure doit être exact, le type de mètre utilisé joue un rôle. De nombreux mètres pliants ou mètres à ruban ne sont pas tout à fait précis. La comparaison avec un mètre de qualité peut révéler des différences de plusieurs millimètres sur une longueur d'un mètre. Pour obtenir des résultats de mesure fiables, il faut donc utiliser des outils de mesure de qualité dont la classe de précision est indiquée selon la norme DIN* 866 ( I - III ) (DIN = Institut allemand de normalisation)."
+    },
+    {
+     "t": "p",
+     "text": "Indication de la classe de précision sur une réglette ou un double-mètre. Le pied à coulisse Le pied à coulisse (également appelé calibre) permet de mesurer l'épaisseur, le diamètre et la profondeur d'un objet. Il existe des appareils qui conviennent aussi bien pour les mesures extérieures que pour les mesures intérieures. La précision de la mesure est de 1/10 mm."
+    },
+    {
+     "t": "p",
+     "text": "Pied à coulisse Le micromètre Le micromètre (anciennement appelé palmer) permet d'effectuer des mesures avec une précision de 0,01 ou 1/100 mm à 1/1000 mm. Grâce à sa structure, le micromètre permet entre autres de déterminer l'épaisseur de matériaux fins (papier, feuilles, tôles)."
+    },
+    {
+     "t": "p",
+     "text": "Micromètre à affichage numérique"
+    },
+    {
+     "t": "p",
+     "text": "Les micromètres avec un affichage numérique ou analogique sont des instruments de mesure très sensibles. Il est donc indispensable de travailler avec précaution."
+    },
+    {
+     "t": "p",
+     "text": "Micromètre à affichage analogique"
+    },
+    {
+     "t": "p",
+     "text": "Le gabarit ou chablon Le travail avec des gabarits ou des chablons n'est pas aussi spectaculaire, mais il est efficace et facile à manipuler. Ils sont utilisés par exemple par la poste lorsque la catégorie de prix d'une lettre n'est pas claire ou lorsqu'il faut vérifier si ses dimensions se situent dans les limites de tolérance. Ils peuvent également être utilisés comme aide à la mesure des vis (voir illustration)."
+    },
+    {
+     "t": "p",
+     "text": "Aide à la mesure des vis"
+    }
+   ]
+  },
+  {
+   "id": "s-8-2-4",
+   "number": "8.2.4",
+   "title": "Les accessoires pour mesurer les volumes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le domaine de la logistique, la mesure de quantités de liquide (volume) est également importante. Le principe le plus simple est de mesurer un liquide à l'aide d'un récipient jaugé. De nos jours, on ne voit plus que rarement cette méthode. Autrefois, lorsque le Tetra-Pak, souvent utilisé aujourd'hui, n'existait pas encore, il était courant de mesurer le lait destiné à la vente en vrac. Les stations-service disposent toujours d'un système de mesure mécanique (compteur à roues ovales) ou électronique qui fonctionne selon ce principe: En remplissant et en vidant un récipient gradué, on mesure la quantité de liquide."
+    },
+    {
+     "t": "p",
+     "text": "Mesure de liquides avec des modèles Cette méthode fonctionne lorsqu'il s'agit de mesurer de petites quantités de liquide. Il existe des systèmes qui fonctionnent selon ce principe: La quantité de liquide est mesurée en remplissant et en vidant un récipient gradué. Lorsqu'il s'agit de mesurer de grandes quantités, les spécialistes ont recours à des instruments de mesure plus performants."
+    },
+    {
+     "t": "p",
+     "text": "Gobelet gradué"
+    },
+    {
+     "t": "p",
+     "text": "La pompe à piston La pompe à piston est un instrument de mesure simple. Elle fonctionne selon le principe suivant: un piston monte et descend dans un cylindre gradué qui peut contenir une certaine quantité de liquide. Avec le mouvement ascendant, le piston aspire le liquide, tandis qu'il le chasse avec le mouvement descendant. Les mouvements ascendants sont mesurés par un compteur fixé à la pompe. Principe de fonctionnement:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le piston monte. La soupape (A) s'ouvre et, par effet d'aspiration, le liquide monte dans le cylindre. La soupape de pression (B) reste fermée.",
+      "Le cylindre de mesure est plein lorsque le piston atteint le point le plus haut de sa course.",
+      "Le piston descend. La pression qui en résulte ouvre la soupape de pression (B) et le liquide est transféré dans la conduite de refoulement.",
+      "Le compteur additionne le nombre de mouvements verticaux du piston. Le contenu du cylindre multiplié par le nombre de mouvements verticaux donne la quantité souhaitée."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pompe à piston"
+    },
+    {
+     "t": "p",
+     "text": "Le débitmètre Un débitmètre est un appareil permettant de mesurer le débit de liquides ou de fluides à l'état gazeux. Il existe différents systèmes pour mesurer le débit. Un système mesure le débit en fonction de la durée durant laquelle un liquide s'écoule dans un tuyau. Avant la mesure, on a calculé la quantité qui s'écoule dans le tuyau pendant une unité de temps (p. ex. une seconde) dans des conditions stables (p. ex. la vitesse d'écoulement). La quantité par unité de temps multipliée par la durée totale donne la quantité totale. Des variantes modernes permettent aujourd'hui de mesurer le passage d'une quantité par ultrasons."
+    },
+    {
+     "t": "p",
+     "text": "Un débitmètre"
+    },
+    {
+     "t": "p",
+     "text": "Le scanner volumétrique Le scanner volumétrique est un outil qui permet de mesurer rapidement les dimensions. La mesure d'emballages, d'unités de palettes ou d'objets peut faciliter grandement le travail. Les domaines d'application possibles sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pouvoir reconnaître à l'entrée des marchandises s'il s'agit du bon article",
+      "Mesurer les unités pour définir les emplacements de stockage",
+      "Saisir des données pour la préparation au transport (permettre un chargement optimal dans l'avion, le bateau ou le transport routier)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Scanner de volume"
+    }
+   ]
+  },
+  {
+   "id": "s-8-2-5",
+   "number": "8.2.5",
+   "title": "Les dispositifs de mesures du poids",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le poids d'un objet provient de l’attraction terrestre. Chaque corps céleste a sa propre attraction terrestre. Celle de la Lune, par exemple, est environ six fois plus petite que celle de la Terre. Les poids, comme d'autres forces, est mesurée en newton (N), unité de mesure appelée \"poids\" dans le langage courant. Le poids d'un objet peut être déterminé par exemple à l'aide de la déformation d'un ressort en spirale lorsque l'objet est suspendu ou couché. Une balance est construite de telle façon que la déformation du ressort est visible sur une échelle de grammes, kilogrammes ou tonnes. Il existe une multitude de balances différentes. Certaines conviennent pour des poids faibles, d'autres pour des poids importants. Elles fonctionnent selon les deux principes suivants:"
+    },
+    {
+     "t": "p",
+     "text": "Comparaison des masses Détermination du poids par comparaison avec une force de poids connue"
+    },
+    {
+     "t": "p",
+     "text": "Dynamomètre Détermination du poids en mesurant directement la force"
+    },
+    {
+     "t": "p",
+     "text": "Les balances de comparaison des masses Le fonctionnement de ces balances est très simple. Le poids d'un objet peut être calculé en le comparant à un poids connu."
+    },
+    {
+     "t": "p",
+     "text": "La balance à bras égaux Le moyen le plus simple de comparer les masses est d'utiliser une balance à bras égaux, qui fonctionne selon le principe du levier. Comme son centre de rotation se trouve exactement au milieu et que les deux bras de levier ont exactement la même longueur et le même poids, elle reste en équilibre lorsque le même poids est suspendu aux deux bras de levier. Pour déterminer le poids d'une marchandise, celle-ci est placée dans l'un des deux plateaux de la balance. Des poids normalisés sont placés dans l'autre plateau jusqu'à ce que la balance soit à nouveau en équilibre. La somme des poids normalisés correspond alors au poids de la marchandise. Des expressions telles que \"contrebalancer\" ou \"mettre tout son poids dans la balance\" proviennent de cette méthode de pesée. On trouve encore aujourd'hui ce type de balances sur les marchés, par exemple pour la vente en vrac de fruits et légumes. Il est fascinant de voir un commerçant du marché hebdomadaire équilibrer habilement sa balance."
+    },
+    {
+     "t": "p",
+     "text": "Balance à bras égaux"
+    },
+    {
+     "t": "p",
+     "text": "La balance romaine La balance romaine, également appelée balance de ménage ou balance, est une forme particulièrement raffinée de balance à bras égaux. Dans les balances de ménage, les deux bras de levier n'ont pas la même longueur. Au bras de levier le plus court est suspendu un plateau dans lequel est placé l'objet dont le poids doit être déterminé. Le contrepoids est suspendu au bras le plus long et peut être déplacé d'un côté à l'autre. Plus il est suspendu à l'extérieur, plus il devient \"lourd\" sous l'effet du levier; une échelle gravée indique le poids correspondant. On trouve encore aujourd'hui des balances romaines sur les marchés des pays du sud et d'Asie."
+    },
+    {
+     "t": "p",
+     "text": "Balance romaine"
+    },
+    {
+     "t": "p",
+     "text": "Le dynamomètre"
+    },
+    {
+     "t": "p",
+     "text": "L’appareil de mesure de la force de traction Dans les balances à ressort, la force du poids agit contre la force d'un ressort intégré. Il peut s'agir d'un ressort hélicoïdal qui est comprimé ou étiré en longueur, ou d'un ressort en spirale incurvé vers le haut ou vers le bas. Les balances à ressort indiquent des poids différents selon leur position sur la terre, car la force d'attraction terrestre n'est pas la même partout. La force de gravité terrestre dépend entre autres de la distance au centre de la Terre. Elle est plus faible sur une montagne qu'au niveau de la mer. Pour des mesures précises, les balances à ressort ne conviennent donc que si elles sont calibrées sur leur lieu d'utilisation. Un inconvénient des balances à ressort est que la force du ressort diminue avec le temps et qu'elles indiquent donc des poids trop élevés. Les balances à ressort qui mesurent la force de traction sont également appelées balances dynamométriques. Elles permettent de peser des marchandises suspendues (et non pas couchées). Les appareils représentés s’adaptent, selon le modèle, à une plage de poids de 1 à 12,5 t. Les appareils de mesure de la force de traction sont utilisés en combinaison avec des grues dans le secteur du transport routier, de la réception des marchandises, de l'envoi ou de la construction d'installations. Le dynamomètre calcule le poids en mesurant directement la force de traction. Dans le cas des balances à ressort, le poids agit contre la force d'un ressort intégré."
+    },
+    {
+     "t": "p",
+     "text": "Balance à ressort à lame pliante"
+    },
+    {
+     "t": "p",
+     "text": "Balance à ressort hélicoïdal"
+    },
+    {
+     "t": "p",
+     "text": "Dynamomètres numériques"
+    }
+   ]
+  },
+  {
+   "id": "s-8-2-6",
+   "number": "8.2.6",
+   "title": "Les balances pour le quotidien professionnel",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La balance de table La balance de table est une balance mobile utilisée pour peser de petites marchandises. La balance de table est également souvent utilisée dans les ménages privés, par exemple pour mesurer les aliments en cuisinant."
+    },
+    {
+     "t": "p",
+     "text": "Balance de table"
+    },
+    {
+     "t": "p",
+     "text": "Lieux d'utilisation: bureau, entrepôts de petites pièces, sortie de marchandises, etc. La balance compteuse La balance compteuse est une balance de table spéciale utilisée pour compter le nombre de pièces à l'aide d'un poids de référence. La quantité est ensuite pesée. On commence par peser une quantité de référence, par exemple 10 pièces. Ensuite, la quantité totale est pesée. Un programme de calcul intégré calcule le nombre total de pièces à l'aide de la quantité de référence et du poids de référence. Logique: 200 grammes = 10 pièces 400 grammes =???"
+    },
+    {
+     "t": "p",
+     "text": "Balance de comptage"
+    },
+    {
+     "t": "p",
+     "text": "Les lieux d'utilisation de la balance compteuse sont: les entrepôts où se trouvent de petites pièces, la réception de marchandises, etc. Les balances compteuses sont par exemple utilisées pour le prélèvement de petites pièces (vis, clous, aiguilles de montre) lors des inventaires."
+    },
+    {
+     "t": "p",
+     "text": "La plate-forme de pesage Les charges importantes sont pesées sur des plates-formes de pesage. Certaines sont noyées dans le sol, tandis que d'autres sont équipées d'une rampe pour permettre aux chariots de manutention d'y accéder. Pour les plates-formes de pesage, il faut faire très attention à ce que la plate-forme ne supporte que la charge à peser."
+    },
+    {
+     "t": "p",
+     "text": "Plate-forme de pesage"
+    },
+    {
+     "t": "p",
+     "text": "Plate-forme de pesage"
+    },
+    {
+     "t": "p",
+     "text": "Lieux d'utilisation de la plate-forme de pesage: réception des marchandises, entrepôt pour la préparation des commandes, sortie des marchandises, etc."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "\u0003Remarque: Ne pas rester sur la balance lors du pesage. Sans tarage préalable de la balance, retirer complètement le véhicule de la plate-forme après avoir déposé la charge. Le pèse-palettes Comme les plates-formes de pesage, Les pèses-palettes sont utilisées pour peser des charges plus importantes. La longueur et la largeur des pèses-palettes sont adaptées aux palettes, de sorte que celles-ci peuvent être posées dessus. Comme le moyen de transport se trouve entre le pèse-palettes lors du pesage, il n'est pas pesé. Les pèses-palettes sont également utilisées comme équipements de pesée fixes, par exemple lorsqu'elles sont intégrées dans des convoyeurs à rouleaux."
+    },
+    {
+     "t": "p",
+     "text": "Pèse-palette"
+    },
+    {
+     "t": "p",
+     "text": "Lieux d'utilisation des pèse-palettes: réception des marchandises, entrepôt pour la préparation des commandes, sortie des marchandises, etc."
+    },
+    {
+     "t": "p",
+     "text": "Moyens de manutention avec dispositifs de pesage intégrés Le chariot peseur mobile Les dispositifs de pesage intégrés aux engins de manutention sont très pratiques. Sur les transpalettes manuels, les transpalettes électriques ou les chariots élévateurs qui en sont équipés, le poids peut être lu facilement sur un écran. Cette technique est également utilisée dans les camions comme système de pesage embarqué."
+    },
+    {
+     "t": "p",
+     "text": "Lieux d'utilisation des moyens de transport avec dispositifs de pesage: Réception de marchandises, stockage, expédition, etc."
+    },
+    {
+     "t": "p",
+     "text": "Pont-bascule Les très grandes charges (camions ou wagons) sont pesées sur des ponts-bascules. Comme ceux-ci sont encastrés dans la chaussée, les véhicules peuvent y être placés. Pour calculer le poids du chargement, il faut connaître le poids à vide du véhicule de transport. Le poids total moins le poids à vide donne le poids du chargement. Si le poids à vide du véhicule n'est pas connu, il peut être déterminé après le déchargement."
+    },
+    {
+     "t": "p",
+     "text": "Lieux d'utilisation du pont-bascule: service des automobiles, douanes, gare de marchandises, entrepôts de transbordement, incinérateurs, etc."
+    }
+   ]
+  },
+  {
+   "id": "s-8-3",
+   "number": "8.3",
+   "title": "L’utilisation des balances",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'utilisation des balances modernes est simple. Néanmoins, il n'est pas possible d'obtenir un résultat de mesure précis si les règles suivantes ne sont pas respectées:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Toutes les balances sont des instruments de précision. Elles doivent être maintenues propres et entretenues régulièrement par un spécialiste. Les non professionnels ne doivent en aucun cas intervenir sur le mécanisme de pesage.",
+      "Toutes les balances sont conçues pour une charge maximale déterminée. Si cette charge maximale est dépassée avec des poids plus élevés, ils seront endommagés. La prudence est surtout de mise lors du passage sur des ponts-bascules intégrés, car tous ne peuvent pas supporter sans dommage le poids d'un chariot élévateur.",
+      "Pour les balances, une charge maximale mais aussi minimale peut être une condition afin d’avoir des résultats exacts. Il faut donc veiller à utiliser une balance adaptée à l'usage prévu. Il convient de lire et de suivre le mode d'emploi de la balance.",
+      "Les balances électroniques ne fournissent des résultats de mesure fiables, qu'après un certain temps de préchauffage (voir le mode d'emploi). Pour qu'elles restent à température de fonctionnement, elles ne doivent pas être éteintes durant la journée de travail."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-8-3-1",
+   "number": "8.3.1",
+   "title": "Tarer et calibrer",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tarer et calibrer sont des activités importantes qui ont lieu lors de l'utilisation de balances."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le tarage (tarer): Le terme \"tarage\" désigne le décompte du poids de l'emballage. La \"tare\" signifie le poids de l'emballage. Lors du pesage d'une grande quantité de vis, il faut un emballage qui rassemble les vis sur la balance et les \"maintient ensemble\". Pour ne pas peser le poids de l'emballage, il est d'abord posé vide sur la balance et celle-ci est mise à zéro par la fonction \"Tare\". Les vis peuvent alors être placées dans l'emballage et pesées sans que l'emballage ne soit compté."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "\u0003\u0003"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "\u0003Remarque: Tare: Soustraire le poids de l'emballage (tare) du poids total."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le calibrage (calibrer): Il y a plusieurs raisons pour lesquelles une balance sans support affiche déjà un écart minimal. Il est possible que la balance affiche déjà 0,1 ou 0,2 kg sans qu'aucun objet n'ait été posé. Cela peut s'expliquer par le fait que la surface sur laquelle la balance est posée n'est pas idéale, que la balance elle-même présente un déséquilibre ou que la balance est utilisée à un nouvel endroit (influence de la force de gravité terrestre). Pour remédier à de telles différences, les balances doivent être calibrées, c'est-à-dire remises à zéro, avant d'être utilisées. Le calibrage peut être effectué sans l'intervention d'une personne officielle, car le résultat de la pesée n'a pas de conséquences financières."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "\u0003Remarque: Calibrer: Avant la pesée, mettre la balance à zéro."
+    }
+   ]
+  },
+  {
+   "id": "s-8-3-2",
+   "number": "8.3.2",
+   "title": "L'obligation de vérification",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La compétence en matière de métrologie relève de la Confédération:"
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "\u0003\u0003Article 125 de la Constitution fédérale \"La législation sur la métrologie est du ressort de la Confédération\"."
+    },
+    {
+     "t": "p",
+     "text": "Comme le contrôle des quantités revêt une grande importance dans le commerce, la Confédération a édicté une loi spéciale sur la base de la"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Constitution fédérale: la\u0003\u0003loi fédérale sur la métrologie. Cette loi stipule que le bon fonctionnement et l'indication correcte des quantités des instruments de mesure doivent être contrôlés à intervalles réguliers. Les contrôles sont effectués par le vérificateur ou la vérificatrice (inspecteur fédéral). Il/elle est une personne officielle qui contrôle différents instruments de mesure et vérifie les emballages finaux 5pSHUWRLUH\u0003des offices et laboratoires de vérification). Les instruments de mesure vérifiés reçoivent une marque d'identification. Dans le commerce et l'industrie, les instruments non vérifiés doivent porter la mention \"non vérifié officiellement\"."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "\u0003Remarque: les installations de mesure soumises à l'obligation de vérification sont protégées contre toute intervention par des plombs de contrôle. Il faut veiller à ce que ceux-ci ne soient pas endommagés lors des travaux de nettoyage et d'entretien. Les plombs manquants ou endommagés doivent être immédiatement signalés au vérificateur et l'appareil doit être mis hors service sans délai."
+    },
+    {
+     "t": "p",
+     "text": "Les installations de mesure et les balances soumises à l'obligation d'étalonnage sont par exemple:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Installations de mesure pour le calcul des droits de douane",
+      "Pompes à essence pour la vente de carburant"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Une tolérance est admise pour les installations de mesure soumises à l'obligation de vérification (compteurs). Par exemple, l'écart autorisé pour les quantités supérieures à 2 litres est de 0,5 %. Ne sont pas soumis à l'obligation d'étalonnage:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Installations de mesure pour le ravitaillement en carburant des véhicules et machines de l'entreprise",
+      "Instruments de mesure pour la production de mélanges dans les processus de fabrication",
+      "Les dispositifs de remplissage d’emballages finaux"
+     ]
+    }
+   ]
+  }
+ ]
+}

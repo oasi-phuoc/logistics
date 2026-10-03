@@ -1,0 +1,249 @@
+{
+ "code": "504",
+ "title": "Le flux de matériel",
+ "domain": "500",
+ "pdf": "M504.pdf",
+ "pages": 11,
+ "words": 1978,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lorsque l'on parle de la gestion des flux de marchandises dans le domaine de la logistique, il s'agit des mouvements des marchandises. En plus de la gestion du flux matériel proprement dit, les informations associées (flux d'informations) doivent également être synchronisées pour fournir les marchandises au bon moment, au bon endroit, en quantité et en qualité appropriées. De l'entrée des marchandises à la sortie des celles-ci en passant par la préparation des commandes, les concepts correspondants garantissent ainsi un approvisionnement de la logistique en fonction des besoins."
+    },
+    {
+     "t": "p",
+     "text": "Dans le module 503, les différents types de fabrication ont été traités et il a été montré comment la production peut être organisée. Ce module fait état du mode de gestion des matières premières ou des produits semi-finis mis en place pour atteindre les objectifs de la production ( module 501) d'EnterSite AG. Il convient de préciser que la planification du flux de matériel n'est pas facile à mettre en œuvre, du fait que les caractéristiques et la quantité des biens à produire exercent une influence décisive."
+    },
+    {
+     "t": "p",
+     "text": "Une planification possible pourrait se présenter comme suit:"
+    },
+    {
+     "t": "p",
+     "text": "Agencement avec flux de matériel d'une entreprise de fabrication"
+    }
+   ]
+  },
+  {
+   "id": "s-4-1",
+   "number": "4.1",
+   "title": "Types de flux de matières",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il faut distinguer deux types de flux: flux interne à l’entreprise et flux externe à l’entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1-1",
+   "number": "4.1.1",
+   "title": "Flux de matériel externe à l’entreprise",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le flux de matériel externe à l'entreprise est généralemen t assuré par des prestataires de services logistiques. Le choix du fournisseur de matières premières et de produits semi-finis est déterminant pour atteindre la qualité de services souhaitée vis-à-vis de la clientèle. La production allégée ( module 503) vise une mise en place écologique et économique de la pro duction. En conséquence, il n'y a guère de réserves dans le flux de matériel pour absorber les livraisons qui n'arrivent pas ou qui arrivent trop tard."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1-2",
+   "number": "4.1.2",
+   "title": "Flux de matériel interne à l'entreprise",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le flux de matériel interne à l'entreprise, contrairement au flux de matériel externe, relève de la responsabilité d'EnterSite AG. Il démarre et se termine par la livraison de matières premières ou de produits semi-finis. L'objectif est de limiter les efforts, de définir clairement les processus, d'attribuer les tâches et de rechercher le chemin le plus direct dans l'esprit de la product ion allégée. Il existe différents concepts de gestion des flux de matières au sein de l'entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-4-2",
+   "number": "4.2",
+   "title": "Le système Kanban",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Parmi les concepts de gestion des flux de matières, le système Kanban est le plus connu. Il s'agit d'une méthode de gestion des flux de production établie selon le principe du flux tiré (également appelé principe du prélèvement ou principe de l'appel). Il s'oriente exclusivement sur les besoins d'un poste consommateur dans le processus de fabrication. Le terme Kanban vient du japonais et signifie \"carte\" ou \"tableau\". Ce mode de gestion de la production est simple et flexible. A l’origine, le système Kanban a été développé en 1947 par l'entreprise japonaise Toyota. La raison en était la productivité insuffisante de l'entreprise par rapport à ses concurrents américains. Les attentes accrues des clients en matière de rapidité de production et de livraison ont généré une pression supplémentaire. L'exiguïté des îles japonaises ainsi que les stocks coûteux de matières premières et de produits semi-finis exigeaient également de nouvelles solutions."
+    },
+    {
+     "t": "p",
+     "text": "Ex. carte Kanban"
+    }
+   ]
+  },
+  {
+   "id": "s-4-2-1",
+   "number": "4.2.1",
+   "title": "Fonctionnement du système Kanban",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si le niveau de matériel est inférieur au niveau minimum - et seulement dans ce cas - le sous-traitant est invité à livrer du nouveau matériel. L'opération en aval qui consiste à prélever la quantité de pièces dont on a besoin au moment requis s’effectue toujours une fois l’opération en amont effectuée. La fiche sur laquelle est notée cette demande accompagne, en principe, ch aque lot de marchandises. Elle est restituée lorsque le lot est en tamé pour une nouvelle livraison. La fabrication doit se conformer à des règles strictes et s’e ffectuer"
+    },
+    {
+     "t": "p",
+     "text": "selon un ordre ( Kanban) de fabrication pour que seules les pièces en parfait état soient livrées. A l’origine, le réapprovisionnement était déclenché par la carte/le tableau qui contenait toutes les informations nécessaires pour que le ravitaillement s’effectue avec succès. Aujourd'hui, la carte/le tableau n’est plus nécessaire et est remplacé par un conteneur sur lequel sont appos ées toutes les informations utiles. Bien entendu, le processus Kanban numérique est lui aussi intégré dans le système de production depuis longtemps. Ainsi, le code-barres ou le code QR de l'article peut être lu sur place et est donc considéré comme une autre alternative. L'ERP ou la GPAO ( module 505 ) d'EnterSite AG transmettront directement les données au bon sous-trai tant. Le processus Kanban numérique évite les erreurs et les pertes de temps."
+    }
+   ]
+  },
+  {
+   "id": "s-4-3",
+   "number": "4.3",
+   "title": "Système Two-Bin",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme le Kanban, le principe Two-Bin est appliqué dans la logistique de production. Le réapprovisionnement est déclenché lorsque le premier conteneur est vide et que le second est \"entamé\". En conséquence, toutes les informations nécessaires pour garantir le réapprovisio nnement figurent sur le conteneur. La quantité du deuxième conteneur, entamé après le déclenchement du réapprovisionnement, doit être calculée avec précision. P our éviter un retard de fabrication, elle doit être suffisante pendant la pério de de transition - jusqu'au retour du conteneur 1. Le grand défi est d'avoir suffisamment de matériel en stock, mais pas trop. Dans l'esprit de la production allégée, le flux de matériel doit pouvoir fonctionner sans grandes réserves."
+    },
+    {
+     "t": "p",
+     "text": "Réapprovisionnement en matériel dans deux conteneurs"
+    }
+   ]
+  },
+  {
+   "id": "s-4-4",
+   "number": "4.4",
+   "title": "Système de commande optique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le flux de matériel peut également être géré à l'aide d'outi ls très simples en marquant au moyen d’une signalétique le moment à partir duquel la commande doit être effectuée."
+    },
+    {
+     "t": "p",
+     "text": "Conteneur avec marquage"
+    },
+    {
+     "t": "p",
+     "text": "De manière tout à fait anodine, il est possible d'indiquer au collaborateur ou à la collaboratrice, au moyen d'un marquage, que le réapprovisionnement doit être déclenché. Déterminer quand le repère doit être atteint est une tâche bien plus délicate que de déclencher le réapprovisionnement. Il existe plusieurs variantes pour déclencher le réapprovisionnement, par exe mple: un bon de commande à traiter; un message par e-mail; la lecture d'u n code-barres ou d'un code QR."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5",
+   "number": "4.5",
+   "title": "Juste à temps (JIT)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'abréviation JIT signifie \"Just in Time\", en français: \"juste à temps\". Le JIT est une procédure de commande au niveau de la production qui doit permett re d'atteindre les objectifs prédéfinis. Le JIT a pour mission de réduire les coûts de stockage en renonçant aux stocks, tout en garantissant que la fabrication se déroule sans retard. Les matières premières ou les produit s semi-finis sont livrés au poste de production juste à temps. La réussite d’un tel processus de commande au niveau de la production implique que les flux de matéri aux externes et internes à l'entreprise soient parfaitement organisés. L'interaction de chaque fournisseur/partenaire dans l'ensemble de la chaî ne d'approvisionnement (supply chain) doit fonctionner."
+    },
+    {
+     "t": "p",
+     "text": "Dans la production automobile, la plupart des pièces sont livrées \"just in time\"."
+    },
+    {
+     "t": "p",
+     "text": "La procédure de commande JIT trouve également son origine au Jap on. Là encore, c'est l'industrie automobile qui, grâce à des méthodes modernes, a pu réduire les coûts de production."
+    },
+    {
+     "t": "p",
+     "text": "JIT - un exemple EnterSite AG, avec son site de production à Rupperswil, mise sur le prin cipe du JIT. Elle fabrique ses propres produits (par exemple la car touche SwissEnterSite, article n° GT10-TN221). L'article en question se compose de 18 pièces différentes, achetées auprès de différents fournisseurs dans le monde entier. Dans cet exemple, la chaîne d'approvisionnement de cet article est représentée. La tâche d'EnterSite AG est de saisir la commande client dans le système qui déclenche un besoin, c'est-à-dire la quantité à produire. Les 18 différentes pièces détachées ( pour 1 produit fina l) sont commandées auprès des fournisseurs. Chacune de ces pièces est programmée pour un jour précis. Ce jour-là, outre le matériel, les monteurs et le poste de travail nécessaire doivent être prêts. Si tout est correctement planifié selon le JIT et si les flux de matériaux externes et internes à l'entreprise sont corre ctement mis en œuvre, EnterSite AG a la possibilité de réduire les coûts de production, car aucun stock n'est plus nécessaire."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-1",
+   "number": "4.5.1",
+   "title": "Avantages et inconvénients du JIT",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme tout autre modèle, le JIT présente différents avantage s et inconvénients. Il est important de les interpréter corre ctement et de décider ainsi si le modèle est adapté ou non."
+    },
+    {
+     "t": "p",
+     "text": "Les avantages"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Économie dans le stockage (espace, assurance, électricité, etc.);",
+      "Approvisionnement orienté vers la demande = pas d'immobilisation de capital par des stocks;",
+      "Accélération du processus de fabrication;",
+      "Éviter les \"boutiques vides”;",
+      "Réduction des coûts de personnel grâce à un temps d'approvisionnement réduit;",
+      "Temps de passage court en production."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour décider si le JIT est la bonne méthode de commande, il faut tenir compte des points suivants:"
+    },
+    {
+     "t": "p",
+     "text": "Les inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dépendance du flux de matériel extérieur à l'entreprise;",
+      "Dépendance risquée vis-à-vis d'influences extérieures ( embouteillages, grèves, météo, etc.);",
+      "Coûts et image en cas de \"WorstCase\" = arrêt de la production."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les avantages du JIT sont reconnus si tous les éléments du rouage fonctionnent. Afin d'obtenir un maximum de sécurité, des contrats sont nég ociés entre les clients et les fournisseurs. Ces contrats doivent définir l a q u a l i t é e t, p a r conséquent, fixer les éventuelles sanctions en cas de non-respect des objectifs."
+    }
+   ]
+  },
+  {
+   "id": "s-4-6",
+   "number": "4.6",
+   "title": "Just in Sequence (JIS)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "JIS - \"Just in Sequence \" - signifie \" juste à temps et dans le bon ordre \". JIS est également une procédure de commande utilisée dans la production. Cette procédure doit être considérée comme un développement du modèle JIT. Ici aussi, c'est l'industrie automobile qui donne le rythme. Comme le JIS fonctionne également selon le principe du \"juste à temps\", les mêmes avantages et inconvénients que le JIT s'appliquent. La différence ent re JIS et JIT se situe au niveau de la préparation des marchandises livrées. JIS a pour objectif de mettre à disposition du monteur la marchandise livrée en bon état et dans le bon ordre. La marchandise est \"à portée de main\". Si, dans le JIT, la marchandise peut se trouver dans un emballage de transport sur le lieu de production, dans la méthode selon le JIS, la marchandise est déjà déballée et mise à disposition sur le lieu de production."
+    }
+   ]
+  },
+  {
+   "id": "s-4-7",
+   "number": "4.7",
+   "title": "Automatisation à faible coût (LCA)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La technologie n'est pas seulement présente dans la lo gistique de stockage. La production est aussi constamment modifiée par les différentes évolutions de la technologie. Chaque technologie introduite avec succès exerce une pression supplémentaire sur le marché. Chaque entrepri se suit avec intérêt l'évolution des technologies afin d'être prête lorsqu'une nouvelle s'imposera. Le terme Low Cost Automation (LCA), également connu sous le nom de \"Lean Automation\", désigne une technologie utilisée pour l'automatisation des ressources existantes telles que les outils de travail, les outils et les machines ainsi que le personnel disponible. Tout ce qui existe est complété ponctuellement (aussi peu que nécessaire) par des composants standard du marché. L'objectif de cette technologie est de générer un processus aussi automatisé que possible à partir de l'existant; automatisé dans le sens où les processus répétitifs peuvent être créés avec moins de personnel (= moins de frais de personnel) et avec un temps de passage d'un produit réduit."
+    }
+   ]
+  },
+  {
+   "id": "s-4-8",
+   "number": "4.8",
+   "title": "Jidoka",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'automatisation des tâches répétitives est aujourd'hui bien établie. Pour que le coût d'un produit fabriqué soit accepté sur le marché, les entreprises sont obligées d'effectuer le plus grand nombre possible de tâche s (simples) avec une seule machine. Là aussi, l'industrie automobile a déjà fait un pas en avant: elle travaille sur le Jidoka. Le Jidoka (automation autono me) désigne le fonctionnement d'une machine sans surveillance humaine. Pou r ce faire, on intègre dans la machine des composants électroniques (p.ex. des capteurs de"
+    },
+    {
+     "t": "p",
+     "text": "contrôle), q u i d é t e c t e n t d e m a n i è r e a u t o n o m e l e s é c a r t s p a r r a p p o rt au fonctionnement normal. Ainsi, la machine peut déclencher des avertissements et arrêter le processus de traitement. La fabrication de produits défectueux est ainsi évitée, ce qui contribue à l'amélioration de la qu alité. Le Jidoka est une étape intermédiaire sur la voie de l'automatisation complète, dans laquelle les machines peuvent supprimer elles-mêmes les erreurs détectées."
+    }
+   ]
+  }
+ ]
+}

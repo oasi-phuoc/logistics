@@ -1,0 +1,766 @@
+{
+ "code": "405",
+ "title": "Dangers dans les entrepôts",
+ "domain": "400",
+ "pdf": "M405.pdf",
+ "pages": 26,
+ "words": 4693,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage et le transport de marchandises à l'intérieur d'une entreprise comportent à tout moment un risque non négligeable. Dans l'entrepôt, il n'est pas rare que des accidents surviennent en raison de l'absence de mesures de protection ou de leur mauvaise application. Les installations et les appareils doivent, premièrement, être en parfait état et, deuxièmement, être utilisés uniquement aux fins pour lesquelles ils ont été conçus. Outre le risque d'accident proprement dit, la protection contre l'incendie dans l'entrepôt est également un facteur important. Une protection contre les incendies correcte et des comportements corrects en cas d'urgence contribue souvent à éviter le pire. Ce module montre également comment minimiser les risques de vol dans l'entrepôt, comment garantir une manipulation sûre des substances dangereuses et comment stopper les nuisibles dans l'entrepôt."
+    },
+    {
+     "t": "p",
+     "text": "Un entrepôt présente toujours un potentiel de dangers. Les dangers les plus fréquents dans un entrepôt pour les personnes, les marchandises, les machines et l'environnement sont les suivants"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Risque d'accident",
+      "Risque d'incendie",
+      "Risque de vol",
+      "Substances dangereuses",
+      "Les nuisibles"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les techniques de sécurité dans les différents entrepôts sont aussi variées que les produits qui y sont stockés. Il existe des entrepôts impeccables, avec des bâtiments neufs, un marquage au sol clairement identifié, des caristes formés et des produits stockés avec soin. Mais il y a aussi des entreprises qui se situent entre l'irréprochable et le dangereux. Des entreprises qui connaissent les dangers et en parlent, mais qui ne mettent pas en œuvre les mesures de sécurité nécessaires."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1",
+   "number": "5.1",
+   "title": "Risque d'accident",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le nombre élevé d'engins de manutention et de piétons dans un espace restreint, comme c'est généralement le cas dans les entreprises de logistique et de production, constitue un défi particulier pour la sécurité au travail. Il n'est pas toujours possible de séparer les voies de circulation des voies piétonnes. Dans ces cas, ce sont surtout les personnes qui se trouvent temporairement dans l'entreprise et qui ne connaissent pas, les conditions de danger, qui sont particulièrement exposées aux accidents. L'utilisation d'engins de manutention, de camions ou d'autres moyens de transport génère de nombreux risques. Bien entendu, les rayonnages doivent également répondre aux exigences actuelles en matière de sécurité."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "A retenir: Le stockage et le transport à l'intérieur de l'entreprise font toujours partie des activités les plus risquées en matière de logistique."
+    },
+    {
+     "t": "p",
+     "text": "Empiler correctement les marchandises La construction de piles exige de la prudence et du soin de la part du logisticien. Il convient de respecter les principes suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "monter les piles sur des sols plats présentant la capacité de charge nécessaire",
+      "préparer l'emplacement de la pile dans les règles de l'art (p. ex. égaliser les inégalités)",
+      "construire les piles de manière à ce qu'elles soient stables en elles-mêmes",
+      "les murs qui entourent la pile ne doivent jamais servir de supports",
+      "choisir une distance entre les piles suffisamment grande par rapport aux autres engins de manutention",
+      "protéger les emballages des influences extérieures (humidité, chaleur, substances agressives)",
+      "n'empiler que des pièces adaptées afin de minimiser les risques de chute ou de renversement d'objets",
+      "empiler les petites pièces sur les grandes et les pièces légères sur les pièces lourdes",
+      "empiler par imbrication ou utiliser des couches intermédiaires"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: Plus la pile est haute, plus les irrégularités du sol ont un grand impact, car avec la hauteur, le centre de gravité d'une pile inclinée s'éloigne de plus en plus du centre. Ce seul fait peut provoquer l'effondrement de la pile; de plus, la pression sur les couches inférieures augmente du côté de la pente."
+    },
+    {
+     "t": "p",
+     "text": "Construire des piles de manière à ce qu'elles soient stables en elles-mêmes Charge au sol La charge au sol doit faire l'objet de toute l'attention nécessaire, en particulier lors du stockage de marchandises en bloc. Dans les cas extrêmes, un sol fortement sollicité peut s'effondrer ou un bâtiment peut s'écrouler. C'est pourquoi la charge maximale admissible sur le sol doit être inscrite de manière bien visible en kg/m2 ou N/m2 pour les sols et les sous-sols. Les deux façons d'écrire la charge au sol désignent la masse (poids) qui peut être répartie sur la surface du sol. Le poids (kg) multiplié par la force d'attraction terrestre donne physiquement la force de pesanteur \"Newton\" (N). La force de gravité terrestre est multipliée par 9,81. En logistique, nous utilisons toutefois le facteur 10 pour simplifier les calculs. Une personne d'un poids de 75 kg, multipliée par le facteur 10 (75 kg x facteur 10), exerce donc une force de 750 N sur le sol."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras des informations plus détaillées sur la charge au sol dans le module 408. Stocker des marchandises sur des étagères Les rayonnages pour le stockage de marchandises existent en différents modèles et pour différents usages. Il est important que les rayonnages puissent supporter le poids des marchandises à stocker. Il faut également tenir compte des points suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "- la stabilité des rayonnages doit être garantie",
+      "- la capacité de charge maximale indiquée par le fabricant (charge sur la traverse - charge au sol - charge totale du rayonnage) ne doit pas être dépassée."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La charge totale d’une étagère est égale à la somme de toutes les charges sur les traverses. La charge maximale indiquée par le fabricant ne doit pas être dépassé. Les charges par traverses doivent être réparties autant que possible."
+    },
+    {
+     "t": "p",
+     "text": "La charge au sol d'un rayonnage à palettes est la somme de toutes les charges par traverse. La somme de toutes les charges par traverse ne doit pas dépasser la charge admissible au sol, les charges par traverses doivent être réparties uniformément."
+    },
+    {
+     "t": "p",
+     "text": "Sécurisation des supports de charge (traverses ou lisses) Si les supports de charge ne sont pas vissés, ils doivent être sécurisés par une goupille de sécurité pour éviter qu'ils ne tombent ou ne se décrochent."
+    },
+    {
+     "t": "p",
+     "text": "Lisses sécurisé"
+    },
+    {
+     "t": "p",
+     "text": "Protection contre les chutes Les rayonnages doivent être protégés contre la chute de marchandises et de palettes à l'aide de dispositifs de protection ou de grilles, en particulier lorsque les rayonnages sont simples et que l'espace derrière le rayonnage est accessible."
+    },
+    {
+     "t": "p",
+     "text": "Grille de protection de charge Protection contre les chocs Si les montants des rayonnages fixes sont heurtés par des engins de manutention, il n'est pas rare que les montants se déforment. Cela a pour conséquence de réduire la capacité de charge et, dans le pire des cas, provoquer l'effondrement du rayonnage. C'est pourquoi les montants des rayonnages doivent être protégés au moins dans les angles (entrée et sortie de couloir) par une protection contre les chocs."
+    },
+    {
+     "t": "p",
+     "text": "Protection contre les chocs"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: Les rayonnages à palettes doivent être contrôlés régulièrement pour vérifier qu'ils ne sont pas déformés et que les goupilles de sécurité ne manquent pas."
+    },
+    {
+     "t": "p",
+     "text": "Stockage vertical de panneaux Pour pouvoir accéder directement aux panneaux (contreplaqué, aggloméré, plâtre, etc.), le stockage vertical s'impose. Les règles pour un stockage sûr sont"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le \"feuilletage\" manuel des panneaux par des collaborateurs doit absolument être évité.",
+      "Le collaborateur peut être rapidement dépassé par les forces de retenues, ce qui peut entraîner des accidents graves.",
+      "Ne jamais appuyer les grands panneaux sans les sécuriser.",
+      "Des installations appropriées doivent être disponibles pour le stockage vertical des panneaux.",
+      "Les forces d'appui latérales considérables et les forces poussantes supplémentaires lors du feuilletage doivent être prises en compte lors du dimensionnement. Les compartiments doivent avoir une largeur maximale de 0,5 mètre."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Un danger similaire existe lors du transport de marchandises étroites et hautes si elles sont sécurisées par une personne. Il suffit d'une petite irrégularité du sol pour que la marchandise transportée soit déséquilibrée, ce qui dépasse les capacités de la personne. Ce comportement entraîne également rapidement des dommages matériels, voire des accidents graves. Si de tels objets sont transportés horizontalement, le risque peut être minimisé. Comme les marchandises à"
+    },
+    {
+     "t": "p",
+     "text": "surface lisse peuvent rapidement glisser, il faut redoubler de prudence lors du transport, surtout dans les virages. Des couches intermédiaires antidérapantes constituent une alternative. Stockage dans des armoires à tiroirs Les armoires à tiroirs sont idéales pour le stockage de petites pièces. Les armoires à tiroirs représentent également un danger si elles ne sont pas manipulées correctement. Les mesures de sécurité suivantes ont fait leurs preuves:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "- Assurer la stabilité des armoires en les fixant au mur ou au sol.",
+      "- Les blocages individuels de tiroirs empêchent le retrait simultané de plusieurs tiroirs.",
+      "- Toujours remplir les armoires de bas en haut.",
+      "- Si possible, remplir les armoires avec les éléments lourds en bas et les éléments légers en haut."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les armoires à tiroirs risquent de basculer si elles ne sont pas fixées au mur ou au sol. Stocker les marchandises en toute sécurité Peu importe que les marchandises soient empilées verticalement, stockées sur des étagères ou dans des tiroirs: Les voies d'évacuation, les dispositifs d'extinction d'incendie mais aussi les voies de circulation doivent toujours être dégagées. Les portes coupe-feu doivent pouvoir se fermer automatiquement en cas d'incendie et ne doivent donc pas être bloquées."
+    },
+    {
+     "t": "p",
+     "text": "Garder les voies d'évacuation libres Maintenir les dispositifs de protection contre l'incendie libres"
+    }
+   ]
+  },
+  {
+   "id": "s-5-1-1",
+   "number": "5.1.1",
+   "title": "Mesures visant à éliminer de nombreux accidents de travail dans",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "l'entrepôt Les accidents sont en principe toujours inutiles, ils entraînent des coûts élevés et des souffrances humaines. Le seul bénéfice est l'effet d'apprentissage. Dans l'entrepôt, les mesures visant à éliminer de nombreux accidents de travail peuvent être divisées en:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "mesures humaines",
+      "mesures techniques",
+      "mesures matérielles",
+      "mesures d'exploitation",
+      "mesures légales"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le plus souvent - dans environ 80% des cas - les accidents sont dus à une erreur humaine. Il s'agit notamment d'un mauvais comportement conscient, d'un manque d'expérience, d'une inattention ou d'une routine surestimée. Les quelque 20 pour cent d'accidents restants sont dus à l'absence de dispositifs de sécurité."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Voici la statistique des accidents de la Suva"
+    }
+   ]
+  },
+  {
+   "id": "s-5-1-2",
+   "number": "5.1.2",
+   "title": "Horaires de travail",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il n'est pas rare que le manque de concentration conduise à des situations dangereuses dans l'entreprise. Afin d'éviter que cela ne se produise en raison d'horaires de travail trop longs, la Suisse applique des règles claires en matière de temps de travail."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: En Suisse, le temps de travail est le temps pendant lequel l'apprenti(e) doit être à disposition de l'employeur. La durée du temps de travail peut en principe être convenue entre les parties au contrat d'apprentissage. Toutefois, les dispositions légales (loi sur le travail) et/ou les conventions collectives de travail (CCT) en vigueur dans certaines professions s'appliquent. Le temps de travail des apprentis ne peut pas dépasser le temps de travail fixé par la CCT. Pour les apprentis de la logistique, l'article 9 de la loi sur le travail prévoit une durée maximale de travail de 45 heures par semaine de travail et donc une durée maximale de travail quotidien (heures supplémentaires et anticipées incluses) de 9 heures. Ce temps de travail, toutes pauses comprises, doit être compris entre 12 heures. Ces 12 heures se situent dans les limites du travail de jour - en général entre 06h00 et 20h00. Les heures de travail jusqu'à 22h00 ne sont autorisées que pour les apprentis âgés de plus de 16 ans. Pour les apprentis de moins de 18 ans, la durée du repos quotidien est d'au moins 12 heures consécutives. En principe, les apprentis ne peuvent pas travailler la nuit et le dimanche sans autorisation correspondante. Il existe toutefois des professions pour lesquelles il existe une exception à l'obligation d'autorisation. Tu trouveras ces professions ici. Pour toutes les autres professions, le principe est que le travail de nuit ou du dimanche n'est autorisé que s'il est indispensable à la formation des apprentis. L'entreprise formatrice doit déposer les demandes auprès de l'autorité cantonale pour un maximum de 10 nuits par an ou auprès du SECO pour un travail de nuit permanent ou régulier. L'employeur doit tenir un contrôle écrit du temps de travail. Celui-ci peut se faire au moyen de feuilles de contrôle ou de rapports ou d'appareils numériques de saisie du temps. L'obligation de tenir un contrôle du temps de travail peut également être prévue dans le contrat de travail."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1-3",
+   "number": "5.1.3",
+   "title": "Organisation des secours - une aide rapide peut sauver des vies",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bien que les accidents soient heureusement plutôt rares dans la logistique, une organisation des secours au sein de l'entreprise est un instrument important. Des mesures de premiers secours efficaces et un personnel bien formé sont des facteurs importants pour sauver des vies et réduire les dommages. L'organisation des secours permet de définir à l'avance les procédures importantes et de les exercer régulièrement. Ainsi, en cas d'urgence, il est possible d'agir rapidement et correctement, ce qui minimise l'ampleur des préjudices."
+    },
+    {
+     "t": "p",
+     "text": "Adapter l'organisation des secours aux conditions de l'entreprise L'organisation des secours est déterminée par des facteurs qui varient d'une entreprise à l'autre. C'est pourquoi elle doit être conçue individuellement pour chaque entreprise. Les facteurs possibles sont: Situations à risque"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quels sont les dangers auxquels il faut s'attendre?",
+      "Est-ce qu'un seul ou un grand nombre de collaborateurs sont exposés?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Formation"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "De combien de secouristes l'entreprise a-t-elle besoin?",
+      "Quelle formation les secouristes d'entreprise doivent-ils avoir?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Emplois"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Existe-t-il des postes de travail particulièrement exposés dans l’entreprise?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Communication"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quelles sont les possibilités de communication (radio, réseau fixe, réseau mobile)?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Marquage"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quelle est la signalisation nécessaire (numéros d'urgence, moyens d'extinction, voies d'évacuation, lieu de rassemblement, etc.)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "S'entraîner régulièrement à adopter le bon comportement Pour minimiser l'ampleur des dégâts et pour que les personnes concernées soient prises en charge le plus rapidement et le mieux possible, il faut que les collaborateurs adoptent un comportement approprié. C'est pourquoi il convient de s'exercer régulièrement aux règles de comportement en cas d'urgence afin de pouvoir les appliquer correctement en cas d'urgence. En cas d'urgence, les règles de comportement suivantes ont en principe fait leurs preuves:"
+    },
+    {
+     "t": "p",
+     "text": "1. Observer 👀👀 • Garder son calme et avoir une vue d'ensemble"
+    },
+    {
+     "t": "p",
+     "text": "2. Réfléchir 💭💭 • Se protéger avant tout"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Identifier le danger",
+      "Planifier et coordonner les actions en conséquence"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "3. Agir 💪💪 • Protéger ou sauver des personnes est la priorité absolue"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prendre des mesures de précaution",
+      "Mesures immédiates pour sauver la vie",
+      "Alerter les pompiers, les ambulances et la police",
+      "Surveiller et prendre en charge les blessés"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Schéma d'annonce Le facteur temps étant toujours important, indépendamment du type d'urgence, il convient d'agir de manière réfléchie et correcte. Les informations suivantes sont essentielles pour l'alarme des secours: Qui? Nom, localisation actuelle, téléphone, nombre de blessés, âge des blessés"
+    },
+    {
+     "t": "p",
+     "text": "Quoi? Type de dommage, menaces, etc. Quand? Date du sinistre Où? Désignation exacte du lieu de l'accident Combien? Nombre et type de personnes concernées En savoir plus? Autres dangers imminents"
+    },
+    {
+     "t": "p",
+     "text": "Tirer les leçons des situations d'urgence Au final, les incidents de sinistre malheureux devraient toujours faire l'objet d'une enquête systématique. L'objectif de telles investigations est d'améliorer l'organisation de l'entreprise et d'éviter ainsi des cas similaires, afin que l'organisation de secours doive être activée le moins souvent possible."
+    },
+    {
+     "t": "p",
+     "text": "Le principe STOP Le principe STOP n'est pas une invitation à ne plus travailler, mais un instrument important pour la sécurité au travail. STOP est une abréviation dont les premières lettres sont hiérarchisées:"
+    },
+    {
+     "t": "p",
+     "text": "S Substitution du danger (le danger est éliminé) T Mesures techniques O Mesures organisationnelles P Mesures liées aux personnes"
+    },
+    {
+     "t": "p",
+     "text": "Pour mettre en œuvre des mesures de protection face à un danger existant, il faut toujours commencer par vérifier s'il existe une possibilité de remplacer la source de danger (substitution)."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple d'EnterSite AG Processus en cas de risque Chez EnterSite AG, on trouve depuis quinze ans un rayonnage à palettes mobile. Un niveau du rayonnage est utilisé pour la préparation des commandes (emplacements au sol et 1er niveau de rayonnage). Les trois autres niveaux de rayonnage sont utilisés pour stocker des palettes de réserve à l'aide d'un chariot élévateur. Comme le rayonnage a déjà un peu vieilli, il est arrivé plusieurs fois ces derniers temps que les cellules photoélectriques tombent en panne. À la suite d’une telle panne, il est possible de fermer l'allée du rayonnage alors que des collaborateurs s'y trouvent. C'est ainsi qu'un incident s'est produit le mois dernier: un cariste a voulu fermer une allée de rayonnages dans laquelle se trouvaient encore des préparateurs de commandes. Heureusement, les employés ont pu se faire entendre au dernier moment, sinon cela aurait pu avoir de graves conséquences. Alors qu'un employé est resté indemne, l'autre s'est cassé le métatarse. Il ne portait que des baskets au lieu de chaussures de sécurité."
+    },
+    {
+     "t": "p",
+     "text": "Dans cet exemple, le principe STOP serait appliqué comme suit:"
+    },
+    {
+     "t": "p",
+     "text": "Mesures Approche / évaluation S"
+    },
+    {
+     "t": "p",
+     "text": "Substitution du danger Existe-t-il d'autres possibilités de stocker les marchandises qui doivent être préparées? Pas d'autre possibilité de stockage disponible pour le moment T"
+    },
+    {
+     "t": "p",
+     "text": "Mesures techniques Les cellules photoélectriques ne peuvent-elles pas être remplacées? Le fournisseur s'est rendu sur place. Une réparation n'est pas possible. Les barrières doivent être remplacées. En raison des difficultés de livraison, le délai de livraison du matériel de remplacement est actuellement d'au moins six mois."
+    },
+    {
+     "t": "p",
+     "text": "O"
+    },
+    {
+     "t": "p",
+     "text": "Mesures organisationnelles Définition du mode de travail sûr dans le rayonnage mobile Etablir un plan de travail. Lors de la préparation des commandes, le stockage et le déstockage ne se font pas avec un chariot élévateur. Formation par le chef d'équipe Le plan de travail est établi par le chef d'équipe P"
+    },
+    {
+     "t": "p",
+     "text": "Mesures liées aux personnes Instruction des collaborateurs sur le processus d'utilisation correcte des EPI Contrôle régulier du respect des directives de l'entreprise, audits"
+    },
+    {
+     "t": "p",
+     "text": "Un plan de travail est établi, des gilets de sécurité sont achetés, le port de chaussures de protection devient obligatoire. Instruction par un responsable de la sécurité avec certificat de formation"
+    },
+    {
+     "t": "p",
+     "text": "Bien qu'il existe certainement des professions dans lesquelles les collaborateurs sont exposés à des risques plus importants, il est possible de minimiser les dangers en protégeant les parties du corps les plus exposées ou en adoptant un comportement respectueux de la santé. Les parties du corps suivantes sont particulièrement exposées dans la logistique, mais peuvent être protégées par des mesures de sécurité simples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Tête (lunettes de protection, casque de sécurité)",
+      "Mains (gants)",
+      "Dos (position correcte)",
+      "Pieds (chaussures de sécurité)"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Sécurité du stockage et du transport"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Danger Zone I_Sécurité de l'apprentissage"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2",
+   "number": "5.2",
+   "title": "Risque d'incendie",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entrepôts de marchandises présentent un potentiel de danger considérable, notamment le risque d'incendie. Même si les entreprises ne stockent pas de matières dangereuses à proprement parler, il existe une multitude d'autres matériaux qui peuvent prendre feu. Comme ces matériaux sont généralement présents en grande quantité dans les entrepôts, il n'est pas rare qu'un simple feu s'y transforme en un incendie de grande ampleur. Les règles de prévention des incendies suivantes s'appliquent aux collaborateurs:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "interdiction absolue de fumer",
+      "une prudence accrue et des précautions particulières lors des travaux de réparation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-1",
+   "number": "5.2.1",
+   "title": "Systèmes de détection et d'extinction d'incendie",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entrepôts de marchandises doivent être équipés de systèmes automatiques de détection et d'extinction d'incendie à partir d'une certaine taille. Il existe des dispositifs techniquement différents pour ces deux fonctions."
+    },
+    {
+     "t": "p",
+     "text": "Systèmes d'alarme incendie Les installations de détection d'incendie sont des dispositifs qui signalent le plus tôt possible les foyers d'incendie potentiels. Les détecteurs de fumée déclenchent une alarme dès qu'il y a un dégagement de fumée important dans une pièce. Les détecteurs de chaleur déclenchent l'alarme dès qu'une plage de température prédéfinie (en général 60 degrés Celsius) est dépassée dans la pièce. Pendant un certain temps (par exemple 3 minutes), l'alarme n'est affichée qu'en interne. Cela permet aux responsables de clarifier la raison et de réinitialiser une éventuelle fausse alarme avant de faire appel aux pompiers."
+    },
+    {
+     "t": "p",
+     "text": "Système d'alarme incendie Dispositifs d'extinction automatique Les installations sprinklers peuvent être exigées par la loi lorsque la taille des compartiments coupe-feu admissibles est dépassée ou lorsque des matériaux facilement inflammables ou des matières dangereuses sont entreposés. Les têtes sprinklers sont réparties régulièrement dans les locaux. Elles sont placées sur des conduites d'eau dans lesquelles règne une pression d'eau constante. Elles sont conçues de manière que leur bouchon éclate à une température d'environ 70 degrés Celsius et que l'eau gicle à l'extérieur. Grâce à la structure sous-jacente spéciale, la pluie pulvérisée atteint un diamètre pouvant aller jusqu'à 8 mètres. Afin d'éviter des dégâts d'eau involontaires, il convient de redoubler de prudence lors du travail dans les halles logistiques équipées de systèmes sprinkler."
+    },
+    {
+     "t": "p",
+     "text": "\"Système d'extinction \"Sprinkler \"Tête de sprinkler \""
+    },
+    {
+     "t": "p",
+     "text": "Les installations d'extinction à sec constituent une alternative aux sprinklers. Ces installations étouffent le feu à l'aide de CO2 (dioxyde de carbone). Le principal avantage est que les locaux ne sont pas contaminés et qu'il n'y a pas de dégâts des eaux. Les personnes doivent toutefois quitter la pièce dans le délai de pré-alerte, pendant lequel une alarme est audible. L'inhalation de CO2 entraînerait sinon la mort par asphyxie en peu de temps."
+    },
+    {
+     "t": "p",
+     "text": "Système d'extinction à sec Co2"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-2",
+   "number": "5.2.2",
+   "title": "Classes de feu",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans les locaux dépourvus d'installations adéquates, l'utilisation d'appareils d'extinction simples tels que des extincteurs, des couvertures d'extinction ou des postes d'incendie s'impose. Une action rapide permet souvent d'éviter des incendies plus importants et par conséquent des dommages coûteux."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: Tous les agents d'extinction ne sont pas adaptés aux différents incendies. Les agents d'extinction mal utilisés sont inefficaces, voire dangereux."
+    },
+    {
+     "t": "p",
+     "text": "Le feu peut être classé en différentes classes de feu. Elles sont importantes pour éteindre les incendies de manière efficace et sûre."
+    },
+    {
+     "t": "p",
+     "text": "Différents agents extincteurs pour chaque classe de feu"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-3",
+   "number": "5.2.3",
+   "title": "Comportement en cas d'incendie",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un comportement rapide et correct est décisif en cas de début d'incendie et contribue grandement à la protection des personnes et des biens. Il n'est pas rare que les pompiers ne soient alertés qu'après une première tentative d'extinction. Un temps précieux est ainsi perdu pour les mesures de sauvetage et la lutte contre l'incendie. En cas de début d'incendie, le principe suivant s'applique toujours:"
+    },
+    {
+     "t": "p",
+     "text": "Alerter - Sauver - Éteindre"
+    }
+   ]
+  },
+  {
+   "id": "s-5-3",
+   "number": "5.3",
+   "title": "Risque de vol",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Partout où se présentent des occasions de se servir sans trop de danger sans autorisation, cela se produit malheureusement. Certains collaborateurs ne peuvent pas résister à la tentation et se servent selon la devise \"l'occasion fait le larron\". Il s'agit donc d'abord d'éviter cette tentation. En y regardant de plus près, les principales causes d'un vol interne sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "des systèmes de contrôle interne insuffisants",
+      "interfaces entre la logistique interne et externe",
+      "négligences dans le traitement des retours",
+      "faiblesses organisationnelles dans le processus logistique",
+      "l'absence de lignes directrices de l'entreprise"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Il en résulte assez rapidement des mesures simples qui peuvent empêcher le vol ou du moins le rendre plus difficile:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "des contrôles fiables et en temps réel des entrées et sorties de marchandises",
+      "gestion minutieuse des retours",
+      "séparation de l'homme et des marchandises",
+      "utilisation de moyens techniques de contrôle",
+      "conception de l'emballage",
+      "contrôles réguliers des sacs et des portes."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Mais il y a encore d'autres aspects à prendre en compte, notamment en ce qui concerne les différentes étapes intermédiaires avec la logistique."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4",
+   "number": "5.4",
+   "title": "Matières dangereuses",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "5.4.1 Que sont les marchandises dangereuses? Les marchandises dangereuses sont des substances qui, si elles ne sont pas manipulées correctement, peuvent représenter un danger pour les personnes, les animaux et l'environnement. De nombreuses lois définissent la manipulation, le transport et le stockage sûr des matières dangereuses. C'est pourquoi les entrepôts où sont manipulées de telles matières doivent répondre à de très nombreuses exigences de sécurité, qui sont contrôlées en permanence par les autorités."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-2",
+   "number": "5.4.2",
+   "title": "Stockage de substances dangereuses",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage de substances toxiques est toujours lié à un certain risque. C'est pourquoi le principe suivant s'applique lors de l'acquisition de \"marchandises dangereuses\": \"Autant que nécessaire mais aussi peu que possible\". Les règles suivantes doivent être respectées lors du stockage de substances dangereuses:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "toujours stocker les poisons de manière à ce que les personnes non autorisées n'y aient pas accès (fermer à clé).",
+      "toujours stocker les récipients bien fermés (évaporation)",
+      "ne jamais stocker des substances toxiques à proximité de denrées alimentaires, d'aliments pour animaux et de médicaments",
+      "les substances toxiques peuvent être laissées en quantités limitées sur le lieu de travail, à condition qu'elles soient utilisées en permanence et qu'elles ne soient pas accessibles aux personnes non autorisées"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-3",
+   "number": "5.4.3",
+   "title": "Fiche de données de sécurité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans l'environnement professionnel, chaque produit chimique dangereux nécessite une fiche de données de sécurité (FDS). La FDS contient des informations sur les dangers potentiels du produit et des instructions sur la manipulation correcte, les mesures de protection appropriées, le stockage, le transport et l'élimination. En outre, la FDS contient également des informations sur la procédure à suivre en cas d'accident. L'employeur est responsable de la manipulation correcte des produits dangereux. L'employeur fait souvent appel à un responsable de la sécurité, qui veille à ce que les travailleurs soient instruits et informés sur la manipulation correcte des substances chimiques. La transmission d'une fiche de données de sécurité pour les produits dangereux est obligatoire. C'est le fabricant qui est responsable de l'établissement de la FDS. Si le produit est importé de l'étranger, l'importateur est considéré comme le fabricant responsable. Les FDS sont utilisées dans toute l'Europe et sont en principe identiques, à l'exception des indications spécifiques à chaque pays (valeurs limites spéciales, restrictions telles que la protection de la jeunesse, etc. Mes obligations en tant que travailleur lors de la manipulation de substances dangereuses:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Suivre les instructions des responsables concernant la manipulation des produits chimiques.",
+      "Suivre les instructions des responsables concernant les mesures de protection.",
+      "S'il n'y a pas d'instructions, les exiger auprès des responsables.",
+      "En cas de doute, demander à consulter la FDS et en discuter avec le responsable de la sécurité."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-4",
+   "number": "5.4.4",
+   "title": "Marquage des marchandises",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Suisse a adopté l'étiquetage SGH (GHS - Globally Harmonised System of Classification and Labelling of Chemicals) des substances dangereuses de l'Union européenne. Il se compose de neuf symboles qui sont décrits en détail"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "dans le module 105:"
+    },
+    {
+     "t": "p",
+     "text": "Symboles selon la norme SGH"
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-5",
+   "number": "5.4.5",
+   "title": "Étiquetage d'une substance selon le SGH",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Etiquetage SGH de l'acide chlorhydrique"
+    },
+    {
+     "t": "p",
+     "text": "Les objectifs de la norme SGH sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "classifier et étiqueter les substances et les mélanges de manière uniforme dans le monde entier",
+      "faciliter le commerce dans les échanges mondiaux de marchandises",
+      "Amélioration de la sécurité au travail, de la protection de la santé, de l'environnement et des consommateurs ainsi que de la sécurité des transports",
+      "adaptation à la législation sur le transport des marchandises dangereuses"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Source: www.sicherheit.uni-freiburg.de"
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-6",
+   "number": "5.4.6",
+   "title": "Signalisation des zones dangereuses",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il est important de signaler non seulement les marchandises, mais aussi les zones dans lesquelles des substances dangereuses sont manipulées ou stockées. La SUVA a élaboré des directives pour la conception de ces signaux d'avertissement ou pictogrammes qui doivent être apposés à l'entrée des locaux ou armoires dans lesquels sont stockées des matières dangereuses. En plus du signal d'avertissement, l'accès doit être signalé par une interdiction d'accès."
+    },
+    {
+     "t": "p",
+     "text": "Signalisation des zones dangereuses"
+    },
+    {
+     "t": "p",
+     "text": "Signalisation de la zone de sécurité"
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-7",
+   "number": "5.4.7",
+   "title": "Risques liés au stockage de substances dangereuses",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme décrit précédemment, les substances dangereuses présentent toujours un certain risque:"
+    },
+    {
+     "t": "p",
+     "text": "En cas d'incendie:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Formation de gaz et de vapeurs toxiques",
+      "Explosions",
+      "Pollution du sol, des eaux souterraines et des eaux de surface par des eaux d'extinction contaminées"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "En cas d'inondations:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pollution de l'environnement par des eaux contaminées"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Fuites ou élimination inappropriée:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dissémination de substances toxiques et dangereuses pour l'environnement"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-8",
+   "number": "5.4.8",
+   "title": "Stocker en toute sécurité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les exploitants d'entrepôts de stockage et de transbordement de substances dangereuses sont responsables de la mise en place des mesures techniques et organisationnelles nécessaires et de leur respect permanent. Dans ce contexte, le stockage correct de substances dangereuses doit toujours s'orienter sur les points suivants: Réduction des risques Les entrepôts de matières dangereuses doivent être conçus, construits et exploités de manière à réduire au maximum les risques pour les personnes, l'environnement et les biens matériels."
+    },
+    {
+     "t": "p",
+     "text": "Dispositions légales Les prescriptions et exigences légales doivent être remplies dans tous les cas."
+    },
+    {
+     "t": "p",
+     "text": "État des connaissances techniques Il convient de tenir compte des connaissances techniques actuelles en matière de sécurité au travail, de protection contre les incendies, de protection des eaux, d'hygiène de l'air, de prévention des accidents majeurs ainsi que de sécurisation et de protection de l'usine. Les collaborateurs doivent faire preuve d'une prudence particulière lors du stockage des substances dangereuses. Les substances dangereuses ne doivent être empilées que de manière que les récipients qui tombent ne puissent pas être endommagés."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras plus d'informations sur https://www.cheminfo.ch/fr/page-daccueil"
+    }
+   ]
+  },
+  {
+   "id": "s-5-5",
+   "number": "5.5",
+   "title": "Les nuisibles",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'action des nuisibles est un sujet de préoccupation dans chaque entrepôt. Trois groupes de nuisibles peuvent exercer une influence négative sur les marchandises stockées:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Champignons et bactéries (moisissure, pourriture, fermentation)",
+      "Insectes (coléoptères, mites, etc.)",
+      "Petits mammifères (souris, rats)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Des mesures de protection des bâtiments, une bonne hygiène, des conditions de stockage optimales et un contrôle permanent des produits stockés permettent de limiter les attaques de parasites, mais pas de les exclure totalement."
+    },
+    {
+     "t": "p",
+     "text": "Stockage: La condition préalable à la prévention des attaques de parasites est un entrepôt sec, propre et si possible sans poussière. La température, l'humidité et la lumière doivent être contrôlées de manière que les parasites potentiels trouvent un habitat qui leur soit défavorable."
+    },
+    {
+     "t": "p",
+     "text": "La lutte contre les nuisibles: La lutte se fait par des moyens chimiques ou toxiques, par des appareils physiques, par des ennemis naturels des nuisibles ou tout simplement par la force humaine."
+    }
+   ]
+  }
+ ]
+}

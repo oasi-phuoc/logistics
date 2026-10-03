@@ -1,0 +1,557 @@
+{
+ "code": "203",
+ "title": "Gestion de soi",
+ "domain": "200",
+ "pdf": "M203.pdf",
+ "pages": 17,
+ "words": 3240,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Modul 203 Chaque jour, Monsieur Reto Gugger doit se motiver intrinsèquement (de l'intérieur) et motiver extrinsèquement (de l'extérieur) ses collaborateurs à travers des objectifs, une planification, une organisation et une gestion du temps, afin que l'entreprise EnterSite AG puisse se maintenir sur le marché ouvert face à une forte concurrence et croître sainement. Chaque collaboratrice, chaque collaborateur d'EnterSite AG apporte une contribution pour que l'entreprise reste rentable et continue d'exister pour les collaborateurs. En reconnaissance du travail fourni par les collaborateurs, les clients continuent à se fournir chez EnterSite AG et, à la fin du mois, Monsieur Reto Gugger verse le salaire des collaborateurs sur leur compte bancaire en contrepartie de leur travail."
+    },
+    {
+     "t": "p",
+     "text": "L'autogestion est la compétence à se gérer soi-même. Différentes techniques issues du management, de la psychologie et de la gestion personnelle aident à augmenter sa propre motivation (intrinsèque), à clarifier ses propres objectifs et à mieux les atteindre. Cela comprend des compétences partielles telles que, par exemple, la motivation, la fixation d'objectifs, la planification, la gestion du temps, l'organisation, la capacité d'apprentissage et le contrôle des résultats par le biais du feedback."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1",
+   "number": "3.1",
+   "title": "Se connaître soi-même - la fenêtre de Johari",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Quelle est ma perception de moi-même, quelle est ma perception des autres? Nous nous promenons dans l'histoire du monde en pensant que tout le monde nous comprend (\"Je communique clairement!\") et que nous lisons dans les yeux de nos semblables comme dans un livre ouvert. Ce n'est pas le cas. Chaque personne a ses secrets qu'elle ne veut pas révéler aux autres, que ce soit par honte ou par peur. La fenêtre de Johari nous permet de trouver notre moi, la perception des autres, notre moi inconnu et notre point aveugle. Grâce à cette connaissance, nous pouvons mieux travailler et vivre ensemble au quotidien avec nos semblables."
+    },
+    {
+     "t": "p",
+     "text": "1er Carré: personne publique Le premier carré est le domaine de l'activité libre, des faits publics et des faits. Le comportement et la motivation sont perceptibles pour moi, mais aussi pour les autres."
+    },
+    {
+     "t": "p",
+     "text": "2ème Carré: Mon secret Dans le deuxième carré, il s'agit de mon comportement conscient et connu, mais que je n'ai pas fait ou ne veux pas faire connaître aux autres. Cette partie du comportement est cachée ou dissimulée aux autres."
+    },
+    {
+     "t": "p",
+     "text": "3ème Carré: tache aveugle La tache aveugle est le terme approprié pour le troisième carré. La tache aveugle est la perception de soi, c'est-à-dire la partie du comportement qui est visible et reconnaissable pour les autres, mais dont je n'ai pas conscience"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "moi-même. En font partie les choses repoussées, le préconscient et les habitudes dont on n'a plus conscience."
+    },
+    {
+     "t": "p",
+     "text": "4e Carré: l'inconnu Le quatrième carré saisit des processus qui ne sont connus ni de moi ni des autres et qui se situent dans le domaine appelé inconscient en psychologie des profondeurs."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1-1",
+   "number": "3.1.1",
+   "title": "Les cinq piliers de l'identité humaine",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "1er Pilier: la corporalité Le premier pilier comprend notre corps, notre esprit et notre psychologie, qui est le point de départ de notre identité. Sans eux, nous n'existerions pas. La demande de santé et de satisfaction dans certains aspects permet de bien saisir la stabilité de ce pilier. La corporalité revêt donc une grande importance."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: des événements tels que des maladies, des accidents, des blessures psychiques ou des expériences traumatisantes mettent en péril la stabilité de ce pilier et donc l'identité de la personne."
+    },
+    {
+     "t": "p",
+     "text": "2e Pilier: relations sociales Le deuxième pilier comprend les contacts sociaux, qui sont essentiels à la survie de l'être humain. Ils offrent un soutien et une reconnaissance. L'absence de contacts sociaux peut entraîner un stress psychique important et une maladie à long terme. Les relations avec d'autres personnes et le réseau social renforcent la stabilité du deuxième pilier. Corporalité"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la séparation d'un couple de longue date, des différents irréconciliables ou même le décès peuvent par exemple influencer ce pilier."
+    },
+    {
+     "t": "p",
+     "text": "3e Pilier: travail et prestations Parmi les besoins fondamentaux de l'être humain, il y a le fait d'avoir une tâche utile, de pouvoir utiliser ses capacités et de se réaliser."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la perte, l'absence d'une tâche utile peut avoir des conséquences négatives sur la santé."
+    },
+    {
+     "t": "p",
+     "text": "4e Pilier: Sécurité matérielle Dans ce pilier, des facteurs tels que le niveau de vie, la situation financière et la sécurité existentielle jouent un rôle central. L'évaluation de ces facteurs est liée aux expériences vécues dans l'enfance, qui peuvent influencer l'attitude vis-à-vis de la sécurité matérielle."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: les peurs existentielles peuvent avoir une influence considérable sur l'équilibre personnel."
+    },
+    {
+     "t": "p",
+     "text": "5e Pilier: valeurs et idéaux Les personnes qui peuvent vivre selon leurs valeurs sont en harmonie avec elles-mêmes. Il peut y avoir des irritations, voire des conflits, lorsque des valeurs différentes se rencontrent. Les conflits avec soi-même, mais aussi avec l'autre, doivent être surmontés."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le système de valeurs personnel renforce une personne et permet de maintenir la stabilité de son identité, même si d'autres piliers présentent des déficits."
+    },
+    {
+     "t": "p",
+     "text": "Source: Hilarion Petzold (éd.): Méthodes d'approche thérapeutique des symboles et des processus de symbolisation. Réflexions sur les qualités essentielles de l'être humain [exposé présenté lors du 7e symposium allemand de thérapie artistique, 27-30 novembre 1988]."
+    }
+   ]
+  },
+  {
+   "id": "s-3-2",
+   "number": "3.2",
+   "title": "Styles de direction selon Kurt Lewin",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chaque responsable est confronté à différentes tensions. C'est normal. Cela marque son style de direction personnel, la manière dont il s'en sort. Le style de (leadership) peut aussi changer dans différentes situations, et revenir à sa forme initiale après avoir été clarifié ou apaisé."
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-1",
+   "number": "3.2.1",
+   "title": "Style de direction autoritaire (compétence exclusive en matière de",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "décision et de directives.)"
+    },
+    {
+     "t": "note",
+     "kind": "good",
+     "label": "Bonne pratique",
+     "text": "Avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Résolution rapide des problèmes, très bons résultats à court terme.",
+      "Une répartition claire des tâches et des responsabilités.",
+      "Style orienté vers l'action, agir plutôt que discuter."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "bad",
+     "label": "À éviter",
+     "text": "Inconvénients:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "L'absence de consensus au sein du groupe peut être source de tensions.",
+      "Difficultés en cas d'imprévus, peu de flexibilité.",
+      "Surcharge de travail du supérieur."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-2",
+   "number": "3.2.2",
+   "title": "Style de direction laissez-faire (déléguer des tâches)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "good",
+     "label": "Bonne pratique",
+     "text": "Avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Grâce à la liberté accordée, les collaborateurs peuvent mieux utiliser leur potentiel, réaliser leurs idées.",
+      "Style favorisant l'innovation et la créativité, pour autant que la liberté confiée puisse être gérée.",
+      "Un grand soulagement pour le supérieur hiérarchique."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "bad",
+     "label": "À éviter",
+     "text": "Inconvénients:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Souvent, perplexité et incertitude au sein du groupe, surtout en cas d'imprévus.",
+      "Personne ne porte la responsabilité, les activités désagréables ne sont pas effectuées.",
+      "Pas d'unité de doctrine dans l'entreprise; chacun \"bricole\" comme il l'entend."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-3",
+   "number": "3.2.3",
+   "title": "Style de direction coopératif (droit de codécision des collaborateurs)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "good",
+     "label": "Bonne pratique",
+     "text": "Avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Des résultats de travail optimaux à long terme avec des collaborateurs satisfaits.",
+      "Plus de flexibilité en cas d'imprévus, car le sens de l'activité est connu.",
+      "Un fort sentiment d'appartenance, car chacun est une partie importante du groupe."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "bad",
+     "label": "À éviter",
+     "text": "Inconvénients:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prise de décision fastidieuse et chronophage.",
+      "Résultat matériel souvent moins bons à court terme, jusqu'à ce que le groupe se \"reprenne\" et s'organise.",
+      "Exigences élevées en matière de (leadership), notamment dans le domaine psychologique."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-4",
+   "number": "3.2.4",
+   "title": "Style de management caritatif (les besoins des collaborateurs ont la",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "priorité.)"
+    },
+    {
+     "t": "note",
+     "kind": "good",
+     "label": "Bonne pratique",
+     "text": "Avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Climat généralement humain et chaleureux, dans lequel les collaborateurs se sentent à l'aise.",
+      "Le cadre porteur apporte un soutien, surtout aux collaborateurs inquiets. Leur potentiel peut être exploité.",
+      "Les questions critiques peuvent également être abordées sans crainte de représailles."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "bad",
+     "label": "À éviter",
+     "text": "Inconvénients:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La sollicitude peut être perçue comme un contrôle par les collaborateurs. Ils se sentent alors acculées.",
+      "Une mauvaise réalisation des objectifs peut être frustrante. Il manque souvent le défi, \"l'injection de motivation\".",
+      "Beaucoup d'erreurs, de doublons, de malentendus dus au manque d'alignement sur l'objectif."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-3",
+   "number": "3.3",
+   "title": "Types de conflits selon Thomas Kilmann",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Là où les gens travaillent ensemble tous les jours, des conflits peuvent apparaitre un jour ou l'autre - c'est aussi le cas chez EnterSite AG. Différentes parties ont des points de vue différents sur une situation. L'objectif de chaque partie est de ne pas sortir perdante de cette situation inexplicable et de perdre ainsi la face. Le comportement des deux partenaires dans la situation conflictuelle est différencié en fonction des besoins (et non des propositions de solution) qui sont pris en compte dans une certaine mesure lors de la résolution."
+    }
+   ]
+  },
+  {
+   "id": "s-3-4",
+   "number": "3.4",
+   "title": "Les six étapes de la gestion des conflits",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Toute dispute devrait avoir un début et une fin. Au début de toute dispute productive, il faut chercher l'objectif et le sujet de la dispute: Étape 1: Je suis dérangé par.... Étape 2: Mon objectif est... (Je veux...) Étape 3: Ton objectif est... (Qu'est-ce que tu veux...) Étape 4: Points communs. Étape 5: Recherche de solutions (chercher des idées, les accepter, les évaluer.) Étape 6: Accord (concret, détaillé et limité dans le temps.)"
+    }
+   ]
+  },
+  {
+   "id": "s-3-5",
+   "number": "3.5",
+   "title": "Le défi intellectuel dans le monde du travail",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "\"La vie est pleine de stress”! Nous entendons ces déclarations ou des déclarations similaires presque tous les jours. Notre employeur et nous-mêmes devrions pouvoir prendre des mesures pour nous protéger du stress et de ses effets négatifs, tant mentaux que physiques. Le stress est généré par des stimuli internes et externes. Mais tous les stress ne se valent pas: il existe un stress positif et un stress négatif. Les deux ont des effets différents sur nous:"
+    },
+    {
+     "t": "p",
+     "text": "3.5.1 Eustress: Le terme eustress est utilisé pour désigner les facteurs de stress qui ont une influence positive. Le stress positif augmente l'attention et favorise la performance maximale du corps. Le corps n'est pas endommagé par ces facteurs de stress. Au contraire, ces facteurs de stress ont un effet positif sur le fonctionnement psychique et physique de notre organisme."
+    },
+    {
+     "t": "p",
+     "text": "3.5.2 Disstress: Le terme “disstress” est utilisé pour décrire les stimuli négatifs qui sont perçus comme menaçants ou même trop exigeants. Le stress est perçu négativement lorsqu'il n'y a pas de compensation physique ou que le stress se manifeste fréquemment. Il est recommandé de développer des stratégies appropriées pour gérer le stress."
+    }
+   ]
+  },
+  {
+   "id": "s-3-5-3",
+   "number": "3.5.3",
+   "title": "Réactions de l'homme au stress",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les êtres humains ont généralement des réactions typiques de combat ou de fuite en cas de stress. Il s'agit d'un programme d'auto-préservation naturel acquis au cours de l'évolution. D'autres réactions peuvent être:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Agression.",
+      "Fuite.",
+      "Acceptation.",
+      "Déni.",
+      "Peur.",
+      "Dépression."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Notre corps n'est pas conçu pour résister à un stress permanent. Le cœur le montre en augmentant la fréquence de ses battements. Nos muscles se tendent, notre respiration s'accélère, nous ressentons une agitation intérieure et nous avons des problèmes de concentration ou des blocages de la pensée."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: les exigences de la vie professionnelle augmentent rapidement. Devoir y répondre entraîne une pression en termes de temps et de performance."
+    },
+    {
+     "t": "p",
+     "text": "Nous devons être conscients que la relaxation et la gestion du stress sont indispensables à notre corps:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sport d'endurance comme le jogging, la natation, le vélo",
+      "Contacts sociaux privés comme les fêtes de famille, les soirées",
+      "Contacts sociaux au sein de l'entreprise (si le stress est dû à un conflit, celui-ci peut éventuellement être résolu par la communication)",
+      "Yoga"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-6",
+   "number": "3.6",
+   "title": "Le défi physique dans le monde du travail",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-3-6-1",
+   "number": "3.6.1",
+   "title": "Sources de danger",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les dangers sont partout - à la maison, dehors dans la nature, dans la circulation et au travail. Ils provoquent des accidents de toutes sortes: coupures, fractures, écrasements, blessures internes, etc. Les dangers survenant à l'improviste sont appelés aigus dans le jargon médical, comme les maladies qui se déclarent à court terme. A ces dangers plus ou moins évidents pour la santé humaine s'ajoutent ceux qui endommagent le corps lentement et insidieusement. Ce sont des effets à peine perceptibles qui, avec le temps, provoquent des troubles ou des maladies chroniques très douloureux. (Dans de nombreux cas, il s'agit de troubles de la posture.) Comme dans la plupart des autres secteurs et professions, il existe dans le domaine de la logistique des dangers et des risques dits typiques de la profession. Mais les dangers que l'on connaît peuvent être évités ou du moins limités par la prévention. Environ 80 % de tous les accidents sont dus à un comportement dangereux, c'est-à-dire qu'ils sont auto-infligés; 20 % sont causés par des conditions dangereuses (absence de dispositifs de protection, défauts de construction, etc.)"
+    },
+    {
+     "t": "p",
+     "text": "Les comportements suivants sont considérés comme dangereux:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le non-respect des règles ou des prescriptions.",
+      "Négligence.",
+      "La non-application de mesures de protection.",
+      "La prise de risque volontaire."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-6-2",
+   "number": "3.6.2",
+   "title": "Minimiser les risques",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Protection des pieds Les logisticiens sont moins exposés aux risques dans leur travail que les collaborateurs du bâtiment ou des exploitations forestières, par exemple. Néanmoins, la fréquence des accidents montre que le travail dans l'entrepôt, la distribution et le transport n'est pas sans danger. Chaque domaine présente ses propres risques. Pour tous, ce sont notamment les parties du corps suivantes qui sont menacées:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Tête",
+      "Dos",
+      "Mains",
+      "Pieds"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les pieds sont très souvent blessés par des roues de toutes sortes. Dans la logistique, les différents moyens de transport à roulettes et à roues sont des sources de danger. Une pression élevée s'exerce sur les roues des chariots de manutention; sur la roue arrière d'un chariot élévateur à trois roues, elle est par exemple supérieure à 20 kN (poids de 2 tonnes). Mais les clous qui dépassent des planches représentent également un grand danger."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le port de chaussures basses, de baskets ou même de sandales ouvertes est une négligence dans le secteur de la logistique!"
+    },
+    {
+     "t": "p",
+     "text": "Les chaussures de protection ne permettent pas d'éviter toutes les blessures aux pieds, mais la plupart d'entre elles. Les chaussures de sécurité ou de protection modernes n'ont plus rien de commun avec l'image négative des chaussures à bouts d'acier. Leur aspect extérieur ne se distingue plus guère de celui des chaussures normales et leur confort est excellent. Les chaussures de protection empêchent surtout les blessures des orteils et de la plante des pieds. Les talons sont toutefois relativement peu protégés."
+    },
+    {
+     "t": "p",
+     "text": "Même avec des chaussures de protection, les mesures de précautions suivantes s'appliquent:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ne jamais placer les pieds sous des charges soulevées.",
+      "Tenir les pieds à l'écart des roulettes et des roues.",
+      "Ne rien laisser par terre.",
+      "Sur les chariots de manutention, garder les pieds dans le véhicule, c'est là qu'ils sont le mieux protégés."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chaussures normales: les clous saillants peuvent pénétrer à travers la semelle. Les orteils ne sont pas protégés. Les roulettes des engins de manutention peuvent écraser les orteils."
+    },
+    {
+     "t": "p",
+     "text": "Protection contre les lésions dorsales La colonne vertébrale Notre colonne vertébrale se compose de 24 vertèbres mobiles et de deux vertèbres fixes (7 cervicales, 12 thoraciques, 5 lombaires, le sacrum et le coccyx). La moelle épinière se trouve dans le canal rachidien. Les nerfs spiralés, qui relient le cerveau aux différentes parties du corps, en sortent entre les vertèbres. Entre les vertèbres se trouvent les disques intervertébraux. Ils sont faits de cartilage et contiennent le noyau gélatineux qui se déplace en fonction des mouvements. Les disques intervertébraux agissent comme des amortisseurs entre les vertèbres. Les vertèbres et les disques intervertébraux sont maintenus ensemble par des ligaments et des muscles. L'interaction de tous les éléments de la colonne vertébrale permet de marcher et de courir, de soulever et de porter des charges, de se tenir debout et assis, de se tourner et de se pencher, et bien plus encore. Pour que la colonne vertébrale reste résistante, les muscles et les disques intervertébraux doivent être entraînés."
+    },
+    {
+     "t": "p",
+     "text": "La bonne posture Les activités qui sollicitent le dos sont le reconditionnement, la préparation de commandes et le chargement ou le déchargement de palettes. Le transbordement, implique en particulier, des mouvements de flexion et de rotation dangereux pour la colonne vertébrale. Afin de prévenir les maux de dos, aigus ou chroniques, il faut toujours veiller à ce que les charges soient prises sans se pencher profondément. Dans l'idéal, le plan de prélèvement et le plan de rangement doivent se trouver à une hauteur similaire. Les transpalettes à ciseaux conviennent pour compenser les différences de niveaux."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: éviter autant que possible de porter des charges lourdes. Utiliser des moyens auxiliaires tels que des chariots élévateurs, des chariots à plate-forme ou des diables (également appelés diables à sacs)."
+    },
+    {
+     "t": "p",
+     "text": "La bonne position pour transporter des charges: bras tendus ou prendre la charge sur les épaules."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le dos doit toujours rester droit. Pour les charges plus lourdes, utiliser des moyens auxiliaires tels que des sangles de transport."
+    },
+    {
+     "t": "p",
+     "text": "Protection des mains Le risque de blessure pour les mains est moins important dans la logistique que dans une menuiserie ou une serrurerie par exemple. Mais même dans la logistique, il y a des travaux pour lesquels les mains doivent être protégées par des gants de travail résistants."
+    },
+    {
+     "t": "p",
+     "text": "Il convient de se protéger les mains lors des opérations suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Lors de l'empilage de matériaux lourds.",
+      "Lors de la prise en main de matériaux à surface rugueuse.",
+      "Lors du tri des palettes.",
+      "Lors de l'ouverture de caisses en bois.",
+      "Lors de la découpe de cerclages métalliques."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Lors de la manipulation de substances agressives, les mains doivent être protégées par des gants en caoutchouc. Des gants synthétiques légers peuvent être prescrits pour des raisons d'hygiène. Ils conviennent également aux personnes ayant une peau particulièrement sensible."
+    },
+    {
+     "t": "p",
+     "text": "Protection de la tête Dans les entreprises de stockage et de logistique, le port du casque de protection n'est généralement pas obligatoire. Mais là où des charges sont déplacées par palan, cela peut tout à fait être le cas. Les travaux de gerbage comportent également le risque d'être blessé par la chute d'objets. Les caristes eux-mêmes sont protégés par le toit de protection de l’engin, mais pas les personnes se trouvant à proximité. C'est pourquoi personne ne doit se trouver dans la zone de gerbage. La loi impose le port du casque pour les services de livraison à moto. Les chutes à moto entraînant souvent de graves blessures à la tête, la loi sur la circulation routière impose le port du casque aux motocyclistes."
+    },
+    {
+     "t": "p",
+     "text": "Le risque de blessure à la tête est également important dans le service de manœuvre. C'est pourquoi la zone de manœuvre ne peut être accessible qu'avec un casque. De plus, le port d'un gilet de sécurité est obligatoire lors des manœuvres."
+    },
+    {
+     "t": "p",
+     "text": "Protection des yeux Dans la logistique, les yeux ne sont généralement pas en danger, raison pour laquelle une protection permanente est inutile. Mais pour les quelques travaux dangereux pour les yeux, il faut veiller strictement à se protéger."
+    },
+    {
+     "t": "p",
+     "text": "Il est impératif de porter des lunettes de protection si:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Si l'on travaille avec des substances corrosives"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(par exemple lors du transvasement d'acides, de bases ou de carburants.)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Il existe un risque que des éclats ou de la poussière entrent en contact avec les yeux (par exemple, poussière de frein dans les services de manœuvre.)",
+      "Lors du contrôle du niveau d'acide de la batterie du chariot élévateur."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Sans lunettes de protection, les yeux peuvent être brûlés par l'acide en cas de manipulation imprudente. Ce risque est important lors de l'entretien des batteries de chariots élévateurs. C'est pourquoi une douche oculaire devrait être installée à proximité de l’endroit de manipulation. La douche oculaire se compose d'un flacon contenant une solution saline et d'un petit accessoire qui peut être placé sur l'œil. Si de l'acide a pénétré dans un œil, celui-ci doit être immédiatement et soigneusement lavé avec la douche oculaire."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Ensuite, il faut dans tous les cas consulter d'urgence l'ophtalmologue"
+    },
+    {
+     "t": "p",
+     "text": "L’ouverture des bandes de cerclage Une autre tâche qui peut mettre les yeux en danger, est l'ouverture des bandes de cerclage(feuillard). Comme ceux-ci sont tendus, ils s'ouvrent rapidement lorsqu'on les coupes. Pour éviter qu'ils ne touchent le corps ou le visage, l'endroit où ils vont être coupées doit être choisi de manière à obtenir une extrémité courte et une extrémité longue. L'extrémité courte ne peut pas être endommagée lorsqu'elle s'échappe, tandis que l'extrémité longue doit être maintenue avec un morceau de bois ou des gants (pas à mains nues) afin qu'elle ne puisse pas rebondir."
+    },
+    {
+     "t": "p",
+     "text": "L’ergonomie L'ergonomie (science des lois régissant le travail de l’homme) s'occupe de tout ce qui a un rapport avec le travail en lui-même. Son but consiste à aménager des postes de travail et les équipements de manière confortable, afin que les travailleurs ne se fatiguent pas trop vite et qu’ils ne souffrent pas de problèmes de santé. Les postes de travail présentant une ergonomie optimale sont installés de manière à pouvoir être adaptés à la tâche et aux caractéristiques physiques des travailleurs. Ils ont un effet positif sur la performance et la disponibilité des travailleurs. Les signes précoces d'un poste de travail non adapté sont, entre autres, des tensions au niveau de la nuque."
+    }
+   ]
+  }
+ ]
+}

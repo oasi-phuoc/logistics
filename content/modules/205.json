@@ -1,0 +1,283 @@
+{
+ "code": "205",
+ "title": "Marketing",
+ "domain": "200",
+ "pdf": "M205.pdf",
+ "pages": 11,
+ "words": 2166,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il existe différentes définitions du terme marketing. La plus courte est:"
+    },
+    {
+     "t": "p",
+     "text": "\"Technique et méthodes de stratégie commerciale\""
+    },
+    {
+     "t": "p",
+     "text": "Une plus longue:"
+    },
+    {
+     "t": "p",
+     "text": "\"Organisation des ventes en tenant compte des résultats de l’étude de marché dans le but d’obtenir une relation harmonieuse entre la production et la vente\"."
+    },
+    {
+     "t": "p",
+     "text": "En termes plus compréhensible, cela signifie que le marketing vise à trouver quels produits et services souhaite le marché, c’est-à-dire les clients. Le but est de produire ce que les clients sont prêts à acheter, et la quantité qui sera vendue. Le marketing souhaite toutefois aussi trouver si et comment les clients peuvent être influencés pour acheter des produits inconnus."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1",
+   "number": "5.1",
+   "title": "Objectifs du marketing",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le marketing d'EnterSite AG a pour objectif de promouvoir la vente de ses produits et services. En effet, les ventes font augmenter le chiffre d'affaires et donc le bénéfice (en règle générale). Générer des bénéfices est l'objectif principal d'EnterSite AG. C'est pourquoi un bénéfice est calculé dans le prix des produits ou des services proposés. Le bénéfice d'EnterSite AG augmente lorsque davantage de produits et de services sont vendus. Afin de réaliser un maximum de bénéfices, les objectifs visés par l’intermédiaire du marketing d’EnterSite AG sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la préservation, voire l'augmentation de sa part de marché.",
+      "l'amélioration de sa notoriété.",
+      "l'ancrage d'une image positive sur le marché."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-2",
+   "number": "5.2",
+   "title": "Personnes impliquées dans le marketing",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le marketing est une science. Pour le pratiquer de manière systématique, ce sont des professionnels qui s’en chargent. Au sein d'EnterSite AG, presque tous les collaborateurs participent délibérément ou non au marketing. Le marketing englobe tous les niveaux et tous les domaines d'EnterSite AG. Plus les différents niveaux et domaines se complètent au sein d'EnterSite AG, plus l'entreprise aura du succès sur le marché. Les niveaux et les domaines sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la direction,",
+      "le service commercial (vente, marketing)",
+      "les collaborateurs de la production,",
+      "les collaborateurs de l'administration et des services."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-3",
+   "number": "5.3",
+   "title": "La loi de l'offre et de la demande",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-5-3-1",
+   "number": "5.3.1",
+   "title": "L'effet de l'offre",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La loi de l’offre et de la demande représente un principe fondamental de l’économie qui décrit la dynamique entre les fournisseurs d’un bien ou d’un service et les consommateurs intéressés. Cette théorie illustre la manière dont l’équilibre entre la quantité disponible d’un produit spécifique (l’offre) et la demande portée à ce dernier détermine son prix de marché. Exemple cas concret: Les maraîchers ont salué la récolte de salades attendue comme la « récolte du siècle ». Mais ensuite, le temps exceptionnellement favorable a permis à toutes les salades d'arriver à maturité en même temps dans les champs. Bien que les grands distributeurs aient immédiatement réagi en proposant des offres spéciales et que la salade n'ait jamais été aussi bon marché, les maraîchers ont dû détruire une partie de leur production de salades. Leur joie de la « récolte du siècle » s'est rapidement envolée. Comme l'offre dépassait largement la demande, ils ont dû accepter des baisses de prix et n'ont pas pu réaliser le bénéfice espéré. L'effet inverse se produit lorsque le gel, la grêle ou une pluie prolongée affectent les salades et entraînent des pertes de récolte. Comme de nombreux clients veulent absolument de la salade, ils sont prêts à payer un prix plus élevé. C'est pourquoi, en cas d'offre limitée, le prix peut augmenter. Ce mécanisme ne joue toutefois plus qu'un rôle limité, car à la suite de la mondialisation, il est possible d'importer des fruits et légumes d'autres pays. Les consommateurs ont alors le choix: soit ils achètent les produits locaux, mais chers, soit des produits importés moins chers. De nombreux facteurs peuvent influencer l'offre, y compris les fournisseurs eux-mêmes. Par exemple, les États pétroliers régulent l'offre de pétrole: ils extraient plus de pétrole s'ils veulent que le prix baisse et réduisent la production s'ils veulent que le prix augmente."
+    }
+   ]
+  },
+  {
+   "id": "s-5-3-2",
+   "number": "5.3.2",
+   "title": "L'effet de la demande",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La demande peut également être à l'origine d'une hausse ou d'une baisse des prix. Si la demande augmente sans que la production suive, l'offre étant trop faible, les prix augmentent. Parfois, la demande des consommateurs de l'étranger fait grimper le prix d'un produit. C'est ce qui s'est passé, par exemple, avec le prix du maïs au Mexique. La combustion de carburant issu du pétrole nuit au climat, et la fin de l'ère pétrolière est par ailleurs prévisible. Des chercheurs du monde entier s'efforcent de trouver des alternatives. Depuis qu'ils ont inventé les biocarburants à base de maïs ou de canne à sucre, le biodiesel est à la mode et la demande en maïs et en canne à sucre ne cesse d'augmenter. Il en résulte une pénurie mondiale de ces aliments dans les pays « pauvres » - avec des conséquences désastreuses. Au Mexique, le gouvernement a dû prendre des mesures d'urgence, car le prix de la tortilla (fine galette de maïs), le plat national, a doublé et les Mexicains ne pouvaient plus se le permettre."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: si la quantité offerte augmente mais que la demande reste la même, le prix du bien diminue. Si la quantité offerte diminue mais que la demande reste la même, le prix de la marchandise augmente. Si la demande augmente mais que l'offre reste la même, le prix augmente. Si la demande diminue mais que l'offre reste la même, le prix diminue."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4",
+   "number": "5.4",
+   "title": "Les instruments du marketing",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour que la société EnterSite AG puisse définir sa stratégie de marketing (stratégie de vente), elle doit se procurer des informations sur le marché sur lequel elle souhaite vendre son produit ou son service. Sur cette base, elle peut définir les mesures avec lesquelles elle veut s'imposer sur ce marché. Il s'agit le plus souvent d'une combinaison de mesures de différents types, appelée Marketing-Mix. La description du marketing-mix avec les 4 P vient des Etats-Unis."
+    },
+    {
+     "t": "p",
+     "text": "Product (Produit) La commercialisation d'un produit dépend en premier lieu de son utilité (personne n'achète un produit qui ne lui est pas utile) et de sa qualité (plus elle est élevée, mieux c'est). Celui-ci dépend notamment des éléments suivants: la stratégie de la gamme, des caractéristiques techniques du produit, du design et du packaging. En outre, le produit doit s'intégrer dans l'assortiment de l'entreprise (aucun client n'aura par exemple l'idée de chercher des jouets pour enfants dans un magasin d'articles de sport). Le design doit être plaisant et contemporain afin d'attirer l'attention des clients sur le produit."
+    },
+    {
+     "t": "p",
+     "text": "Price (Prix) Le prix est un critère important dans la décision d'achat des clients. Celui-ci dépend notamment des éléments suivants: la nature du produit, le coût des matières premières utilisées, les ressources humaines et matérielles nécessaires à la production et à la distribution, les dépenses engagées pour la recherche. Chaque produit a son prix. Il ne doit pas être ni trop bas ni trop haut, mais au bon prix. Un bon prix de vente c’est un prix que vos clients sont prêts à payer mais qui vous permet aussi d’être suffisamment rentable. S'il existe des offres concurrentes, le prix est mis sous pression. Il est également mis sous pression lorsque le client demande des rabais ou des conditions de paiement avantageuses."
+    },
+    {
+     "t": "p",
+     "text": "Place (Lieu) Lorsqu'un nouveau produit doit être lancé sur le marché, les questions suivantes se posent: qui sont mes acheteurs actuels et potentiels? Où se trouvent-ils? Quelle est la manière la plus simple et efficace d'atteindre ces acheteurs, par la vente directe ou indirecte (commerces)? De même, pour ajouter un nouveau produit à un assortiment existant, la question du placement se pose: où faut-il placer le nouveau produit afin de maximiser les ventes?"
+    },
+    {
+     "t": "p",
+     "text": "Promotion (Publicité) Un placement optimal et un prix acceptable ne garantissent pas encore des ventes suffisantes. Des actions de communication (publicité) doivent également être mises en place pour faire la promotion d’un produit, d’un service ou d’une marque afin d’attirer l’attention des acheteurs actuels et potentiels. La promotion peut se faire par des campagnes publicitaires ainsi que par des promotions internes au niveau des points de vente. Il existe aujourd'hui une grande variété de supports publicitaires. Le choix dépend avant tout du budget à disposition pour la publicité."
+    }
+   ]
+  },
+  {
+   "id": "s-5-5",
+   "number": "5.5",
+   "title": "La publicité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "5.5.1 Quels sont les éléments qui composent les annonces publicitaires?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Logo (signe distinctif d'un produit ou d'une entreprise).",
+      "Nom du produit",
+      "Image (photo, graphique, etc.)",
+      "Headline (titre)",
+      "Informations sur le produit",
+      "Slogan (devise, principe directeur)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-2",
+   "number": "5.5.2",
+   "title": "Le concept AIDA des annonces publicitaires",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour que la publicité atteigne son but et que le client achète le produit, les producteurs d'annonces publicitaires essaient de procéder selon le concept AIDA."
+    },
+    {
+     "t": "p",
+     "text": "AIDA est l’acronyme de:"
+    },
+    {
+     "t": "p",
+     "text": "Attention: attirer, capter l'attention du consommateur. Intérêt: aiguiser son intérêt Désir: stimuler son désir Action: déclencher l’achat"
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-3",
+   "number": "5.5.3",
+   "title": "Publicité informative et suggestive",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La publicité peut être informative ou suggestive. La publicité informative est factuelle, c'est-à-dire qu’elle vise à informer le consommateur sur les avantages d’un produit en mettant en avant ses caractéristiques. Le but est d’utiliser un discours rationnel afin de convaincre le consommateur que ce produit peut répondre à ses besoins, et ainsi déclencher l’acte d’achat."
+    },
+    {
+     "t": "p",
+     "text": "Dans la publicité suggestive, la mise en avant des caractéristiques du produit (informations) est secondaire. Elle vise à influencer l’inconscient du consommateur par le biais d’une suggestion plus ou moins directe. Elle veut éveiller chez l'observateur des émotions qui l'incitent à acheter, même celles"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "qui n'ont pas de lien direct avec le produit. Remarque: dans toute publicité, qu'elle soit informative ou suggestive, les coûts sont un facteur important. Ceux-ci doivent être économiquement acceptables, c'est-à-dire qu'ils doivent être proportionnés par rapport au chiffre d'affaires qui peut être obtenu avec un produit."
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-4",
+   "number": "5.5.4",
+   "title": "Caractéristiques d'une bonne publicité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La publicité doit avoir un effet durable. Les clients apprécient davantage les publicités avec de la musique et de l'humour, moins celles avec des dessins animés et des démonstrations de produits. Une bonne publicité présente les caractéristiques suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Mémorable, qui attire l’attention (originale, divertissante mais pas de mauvais goût)",
+      "Bien ciblée",
+      "Qui correspond à la réalité, c'est-à-dire qu'elle ne vante que les caractéristiques que le produit possède réellement."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Une agence de publicité hambourgeoise a décrit la bonne publicité comme suit:"
+    },
+    {
+     "t": "p",
+     "text": "Une bonne publicité, c'est: viser la tête et toucher le portefeuille."
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-5",
+   "number": "5.5.5",
+   "title": "Publicité en ligne",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Être présent sur internet permet de développer sa visibilité ou encore de cibler précisément un public en fonction de critères précis tout en mesurant la portée (l’impact) des annonces publiées grâce au taux de clics. Le taux de clics permet de d’identifier facilement les publicités efficaces de celles qui ne le sont pas, ce qui permet de mieux cibler les coûts publicitaires. La publicité sur Internet est souvent facturée « au clic », c'est-à-dire que les publicitaires reçoivent des honoraires de succès: plus les utilisateurs cliquent sur la publicité, plus leur revenu est élevé. Il existe plusieurs plateformes dont le but est d’aider les annonceurs à mettre en place des campagnes de communication en ligne. Ces outils permettent d’obtenir les taux de conversion de la publicité tout en sachant si l’action est rentable ou non. Ces outils sont: Google Ads, Facebook Ads, Instagram Ads, Amazon Advertising. Publicité par e-mail La publicité par e-mail consiste à envoyer aux clients potentiels un e-mail contenant un lien vers le site Internet de l'expéditeur et en les invitant à cliquer sur ce lien. En règle générale, ces e-mails fonctionnent également avec le taux de clics et permettent d'évaluer les contacts clients effectués."
+    },
+    {
+     "t": "p",
+     "text": "Bannières publicitaires Les bannières publicitaires (ou bandeaux) les messages publicitaires qui sont attachés à une page Internet. Il s'agit le plus souvent d'éléments graphiques destinés à attirer l'attention des utilisateurs. Le produit promu ne doit pas nécessairement avoir un lien direct avec le contenu de la page Internet. Comme ce type de publicité a massivement augmenté, un effet d'accoutumance s'est produit chez les utilisateurs, appelé \"banner blindness\" (aveuglement des bannières). Pour contrer cet effet, les messages publicitaires sont conçus de manière toujours plus voyante."
+    },
+    {
+     "t": "p",
+     "text": "Exemple de bannière publicitaire: les bannières sont conçues de manière de plus en plus voyante."
+    },
+    {
+     "t": "p",
+     "text": "Content Ad"
+    },
+    {
+     "t": "p",
+     "text": "Le Content Ad (contenu supplémentaire) est une publicité qui, contrairement aux bannières publicitaires, est associée à un site web de la manière la plus discrète possible. Il est difficile de distinguer la publicité du site web. En conséquence, l'un ou l'autre utilisateur ne remarque qu'après coup qu'il a lu de la publicité au lieu du contenu du site web."
+    },
+    {
+     "t": "p",
+     "text": "Exemple d'une annonce de Content Ad: il est difficile de distinguer la publicité sur le site web."
+    },
+    {
+     "t": "p",
+     "text": "Pop-up ou pop-under Pop-up et pop-under sont des termes marketing qui désignent une fenêtre qui s'affiche lors d'une navigation au sein d'un site web. Ils s'ouvrent automatiquement et incitent les internautes à l'action. Les pop-ups, de plus petite taille que la fenêtre principale, chevauchent le contenu de la page web qui est consultée. Alors que les pop-unders sont totalement non invasifs. Contrairement aux pop-ups, les pop-unders n’interrompent pas les utilisateurs qui naviguent paisiblement sur internet. L'internaute ne s’en aperçoit que quand il a fermé l’onglet qu’il consultait. L'affichage des pop-ups peut être supprimé à l'aide d'un bloqueur de pop-ups. Une forme plus récente de pop-ups est ce que l'on appelle les Hover Ads. Elles sont placées sur un site web de manière à en masquer le contenu et à forcer l'attention de l'utilisateur. Pour accéder au site souhaité, il faut fermer la fenêtre publicitaire."
+    },
+    {
+     "t": "p",
+     "text": "L'exemple d'une Hover Ads: le contenu de la page web est masqué par la publicité. Pour pouvoir lire la page Web, il faut fermer la Hover Ad."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 205"
+     ]
+    }
+   ]
+  }
+ ]
+}

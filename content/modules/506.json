@@ -1,0 +1,379 @@
+{
+ "code": "506",
+ "title": "Assurance qualité (AQ) dans la production",
+ "domain": "500",
+ "pdf": "M506.pdf",
+ "pages": 17,
+ "words": 3884,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Des produits ou des services de bonne qualité sont des facteurs importants pour EnterSite AG afin de rester compétitif par rapport aux autres fournisseurs. Ainsi, une assurance qualité systématique est un facteur important pour le succès de l'entreprise. Pour EnterSite AG, il est important de reproduire ses chaînes de fabrication et de garantir la traçabilité. Pour assurer la qualité de ses produits, EnterSite AG mise également sur ses collaborateurs en les impliquant activement dans les processus et en essayant de mettre par écrit leurs connaissances spécialisées à la disposition de tous. Aperçu de la planification du module 506"
+    },
+    {
+     "t": "p",
+     "text": "Comme expliqué dans le module 501, la qualité de la production est l'un des objectifs les plus importants et doit faire face à certains défis. Le but est de maintenir l’objectif de qualité atteint et de l’améliorer."
+    }
+   ]
+  },
+  {
+   "id": "s-6-1",
+   "number": "6.1",
+   "title": "Management de la qualité (MQ) vs Assurance qualité (AQ)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La qualité de la production se réfère aux termes suivants: Management de la qualité (MQ) et assurance qualité (AQ). Afin d'utiliser correctement ces termes, il est important de pouvoir délimiter les domaines d'activité."
+    },
+    {
+     "t": "p",
+     "text": "6.1.1Management de la qualité (MQ) L’objectif lié à la qualité nécessite le besoin d’une p roduction structurée et la gestion de la qualité consiste à définir cette structure. Il convient de répondre aux interrogations suivantes: quels types de production utiliser et quelles organisations mettre en place? Quel est le flux de matériel le plus approprié? Les tâches de travail so nt répertoriées et sont souvent consignées dans un manuel de gestion de la qualité. Remarque: la gestion de la qualité s’applique à tous les domaines d’activité de l’entreprise et pas seulement aux produits ou services concernés mais à tous les processus de l'entreprise ayant une influence sur la satisfaction des clients. UUnn eexxeemmppllee dd''EEnntteerrSSiittee AAGG 1. Lors de la production de l'article (SwissEnterSite Cartridge n° d'article GT10-TN221), le processus qualité est consigné par écrit à tous les niveaux: quels fournisseurs, quelles matières premières, selon quel type de fabrication et d'organisation, quelle méthode utilisée au niveau du flux du matériel. Cette documentation regroupe l’ensemble du processus de fabrication et définit les tâches des collaborateurs, pour atteindre la qualité souhaitée."
+    }
+   ]
+  },
+  {
+   "id": "s-6-1-2",
+   "number": "6.1.2",
+   "title": "Assurance qualité (AQ)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La gestion de la qualité permet d’atteindre le niveau de q ualité souhaité, lequel doit être maintenu ou, si possible, amélioré. L'assurance qualité intervient à la suite du Management de la qualité (MQ) et a pour mission de détecter et"
+    },
+    {
+     "t": "p",
+     "text": "d'éliminer à temps les éventuelles influences négatives sur la qualité du produit final. L'assurance qualité doit garantir que les directives du Management de la qualité sont respectées et correctement appliquées. Cont rairement au contrôle de la qualité qui se concentre sur la qualité d'un produit, l'assurance qualité contrôle toutes les activités et procédures ( processus) a u s e i n d e l'entreprise. Si le niveau de qualité souhaité n'est p as atteint, les services ou produits concernés sont retirés de la gamme et le circuit devra être amélioré jusqu'à ce que le résultat souhaité (qualité) soit atteint. UUnn eexxeemmppllee dd''EEnntteerrSSiittee AAGG Le processus de fabrication du produit (SwissEnterSite Cartridge n° article GT10-TN221) a été défini dans le cadre de la gestion de la qualité et le produit a ensuite été fabriqué. Une fois la production terminée et le produit expédié au client, le processus peut être évalué: la qualité souhaitée et donc la satisfaction du client ont-elles été atteintes? Les coûts de production ont-ils été respectés conformément à la gestion de la qualité? S'il est possible de répondre par l'affirmative à ces questions, EnterSite AG a la certitude que sa MQ, y compris sa mise en œuvre, peut atteindre le résultat souhaité. Si ce n'est pas le cas, le processus passe par le cycle d'amélioration afin de remédier aux défauts constatés."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2",
+   "number": "6.2",
+   "title": "Méthodes du MQ et de l’AQ",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le Management de la qualité et l'assurance qualité sont inte rdépendantes dans le processus de production et la transition peut éga lement être fluide. Pour atteindre, garantir ou améliorer la qualité, la production dispose d'un grand choix de méthodes différentes. La difficulté consiste à tro uver la méthode adaptée à la production. Voici une sélection non exhaustive de méthodes utilisées dans la production:"
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-1",
+   "number": "6.2.1",
+   "title": "Kaizen",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans la production actuelle, la méthode Kaizen a acquis une grande importance. Le terme \"kaizen\" signifie \"Kai = changement et \"zen\" = pour le mieux\". Elle trouve son origine dans l'industrie automobile a u Japon où la méthode a été développée dès 1980. Ce n'est que bien des années plus tard que cette méthode a été véritablement connue et adoptée dans la production. Elle vise à améliorer de manière progressive la qualité de production des entreprises. Un outil important utilisé par la méthode est connu sous le nom de cycle PDCA."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-2",
+   "number": "6.2.2",
+   "title": "Le cycle PDCA",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le cycle PDCA est un modèle de mise en œuvre du changement. Créé par le statisticien et physicien américain Walter Shewart, et comme déjà mentionné, ce modèle est aujourd'hui intégré et développé dans différentes méthodes (par exemple Kaizen). Le PDCA est une méthode simple qui se déroule en quatre étapes et permet aux équipes d'éviter les erreurs récurrentes et d'améliorer les processus."
+    },
+    {
+     "t": "p",
+     "text": "PLAN = Planifier Le cycle PDCA commence par PLAN (planifier). Pour une bonne réalisation du projet, une planification doit être établie en tenant compte de l’ample ur du projet. Une planification optimale permet à l'entrepri se d'éviter certains problèmes lors des étapes suivantes pour lesquelles il convient de répondre aux questions suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quel est le problème principal à résoudre?",
+      "Quelles sont les ressources nécessaires?",
+      "Quelles sont les ressources disponibles?",
+      "Quelle est la solution la plus appropriée pour résoudre le problème avec les ressources disponibles?",
+      "Dans quelles conditions le plan réussit-il?",
+      "Quels sont les objectifs?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Source: https://businessmap.io/fr"
+    },
+    {
+     "t": "p",
+     "text": "Une fois ces questions résolues, la prochaine étape est la suivante:"
+    },
+    {
+     "t": "p",
+     "text": "DO = Faire (réaliser) Cette phase du cycle PDCA permet de voir si la planification de la première étape est vraiment suffisante. Dans la pratique, il co nvient de prendre en compte qu’en théorie toute planification peut être cahoteuse lors de sa mise en œuvre. Il faut donc tenir compte du fait que des problèmes imp révus peuvent encore survenir. Il est important que chacun connaisse et assume son rôle et ses responsabilités. La communication revêt ég alement une grande importance dans cette phase."
+    },
+    {
+     "t": "p",
+     "text": "CHECK = Contrôler On dit que la phase CHECK (vérifier) est la plus importante du cycle PDCA. Si l'on veut éviter les erreurs récurrentes et viser une amélioration continue, il faut accorder suffisamment d'attention à cette phase. La planifica tion doit être examinée de manière critique au fur et à mesure de sa mise en œuvre. Qu'est-ce qui a fait ses preuves? Où y a-t-il un potentiel e t où le processus pose-t-il problème? Ces points faibles doivent être identifiés et discutés. Les causes sont repérées, analysées et traitées. ACT = Action Après beaucoup de travail et de temps, la dernière phase peut être mise en œuvre: ACT (action). Le plan élaboré au cours des phases précédentes, qui a été mis en œuvre et vérifié, doit maintenant être évalué. Si les objectifs fixés ont été atteints, le processus peut se poursuivre. Les co llaborateurs ont toutefois pour mission de remettre le cycle en question à l'avenir, car la fabrication évolue rapidement et peut connaître des changements."
+    },
+    {
+     "t": "p",
+     "text": "Remarque: le cycle PCDA est utilisé pour obtenir une amélioration constante et peut avoir un effet positif sur la productivité et l'efficacité."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-3",
+   "number": "6.2.3",
+   "title": "Processus d'amélioration continue",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un processus d'amélioration continue (PAC) décrit l'amélioration constante de la qualité des produits, des processus et des services. Chaque département ou équipe travaille de manière autonome à l'amélioration de ses propres domaines de responsabilité. L'accent est mis sur de nombreuse s petites améliorations. Du point de vue de l'entreprise, il est important d'ancrer le processus d'amélioration continue dans la culture d'entreprise. Que comprend le processus? Le PAC comprend toutes les mesures d'amélioration possibles dan s les différents domaines. Les collaborateurs doivent être moti vés pour trouver des mesures d'amélioration dans leur domaine. Il est importan t d'entreprendre de nombreuses petites mesures rapides à me ttre en œuvre plutôt que d'en faire de grands projets de longue haleine. La démarche PAC comprend:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Trier",
+      "Éviter",
+      "Propreté",
+      "Faire le ménage",
+      "Ordre",
+      "Simplicité",
+      "Standardisation"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour améliorer le plus rapidement possible les processus et obtenir ainsi les premiers succès, il est nécessaire de fixer certaines règle s qui seront ensuite respectées."
+    },
+    {
+     "t": "p",
+     "text": "Pourquoi le PAC? Une entreprise souhaite satisfaire ses clients et conso lider sa position sur le marché. Grâce au PAC, l'entreprise peut s'adapter en permanence aux conditions changeantes du marché. L'entreprise évolue constamment et peut s'adapter de manière optimale aux différentes exigences des clients."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-4",
+   "number": "6.2.4",
+   "title": "Domaines d'application",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans une entreprise, il existe de nombreux processus ou activités pour lesquels le PAC peut être mis en œuvre. Les plus importants sont certainement ceux de l'administration et de la production."
+    },
+    {
+     "t": "p",
+     "text": "Bureau Le PAC s'occupe de la propreté, de l'ordre et du rangement. Un bureau propre et bien rangé limite le temps de recherche pour les collab orateurs, réduit le risque d'erreurs et accélère les processus."
+    },
+    {
+     "t": "p",
+     "text": "Fabrication et logistique Dans la production et la logistique, les distances à par courir par les collaborateurs doivent être réduites; l’accès aux pièces à usiner et la mise à disposition des outils doivent être facilités. Pour éviter les erreurs, il faut également veiller à ce que le flux des informations soit pa rfaitement coordonné."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-5",
+   "number": "6.2.5",
+   "title": "Effets du PAC",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "L'implication et le droit de regard des collaborateurs permettent d'activer leur potentiel de performance.",
+      "La compétitivité de l'entreprise est accrue.",
+      "Les emplois sont préservés. Remarque: le développement de la culture d'entreprise et une bonne gestion d'entreprise sont des facteurs de réussite essentiels du PAC. Cela renforce les chances de succès de l'entreprise sur un marché en constante évolution."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-6",
+   "number": "6.2.6",
+   "title": "Muda",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "\"Muda \" en japonais signifie \"gaspillage\". Le terme \"gaspillage\", désigne le fait de dépenser ou d'utiliser de manière inefficace des ressources, que ce soit du temps, de l'énergie, des matériaux, etc. Les entreprises qui acceptent des activités inutiles et sans valeur ajoutée dans le processus de création de valeur perdent en rentabilité. Souvent, les gaspillages ne sont malheureusement même plus perçus."
+    },
+    {
+     "t": "p",
+     "text": "Identifier les gaspillages Dans un processus, le gaspillage provient du fait que le s activités n'ont pas d'effet réel sur la création de valeur. En d'autres termes, on gaspille un temps de travail précieux pour des activités inutiles qui augment ent automatiquement les coûts de fabrication du produit. Ce mode de fair e se répercute sur le coût du produit et donc sur le client qui n ’est pas toujours disposé à payer plus cher, ce qui contraint l’entreprise à réduire sa marge."
+    },
+    {
+     "t": "p",
+     "text": "Analyse de la situation actuelle Une analyse approfondie est nécessaire pour identifier le s gaspillages. Très souvent, il est utile de faire appel à des personnes externes, non pas parce que les personnes internes à l'entreprise ne le peuvent pas, mais plus on travaille longtemps dans une entreprise, plus le risque de \"cécité professionnelle\" augmente. Celui-ci conduit, par exemple, à accepter simplement certaines procédures parce qu'elles ont toujours été appliquées de cette manière et que personne ne songe à y apporter des modifications. Les 7 types de gaspillage Muda: Surstockage ou stock inutile: Les produits semi-finis s'accumulent devant les postes de fabrication avant d'être traités; des stocks qui prennent beaucoup de place et immobilisent ainsi du capital. Surproduction: On produit trop, par exemple parce que la planification n'est pas bonne ou comme tampon excessif pour absorber les erreurs dans les processus. Transport et déplacement inutile: Des transports longs et inconsidérés qui n'apportent aucune valeur ajoutée aux produits. Temps d'attente: Mauvaise planification des capacités; le temps d'attente inutile des employés ou des machines peut entraîner une inefficacité et un gaspillage Erreurs, qualité insuffisante: En raison d'une qualité insuffisante, il y a trop de rebuts qui doivent être remplacés ou qui entraînent des coûts de reprise. Surprocessing, traitements inutiles: Tout mouvement ou processus qui n'ajoute pas de valeur au produit final est considéré comme un gaspillage. Sous-utilisation des compétences: Ne pas tirer pleinement parti des compétences et des connaissances des employés constitue également un type de gaspillage."
+    },
+    {
+     "t": "p",
+     "text": "Évaluer Les types de gaspillage doivent faire l’objet d’une évaluation, établie sur des bases de calculs uniformes (par exemple, pièces par jour). L'analyse de Pareto permet d'identifier les 20 % de sources de gaspillage, responsables de 80 % du gaspillage existant. Ces 20 % sont les premiers à être éliminés dans une prochaine étape. Contre-mesures Dans cette phase, il s'agit de trouver des contre-mesures appropriées aux 7 types de gaspillage identifiés dans l'analyse de la situation actuelle."
+    },
+    {
+     "t": "p",
+     "text": "Évaluation Dans une dernière étape, les solutions ou les mesures doivent encore être classées par ordre de priorité et évaluées afin de procéder à une planification correspondante de la mise en œuvre. Les activités suivant es aident à mettre en œuvre les améliorations de manière structurée:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Classer les mesures en solutions à court terme, à moyen terme et à long terme en fonction de l'effort, de la durée et de l'effet.",
+      "Pour chaque mesure, des responsables et des dates cibles do ivent être définis.",
+      "Contrôler les mesures mises en œuvre à intervalles réguliers. Remarque: comme pour tout processus de changement, il est très important d'impliquer les collaborateurs de Muda dans leurs processus de travail respectifs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-7",
+   "number": "6.2.7",
+   "title": "ISO 9001",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une autre méthode dans les domaines de la MQ et de l' AQ, qui revêt une grande importance dans la pratique, est la certification d'un standard de qualité. Cette méthode présente un avantage par rapport au Ka izen ou au cycle PDCA: à l a f i n, l ' e n t r e p r i s e r e ç o i t u n e c e r t i f i c a t i o n e t d onc une confirmation que la MQ et l 'AQ sont assurées. L' International Organization for Standardization ( ISO) est responsable de la certification. L'ISO a différentes séries de chiffres qui caractérisent un domaine particulier. Dans le domaine de la logistique, les certifications sont bien connues: ISO 9001 = Exigences relatives aux systèmes de gestion de la qualité ISO 14001 = Système de gestion de l'environnement EExxeemmppllee ddee cceerrttiiffiiccaattiioonnss:: Les normes internationales facilitent l'échange de biens et de services pour l'économie, car elles fixent des exigences uniformes pour les produits des participants au marché. En Suisse, l'exigence la plus importante en matière de gestion et d'assurance de la qualité porte la désignation SN EN ISO 9001:2015. Cela signifie:"
+    },
+    {
+     "t": "p",
+     "text": "SN = norme suisse EN = norme européenne ISO = organisation internationale de normalisation 9001 = ordre des chiffres pour les exigences relatives aux systèmes de gestion de la qualité 2015 = année de publication de cette version"
+    },
+    {
+     "t": "p",
+     "text": "Très concrètement, cette certification définit ce qui suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "L'organisation du système de gestion de la qualité",
+      "La gestion du personnel et de l'infrastructure",
+      "La réalisation du produit",
+      "La mesure, l'analyse et l'amélioration"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La certification ou les directives doivent être définies et mises en œuvre individuellement pour chaque entreprise. Le coût d'une tel le certification est"
+    },
+    {
+     "t": "p",
+     "text": "très élevé. C'est pourquoi les avantages qu'une entreprise en retire doivent être suffisamment importants. Les avantages de la certification ISO9001 sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Une meilleure adéquation entre les prestations fournies et la qualité du produit",
+      "Une plus grande satisfaction des clients",
+      "Une meilleure compréhension du client",
+      "Une amélioration des performances et du rendement au travail",
+      "Une réduction des coûts dans le processus de production",
+      "Une meilleure communication (interne et externe)",
+      "Un meilleur moral et une plus grande satisfaction des employés",
+      "L’image"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Audit interne et externe Avant qu'une entreprise ne reçoive une certification, u n audit vérifie si ses processus répondent aux normes requises. En règle générale, on travaille avec un audit interne et un audit externe. Lors de l' audit interne, des personnes formées au sein de l'entreprise analysent les processus internes et les développent en collaboration avec les collaborateurs. E n v u e d e l a certification, un audit externe est également effectué pe ndant une période déterminée. L' audit externe est réalisé par une personne professionnelle extérieure à l'entreprise. Les collaborateurs sont in terrogés sur différents processus de travail lesquels sont, par la suite, analysés et développés en commun."
+    }
+   ]
+  },
+  {
+   "id": "s-6-3",
+   "number": "6.3",
+   "title": "Ressources et efficacité énergétique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans la production, nous sommes tributaires des ressources limitées de la planète Terre. En augmentant les processus d'énergie e t de recyclage, nous pouvons nous aussi apporter une petite contribution pour relever les défis mondiaux."
+    }
+   ]
+  },
+  {
+   "id": "s-6-3-1",
+   "number": "6.3.1",
+   "title": "L'économie circulaire",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Avec notre mode de vie interconnecté et complexe, nous sommes confrontés à un problème fondamental. Étant donné que les réserves de ressources terrestres nécessaires à nos modes de vie seront, à l’avenir, de plus en plus limitées, il convient de trouver des alternatives. L'utilisation d'appareils électroniques en est un exemple. Ceux-ci entraînent une énorme consommation de métaux rares, qui ne seront pas disponibles à l'infini sur la planète Terre pour nos générations futures. De plus, notre environnement souffre des émissions produites par la fabrication et l'utilisation de ces produits. De tels exemples montrent que nous devrons à l'avenir repenser nos concepts de recyclage et nos flux de matériaux. Une économie dite circulaire assure une maximisation substa ntielle de l'efficacité des ressources. Les entreprises qui soutiennent les technologies pour des processus efficaces en termes de ressources et la production durable auront un avantage concurrentiel à l'avenir."
+    },
+    {
+     "t": "p",
+     "text": "\"Urban Mining\" L'entreprise Bosch, par exemple, travaille depuis un cert ain temps \"sur des technologies pour mettre en place des processus efficaces en termes de ressources, afin de soutenir la production durable et int roduire rapidement les innovations sur le marché\". L'\"Urban Mining\" est un terme qui prend de plus en plus d'importance dans le contexte de l'efficacité des ressource s. Il désigne l'extraction de matières premières dans les environnements urbains. Pour ce faire, les appareils mis au rebut et plus utilisés son t démontés en pièces détachées afin de récupérer des métaux rares ou des matières plastiques."
+    },
+    {
+     "t": "p",
+     "text": "Augmentation de l'efficacité des ressources et de l'énergie Dans la recherche de moyens pour faire face à la pénurie de ressources et d'énergie, l'économie circulaire représente une solution potentielle. Elle consiste à réintroduire des ressources dans le système et vise également à éviter autant que possible les déchets, les émissions e t les pertes d'énergie en rétrécissant et en ralentissant les cycles de l'énergie et des matériaux. Dans l'idéal, il n'y a plus de déchets, car les substances pe uvent être réintroduites dans l'économie, où elles sont transformées en d'autres produits, matériaux ou composants. Mais, pour cela, il faut aussi que l es politiques s'efforcent d'établir des règles uniformes et contraignantes pour tous."
+    },
+    {
+     "t": "p",
+     "text": "A retenir: la réduction des déchets, le recyclage et l'allongement du cycle de vie des produits par leur réutilisation ou leur transfo rmation en d'autres produits sont autant de possibilités pour préserver le s ressources et améliorer l'efficacité énergétique."
+    }
+   ]
+  },
+  {
+   "id": "s-6-4",
+   "number": "6.4",
+   "title": "Traçabilité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La traçabilité est la capacité de suivre tous les processus liés à un produit: de l'approvisionnement en matières premières à l'utilisateur final, en passant par la production et l'élimination. Toutes les méthodes de gestion et d'assurance de la qualité déjà traitées incluent la thématique de la traçabilité. La traçabilité a pris énormément d'importance ces dernières années en raiso n des exigences de qualité et de sécurité. Dans des domaines aussi variés qu e l'industrie automobile, l'électronique, l'alimentation et la pharma cie, la traçabilité est devenue incontournable. En conséquence, elle est exigée dans certaines méthodes (p.ex. ISO9001). Pour assurer la traçabilité, les informations telles q ue les noms des fabricants, des fournisseurs et des intermédiaires doivent être document ées. Ainsi, les informations peuvent être suivies à chaque étape du proce ssus: de l'approvisionnement en matières premières ou en produits semi-finis à leur traitement mécanique, leur assemblage, leur distribution et leur vente. L'historique complet du produit reste ainsi traçable."
+    },
+    {
+     "t": "p",
+     "text": "6.4.1 Pourquoi la traçabilité est-elle si importante? Si un problème de qualité du produit est détecté, le fabricant doi t pouvoir réagir immédiatement et prendre des mesures efficaces pour y r emédier. Un produit est souvent fabriqué à partir de plusieurs centain es, voire milliers de composants. La documentation de chacun de ces composants est un défi de taille et demande beaucoup d'efforts. Mais si un problème su rvient sur un produit, il faut pouvoir identifier quel composant en est la cause, quel fournisseur a livré ce composant et avec quels autres produits ce composant a été fabriqué. RReemmaarrqquuee:: la traçabilité permet d'assurer la qualité du produit et de garantir la sécurité du produit."
+    },
+    {
+     "t": "p",
+     "text": "EExxeemmppllee 11:: ttrraaççaabbiilliittéé ppoouurr aatttteeiinnddrree oouu ggaarraannttiirr llaa qquuaalliittéé Dans l'industrie automobile, un indicateur de pression des pneus est aujourd'hui installé de manière standard dans les nouvelles voitures. L'indicateur de pression des pneus doit détecter si la pression des pneus est trop basse et afficher cette information sur l'écran de la voiture. En raison de la mondialisation, la pression sur les prix des composants techniques des manomètres pour pneus augmente. C'est pourquoi les producteurs prennent des mesures pour les produire à un prix encore plus bas. Lorsqu'une entreprise achète et installe une telle série bon marché de mauvaise qualité, les propriétaires de voitures reçoivent constamment l'information que la pression des pneus est trop basse. Après plusieurs visites au garage, ils doivent faire changer le capteur. Le prix de la dépense ainsi occasionnée et de la perte d'image pour l'entreprise est plus élevé que l'économie réalisée grâce au prix d'achat avantageux."
+    },
+    {
+     "t": "p",
+     "text": "Conclusion: l'entreprise a accepté une perte de qualité pour un prix d'achat avantageux, a irrité les clientes et les clients et a occasionné un surcroît de travail pour elle-même et pour sa clientèle. Il est maintenant important d'identifier quel fournisseur et quelle série sont concernés. A l'avenir, il se peut que ce fournisseur ne soit plus pris en compte."
+    },
+    {
+     "t": "p",
+     "text": "EExxeemmppllee 22:: ttrraaççaabbiilliittéé eenn mmaattiièèrree ddee ssééccuurriittéé La traçabilité sert également à pouvoir garantir la sécurité d'un produit. En effet, non seulement les manomètres pour pneus, mais aussi les plaquettes de frein sont exposées à la pression sur les prix résultant de la mondialisation. Les garnitures de frein (également appelées plaquettes de frein) sont pressées contre un tambour ou un disque de frein et la pression qui en résulte provoque le freinage du véhicule. Si l'on achète une série de plaquettes de frein de mauvaise qualité, qui peuvent se briser en cas de charge trop importante, la sécurité du conducteur ou de la conductrice est menacée. Si un tel défaut apparaît, il faut pouvoir agir rapidement. Grâce à la traçabilité, le producteur peut savoir chez quel fournisseur la série a été achetée et sur quels véhicules les garnitures de frein ont été montées. Il est ainsi possible de retrouver les propriétaires des véhicules et de les inviter à faire remplacer immédiatement les plaquettes de frein dans le garage le plus proche."
+    }
+   ]
+  },
+  {
+   "id": "s-6-5",
+   "number": "6.5",
+   "title": "Instructions de procédure (IP)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les instructions de procédure ( IP) indiquent quand, dans quelle situation, par qui et de quelle manière il faut procéder. Les instructions de procédure sont un instrument d'assurance et d'amélioration de la qualité utilisé dans les méthodes les plus diverses de la production. Il est essentiel que les instructions soient prises au sérieux dans l'entreprise et qu'elles soient réell ement appliquées dans le travail quotidien. L'instruction de procédure est représentée schématiquement et complétée par les personnes ou les services compétent s ainsi que par les outils disponibles."
+    },
+    {
+     "t": "p",
+     "text": "Les instructions de procédure présentées dans le graphique sont requises pour toutes les activités de l'entreprise lors d'une certificat ion ISO9001 et sont contrôlées lors d'un audit."
+    }
+   ]
+  },
+  {
+   "id": "s-6-6",
+   "number": "6.6",
+   "title": "Autres méthodes connues dans l'assurance qualité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Elle est produite dans le monde entier. En conséquence, beaucoup de temps est consacré à la recherche de nouvelles méthodes ou au développement des méthodes existantes. Voici d'autres méthodes ou instruments connus pour atteindre et garantir la qualité:"
+    }
+   ]
+  }
+ ]
+}

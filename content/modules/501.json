@@ -1,0 +1,202 @@
+{
+ "code": "501",
+ "title": "Bases de la production",
+ "domain": "500",
+ "pdf": "M501.pdf",
+ "pages": 9,
+ "words": 915,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le terme \"produire\" désigne la fabrication la plus efficace possible de biens (input) ou de services. Les matières premières sont transformées à l’aide de machines et d’installations (output). Le terme « production » désigne également le résultat du processus de production, appelé rendement de production. Ce processus est souvent appelé processus de création de valeur. Avant qu’une production puisse avoir lieu, une idée et son développement sont nécessaires. La collaboration entre les développeurs de produits et les producteurs joue souvent un rôle décisif dans le succès ou l’échec du lancement de nouveaux produits."
+    },
+    {
+     "t": "p",
+     "text": "Aperçu de la planification du module 501"
+    },
+    {
+     "t": "p",
+     "text": "1.Production"
+    }
+   ]
+  },
+  {
+   "id": "s-1-1",
+   "number": "1.1",
+   "title": "La définition de la production",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le terme \"production\" trouve son origine dans le latin: Le mot \"Producere\" signifie \"produire\". La production désigne la fabrication de biens matériels, d'énergie et de services."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Biens matériels: par ex. voiture, téléphone portable, pain, montres",
+      "Énergies: par ex. électricité, chaleur, essence",
+      "Services: par exemple, émissions de télévision, assurances"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La production est une transformation d'inputs (facteurs de production) en outputs à l'aide de techniques spécifiques."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prestation de travail: p. ex. personnes, spécialistes",
+      "Matériel d'exploitation: p. ex. machines de production",
+      "Matériaux: p. ex. matières premières, matériaux bruts"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "En principe, le processus de production est un processus de création de valeur dans lequel l'utilisation de biens d'entrée et la combinaison de facteurs de production permettent d'obtenir des biens de sortie de la plus haute qualité possible."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2",
+   "number": "1.2",
+   "title": "Objectifs et tâches de la production",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "\"Si tu veux construire un bateau, ne rassemble pas les hommes pour trouver du bois, attribuer les tâches et répartir le travail, mais enseigne-leur la nostalgie de la mer vaste et infinie\". Citation d'Antoine de Saint-Exupéry."
+    },
+    {
+     "t": "p",
+     "text": "L'un des objectifs fondamentaux de la production est de fabriquer un bon produit, un produit qui répond aux attentes et aux souhaits des clients, ou"
+    },
+    {
+     "t": "p",
+     "text": "mieux encore, qui les dépasse. Pour ce faire, la production s'efforce d'atteindre les objectifs suivants"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Coûts réduits: produire le pain au meilleur prix possible",
+      "Un rendement élevé: Pouvoir produire le plus possible",
+      "Haute qualité du produit: fabriquer un produit qui répond aux exigences de qualité. Produire le moins possible de rebuts (pièces défectueuses).",
+      "Respect élevé des délais: pouvoir livrer à temps (pas trop tard, mais pas trop tôt non plus).",
+      "Une charge de travail élevée dans la production: Les employés et les machines disponibles ont suffisamment de travail.",
+      "Temps de passage réduit: produire les produits dans un délai aussi court que possible.",
+      "Un niveau élevé de satisfaction des clients: répondre à leurs attentes."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les matières premières ou les produits non finis sont transformés de l'état actuel à l'état souhaité dans le cadre d'un processus de changement (transformation). La main-d'œuvre (les personnes) a besoin pour cela du soutien de machines, d'outils et d'énergie. Remarque: la production accomplit une transformation."
+    },
+    {
+     "t": "p",
+     "text": "Travail des métaux dans la production"
+    }
+   ]
+  },
+  {
+   "id": "s-1-3",
+   "number": "1.3",
+   "title": "Développement de produits",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-1-3-1",
+   "number": "1.3.1",
+   "title": "De l'idée au produit",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le développement de produits comprend toutes les activités qui mènent à un produit vendable. De la vision/idée au lancement du produit sur le marché."
+    },
+    {
+     "t": "p",
+     "text": "Un exemple pratique: la vision de Zeridwen L'exemple de Zeridwen permet d'illustrer le processus allant du développement d'un produit jusqu'au modèle fonctionnel. Zeridwen est une poupée destinée à initier les enfants de 4 à 9 ans au brossage des dents avec une brosse à dents manuelle."
+    },
+    {
+     "t": "p",
+     "text": "La poupée Zeridwen doit montrer comment se brosser les dents à l'aide de témoins lumineux placés dans sa dentition et les enfants doivent reproduire les mouvements avec la brosse à dents."
+    },
+    {
+     "t": "p",
+     "text": "Il y a de très nombreux enfants dans le monde qui se brossent les dents tous les jours. Selon une étude de la Haute école d'économie de Berne, le marché potentiel de Zeridwen est de 11,8 millions d'unités dans l'espace européen."
+    },
+    {
+     "t": "p",
+     "text": "Des dessins techniques de Zeridwen (modèle fonctionnel) sont d'abord réalisés. Un modèle fonctionnel est ensuite réalisé sur la base de ces dessins."
+    },
+    {
+     "t": "p",
+     "text": "Le modèle fonctionnel est une poupée qui fonctionne mais qui n'est pas encore prête à être vendue. Le modèle fonctionnel est conçu (dessiné) et transformé en modèle de série. Ce modèle de série sera finalement proposé et vendu sur le marché. Pour qu'il puisse être produit, le service des achats doit trouver les bons fournisseurs de matières premières et le service de planification et de gestion de la production (PCP) doit planifier précisément les pièces qui seront produites et préparer un processus de production sans faille. Finalement, un produit qui aide les parents et les enfants dans le processus quotidien de nettoyage des dents peut être proposé sur le marché."
+    },
+    {
+     "t": "p",
+     "text": "Montre-moi tes dents, petite..."
+    },
+    {
+     "t": "p",
+     "text": "En référence à un épisode de l'histoire du cinéma: \"Regarde dans mes yeux, petite\"."
+    },
+    {
+     "t": "p",
+     "text": "Film: Casablanca"
+    },
+    {
+     "t": "p",
+     "text": "Humphrey Bogart et Ingrid Bergmann Juillet 1942"
+    }
+   ]
+  },
+  {
+   "id": "s-1-4",
+   "number": "1.4",
+   "title": "Structure des produits",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La structure du produit organise le produit selon certains critères. Cette structure est nécessaire pour planifier et contrôler le processus de fabrication (conception - achat - production - montage). Les différents services ont généralement des points de vue différents sur la structure du produit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Construction: quelles fonctions le produit doit-il remplir?",
+      "Achats: quels produits semi-finis, finis et quelles matières premières doivent être achetés?",
+      "Production: quelles sont les machines nécessaires à la production des composants?",
+      "Montage: dans quel ordre les composants et les sous-ensembles doivent-ils être montés?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-1-4-1",
+   "number": "1.4.1",
+   "title": "Objectif de la structure des produits",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une structure de produit devrait être aussi simple que possible et neutre que possible pour le client (standardisée) jusqu'aux niveaux supérieurs. Les différences individuelles (souhaits du client) par rapport au modèle standard devraient être faites le plus tard possible dans le processus de fabrication."
+    },
+    {
+     "t": "p",
+     "text": "RReemmaarrqquuee:: la structure du produit sert à la documentation complète à partir de différents points de vue ((pp.. eexx.. CCoonncceeppttiioonn//ffaabbrriiccaattiioonn)) d'un produit ou d'un groupe de produits similaires."
+    },
+    {
+     "t": "p",
+     "text": "PPrroodduuiitt SSttrruuccttuurree DDeessssiinnaatteeuurr MMoommeennccllaattuurree ss RRaappppoorrtt NNoommeennccllaattuurree"
+    }
+   ]
+  }
+ ]
+}

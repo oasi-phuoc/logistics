@@ -1,0 +1,729 @@
+{
+ "code": "408",
+ "title": "Organisation de l'entrepôt",
+ "domain": "400",
+ "pdf": "M408.pdf",
+ "pages": 26,
+ "words": 6355,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "74 Module 408_Organisation de l'entrepôt L 'organisation de l'entrepôt est une tâche centrale dans toute entreprise. Elle sert par exemple à attribuer aux marchandises le bon emplacement dans l'entrepôt. Une organisation optimale de l'entrepôt est également importante lorsque l'entrepôt sert de lieu de transbordement ou de stockage intermédiaire et que les marchandises doivent y transiter le plus rapidement possible. L 'organisation de l'entrepôt détermine les formes de stockage utilisées, le principe selon lequel les marchandises sont gérées et bien d'autres choses encore, comme vous l’apprend - rez dans ce module."
+    },
+    {
+     "t": "p",
+     "text": "75 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique du module 408 Les entreprises de stockage et de distribution sont généralement organisées de manière que le flux de marchandises soit le plus court et le plus simple possible. Le flux de marchandises est le parcours que les marchandises effectuent au sein de l'entrepôt. Selon la tâche de l'entreprise, les processus internes sont adaptés aux besoins. Les exemples présentés sont donc indicatifs."
+    }
+   ]
+  },
+  {
+   "id": "s-8-1",
+   "number": "8.1",
+   "title": "Structure d'une entreprise de stockage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entreprises de stockage et de distribution sont conçues pour recevoir des marchandises en grandes quantités de la part des producteurs, les stocker et les livrer selon les besoins dans la quantité souhaitée. Pour ce faire, l'entreprise a be - soin:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "d’une réception de marchandises performante",
+      "d’une capacité de stockage suffisante",
+      "d’un secteur préparation de commandes",
+      "d’un service expédition"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "76"
+    }
+   ]
+  },
+  {
+   "id": "s-8-2",
+   "number": "8.2",
+   "title": "Planification d'un entrepôt",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La condition préalable à la réussite économique d'un entrepôt est une bonne pla - nification de l'entrepôt. La planification de l'entrepôt est influencée par divers fac - teurs et contraintes. Elle est très complexe et doit être adaptée individuellement aux besoins de l'entrepôt afin de garantir l'approvisionnement d'une production ou des clients. Une logistique d'entrepôt qui fonctionne bien est également un avantage concurrentiel à l'ère du juste à temps. Lors de la planification d'un entrepôt, différents critères doivent être pris en compte, car les entrepôts doivent être conçus et aménagés différemment en fon - ction des tâches et de la place disponible. La circulation fluide des marchandises est toujours au premier plan. Par conséquent, la planification de l'entrepôt débute par un inventaire détaillé des exigences qui ressortent de la pratique de l'entreprise ou qui peuvent être envisagées. En principe, les questions suivantes se posent:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Comment configurer le flux de marchandises de manière optimale?",
+      "Quelles marchandises doivent être stockées et en quelles quantités?",
+      "Quelles sont les exigences des marchandises en matière de stockage? ( Par ex., périssabilité, risque de vol ou dangerosité )?",
+      "Quelles tâches/fonctions l’entrepôt doit-il remplir? ( p. ex. fonction de tampon ou réserve )",
+      "Quelle charge au sol, quel degré d'utilisation de la surface et de l'espace sont possibles?",
+      "Quels sont les rayonnages, les technologies de l'information ( par ex. ERP, inter-faces, etc… ) et les moyens de manutention ( par ex. chariot élévateur, convo - yeur à rouleaux, etc… ) disponibles ou pouvant être achetés?",
+      "Quel système de stockage ( chaotique ou lotissement par case ) doit être uti - lisé?",
+      "Quelle doit être le degré d'automatisation ( stockage statique ou dynamique )?",
+      "Quelles sont les possibilités de développement de l'entrepôt?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Il est avantageux de pouvoir se baser sur des plans fiables des bâtiments, des chiffres clés de l'entrepôt ( comme la fréquence de rotation et le stock moyen des articles ), les résultats d'une analyse ABC effectuée au préalable, etc… Ces infor - mations sont essentielles pour déterminer de manière optimale les dimensions de l'entrepôt et de son aménagement. Il convient également de toujours prévoir une réserve suffisante afin de disposer d'une capacité de stockage suffisante en péri - ode de pointe. Une utilisation maximale de l'entrepôt – par rapport aux emplace - ments de stockage disponibles – de 80 à 90 % maximum s'est avéré optimale. Des taux d'utilisation plus élevés entraînent souvent des problèmes dans les activités quotidiennes."
+    },
+    {
+     "t": "p",
+     "text": "77 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Agencement de l'entrepôt Une fois que les données disponibles ont été évaluées, que les questions ont été posées et que les emplacements nécessaires ont été déterminés, il faut passer à la conception de l'entrepôt. Pour ce faire, un agencement de l'entrepôt est créét. Exemple d'agencement d'un entrepôt L 'élaboration d'un agencement de l'entrepôt est une partie importante de la planification, elle est nécessaire pour la création de l'entrepôt et doit être soig - neusement élaborée. Le plan d'implan - tation donne des informations sur le flux de marchandises, les zones de stockage et les installations telles que les rayonna - ges et autres infrastructures. Une fois la mise en service achevée, la planification est vérifiée en permanen - ce et optimisée si nécessaire. Les ad - aptations sont liées à des coûts, c'est pourquoi une planification efficace de l'entrepôt est indispensable. On utilise de plus en plus de programmes de si - mulation numériques qui montrent le fonctionnement de l'entrepôt avant son aménagement. Ainsi, les éventuelles erreurs peuvent être détectées et éliminées dès la phase de planification."
+    },
+    {
+     "t": "p",
+     "text": "78"
+    }
+   ]
+  },
+  {
+   "id": "s-8-3",
+   "number": "8.3",
+   "title": "Types d'entrepôts par fonction",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Selon le processus, le stockage des marchandises a différentes fonctions. Les prin - cipaux types de stockage par fonction sont expliqués ci-dessous."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt intermédiaire Dans l’entrepôt intermédiaire, les marchandises sont mises à disposition jusqu'à la prochaine étape du processus. Le stockage intermédiaire permet donc de com - bler le temps entre deux étapes de processus. Pour ce type d'entrepôt, il est im - portant de disposer de capacités de stockage suffisantes pour permettre la mise à disposition rapide des marchandises en cas de besoin."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt de produits finis Dans les entrepôts de produits finis, les marchandises attendent d'être expédiées. La fonction de l'entrepôt de produits finis est de réduire au maximum le délai de livraison, d'éviter les ruptures de stock et d'offrir ainsi un service de qualité au cli - ent. Les entrepôts de produits finis sont donc idéalement situés à proximité du lieu d'expédition des marchandises."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt de transbordement L'entrepôt de transbordement est un type d'entrepôt similaire à l'entrepôt in - termédiaire. Ici aussi, les marchandises ne sont stockées que pendant une cour - te période avant d'être expédiées. Les entrepôts de transbordement sont surtout gérés par les entreprises de distribution. Dans un premier temps, toutes les livrai - sons de marchandises les plus diverses y sont réceptionnées. Dans un deuxième temps, elles sont préparées pour les différents points de vente et livrées."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt d'approvisionnement ou de matières premières Les stocks d'approvisionnement ou de matières premières sont principalement utilisés dans les entreprises de production. Les marchandises nécessaires à la pro - duction sont ainsi stockées et un flux de production optimal peut être garanti."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt de préparation des commandes Un entrepôt de préparation des commandes est approprié pour rassembler les commandes le plus efficacement possible. L 'objectif de l'entrepôt de préparation des commandes est de permettre aux collaborateurs d'accéder aux marchandises dans la mesure du possible. Dans un entrepôt de préparation des commandes, l'espace et le temps disponibles sont utilisés le plus efficacement possible."
+    },
+    {
+     "t": "p",
+     "text": "79 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Entrepôt de réserve Pour compenser les éventuelles fluctuations des besoins dans les entreprises et couvrir ainsi de longues périodes, des stocks sont constitués. Les entrepôts de ré - serve ont une rotation de stock faible et des stocks élevés."
+    }
+   ]
+  },
+  {
+   "id": "s-8-4",
+   "number": "8.4",
+   "title": "Formes de stockage simples",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La forme la plus simple de stockage de marchandises est le stockage au sol. Il peut être utilisé aussi bien à l'extérieur que dans un entrepôt fermé. Dans le cas du stockage au sol sans rayonnage, les marchandises sont stockées à même le sol, emballées ou non. Ce type de stockage est particulièrement adapté aux marchandises volumineuses et lourdes. Mais il peut également être utilisé pour les marchandises en vrac à stocker. Exemples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "non emballés ( sable et gravier, véhicules, etc… )",
+      "emballés ( appareils électriques dans des cartons )",
+      "empilés ( empilage en bloc, en ligne de marchandises palettisées )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le stockage au sol présente les avantages et les inconvénients suivants: Avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "pas de frais pour les installations de stockage",
+      "organisation simple de l'entrepôt",
+      "répartition flexible des surfaces"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Inconvénients:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "difficilement mécanisable",
+      "mauvaise utilisation de l'espace en raison d'une hauteur d'empilage limitée",
+      "en cas de stocks importants, une faible visibilité sur le stock"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque Par stockage au sol, on entend le stockage des marchandises à même le sol, sans installations de stockage. Stock de gravier extérieur Stockage de rouleaux de papier"
+    },
+    {
+     "t": "p",
+     "text": "80"
+    }
+   ]
+  },
+  {
+   "id": "s-8-4-1",
+   "number": "8.4.1",
+   "title": "Stockage en blocs",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage au sol en blocs est le type de stockage le plus répandu. Si les mar - chandises peuvent être empilées sans espace, il est possible d'utiliser une grande partie de la surface ou du volume. L 'accès direct à chaque unité de stockage cons - titue un inconvénient. Ceci n'est pas envisageable, ou alors uniquement en dé - plaçant les marchandises à grands frais. Le principe FIFO ne peut donc pas être appliqué à cette forme de stockage. L 'empilage en bloc est adapté aux grandes quantités du même article ( par ex. marchandises en promotion ou articles saison - niers ). Les marchandises qui ne supportent pas la pression d'empilement ne con - viennent pas ou seulement de manière limitée. Selon les cas, le nombre de cou - ches par pile peut être limité."
+    }
+   ]
+  },
+  {
+   "id": "s-8-4-2",
+   "number": "8.4.2",
+   "title": "Stockage en rangée ou en ligne",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Contrairement au stockage en bloc, ce type de stockage permet une exploitation nettement moins bonne de la surface et du volume, étant donné qu'il y a une allée de travail entre chaque rangée. En revanche, l'accès aux différentes unités de stockage est plus facile, le principe FIFO est applicable et une meilleure vue d'en - semble est garantie. Stockage au sol longitudinal Stockage au sol transversal Avec un stockage longitudi - nal, les charges sont prises transversalment. Avec un stockage transversal, les charges sont prises longi - tudinalement."
+    },
+    {
+     "t": "p",
+     "text": "81 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-8-4-3",
+   "number": "8.4.3",
+   "title": "Stockage en épis",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Grâce à des rangées disposées en épis, l'accès aux différen - tes unités de stockage est garanti et les temps de manœu - vre des chariots élévateurs peuvent être considérablement réduits. L 'utilisation de l'espace est toutefois encore plus faible que pour le stockage en rangées conventionnel. Ce type de stockage est donc rarement utilisé. Il n'a de sens que si l'accès rapide et simple aux unités de stockage est plus important que l'utilisation de l'espace."
+    }
+   ]
+  },
+  {
+   "id": "s-8-5",
+   "number": "8.5",
+   "title": "Charge au sol",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Que les marchandises soient stockées en blocs, en rangées, sur des étagères ou dans des armoires, les charges au sol dans l'entrepôt peuvent être assez élevées. On distingue les forces statiques ( le stockage des marchandises ) et les forces dy - namiques ( les engins de manutention ). Alors que lors du stockage en blocs ou en rangées, le poids est réparti plus ou moins uniformément sur la surface, le stockage en rayonnages et l'utilisation de préparateurs de commande génèrent des charges ponctuelles très élevées qui se concentrent sur une surface réduite équivalente. Il faut toujours tenir compte de la capacité de charge ( charge au sol ) dans l'entrepôt, car un sol trop chargé peut céder ou, dans le pire des cas, provo - quer l'effondrement de tout un bâtiment. La charge maximale admissible au sol doit donc toujours être inscrite de manière bien visible. La norme prévoit un panneau d'information avec des lettres blanches sur fond bleu. Il existe toutefois des panneaux qui varient par rapport à la norme. Les deux types d'inscription courants de la charge du sol. L 'absence d'inscription ne signifie pas toujours que le sol peut supporter une charge illimitée. Dans ce cas, la capacité de charge doit toujours être vérifiée par un ingénieur avant de stocker des marchandises! Remarque La forme de stockage compacte permet une meilleure utilisation de la surface et du volume, mais entraîne une augmentation du temps d'accès aux différen - tes unités."
+    },
+    {
+     "t": "p",
+     "text": "82"
+    }
+   ]
+  },
+  {
+   "id": "s-8-5-1",
+   "number": "8.5.1",
+   "title": "Charge au sol due à un chargement de palettes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Physiquement, les unités de mesure correctes utilisées pour indiquer la masse sont le kilogramme ( kg ) ou la tonne ( t ). Dans le langage courant, on parle de poids. Le poids multiplié par la force d'attraction terrestre donne la force de pesanteur. Celle-ci s'exprime en newtons ( N ). La force de gravita - tion terrestre ( g ) est exprimée par un facteur de 9,81. Pour simplifier, nous utilisons le facteur 10. Un chargement de pa - lettes d'une masse ( poids ) de 1000 kg agit donc sur le sol avec une force de 9810 newtons. Pour le stockage, nous ne calculons pas avec 9,81, mais avec 10. Pour une masse de 1000 kg, nous calculons donc avec une force de poids de 10 000 Newton ( N )."
+    }
+   ]
+  },
+  {
+   "id": "s-8-5-2",
+   "number": "8.5.2",
+   "title": "Charge au sol due à un rayonnage de stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les charges au sol générées par les rayonnages sont des charges ponctuelles importantes qui se concentrent sur une petite surface. Ces charges peuvent at - teindre sept tonnes, voire plus, de manière ponctuelle. Or, la surface du pied du rayonnage n'est que d'environ 100 cm2. Il faut absolument tenir compte de ce pa - ramètre pour chaque type de sol. L 'illustration montre le même nombre de palettes, stockées sur un rayonnage et en bloc. Dans le cas du rayonnage, la force est absorbée par trois montants. La charge au sol sous les montants est très importante, alors que dans le cas du stockage en bloc, les forces indivi - duelles sont plus faibles. La somme des forces partielles est toutefois identique."
+    }
+   ]
+  },
+  {
+   "id": "s-8-5-3",
+   "number": "8.5.3",
+   "title": "Charge au sol due aux engins de manutention",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors des calculs de la capacité de charge d'un sol, il faut également toujours tenir compte des engins de manutention ou des transstockeurs. Ces charges sont ap - pelées charges dynamiques et dépendent toujours fortement de l'appareil utilisé. Un transstockeur, par exemple, peut peser jusqu'à 20 tonnes. Comme pour les rayonnages, le poids se concentre sur une surface minimale, à savoir la surface de la roue. L 'avantage des transstockeurs est que la force est répartie sur le rail de guidage qui fait avancer la machine de desserte et qu'elle est donc minimisée."
+    },
+    {
+     "t": "p",
+     "text": "83 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Pour les engins de manutention, les grandes capacités de charge se produisent souvent à l'arrêt. Un chariot élévateur tri directionnel, par exemple, génère une forte charge au sol lorsqu'il prend ou dépose un poids important en hauteur et doit pour cela faire sortir les fourches latéralement. Dans ce contexte, les capa - cités de charge sur les différents points d'appui ( c'est-à-dire les roues ) sont très élevées et sont alors directement transmises au sol."
+    }
+   ]
+  },
+  {
+   "id": "s-8-5-4",
+   "number": "8.5.4",
+   "title": "Signification des abréviations",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "m La masse Désignation de la masse au repos, appelée «poids»dans la vie quotidienne kg Kilogramme Unité de mesure de la masse N Newton Unité de mesure de la force. Sur terre, 1 kg de masse dé - veloppe une force de 9,81 newtons sous l'effet de l'attrac - tion terrestre. En pratique, on compte 10 N. F Abréviation de force ( Unité de mesure: Newton ) m2 Mètres carrés La mesure de la surface – 1 mètre carré correspond à une surface de 1 m de long sur 1 m de large"
+    }
+   ]
+  },
+  {
+   "id": "s-8-5-5",
+   "number": "8.5.5",
+   "title": "Calcul de la charge au sol pour des surfaces de stockage brute",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors des calculs de la charge au sol, il est important de comprendre que les cal - culs se réfèrent toujours à l'ensemble de la surface de stockage. Cela signifie, par exemple, qu'une surcharge peut se produire lors du stockage en blocs, mais que cette surcharge est équilibrée ou compensée par des surfaces de stockage vides. Dans la pratique, il faut toujours essayer de répartir la charge le plus uniformé - ment possible. Pour le stockage au sol en lignes ou en blocs, la charge au sol peut être déter - minée comme suit: Charge en kg / m 2 = Masse en kg Surface du sol en m 2 Charge en N / m 2 = Poids en N Surface du sol en m 2 Remarque Lors du calcul de la charge au sol, il faut toujours tenir compte du fait que les forces se comportent de manière statique ou dynamique et que la force se ma - nifeste sur une grande surface ou de manière ponctuelle. En cas de doute, il convient de faire appel à un ingénieur en statique qui calculera les valeurs cor - respondantes."
+    },
+    {
+     "t": "p",
+     "text": "84"
+    }
+   ]
+  },
+  {
+   "id": "s-8-5-6",
+   "number": "8.5.6",
+   "title": "Charge au sol - exemple de calcul",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Exemple 1 Dans l'entrepôt d'EnterSite SA, il est prévu d'installer, sur une surface de 10 m x 13 m, un stockage en bloc de 80 palettes de 850 kg chacune."
+    },
+    {
+     "t": "p",
+     "text": "Charge des palettes Masse ( poids par palette ) = 850 kg Force ( F ) par palette 1kg = 10 N ( 850 kg x 10 ) = 8500 N"
+    },
+    {
+     "t": "p",
+     "text": "Valeurs du bloc nombre de palettes dans le bloc: ( 80 ) Masse ( m ) du bloc: 80 x 850 kg = 68000 kg Force ( F ) du bloc: 80 x 8500 N = 680000 N"
+    },
+    {
+     "t": "p",
+     "text": "Charge au sol Surface de stockage: 10 m x 13 m = 130 m2 Force ( F ) du bloc = 680000 N Force ( F ) par m2: 680'000 N / 130 m2 = 5230 N/m2 Masse ( m ) par m2: 5230 N/m2 / 10 = 523 kg/m2"
+    },
+    {
+     "t": "p",
+     "text": "Conclusion: si la charge admissible au sol dans l'entrepôt d'EnterSite SA est supérieure à 5230 N/m2, les 80 palettes peuvent être stockées comme prévu."
+    },
+    {
+     "t": "p",
+     "text": "85 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Remarque La charge maximale admissible du sol joue un rôle important pour le stockage. Elle n'est toutefois pas le seul facteur. Il faut également tenir compte des élé - ments suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la qualité du sol ( utilisation d'engins de manutention )",
+      "la hauteur des locaux",
+      "l'accès aux locaux ( par ex. hauteur des portes, capacité de charge de l'ascenseur )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Exemple 2 Le chef du département Logistics, Monsieur Stierndli, doit calculer combien de palettes peuvent être stockées sur une surface de stockage de 45 m x 25 m avec une charge admissible au sol de 20 000 N/m2. Les palettes ont une masse de 500 kg."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt Longueur = 45 m Longueur = 25 m Charge au sol admissible = 20'000 N/m2 = 2000kg/m2"
+    },
+    {
+     "t": "p",
+     "text": "Valeur des palettes Masse ( poids par palette ) = 500 kg"
+    },
+    {
+     "t": "p",
+     "text": "Capacité Surface de stockage: 45 m x 25 m = 1 125 m2 Masse du bloc: 1 125 m2 x 2000 kg / m2 = 2250000 kg Nombre de palettes: 2250000 kg / 500 kg = 4500 Paletten"
+    },
+    {
+     "t": "p",
+     "text": "Conclusion: sur cette surface, EnterSite SA peut stocker 4500 palettes au maximum."
+    },
+    {
+     "t": "p",
+     "text": "86"
+    }
+   ]
+  },
+  {
+   "id": "s-8-6",
+   "number": "8.6",
+   "title": "La largeur de l'allée de travail",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La notion de largeur d'allée de travail ( Ast ) décrit la largeur d'allée dont un en - gin de manutention a besoin dans l'entrepôt entre les marchandises empilées ou entre les rayonnages pour effectuer les fonctions nécessaires telles que le stocka - ge et le déstockage, les changements de direction, etc… La largeur de l'allée de travail a donc une influence directe sur le taux d'utilisation de la surface, car plus la voie de circulation est large, moins il y a de surface disponible pour le stockage. La largeur d'une allée de travail dépend du type de construction de l'engin de manutention et est indiquée dans la fiche technique. En l'absence de fiche technique, on peut également calculer la largeur de l'allée de travail à l'aide de la formule suivante: Formule largeur d'allée de travail = Longueur du chariot jusqu’à la base de la fourche ( L1 ) + longueur de la charge ( L2 ) + 20 cm ( L3 ) Dans la pratique, on constate toutefois que les indications techniques ne suffisent que pour les caristes expérimentés. Pour les caristes moyens, la règle générale suivante s'applique:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chariot élévateur à contrepoids à trois roues env. 4 m",
+      "Chariot à mât rétractable env. 3 m"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-8-7",
+   "number": "8.7",
+   "title": "Utilisation des surfaces et des espaces",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le taux d'utilisation de la surface et de l'espace sont des indicateurs importants dans l'entrepôt. Ils indiquent comment la surface ou l'espace est utilisé dans l'entrepôt."
+    }
+   ]
+  },
+  {
+   "id": "s-8-7-1",
+   "number": "8.7.1",
+   "title": "Surface globale ( totale )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La surface globale du bâtiment constitue la base du taux d'occupation des sols. Dans le cas d'un bâtiment rectangulaire, celle-ci peut être déterminée par le cal - cul suivant: Formule surface globale = Longueur x largeur x nombre d'étages"
+    },
+    {
+     "t": "p",
+     "text": "Un exemple d'EnterSite SA EnterSite SA exploite un bâtiment de stockage à Rupperswil. Le bâtiment mes - ure 65 m de long et 45 m de large. La surface globale dans notre exemple: Surface de stockage: 65 m x 45 m x 1 étage = 2‘925 m2"
+    },
+    {
+     "t": "p",
+     "text": "87 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-8-7-2",
+   "number": "8.7.2",
+   "title": "Surface brute de stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La surface globale ainsi calculée ne peut jamais être utilisée dans sa totalité pour le stockage. Pour calculer le degré d'utilisation, on se réfère toujours à la surface brute de stockage. Nous obtenons la surface brute de stockage en déduisant de la surface globale toutes les surfaces non utilisables. Il s'agit entre autres:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Piliers",
+      "Vestiaires",
+      "Escaliers",
+      "Toilettes",
+      "Locaux techniques",
+      "Bureaux",
+      "Emplacements pour les emballages"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "vides"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Places pour le chargement et le déchargement"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-8-7-3",
+   "number": "8.7.3",
+   "title": "Surface nette de stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La surface brute de stockage n'est pas non plus entièrement utilisable pour le stockage des marchandises. Pour accé - der aux marchandises stockées et nous déplacer dans l'entrepôt, nous avons be - soin d'allées de circulation."
+    },
+    {
+     "t": "p",
+     "text": "La surface brute de stockage dans notre exemple Les surfaces inutilisables des vestiaires, des toilettes, des emballages vides, de la zone de chargement et des piliers représentent au total 275 m2 de la surface de stockage. Surface brute de stockage: = Surface brute de stockage - ( moins ) allées de circulation = 2‘925 m2 – 275 m2 = 2‘650 m2 La surface nette de stockage dans notre exemple Les allées de circulation doivent être déduites de la surface brute de stockage ce qui représente dans notre exemple 1 300 m2. Surface nette de stockage: = Surface brute de stockage - ( moins ) allées de circulation = 2‘650 m 2 – 1'300 m2 = 1'350 m 2"
+    },
+    {
+     "t": "p",
+     "text": "88"
+    }
+   ]
+  },
+  {
+   "id": "s-8-7-4",
+   "number": "8.7.4",
+   "title": "Taux d'exploitation des surfaces",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le taux d'exploitation des surfaces est un indicateur de l'utilisation de la surface de stockage et est exprimé en pourcentage."
+    }
+   ]
+  },
+  {
+   "id": "s-8-7-5",
+   "number": "8.7.5",
+   "title": "Volumes et poids",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Outre les surfaces, le volume et les poids jouent un rôle important dans l'entrepôt. L 'unité de référence est le mètre cube ( m3 ). La surface de base d'une euro-palet - te de type I mesure 0,96 m2 ( 0,8 m x 1,20 m ). C'est trop précis pour les ordres de grandeur générés dans l'entrepôt. C'est pourquoi nous partons du principe que la surface de base est en principe de 1 m2. Si cette palette est chargée sur une hau - teur de 1 m, cela donne un volume d'un mètre cube ( 1 m3 )."
+    }
+   ]
+  },
+  {
+   "id": "s-8-8",
+   "number": "8.8",
+   "title": "Utilisation de l'espace",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Quelle est la différence entre le taux d'utilisation des surfaces et le taux d'utilisati - on de l'espace? Le taux d'utilisation des surfaces correspond à l'utilisation du sol. Dans le cas du taux d'utilisation de l'espace, une autre grandeur est maintenant prise en compte, à savoir la hauteur du local. Cet indicateur désigne le rapport entre l'utilisation de l'espace sur la base de l'utilisation de la surface et les mar - chandises stockées."
+    }
+   ]
+  },
+  {
+   "id": "s-8-8-1",
+   "number": "8.8.1",
+   "title": "Utilisation de l'espace en fonction de l'utilisation des surfaces",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le taux d'utilisation de l'espace dépend de deux facteurs. D'une part, il dépend de la surface nette de l'entrepôt et, d'autre part, l'utilisation de la hauteur de l'entrepôt est déterminante."
+    },
+    {
+     "t": "p",
+     "text": "Le taux d'exploitation des surfaces dans notre exemple: Le taux d'exploitation des surfaces est calculé à l'aide de la formule suivante: Surface nette de stockage x100 = 1'350 m2 x100 = 50,94% Surface brute de stockage 2'650 m2"
+    },
+    {
+     "t": "p",
+     "text": "89 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL En logistique, le taux d'utilisation de l'espace n'est pas seulement important dans les entrepôts. Lors du transport de marchandises par route, rail, eau ou air, l'utili - sation de la place disponible est également un facteur important. Plus la distance de transport est grande, plus il est important d'utiliser le volume de chargement de façon optimale. Un exemple d'EnterSite SA La surface nette de l'entrepôt d'EnterSite SA est entièrement utilisée. La hau - teur de plafond du bâtiment est de 5 m. La hauteur moyenne des marchandises palettisées est de 1,60 m. Le taux d'utilisation de l'espace peut être calculé à l'aide de la formule suivante:"
+    },
+    {
+     "t": "p",
+     "text": "Taux d'utilisation de l'espace = Volume utilisé x 100 Volume total Volume utilisé = Surface nette x hauteur moyenne des palettes = 1'350 m2 x 1.6 m = 2'160 m2 Volume total = Surface nette x hauteur de la pièce = 1'350 m2 x 5m = 6'750 m2 Taux d'utilisation de l'espace = 2'160 m2 x 100 32% 6'750 m2 Remarque Le taux d'utilisation de la surface ou de l'espace permet de calculer en pour - centage le taux d'utilisation d'un entrepôt ou d'une installation de stockage. Le taux d'utilisation des surfaces indique le rapport entre la surface maximale utili - sable ( surface brute de stockage ) et la surface utilisée ( surface nette de stocka - ge ). Le taux d'utilisation de l'espace indique le rapport entre le volume maximal utilisable ( surface x hauteur ) et le volume utilisé."
+    },
+    {
+     "t": "p",
+     "text": "90"
+    }
+   ]
+  },
+  {
+   "id": "s-8-9",
+   "number": "8.9",
+   "title": "Stockage sur étagères",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage des marchandises sur des rayonnages est la forme de stockage la plus utilisée. Les coûts d'investissement plus élevés des rayonnages par rapport au stockage au sol sont généralement compensés par une meilleure utilisation du volume. Le rayonnage à palettes se compose d'alvéoles comprenant deux mon - tants ou profils de rayonnage ainsi qu'un nombre variable de traverses ou de lis - ses. Les palettes sont stockées sur les traverses. En règle générale, trois palettes peuvent être stockées dans une alvéole. Que les rayonnages à palettes soient an - crés de manière fixe au sol ou aux murs ou qu'ils soient mobiles n'a en principe aucune importance. L 'essentiel est de pouvoir stocker les marchandises de maniè - re claire et sans grand effort. Les rayonnages à palettes permettent une bonne exploitation de l'espace. Les marchandises ne doivent pas être empilées les unes sur les autres. Les al - véoles situées sous la première traverse sont appelées places au sol. Les alvéoles au-dessus de la traverse la plus basse constituent le premier niveau de ray - onnage. Au-dessus suivent le deuxième, le troisième et le quatrième niveau. Les rayonnages à palettes sont gérés à partir du premier ou du deuxième niveau de rayonnages à l'aide d'engins de manutention ou de chariots élévateurs. La prépa - ration manuelle des commandes n'est possible que sur l'emplacement situé au ni - veau du sol. Etagères à palettes 1 Traverses ou lisses 2 Montants ou échelles de soutien 3 Montants à contreventements"
+    },
+    {
+     "t": "p",
+     "text": "91 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-8-9-1",
+   "number": "8.9.1",
+   "title": "Charge des rayonnages à palettes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La charge des rayonnages se compose de dif - férentes sous-charges. Les spécialistes utilisent les termes suivants: Définition de la charge sur la traverse On entend par charge sur la traverse, la charge totale stockée dans une alvéole ( entre 2 montants ). Définition de la charge au sol La charge au sol désigne la somme des charges situées entre les deux montants d’une étagère. Définition de la charge totale Le terme de charge totale désigne la somme des charges qui reposent sur l’ensemble du rayonnage."
+    }
+   ]
+  },
+  {
+   "id": "s-8-9-2",
+   "number": "8.9.2",
+   "title": "Charge au sol due à un rayonnage de stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les charges générées sous les montants des rayonnages sont des charges ponctu - elles importantes qui se concentrent sur une petite surface. Ces charges peuvent atteindre jusqu'à sept tonnes, voire plus, de manière ponctuelle. Or, la surface du cadre de rayonnage n'est que d'environ 100 cm2. Il faut absolument tenir compte de cet aspect en fonction de la nature du sol. L 'illustration montre le même nombre de palettes, stockées sur un rayonnage et en bloc. Dans le cas du rayonnage, la force est absorbée par trois supports. La charge au sol sous les piliers est très importante, alors que dans le cas du stocka - ge en bloc, les forces individuelles sont plus faibles. La somme des forces partiel - les est toutefois égale. Remarque Dans le cas des rayonnages, la force est supportée par les montants. La charge au sol sous les montants est très élevée."
+    },
+    {
+     "t": "p",
+     "text": "92"
+    }
+   ]
+  },
+  {
+   "id": "s-8-9-3",
+   "number": "8.9.3",
+   "title": "Utilisation de l'espace dans les rayonnages à palettes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Grâce à des hauteurs de chargement normalisées ou à une uniformisation de cel - les-ci, l'espace peut être utilisé de manière optimale lors du stockage de palettes dans un rayonnage. Dans la pratique, les hauteurs de chargement autorisées doi - vent être convenues avec les fournisseurs dès l'achat."
+    }
+   ]
+  },
+  {
+   "id": "s-8-9-4",
+   "number": "8.9.4",
+   "title": "Types de rayonnages",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les rayonnages à palettes peuvent être différenciés selon les critères suivants: Hauteur: Les rayonnages à palettes peuvent atteindre 45 m de hauteur. Lorsque la hauteur de construction ne dépasse pas 7 m, on parle de système de stockage à faible hau - teur. Les rayonnages d'une hauteur supérieure à 5,5 m font déjà partie des systèmes de stockage qui doivent être planifiés et réalisés avec soin par des spécialistes. Profondeur: Les rayonnages à palettes sont généralement disponibles en deux profondeurs standard:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "1 100 mm pour le stockage longitudinal de palettes",
+      "750 mm pour le stockage transversal de palettes"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Longueurs des traverses Le plus souvent, les rayonnages sont équipés de traverses d'une longueur de 2700 mm. Afin de garantir un chargement toujours plus optimal des camions, la tendance est aux palettes toujours plus hautes. Plus une palette est haute, plus le risque de por-te-à-faux est important. Un porte-à-faux de 50 mm ou plus ne peut plus être absorbé par des traverses de 2700 mm, ce qui conduit alors automatiquement à des traverses plus longues. Mauvaise exploitation de l'espace en raison des différentes hauteurs de pa - lettes dans la même alvéole. Meilleure exploitation de l'espace grâce à des hauteurs de palettes ho - mogènes dans la même alvéole."
+    },
+    {
+     "t": "p",
+     "text": "93 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Capacité de charge: Les rayonnages standard peuvent supporter une charge au sol allant jusqu'à 10'000 kg. Pour garantir des charges au sol plus élevées, il est possible d'utiliser des rayonnages dits lourds. Les rayonnages pour charges lourdes disposent de lisses et de montants renforcés. De plus, les lisses sont vissées aux cadres de sup - port des rayonnages pour charges lourdes."
+    }
+   ]
+  },
+  {
+   "id": "s-8-10",
+   "number": "8.10",
+   "title": "Numérotation des articles",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L 'attribution de numéros d'articles permet de structurer les marchandises dans un système de classement. La numérotation a plusieurs objectifs:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "identifitier",
+      "classifier",
+      "informer",
+      "contrôler"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Identifier: Un article est identifié de manière univoque lorsqu'on lui attribue un numéro qui est unique et qui n'est attribué qu'une seule fois. Dans les bases de données, l'attribution univoque des numéros est assurée par ce que l'on appelle une clé primaire, ce qui empêche la double attribution. La classification: La classification consiste à attribuer une caractéristique spéci - fique à un nombre. Informer: Le numéro peut être informatif s'il sert à obtenir des renseignements sur le produit. Exemple: Un nombre à quatre chiffres permet d'attribuer 9'999 numéros d'articles différents. Exemple: Dans EnterSite SA, les toners fabriqués par l'entreprise peuvent par exemple commencer par le numéro 1, les toners HP par le numéro 2, les toners Epson par le numéro 3, etc… Exemple: Avec le numéro 1 122, EnterSite SA peut par exemple indiquer la date de pro - duction de novembre 2022."
+    },
+    {
+     "t": "p",
+     "text": "94 Contrôler: Les chiffres de contrôle ( faisant partie d'un numéro d'article ) à la fin d'une numérotation permettent d'éviter autant que possible les erreurs de saisie des numéros d'article."
+    }
+   ]
+  },
+  {
+   "id": "s-8-1-2",
+   "number": "8.1",
+   "title": "1 Numérotation des emplacements",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un emplacement ( système de numérotation des emplacements ) sert à trouver ra - pidement les marchandises dans l'entrepôt. Le système dans l'entrepôt peut être comparé à un quartier d'immeubles d'habitation. On ne peut s'orienter dans un quartier d'habitation que si les rues sont inscrites, les maisons numérotées et les appartements attribués aux étages. Les rayonnages correspondent alors aux mai - sons, les couloirs aux rues, les niveaux de rayonnages aux étages et les empla - cements aux appartements. La numérotation des emplacements ne correspond à aucune norme et est donc appliquée différemment selon les entrepôts. Pour les rayonnages dou - bles, par exemple, le côté gauche est généra - lement désigné par les numéros impairs et le côté droit par les numéros pairs. Des lettres peuvent également être utilisées à la place des chiffres. Exemple: Le GTIN-13 est mentionné ici ( voir module 801 ). 978 = Livre 3 = Code pays/langue 7657 = Maison d'édition 1 1 1 1 = Chiffre utilisé par la maison d'édition 4 = Chiffre de vérification A titre d'exemple, ce code est ensuite calculé et le chiffre de contrôle est ainsi obtenu: 1. 9 7 8 3 7 6 5 7 1 1 1 1 – 2. ( x ) 1 3 1 3 1 3 1 3 1 3 1 3 – 3. ( = ) 9 21 8 9 7 18 5 21 1 3 1 3 4. Total 106 5. Arrondir à 110 6. 106 + 4 = 110, donc le chiffre de contrôle est 4 7. 9 7 8 3 7 6 5 1 1 1 1 4 Deux variantes de la numérotation des rayonnages – Variante 1: numéro d'étagère – niveau du rayonna-ge – emplacement ( zone ) | Variante 2: numéro d'étagère – emplacement ( zone ) – niveau du rayonnage"
+    },
+    {
+     "t": "p",
+     "text": "95 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-8-12",
+   "number": "8.12",
+   "title": "Flux de marchandises dans l'entrepôt",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le flux de marchandises, on distingue le flux de marchandises interne et ex - terne à l'entreprise. Flux de marchandises externes à l'entreprise En externe, le flux de matières a lieu ent - re l'entreprise et ses fournisseurs ou ent - re l'entreprise et ses clients:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les marchandises vendues ou livrées sont transportées via les différents modes de transport ( route, rail, air et eau ) et moyens de transport ( véhi-cules routiers, train, bateau, avion, etc… )."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Flux de marchandises internes à l'entreprise Le flux de marchandises au sein de l'entrepôt est généralement organisé selon le schéma suivant:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Réception des marchandises ( identification et déchargement )",
+      "Contrôle des marchandises ( identification détaillée, quantité, état )",
+      "Préparation du stockage ( éventuellement avec reconditionnement, re palet - tisation de la marchandise )",
+      "Mise en stock",
+      "Sortie de stock",
+      "Préparation des commandes selon la commande du client",
+      "Emballage, réalisation d'unités d'expédition adaptées au transport ( regroupe-ment )",
+      "Chargement"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "96 Dans la pratique, le flux de marchandises au sein de l'entreprise est un peu plus complexe. Les marchandises sont stockées dans différents endroits en fonction de leur nature, de leur taille ou de leur utilisation. Après leur sortie de stock, les marchandises sont transférées dans une zone de préparation des commandes, dans la distribution interne ou directement dans la zone de préparation à l'expé - dition."
+    },
+    {
+     "t": "p",
+     "text": "Flux de marchandises d'une entreprise commerciale RÉCEPTION DES MARCHANDISES /parenleft.capPAR CAMION, TRAIN, POSTE/parenright.cap Contôle des marchandises Stock de marchandises palettisées Stocks de biens d‘équipement Besoins internesEmballage / protection des marchandises Préparation pour le transport Stock de marchandises longues Stock de conteneurs Chargement 1 Chargement 2 Préparation des commandes 2 Préparation des commandes 1 Préparation des commandes 3 Stock de produits frais Transport ferroviaire Enlèvement par La Poste Transport routier Enlèvement par le client"
+    },
+    {
+     "t": "p",
+     "text": "97 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL 1. Réception des marchandises: les marchandises qui, en raison des accords de livraison, ne doivent pas être contrôlées, sont directement libérées pour l'entreposage. Les autres marchandises sont redirigées vers le contrôle des marchandises. 2. Contrôle des marchandises et saisie: identification détaillée, contrôle du nom - bre et de l'état. La saisie permet d'attribuer l'emplacement de stockage. 3. Mise en stock dans l'entrepôt de palettes en tant que réserve ( 4 ) ou directe - ment dans la zone de préparation des commandes ( 5 ). 4. Le stock de palettes de réserve est constitué de palettes entières. 5. Transfert des palettes pour le prélèvement dans l'entrepôt de préparation de commandes. 6. Zone de préparation des commandes: entrepôt automatique à grande hauteur avec préparation dynamique des commandes( marchandise vers l'homme ). 7. Emplacement de préparation des commandes 8. Emballage ( réduit dans ce cas, à l'arrimage du chargement avec un film étirab - le ) 9. Préparation et chargement"
+    },
+    {
+     "t": "p",
+     "text": "98"
+    }
+   ]
+  },
+  {
+   "id": "s-8-13",
+   "number": "8.13",
+   "title": "Utilisation et but des image de stock",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les images de stock sont utilisées pour obtenir une vue d'ensemble de l'occupati - on actuelle du stock. Les images de stock permettent de représenter les emplace - ments libres et l'occupation des différentes zones de stockage. Les images de stock peuvent être utilisés de manière analogique ( manuellement avec des cartes en couleur ) ou numérique ( système de gestion des stocks ). Exemple d'image de stock manuel. Source FKM, Wernetshausen Lors de l'entrée en stock, l'employée prélève un sachet pour l'emplacement de stockage prévu, insère la carte d'article dans le sachet et l'accroche au matériel à stocker. Lorsque le matériel est déstocké, la carte d'article est retirée et le sachet vide est à nouveau accroché au tableau. Exemple d'image de stock analogique: Sur un tableau visible par tous les collaborateurs et collaboratrices, il y a, par compartiment, autant de sachets qu'il y a de place pour le matériel dans l'em - placement. Lorsqu'il n'y a plus de sachets, le lieu de stockage est entièrement occupé. Exemple d'une image de stock numérique: De nos jours, les images de stock analogiques appartiennent plus ou moins au passé et sont remplacées par des images numériques. Des systèmes numériques simples peuvent être créés avec Excel. Les articles stockés sont alors enregistrés au fur et à mesure dans le système. Les images de stock peuvent être sélectionnées comme affichage dans un sys - tème de gestion des stocks sans interface supplémentaire. L 'image de stock est actualisée en permanence par des écritures dans le système."
+    },
+    {
+     "t": "p",
+     "text": "99 1ère édition 2025 Module 408_Organisation de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Exemple d'image de stock numérique. Source: https://www.e-prelude.com/Site/FR/Pages/WMS.aspx Dans le tableau supérieur se trouve un aperçu des étagères. Si l'on clique sur une ligne dans le tableau supérieur, la vue frontale de l'étagère sélectionnée apparaît dans le tableau inférieur. Dans l’image ci-dessous, la capacité de stockage de la zone sélectionnée, des étagères, des champs et des niveaux est affichée. Exemple d'image de stock numérique. Source: https://smart-industry-myscore.fr/logiciel-pilotage-usine/ suivi-de-performance-logiciel-wms-en-logistique/"
+    }
+   ]
+  }
+ ]
+}

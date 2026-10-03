@@ -1,0 +1,298 @@
+{
+ "code": "404",
+ "title": "Prescriptions de stockage",
+ "domain": "400",
+ "pdf": "M404.pdf",
+ "pages": 8,
+ "words": 1330,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Après avoir étudié les installations de stockage dans le module 403, nous nous intéressons dans ce module aux conditions techniques des différents entrepôts. Les conditions techniques de l'entrepôt sont principalement déterminées par les marchandises à stocker. On distingue les entrepôts en fonction de la construction proprement dite, par exemple le stockage ouvert, couvert et fermé, ainsi que de la hauteur de construction. Outre les conditions techniques, il faut également veiller à d'autres points importants pour un stockage professionnel, qui sont présentés dans le module 404."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1",
+   "number": "4.1",
+   "title": "Entrepôts ouverts, couverts, fermés",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-4-1-1",
+   "number": "4.1.1",
+   "title": "Entrepôts à ciel ouvert",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entrepôts ouverts permettent de stocker des biens insensibles aux intempéries et qui ne sont pas particulièrement exposés au vol. Les entrepôts à ciel ouvert peuvent être installés sur n'importe quel terrain ou surface accessible. Souvent, ils sont délimités par une clôture. De cette manière, on stocke entre autres:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Liquides dans les citernes",
+      "Produits en vrac comme le charbon, le sable ou le gravier",
+      "Bois non transformé (troncs d'arbres)",
+      "Produits en ciment durci",
+      "Containers"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Stockage en bloc de tubes en béton dans un entrepôt à ciel ouvert"
+    }
+   ]
+  },
+  {
+   "id": "s-4-1-2",
+   "number": "4.1.2",
+   "title": "Entrepôts couverts",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ce terme désigne les surfaces de stockage couvertes d’un toit, mais ouvertes sur les côtés. Les entrepôts couverts permettent de stocker des matériaux qui doivent être protégés des rayons directs du soleil et de la pluie, mais qui sont insensibles aux variations de température et d'humidité et ne présentent pas de risque particulier de vol. Dans les entrepôts semi-ouverts, on trouve principalement"
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt couvert mais ouvert sur les côtés"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Véhicules et machines de chantier",
+      "Produits en acier (par ex. tubes)",
+      "Planches de bois (sciées brutes)",
+      "Palettes vides",
+      "Matériaux de construction (tuiles ou briques)"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-4-1-3",
+   "number": "4.1.3",
+   "title": "Entrepôts fermés",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entrepôts fermés sont nécessaires pour les marchandises sensibles aux intempéries ou susceptibles d'être volées. Ils sont construits sur un ou plusieurs étages et disposent de quatre murs latéraux ou plus et d'un toit. Pour les entrepôts de grande hauteur, on construit d'abord l’installation de stockage avant de recouvrir l'enveloppe du bâtiment."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt fermé"
+    }
+   ]
+  },
+  {
+   "id": "s-4-2",
+   "number": "4.2",
+   "title": "Entrepôts à faible hauteur, Entrepôts de moyenne hauteur, Entrepôts à",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "grande hauteur"
+    }
+   ]
+  },
+  {
+   "id": "s-4-2-1",
+   "number": "4.2.1",
+   "title": "Entrepôts à faible hauteur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entrepôts effectuant du stockage au sol sont généralement desservis par des chariots de manutention conventionnelle, équipés de mâts déployables, qui atteignent facilement une hauteur de 7 mètres. Le stockage au sol est la forme de stockage la plus courante dans les petites et moyennes entreprises (PME). Il est relativement peu coûteux à réaliser et les rayonnages de stockage peuvent être installés sans grands frais dans des locaux existants."
+    }
+   ]
+  },
+  {
+   "id": "s-4-2-2",
+   "number": "4.2.2",
+   "title": "Entrepôts de moyenne hauteur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La construction de rayonnages de hauteur moyenne implique déjà des investissements plus considérables. Les locaux existants ne dépassent généralement pas 7 mètres de haut, c'est pourquoi la construction de nouvelles infrastructures est inévitable pour permettre l’installation de rayonnages alla nt jusqu’à 15 mètres. Les chariots élévateurs normaux ne suffisent plus pour la manipulation des rayonnages de hauteur moyenne. C'est pour cela qu’il faut utiliser des chariots élévateurs pour rayonnages hauts, des chariots pour allées étroites, des chariots à mât rétractable avec présélection de la hauteur ou des transstockeurs."
+    }
+   ]
+  },
+  {
+   "id": "s-4-2-3",
+   "number": "4.2.3",
+   "title": "Entrepôts à grande hauteur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En Suisse, il est rare de trouver des entrepôts à hauts rayonnages, d'une hauteur allant jusqu'à 45 mètres (hauteur d'un clocher d'église) aussi nommés MGH. De tels géants de l'entreposage ne peuvent pas être desservis par des chariots élévateurs traditionnels à déplacement libre. C'est pour cela que les entrepôts à hauts rayonnages sont généralement intégrés dans des systèmes de stockage complexes."
+    }
+   ]
+  },
+  {
+   "id": "s-4-3",
+   "number": "4.3",
+   "title": "Structure de l’entrepôt",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-4-3-1",
+   "number": "4.3.1",
+   "title": "Entrepôts mécanisés",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entrepôts mécanisés se composent de rayonnages de hauteur moyenne ou d'entrepôts à hauts rayonnages équipés de transstockeurs commandés par un conducteur. Le conducteur dirige le transstockeur vers l'emplacement de stockage souhaité, y prélève la marchandise et se dirige vers"
+    },
+    {
+     "t": "p",
+     "text": "l'emplacement suivant. Cette technique est efficace pour le prélèvement de nombreux articles différents en petites quantités. La plupart du temps, un transstockeur séparé est utilisé par allée de stockage. Dans de rares cas, le transstockeur peut quitter l'allée sur le rail et se diriger vers une autre. Cette technique n'est toutefois utilisée que dans les cas où une grande efficacité n'est pas nécessaire."
+    }
+   ]
+  },
+  {
+   "id": "s-4-3-2",
+   "number": "4.3.2",
+   "title": "Entrepôts automatiques",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Entrepôt automatique"
+    },
+    {
+     "t": "p",
+     "text": "Les grands centres logistiques fonctionnent avec des systèmes de stockage. Un système de stockage complet comprend le matériel (installations techniques) ainsi que les logiciels qui permettent de contrôler les processus. Même dans un système de stockage, il y a toujours des personnes qui coordonnent et surveillent les processus et qui interviennent en cas de dysfonctionnement. Les systèmes de stockage automatiques sont sécurisés et ne peuvent être pénétrés que par des personnes autorisées uniquement en cas de panne ou pour des travaux de contrôle. Les accès non justifiés présentent un danger mortel. Les transstockeurs commandés par ordinateur prennent en charge les marchandises à partir de convoyeurs à rouleaux et les stockent. La sortie de stock fonctionne également via l'ordinateur de l'entrepôt, commandant le transstockeur. La vue d’une telle installation est impressionnante. Comme s'ils étaient animés par une main invisible, les machines transportent leurs charges à travers les couloirs sombres, les entreposent ou les retirent avec précision."
+    }
+   ]
+  },
+  {
+   "id": "s-4-3-3",
+   "number": "4.3.3",
+   "title": "Systèmes de stockage complexe",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un système de stockage complexe est constitué de nombreux éléments qui sont connectés entre eux par réseau:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Systèmes de déchargement et de chargement",
+      "Installations de stockage statiques",
+      "Installations de stockage dynamiques",
+      "Convoyeurs continus (convoyeurs à bande, à rouleaux)",
+      "Convoyeurs discontinus (chariots de manutention, systèmes de transport sans conducteur, transstockeurs, monte-charge)",
+      "Postes de préparation des commandes",
+      "Installations d'emballage"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le défi pour les ingénieurs est d'une part d'harmoniser les performances des différentes installations et d'autre part de s'assurer qu'une seule perturbation n'entraîne pas l'arrêt de tout le système."
+    },
+    {
+     "t": "p",
+     "text": "Système logistique complexe"
+    }
+   ]
+  },
+  {
+   "id": "s-4-4",
+   "number": "4.4",
+   "title": "Condition pour un stockage optimal",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En principe, le stockage professionnel consiste à conserver de manière ordonnée des marchandises et des biens dans une pièce, un bâtiment ou une surface. La plupart des entreprises suivent certains principes de stockage professionnel, aussi appelés directives. Ces directives permettent d'éviter"
+    },
+    {
+     "t": "p",
+     "text": "d'endommager les marchandises, de protéger la santé des collaborateurs et de maintenir les processus d'entreprise aussi efficaces et économiques que possible. Les trois principes suivants doivent toujours être respectés:"
+    }
+   ]
+  },
+  {
+   "id": "s-4-4-1",
+   "number": "4.4.1",
+   "title": "Propreté",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour garantir un travail en bonne et due forme dans l'entrepôt, la propreté est une condition de base. La propreté concerne les locaux de travail, les installations et les outils, les marchandises stockées et les voies de transport. Un entrepôt propre présente de multiples avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Faible risque d'accident ou de blessure",
+      "Durabilité des outils, des équipements et des machines",
+      "Meilleure satisfaction des collaborateurs dans un entrepôt propre",
+      "Bonne image auprès des clients, des fournisseurs et prestataires",
+      "Réduction des pertes et dégradation des marchandises"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-4-4-2",
+   "number": "4.4.2",
+   "title": "Spaciosité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un entrepôt spacieux et propre est la condition préalable à un travail efficace. Si l'entrepôt dispose de suffisamment d'espace, l'utilisation optimale des moyens auxiliaires (par exemple, les moyens de manutention) est garantie, ce qui permet des entrées et sorties de stock plus rapide. Il n'est plus nécessaire de chercher ou de déplacer inutilement les marchandises et le risque d'accident est réduit pour les collaborateurs et visiteurs."
+    }
+   ]
+  },
+  {
+   "id": "s-4-4-3",
+   "number": "4.4.3",
+   "title": "Netteté",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La clarté d'un entrepôt peut être utile à la logisticienne ou au logisticien à différents égards:"
+    },
+    {
+     "t": "p",
+     "text": "Zones de stockage En raison des différentes activités logistiques, l'entrepôt peut être divisé en plusieurs zones. Les marchandises passent alors par les différents secteurs, de l'entrée à la sortie des marchandises. Selon le secteur et l'entreprise, d'autres secteurs s'ajoutent, comme dans une entreprise de fabrication (par exemple EnterSite AG), ou ne sont pas exploités, comme dans une entreprise de transport (par exemple Planzer)."
+    },
+    {
+     "t": "p",
+     "text": "Zones de stockage Une possibilité de garantir la clarté est de diviser l'entrepôt en zones de stockage. La répartition peut se faire par exemple selon les points de vue suivants: Volume, fréquence de rotation, valeur, périssabilité, dangerosité."
+    },
+    {
+     "t": "p",
+     "text": "Marquage L'étiquetage est sans doute le critère le plus important pour ne pas perdre la vue d'ensemble dans l'entrepôt des marchandises en transit interne."
+    },
+    {
+     "t": "p",
+     "text": "Numérotation des articles Une numérotation propre des articles poursuit différents objectifs: Identification, information, contrôle, classification."
+    },
+    {
+     "t": "p",
+     "text": "Localisation Par localisation, on entend l'attribution des marchandises à un emplacement de stockage. On détermine ainsi l'endroit exact où se trouve l'article. Selon le système, la numérotation des différents emplacements s'effectue selon différentes méthodes. Un système d'emplacements de stockage correct en conséquence est une condition préalable à une gestion informatisée de l'entrepôt. Il permet en outre d'éviter les longues recherches ou les trajets inutiles à vide dans l'entrepôt."
+    }
+   ]
+  }
+ ]
+}

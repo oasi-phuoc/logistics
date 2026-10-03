@@ -1,0 +1,310 @@
+{
+ "code": "410",
+ "title": "Les dispositifs de convoyage",
+ "domain": "400",
+ "pdf": "M410.pdf",
+ "pages": 17,
+ "words": 3400,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "126 Module 410_Les dispositifs de convoyage Situation Initiale"
+    },
+    {
+     "t": "p",
+     "text": "La logistique ne se limite pas seulement aux chariots élévateurs. Pour traiter de grandes quantités de marchandises, les équipements de manutention sont tout aussi importants. Contrairement aux chariots élévateurs, qui sont choisis après la construction d’un entrepôt, les équipements de manutention doivent être claire - ment définis dès la construction de l’entrepôt. Les équipements de manutention sont statiques et sont souvent intégrés au bâtiment. Les voies de transport res - tent en place par la suite. Aperçu de la planification du module 410"
+    },
+    {
+     "t": "p",
+     "text": "127 1ère édition 2025 Module 410_Les dispositifs de convoyage Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique du module 410 Contrairement aux chariots de manutention, qui peuvent généralement se dépla - cer de manière mobile, les systèmes de convoyage sont fixes. L 'objectif est toute - fois très similaire: le système de convoyage déplace lui aussi les marchandises vers l'endroit souhaité. Le type et la quantité de marchandises à déplacer déterminent le type de convoyeur à utiliser."
+    }
+   ]
+  },
+  {
+   "id": "s-10-1",
+   "number": "10.1",
+   "title": "Convoyeur vertical",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les convoyeurs verticaux ont pour mission de transporter les marchandises vers le haut ou vers le bas. Voici quelques exemples de convoyeurs verticaux:"
+    }
+   ]
+  },
+  {
+   "id": "s-10-1-1",
+   "number": "10.1.1",
+   "title": "Plate-forme élévatrice ( PEMP )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les plates-formes ou tables élévatrices sont des convoyeurs à mouvement alter - natif, souvent installés sur les quais. La structure de levage est généralement con - stituée d'une structure à ciseaux à entraînement hydraulique. C'est pourquoi ces systèmes de convoyage sont appelés tables élévatrices à ciseaux. Les tables élé - vatrices à ciseaux ne servent pas uniquement à transporter des marchandises à la verticale, elles sont également utilisées pour adapter la hauteur de travail d'un plan de travail aux besoins. Le transpalette à ciseaux est un appareil apparenté. Les convoyeurs verticaux déplacent les marchandises dans le sens vertical. Ils complètent généralement les convoyeurs horizontaux et assurent la liaison entre différents étages de l'entrepôt. Le convoyeur à étages est le dispositif le plus clas - sique: il hisse le produit transporté, ainsi qu'une partie de la voie de transport à l'étage suivant. Table élévatrice à ciseaux Bien visibles, les Vérins hydrauliques Nacelle élévatrice à ciseaux La construction en ciseaux est bien visible"
+    },
+    {
+     "t": "p",
+     "text": "128"
+    }
+   ]
+  },
+  {
+   "id": "s-10-1-2",
+   "number": "10.1.2",
+   "title": "Convoyeur S",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme son nom l'indique, les convo - yeurs verticaux constituent l'élément central d'un mouvement de convoyage en forme de S. La marchandise à trans - porter est amenée à l'étage inférieur par un convoyeur à rouleaux. Les plates-for - mes de transport du convoyeur en S, qui tournent en permanence, prennent la marchandise pour le transport verti - cal. Le transport à l'étage supérieur est à nouveau assuré par un convoyeur à rou - leaux. Le ( Liftveyor ) ou l’ascenseur à sacs remplit la même fonction: le produit transporté est soulevé en hauteur en même temps qu'un élément du convoyeur à rouleaux."
+    }
+   ]
+  },
+  {
+   "id": "s-10-1-3",
+   "number": "10.1.3",
+   "title": "Les élévateurs de marchandises",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Contrairement aux monte-charges, les élévateurs de marchandises servent au transport non accompagné de marchandises. Les élévateurs de marchandises en - tièrement automatiques sont généralement intégrés dans des systèmes de flux de marchandises. Principe de l'élévateur de marchandises avec chargement et déchargement d'un côté Les marchandises sont acheminées à l'élé-vateur de marchandises sur des convo - yeurs à rouleaux. Un contrôle automatique du profil veille à ce qu'aucune marchan - dise trop grande n'entre dans l'ascenseur. Une fois que l'ascenseur a atteint l'étage souhaité, la porte s'ouvre. La marchandi - se arrive sur un convoyeur à rouleaux et est acheminée à destination. Un cycle de transport est ainsi terminé. La porte se re-ferme et l'élévateur se rend à la prochaine station pour récupérer les marchandises. Comme ces élévateurs ne permettent pas de décharger ou de prendre un seul produit à la fois au même étage, leur capacité est très limitée. La sécurité d'accès latérale empêche les personnes d'utiliser l'ascenseur. Convoyeur en S: le mouvement de con - voyage en forme de S est bien visible"
+    },
+    {
+     "t": "p",
+     "text": "129 1ère édition 2025 Module 410_Les dispositifs de convoyage Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Principe de l'élévateur de marchandises avec chargement et déchargement sur deux côtés L 'élévateur de marchandises avec chargement et déchargement des deux côtés dispose d'une capacité de transport nettement plus élevée. La marchandise à transporter 1 est prise en charge. Pendant ce temps, un chargement qui doit être transporté à l'étage inférieur est déjà prêt à l'étage de destination. L 'élévateur se rend au prochain étage. La mar - chandise est déchargée à droite. Entre-temps, le chargement 2 a déjà passé le contrôle de profil et se tient prêt devant la porte de l'éléva - teur. A l'étage inférieur, le convoyeur à rouleaux transporte déjà le chargement suivant en direc - tion de l'élévateur. La porte de droite s'est fermée derrière la mar - chandises déchargée, tandis que la porte de gauche s'ouvre. Le chargement 2 est transporté dans l'élévateur, puis la porte est fermée. L 'élé - vateur redescend. L 'élévateur a atteint l'étage inférieur. Le char - gement 2 est déchargé à gauche. Le nouveau chargement 1 a entre-temps passé le contrôle de profil et est disponible devant la porte de l'élévateur. La porte de gauche s'est fermée derrière la mar - chandise déchargée. La porte de droite s'ouvre. Le chargement est déplacé dans l'élévateur. Le cycle de transport est terminé."
+    },
+    {
+     "t": "p",
+     "text": "130"
+    }
+   ]
+  },
+  {
+   "id": "s-10-1-4",
+   "number": "10.1.4",
+   "title": "Les monte-charges inclinés",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On trouve des monte-charges inclinés dans les entrepôts, sur les chantiers ou dans les fermes. Dans les entrepôts, ils sont utilisés comme installations mobiles, dans les fermes, pour soulever les balles de foin dans la grange. Les monte-char - ges inclinés conviennent aux marchandises de taille moyenne et pas trop lourdes, car le chargement et le déchargement se font généralement à la main."
+    }
+   ]
+  },
+  {
+   "id": "s-10-2",
+   "number": "10.2",
+   "title": "Engins de levage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les engins de levage sont des moyens auxiliaires qui occupent une place import - ante dans la logistique. Contrairement aux dispositifs de manutention qui trans - portent des marchandises, les engins de levage servent à soulever des marchan - dises. Voici des exemples typiques d'engins de levage utilisés dans la logistique:"
+    }
+   ]
+  },
+  {
+   "id": "s-10-2-1",
+   "number": "10.2.1",
+   "title": "Ponts roulants",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les ponts roulants enjambent la surface de travail. Ils se déplacent de chaque côté sur un rail de guidage. Le mécanisme de levage appelé chariot roulant dans le jargon technique est monté sur la charpente de la grue de manière mobile, c'est-à-dire qu'il peut se déplacer latéralement. Monte-charge incliné combiné avec un dispositif de basculement pour les rouleaux de papier."
+    },
+    {
+     "t": "p",
+     "text": "131 1ère édition 2025 Module 410_Les dispositifs de convoyage Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Pont-roulant bipoutre d'une capacité de levage de 25 tonnes"
+    }
+   ]
+  },
+  {
+   "id": "s-10-2-2",
+   "number": "10.2.2",
+   "title": "Ponts roulants suspendus",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cas du pont roulant suspendu, les poutres ou la charpente ne se déplace pas sur le rail du pont roulant, mais est suspendu au rail. Les rails du pont roulant suspendu sont montés au plafond. Seuls des chariots à membrure inférieure sont utilisés. Les ponts roulants suspendus sont plus légers et moins chers que les ( portiques roulants ), mais ils ne conviennent pas aux charges très lourdes. Les ponts roulants suspendus peuvent être conçus de manière à ce que le chariot pu - isse passer sur la poutre de grue d'une travée voisine, voire dans une voie suspen - due. Tu trouveras ici la liste de contrôle SUVA «engins de levage». Tu trouveras ici la check-list SUVA «Grues dans l'industrie et l'artisanat»."
+    }
+   ]
+  },
+  {
+   "id": "s-10-2-3",
+   "number": "10.2.3",
+   "title": "Portique roulant",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les portiques roulants sont principalement utilisés dans les terminaux de conte - neurs, les zones de transbordement de conteneurs et les ports maritimes."
+    },
+    {
+     "t": "p",
+     "text": "132"
+    }
+   ]
+  },
+  {
+   "id": "s-10-2-4",
+   "number": "10.2.4",
+   "title": "Container-Carrier ( Cavalier )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En fait, le Container-Carrier est également un portique. C'est une alternative au chariot élévateur pour conteneurs. Contrairement au portique roulant, il ne se dé - place pas sur des rails, mais peut se déplacer librement grâce à ses roues. Le Container-Carrier empile 4 conteneurs en hauteur. Bien que la cabine du conducteur se trouve déjà à environ 8 mètres du sol, le mât peut être déployé à plus de 10 mètres. Grâce à la construction en portique du Container-Carrier, les containers peuvent être entreposé avec des allées très étroites."
+    }
+   ]
+  },
+  {
+   "id": "s-10-2-5",
+   "number": "10.2.5",
+   "title": "Dispositif de prise de charge des ponts roulants",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chariot roulant Le chariot roulant permet le déplace - ment transversal du mécanisme de leva - ge. Les chariots roulants sont conçus de différentes manières: Le chariot roulant dit «à membrure inférieure» est suspen - du à la poutre de la grue ( figure 1 ); il est également appelé chariot monopout - re. Les grands ponts roulants disposent en général de deux poutres ( bipoutre ). Le chariot roulant se déplace sur la face supérieure des poutres. C'est pourquoi on l'appelle chariot à membrure supérieure ( ou chariot bipoutre ). Le chariot rou - lant d'angle est une version spéciale ( figure 2 ). Chariot de la ceinture inférieure ( gauche ) Chat d'angle ( à droite )"
+    },
+    {
+     "t": "p",
+     "text": "133 1ère édition 2025 Module 410_Les dispositifs de convoyage Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Moufle inférieure et crochet de grue Le palan à câble d'un pont roulant fonctionne selon le principe du mouflage. Le treuil à câble fixé au chariot ne soulève pas directement la charge. Le câble de la grue est guidé par plusieurs poulies de renvoi. La pou - lie inférieure est la partie mobile du palan. Si le moufle inférieur dispose d'une poulie, il s'agit d'un palan simp - le. Le rapport de transmission est donc de 1:2. Deux poulies donnent un palan double avec un rapport de transmission de 1:4. Le crochet de grue auquel les char - ges sont suspendues est fixé au moufle inférieur. Moufle inférieure avec poulie mouffée double Poulie simple avec un rapport de transmission de 1:2 Poulie double avec un rapport de 1:4"
+    },
+    {
+     "t": "p",
+     "text": "134"
+    }
+   ]
+  },
+  {
+   "id": "s-10-2-6",
+   "number": "10.2.6",
+   "title": "Règles pour le levage de charges avec des grues ou pont roulant",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le levage de charges est toujours lié à certains dangers. En respectant les mesu - res de sécurité élémentaires, le risque d'accident peut toutefois être considérable - ment réduit. Règle 1 Il est interdit de se tenir sous des charges en suspension! Le signal d'avertissement de la Suva doit être placé partout où des charges suspendues peuvent mettre des personnes en danger. Le grutier se positionne avec la télécommande de ma - nière à avoir à tout moment une vue d'ensemble et à ne pas être lui-même mis en danger si une charge tombe. Les person - nes non autorisées doivent être systématiquement éloignées. Règle 2 Utilisez exclusivement des dispositifs de levage et de suspension de charge contrôlés et appropriés! Différents moyens de levage sont utilisés. De nombreux fabri - cants proposent des sangles, des élingues rondes, des câbles, des suspensions, des pinces, des grappins, etc… Pour soule - ver des charges, il ne faut jamais utiliser des moyens de levage improvisés ( bricolés )! Les moyens de levage sont conçus pour une capacité de charge déterminée ( charge nominale ), qui doit être inscrite ou identifiée par un code couleur. En cas de doute, il convient de vérifier la capacité de charge avant l'utilisation. Règle 3 Contrôler régulièrement l'état des dispositifs de levage! Les sangles, les élingues rondes, les câbles et les suspensions doivent être régulièrement contrôlés pour vérifier qu'ils ne sont pas endommagés ( fissures, points de frottement ). Les di - spositifs de levage endommagés ne doivent plus être utilisés. Les dispositifs de levage peuvent être particulièrement en - dommagés s'ils sont arrachés sous des charges déposées. At - tention aux éléments porteurs qui ont été en contact avec des produits chimiques ( acides, bases ). La capacité de charge peut être réduite sans dommage visible."
+    },
+    {
+     "t": "p",
+     "text": "135 1ère édition 2025 Module 410_Les dispositifs de convoyage Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Règle 4 Protéger les dispositifs de levage des arêtes vives! Les chargements à arêtes vives provoquent des points d'abra - sion sur les élingues et les câbles. En cas de chargement à la limite de la capacité de charge, un dispositif de levage peut même se déchirer sur des arêtes vives. Les éléments en béton, les blocs de pierre et les tôles sont particulièrement tranchants. Les dispositifs de levage peuvent être protégés par des gaines ou des tuyaux de protection appropriés. Il existe des élingues spéciales qui sont équipées en série d'une gaine résistante. Règle 5 Les nœuds sont interdits! Les nœuds dans les câbles et les élingues sont interdits. Avec le temps, les nœuds détruisent le tissu et affaiblissent le dispositif de levage. Les dispositifs de levage déchirés doivent être rem - placés et ne doivent jamais être noués. Règle 6 Ne jamais poser de sangles ou d'élingues sur la pointe du crochet! Les boucles des extrémités de la sangle ou les élingues doivent s'adapter à l'arrondi intérieur du crochet de la grue et y être in - sérées. Le linguet de sécurité du crochet de grue doit pouvoir se fermer. Les sangles qui sont posées sur la pointe du crochet de la grue peuvent être endommagées lors du levage de la charge. Ne pas tordre les sangles lors de leur mise en place. Règle 7 Respecter le centre de gravité de la charge! Lors du levage d'une charge, le centre de gravité doit se trou - ver à la verticale sous le crochet de la grue. Pour les charges dont la répartition du poids est irrégulière, il faut d'abord dé - terminer le centre de gravité. Pour soulever des objets trop longs, utiliser un palonnier!"
+    },
+    {
+     "t": "p",
+     "text": "136 Règel 8 Respecter l'angle d'inclinaison! Plus l'angle d'inclinaison β est important, plus la capacité de charge de l'élingue diminue. Les angles d'inclinaison supéri - eurs à 60° sont interdits. Le graphique montre la diminution de la capacité de charge des moyens de levage proportionnellement à l'augmentati - on de l'angle d'inclinaison. Pour un angle d'inclinaison de 60°, elle n'est plus que de 50 %, pour un angle d'inclinaison de 45°, elle n'est plus que de 70 %; un angle d'inclinaison de plus de 60° est interdit."
+    },
+    {
+     "t": "p",
+     "text": "137 1ère édition 2025 Module 410_Les dispositifs de convoyage Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-10-3",
+   "number": "10.3",
+   "title": "Convoyeurs continus",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme nous l'avons déjà expliqué dans les modules 407 et 409, on s'oriente souvent vers l'arborescence des moyens de transport. Le convoyeur continu trans - porte lui aussi des marchandises et figure dans l'arborescence présentée ci-des - sous. Le type et la quantité de marchandises à transporter aident à déterminer quel convoyeur continu est le mieux adapté à ses besoins. Contrairement au convoyeur discontinu, le convoyeur continu se déplace «en boucle»et toujours dans la même direction. Un convoyeur continu peut facile - ment prendre des virages ou franchir des obstacles. Il se déplace cependant tou - jours dans la même direction. Un convoyeur continu ne connaît pas de «marche arrière». Voici quelques exemples de convoyeurs continus:"
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-1",
+   "number": "10.3.1",
+   "title": "Convoyeur à rouleaux",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les convoyeurs à rouleaux ( ou à ga - lets ) sont utilisés pour le transport de marchandises de détail, de caisses ou de palettes. Les convoyeurs à rouleaux sont souvent combinés avec d'autres techniques de transport. Les pentes et les courbes sont franchies à l'aide de convoyeurs à chaînes porteuses ou de bandes. Des éléments tels que les ma - chines de remplissage ou de cerclage peuvent très bien être intégrés dans les installations de transport à rouleaux. MOYENS DE TRANSPORT Type de mouvement Convoyeur discontinu Convoyeur continu Implantation dans le local Implantation dans le local direction du déplacement au sol suspendu au sol suspendu direction du déplacement horizontal vertical horizontal vertical horizontal horizontal horizontal horizontal Convoyeurs à rouleaux pour marchandises de détail et caisses"
+    },
+    {
+     "t": "p",
+     "text": "138"
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-2",
+   "number": "10.3.2",
+   "title": "Convoyeur à chaîne porteuse",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les convoyeurs à chaîne porteuse sont utilisés partout où les charges à transpor - ter doivent être entraînées de manière dynamique, par exemple à l'entrée des entrepôts automatiques."
+    },
+    {
+     "t": "p",
+     "text": "Dans les virages, l'entraînement est assuré par une bande de transport. Une machine à cercler a été intégrée dans ce convoyeur à rouleaux. Convoyeur à chaîne porteuse à l'entrée d'un entrepôt automatique. Convoyeur à chaînes porteuses pour la prise longitudinale de palettes. Les chaînes porteuses sont entraînées sous les planches extérieures de la palette. Les galets si-tués sous la planche centrale servent d'appui et roulent avec elles. Remarque il ne faut jamais pénétrer dans les installations de transport et traverser unique - ment sur les ponts prévus à cet effet."
+    },
+    {
+     "t": "p",
+     "text": "139 1ère édition 2025 Module 410_Les dispositifs de convoyage Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-3",
+   "number": "10.3.3",
+   "title": "Éléments de transfert",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sont considérés comme éléments de transfert tous les dispositifs permettant de changer la direction du produit transporté, de le transférer ou de le retirer de la ligne de convoyage. Dans les installations de transport de marchandises lourdes, on utilise des convoyeurs à chaîne porteuse. Distributeur à chaîne Dans les systèmes de convoyage, on utilise souvent des convoyeurs à chaî - ne porteuse en combinaison avec des convoyeurs à rouleaux pour le trans - port transversal des marchandises. La chaîne porteuse relie par exemple deux convoyeurs à rouleaux juxtaposés. Dès que la palette à transporter se trouve au bon endroit, la structure inférieure de la chaîne porteuse est soulevée méca - niquement. Une fois la palette soule - vée, la chaîne se met en mouvement et la déplace sur le deuxième convoyeur à rouleaux, où elle est à nouveau déposée. Le signal de mise en marche est donné par un générateur d'impulsions, par ex - emple un rouleau palpeur ou une cellule photoélectrique. Convoyeur à chaîne porteuse pour la prise transversale de palettes. Bien visible: passage pour les piétons Convoyeur à chaîne porteuse en combinaison avec un convoyeur à bande. L 'installation peut aussi bien transporter des palettes ainsi que des ( Rolltainers ) La chaîne porteuse se soulève hydraulique - ment sous la charge et déplace le charge - ment sur un convoyeur parallèle."
+    },
+    {
+     "t": "p",
+     "text": "140 Pousseur à chaînes Contrairement à l'extracteur, le pousseur à chaîne déplace les marchandises trans - portées sur un convoyeur à rouleaux transversal ou une glissière.. Pousseur pour produits légers Pour les marchandises légères et non fragiles, un dispositif plus simple peut être utilisé à la place d'un pousseur à chaîne: Un «bras»se déploie et pousse le produit transporté hors du convoyeur à rouleaux. Cette technique est notamment utilisée dans les installations de tri pour les colis postaux. Distributeur à chaîne Le pousseur à chaîne pousse la marchandise perpendiculairement au sens de transport. La marchandise est déviée sur une bande transporteuse ou une glissière par un pousseur hydraulique. Table tournante pour palettes devant un monte-charge."
+    },
+    {
+     "t": "p",
+     "text": "141 1ère édition 2025 Module 410_Les dispositifs de convoyage Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Tables rotatives pour palettes Les tables rotatives pour palettes sont utilisées lorsque le produit transporté doit être tourné dans une autre directi - on, par exemple lorsque des marchan - dises doivent être transportées à partir d'un monte-charge et continuer à être transportées à un angle de 90°.."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-4",
+   "number": "10.3.4",
+   "title": "Convoyeur à rouleaux à accumulation ( ou transporteur à rouleau",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "à accumulation ) Les convoyeurs à rouleaux offrent l'avan - tage ( par rapport à une bande continue ) de pouvoir commander individuelle - ment des rouleaux ou des sections. Cela permet de mettre en place des sections d'accumulation sur lesquelles les mar - chandises transportées peuvent être stockées selon les besoins, sans s'accu - muler les unes sur les autres. La mar - chandise transportée est stoppée par le reinage des rouleaux de transport. La table rotative va prendre la palette, la tourner et la rediriger vers un autre endroit. Les convoyeurs à rouleaux à accumulation conviennent pour la mise à disposition de marchandises – ici par exemple pour le char-gement"
+    },
+    {
+     "t": "p",
+     "text": "142 Fonctionnement du convoyeur à rouleaux à accumulation Les rouleaux de traction ( rouges ) sont tirés vers le haut par un ressort 1 et entraî - nent ainsi les rouleaux porteurs. La construction est reliée à un galet palpeur 2. Le produit transporté roule sur le galet palpeur. À l'aide d'une genouillère, les rouleaux d'entraînement sont poussés vers le bas contre la traction du ressort1 et n'entraînent plus les rouleaux porteurs. Dès que le galet palpeur est déchargé, l'entraînement fonctionne à nouveau."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-5",
+   "number": "10.3.5",
+   "title": "Table à billes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La table à billes est un type particulier de convoyeur à rouleaux. Des billes sont encastrées dans la surface de la table et ne dépassent que de quelques millimèt - res. Cela permet de déplacer des colis lourds presque sans effort. Le mouvement est possible dans toutes les directions. Cette technique convient particulièrement aux applications où il est nécessaire de reconditionner de grandes feuilles de pa - pier, par exemple. Il existe également des tables dans lesquelles des buses d'air sont intégrées à la place des billes. L 'effet est le même. Plate-forme élévatrice mobile avec table à billes. Ainsi, les colis lourds peuvent être déplacé en 21s sans effort."
+    }
+   ]
+  }
+ ]
+}

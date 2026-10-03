@@ -1,0 +1,383 @@
+{
+ "code": "107",
+ "title": "Les catégories de déchets CH",
+ "domain": "100",
+ "pdf": "Entersite_M107.pdf",
+ "pages": 18,
+ "words": 4046,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le module 106 a montré qu'en Suisse, on travaille avec trois filières d'élimination. Compte tenu de la diversité des catégories de déchets, l'attribution de la bonne filière d'élimination peut représenter un défi. Dans ce module, il s'agit de reconnaître les différentes catégories de déchets. En outre, il montre à quoi ressemble le processus d'élimination lorsque les déchets ne peuvent pas être éliminés par la voie classique. Les \"déchets spéciaux\", en particulier, présentent des difficultés d'élimination. Ces difficultés peuvent aussi rapidement donner lieu à des dangers plus importants."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Le module 106 a montré qu'en Suisse, 80 à 90 tonnes de déchets sont générées chaque année. Environ deux tiers de ces déchets sont des matériaux d'excavation et de déblais. Comme ceux-ci peuvent être en grande partie réutilisés directement, ils ne sont pas considérés comme des déchets pour certaines statistiques. Si l'on ne tient pas compte des matériaux d'excavation et de déblais, 24 millions de tonnes de déchets sont produits chaque année en Suisse. Cela représente près de 2,5 tonnes par habitant. Les déchets sont classés par l'office fédéral de l'environnement en quatre catégories, chacune avec des sous-catégories. Sur les 24 millions de tonnes de déchets produits chaque année, environ 65 % sont des déchets de chantier. Les déchets urbains représentent une part beaucoup plus faible, soit environ 5,7 millions de tonnes. Ils sont incinérés dans les UIOM. La quantité de déchets urbains a augmenté au cours des dernières années. Les déchets spéciaux représentent 2,4 millions de tonnes par an et les boues d'épuration 0,2 million de tonnes."
+    },
+    {
+     "t": "p",
+     "text": "Infographie 2 Quelle est la quantité annuelle de déchets en Suisse?"
+    },
+    {
+     "t": "p",
+     "text": "Déchets de chantier En Suisse, de grandes quantités de déchets de chantier sont stockées dans une pluralité de petites décharges souvent peu appropriées et mal gérées. Les déchets de construction sont divisés en: Les déchets encombrants de chantier (tri), les gravats, les déchets d'exploitation, les déchets industriels et artisanaux. Les déchets industriels et artisanaux comprennent tous les déchets générés par les processus de production. En font partie les déchets de l'industrie et de l'artisanat qui ne sont considérés ni comme des déchets spéciaux ni comme des déchets urbains, par exemple certaines scories provenant de la transformation des métaux, le sable de fonderie ou les boues provenant de la fabrication du papier. L’élimination des déchets industriels est différente de celle des déchets urbains en raison notamment des quantités dont il est question et du degré de nocivité différent. Déchets urbains Les déchets urbains englobent les déchets provenant des ménages et d’autres déchets dont la composition leur est comparable. On compte parmi ceux-ci les déchets mixtes (ordures ménagères), les encombrants et l’ensemble des objets jetés au tri. Il s’agit cependant seulement de la partie de cette catégorie de déchets gérée par les services publics. Il s’agit donc de tous les déchets pris en charge par les communes et les associations intercommunales, dans des quantités définies. Les déchets compostables, les déchets ménagers (sacs poubelles, container à ordures/encombrants), le verre, les métaux, le plastique, etc. font partie des déchets urbains."
+    },
+    {
+     "t": "p",
+     "text": "Déchets spéciaux L’élimination des déchets spéciaux est contrôlée par les cantons et au niveau fédéral, via l’ordonnance OMoD (ordonnance sur les mouvements de déchets). Il s’agit de l’ensemble des déchets pour lesquels le recyclage écologique traditionnel n’est pas possible. Cette catégorie présente une très grande diversité de déchets, nécessitant la mise en place de mesures de traitement et de recyclage différentes pour chaque type. La majeure partie des déchets spéciaux provient de l’industrie et de l’artisanat. Les boues présentant une charge organique, les matières solides inorganiques, les acides et solutions alcalines chargées de métaux lourds, les piles et batteries, les terres polluées, les adjuvants de filtration ainsi que les résidus de produits chimiques comptent par exemple parmi les déchets spéciaux."
+    },
+    {
+     "t": "p",
+     "text": "Boues d'épuration Les boues d’épuration sont produites lors de l’assainissement des eaux usées. Elles sont composées de matières solides minérales et organiques et présentent une teneur en eau de 90 à 99%."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1",
+   "number": "7.1",
+   "title": "L’inventaire des déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Outre les quatre catégories principales, il existe de nombreuses sous-catégories auxquelles les déchets peuvent être attribués. Vous trouverez ci-dessous une sélection complète:"
+    },
+    {
+     "t": "p",
+     "text": "Le bois usagé Les déchets du bois se distinguent en fonction de leur teneur en substances nocives. Ils peuvent être subdivisés comme suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "bois à l’état naturel provenant de la forêt;",
+      "poussières et sciures provenant des menuiseries;",
+      "meubles vernis ou traités;",
+      "bois imprégné de produits de préservation."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Seul le bois à l’état naturel et non traité peut être incinéré à feu ouvert ou dans des installations sans filtre à fumées. Tous les bois traités doivent exclusivement être éliminés dans les usines d’incinération. Cela vaut également pour tous les types de panneaux agglomérés. Les déchets de bois provenant de l’industrie ou de l’artisanat peuvent être directement livrés aux entreprises de stockage ou de broyage de vieux bois. Les petites quantités de bois provenant des ménages ou de petites entreprises sont éliminées via la collecte d’objets encombrants par les communes."
+    },
+    {
+     "t": "p",
+     "text": "Les pneus usagés La collecte et le recyclage sélectifs ou l’élimination de pneus usagés sont très importants d’un point de vue écologique. Les pneus usagés encore en bon état peuvent être rechapés, ce qui permet de préserver les ressources et de réduire la pollution due à la fabrication. Les pneus inutilisables peuvent être incinérés dans une cimenterie. Cette méthode permet d’économiser de grandes quantités d’énergies fossiles. Le dépôt de pneus usagés dans les décharges est interdit depuis 2000. Les pneus usagés sont acheminés par les garagistes ou les exploitants de casses, via des négociants de pneus usagés, vers différents canaux de recyclage ou de traitement. L’incinération dans les cimenteries reste la meilleure méthode d’élimination à ce jour. Les installations de nettoyage des"
+    },
+    {
+     "t": "p",
+     "text": "fumées en service dans les cimenteries n’atteignent toutefois pas la qualité des UIOM. Les emballages en aluminium et canettes de boissons La collecte et le recyclage des cannettes de boisson en aluminium sont très importants d’un point de vue écologique. La refonte de l’aluminium usagé permet d’économiser jusqu’à 95 % d’énergie par rapport à la fabrication à partir de la matière première qu’est la bauxite. Pour les cannettes de boisson en aluminium, des presses sont disponibles dans les endroits à forte fréquentation et aux points de collecte des communes. Les cannettes en aluminium collectées ont une très grande valeur marchande. Elles sont utilisées dans des fonderies des pays voisins, sans perte de qualité, en vue de la fabrication de nouvelles cannettes."
+    },
+    {
+     "t": "p",
+     "text": "Le matériel d'excavation Le matériel d’excavation se compose essentiellement de roche et de terre et provient de la construction des routes et des bâtiments. De grandes quantités de ces matériaux peuvent également provenir de catastrophes naturelles telles que les chutes de pierres, les avalanches ou les glissements de terrain. Le matériel d’excavation se subdivise en deux catégories:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "matériel d’excavation pollué;",
+      "matériel d’excavation non pollué."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le matériel d’excavation non pollué est déposé dans les décharges. Une faible partie restante de ce matériel est transformée en gravier utilisé sur les chantiers. Quant au matériel d’excavation pollué, il est dit « contaminé ». Selon le degré de pollution, il doit être traité de différentes façons. L’assainissement de la décharge de déchets spéciaux de Kölliken nécessite par exemple le port de combinaisons de protection intégrale."
+    },
+    {
+     "t": "p",
+     "text": "Les piles et les batteries Les consommateurs sont tenus de rapporter les piles et batteries usagées aux points de vente ou aux points de collecte spécialement prévus à cet effet. Tous les revendeurs"
+    },
+    {
+     "t": "p",
+     "text": "sont dans l’obligation de reprendre gratuitement les piles et les batteries (à l’exception des batteries de plus de 5 kg). Le transport des points de collecte à l’installation de recyclage est en principe gratuit. Différents moyens d’information attirent l’attention de la population sur l’obligation de rapporter les piles et batteries usées. Les piles et batteries contiennent des matières premières précieuses telles que le fer, le nickel, le manganèse et le zinc. Certaines contiennent en outre des métaux lourds nocifs tels que le cadmium et le plomb et autrefois aussi du mercure. Elles sont vendues avec une taxe d’élimination anticipée obligatoire. Cette taxe est comprise dans le prix de vente et couvre les frais liés à la collecte, au transport et au recyclage des piles et batteries. Les déchets biogènes (matières végétales) Le compostage ou la fermentation des déchets biogènes présente d’évidents avantages écologiques par rapport à l’incinération dans une UIOM. La Suisse produit chaque année près de 1,3 million de tonnes de déchets organiques. 740 000 tonnes sont traitées dans les 333 installations de compostage et de fermentation présentant une capacité supérieure à 100 tonnes/année. 300 000 tonnes sont vraisemblablement recyclées dans les jardins des particuliers ou les points de compostages des quartiers. 250 000 tonnes se retrouvent cependant encore dans les ordures ménagères et finissent dans les UIOM."
+    },
+    {
+     "t": "p",
+     "text": "Les appareils électriques et électroniques Les appareils électriques et électroniques peuvent être rapportés gratuitement dans n’importe quel point de vente, à des fins d’élimination. Ces appareils contiennent d’importantes quantités de métaux recyclables tels que le cuivre et le fer, ainsi que des métaux lourds comme le plomb, le zinc et le cadmium. Les métaux que l’on peut trouver dans les déchets urbains proviennent en grande partie de ce type d’appareils. Des teneurs élevées en métaux lourds compliquent le travail des usines d’incinération, ainsi que le traitement et le recyclage des résidus d’incinération (UIOM). Lors de l’incinération, les"
+    },
+    {
+     "t": "p",
+     "text": "métaux recyclables de ces appareils sont en grande partie perdus ou ne peuvent être récupérés que très difficilement. La collecte sélective et l’élimination écologique des appareils électriques et électroniques usagés permettent de décharger les déchets urbains des métaux lourds. L’Ordonnance sur la restitution, la reprise et l’élimination des appareils électriques et électroniques (OREA) prévoit que les commerçants, les fabricants et les importateurs sont tenus de reprendre gratuitement les appareils faisant partie de leur assortiment, même si le client n’achète pas de nouvel appareil. Les emballages en verre La collecte sélective du verre d’emballage est aujourd’hui bien ancrée dans les mœurs de la population. En règle générale, ce verre est ramassé dans des conteneurs situés dans des lieux de collecte publics. Le verre usagé est principalement collecté sous forme de verre cassé, trié par couleur (blanc, brun et vert). Dans certaines communes, les bouteilles intactes sont collectées dans des conteneurs spéciaux pour être réutilisées. Le verre ainsi collecté est fondu pour permettre la production de nouveaux contenants en verre. Le verre restant est utilisé pour la fabrication de matériaux de construction et d’isolation."
+    },
+    {
+     "t": "p",
+     "text": "Les boues d'épuration En Suisse, environ 4 millions de tonnes de boues d’épuration liquides arrivent chaque année dans les centres d’épuration communaux. La matière sèche représente 200 000 tonnes. Les boues d’épuration contiennent certes des engrais comme le phosphore et l’azote, mais aussi des métaux lourds, des agents pathogènes et des polluants organiques. Leur valeur écologique en tant qu’engrais a donc toujours suscité la polémique. Depuis 2003, il est interdit d’utiliser les boues d’épuration en tant qu’engrais, en les déversant sur les champs."
+    },
+    {
+     "t": "p",
+     "text": "Les appareils réfrigérants Les appareils réfrigérants vendus avant 1994 contiennent des hydrocarbures fluorés (fréons) dans l’isolation et utilisés en tant que fluide frigorigène. Le fréon est nocif pour la couche"
+    },
+    {
+     "t": "p",
+     "text": "d’ozone, qui protège la terre des rayons UV du soleil. Les appareils réfrigérants relèvent de l’Ordonnance sur la restitution, la reprise et l’élimination des appareils électriques et électroniques (OREA). Ils doivent donc être triés séparément par les consommateurs. Dans toute la Suisse, les appareils réfrigérants usagés peuvent être déposés gratuitement dans plus de 500 points de collecte ou dans tous les points de vente. Dans de nombreuses communes, les points de collecte acceptent aussi ce type d’appareils."
+    },
+    {
+     "t": "p",
+     "text": "Plastiques mixtes Aucun autre matériau utilisé pour les produits de masse ne s'est répandu aussi rapidement que le plastique au cours des quatre dernières décennies. Outre la collecte des bouteilles de boissons en PET, de grandes quantités de plastique sont encore incinérées dans les UIOM. Il existe donc encore un grand potentiel pour le recyclage approprié des matières plastiques."
+    },
+    {
+     "t": "p",
+     "text": "Les lampes fluorescentes Les lampes fluorescentes ne peuvent pas être éliminées avec les ordures ménagères, car elles contiennent du mercure et d’autres métaux lourds. Depuis le 1er août 2005, les lampes fluorescentes peuvent être déposées gratuitement dans n’importe quel point de vente ou dans les centres de collecte officiels de SENS eRecycling. Les commerçants, fabricants et importateurs sont dans l’obligation de reprendre gratuitement les appareils faisant partie de leur assortiment. Sont considérés comme lampes fluorescentes les tubes fluorescents, les ampoules à économie d’énergie et autres ampoules. Les ampoules à incandescence normales et halogènes ne font pas partie de cette catégorie. Elles ne contiennent en effet aucune substance nocive et peuvent être éliminées avec les déchets urbains."
+    },
+    {
+     "t": "p",
+     "text": "Les déchets médicaux Les déchets médicaux sont éliminés dans des crématoriums ou dans des UIOM. Ils y sont livrés dans des conteneurs spéciaux, car ils peuvent être infectieux. Les déchets médicaux et leur élimination sont réglementés par une ordonnance. La"
+    },
+    {
+     "t": "p",
+     "text": "technologie en termes de traitement des déchets médicaux y est décrite, incluant la responsabilité, la collecte, le stockage temporaire, le traitement et l’élimination. L’annexe comprend des informations détaillées relatives à chaque groupe de déchets spéciaux médicaux. Les métaux La collecte et le recyclage sélectifs des vieux métaux sont très importants d’un point de vue écologique. On distingue les vieux métaux suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "les métaux ferreux (magnétiques);",
+      "les métaux non ferreux (cuivre, laiton);",
+      "les métaux gris (plomb, zinc, étain, aluminium);",
+      "les métaux nobles (or, argent)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les points de collecte communaux récupèrent chaque année 60 000 tonnes de vieux métaux en Suisse. La plupart des communes disposent d’au moins un point de collecte pour vieux métaux. L’artisanat et l’industrie livrent directement leurs vieux métaux aux récupérateurs locaux."
+    },
+    {
+     "t": "p",
+     "text": "Les meubles L’élimination de meubles usagés ne constitue plus aujourd’hui un problème écologique majeur. La plupart des meubles usagés sont éliminés via la collecte d’objets encombrants. Souvent, les magasins d’ameublement reprennent également les vieux meubles lors de l’achat d’un meuble identique. Des magasins d’occasion comme des centres d’échange, des brocantes ou des bourses aux meubles, reprennent généralement gratuitement les meubles qui peuvent encore servir."
+    },
+    {
+     "t": "p",
+     "text": "Le papier et le carton La collecte des vieux papiers/cartons est pratiquée en Suisse depuis des décennies et est largement ancrée dans les mœurs de la population. La forme de collecte la plus répandue est celle du bord des routes. Selon les communes, la collecte du papier s’effectue séparément de celui du carton ou non. Le"
+    },
+    {
+     "t": "p",
+     "text": "matériel collecté est directement acheminé dans des usines de papier et de carton, ou trié en fonction de sa qualité, dans des entreprises de tri. Souvent, la qualité du matériel collecté ne correspond pas aux besoins des fabriques suisses. C’est pourquoi les matériaux collectés sont souvent exportés et les qualités de vieux papier qui font défaut sont importées. Les bouteilles PET De nouveaux bilans écologiques montrent que les bouteilles PET jetables présentant un fort taux de recyclage ne polluent pas plus l’environnement que les bouteilles en verre consignées. Le principal problème des bouteilles PET est qu’elles atterrissent encore trop souvent dans les ordures ménagères ou même en bordure des routes ou dans les lieux publics. La collecte des bouteilles PET doit être effectuée par type. Les bouteilles de lait en polyéthylène (PE) ou les bouteilles d’huile ou de vinaigre en PET sont à l’origine d’une pollution inopportune du matériel collecté. Ces bouteilles sont éliminées avec les ordures ménagères. Le réseau de points de collecte pour les bouteilles en PET comprend aujourd'hui plus de 26 000 points avec plus de 40 000 conteneurs de collecte."
+    },
+    {
+     "t": "p",
+     "text": "L’acier émaillé et le fer blanc La collecte et le recyclage sélectifs des emballages en acier émaillé et en fer blanc propres sont très importants d’un point de vue écologique. Le fer blanc est un acier émaillé revêtu d’une couche d’étain pour le rendre résistant à la corrosion. Les quelque 5000 points de collecte proposés par les communes ont permis de recycler 12 000 t d’acier émaillé et de fer blanc par année, soit un taux de récupération de 79 %."
+    },
+    {
+     "t": "p",
+     "text": "Les textiles et les chaussures La collecte d’anciens vêtements est très importante d’un point de vue écologique. Chaque suisse a besoin chaque année d’environ 18 kg de textiles, dont 10 kg de vêtements. Environ 40 000 tonnes de vieux habits et de chaussures sont collectées chaque année et recyclées de différentes façons. 40 000 tonnes de textiles sont également éliminées avec les ordures ménagères. Il s’agit là moins de vêtements que d’articles avec"
+    },
+    {
+     "t": "p",
+     "text": "des mélanges de fibres complexes. En Suisse, les vieux vêtements sont collectés pour une majeure partie par des organismes de bienfaisance. Les emballages Depuis plus de 20 ans, la Suisse poursuit une stratégie d’optimisation des emballages. Tout au long de leur durée de vie, de la fabrication jusqu’à l’élimination, en passant par leur utilisation, les emballages doivent avoir le moins d’impact possible sur l’environnement. Grâce à cette sensibilisation, les grossistes suisses utilisent en règle générale des emballages optimisés pour les biens de consommation courants. Ils sont légers et conçus pour être recyclés ou éliminés sans problème avec les déchets urbains."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2",
+   "number": "7.2",
+   "title": "Les dispositions légales",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La législation sur l’élimination des déchets est essentielle pour chaque pays. Imaginez les conséquences si tout le monde pouvait, en Suisse, déposer ses déchets librement et n’importe où, ou si les communes n’assuraient pas une élimination réglementée des déchets. Il en résulterait un amas phénoménal d’immondices. L’environnement en pâtirait, les citoyens perdraient leur qualité de vie et les touristes resteraient chez eux. C’est donc pour cette raison que la gestion des déchets est omniprésente dans la législation."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-1",
+   "number": "7.2.1",
+   "title": "La Constitution fédérale (Cst.)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Constitution fédérale est l’ouvrage de loi suprême de la Suisse. Elle régit les droits fondamentaux par des lois."
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "Article 74 de la Constitution fédérale (Cst.) \"Loi sur la protection de l'environnement\": \"La Confédération légifère sur la protection de l’être humain et de son environnement naturel contre les atteintes nuisibles ou incommodantes\"."
+    },
+    {
+     "t": "p",
+     "text": "Les lois fédérales se fondent sur les missions dont la Constitution fédérale dispose et elles transposent les droits et obligations en objectifs, principes et valeurs (valeurs limites par exemple). Les ordonnances s’appuient sur les lois et fixent des modalités d’application."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-2",
+   "number": "7.2.2",
+   "title": "La loi sur la protection de l'environnement (LPE)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En 1971, 93 % de l’ensemble des votants se sont exprimés en faveur de la reconnaissance de l’article 24 de la Cst. en tant que base légale en matière de protection de l’environnement, à un niveau national. Les instances législatives ont cependant eu beaucoup de mal à élaborer cette législation sur la protection de l’environnement (en raison de conflits d’intérêts), d’où l’adoption tardive de la Loi en 1983 seulement. Sont régis:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la limitation et l’élimination des déchets;",
+      "la planification de la gestion des déchets et l’obligation de les éliminer;",
+      "le financement de l’élimination des déchets;",
+      "l’assainissement des sites pollués par des déchets."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "RReemmaarrqquuee:: Les prescriptions de la LPE mettent l’accent sur la limitation de la pollution par les déchets."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-3",
+   "number": "7.2.3",
+   "title": "Les ordonnances",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trois ordonnances, basées sur la Loi sur la protection de l’environnement (LPE) et la Loi sur la protection des eaux (LEaux), régissent pour l’essentiel le traitement des déchets:"
+    },
+    {
+     "t": "p",
+     "text": "L'ordonnance sur le traitement des déchets (OTD) L’OTD contient des dispositions concernant:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la réduction et le traitement des déchets;",
+      "les décharges contrôlées;",
+      "les dépôts provisoires;",
+      "les usines d'incinération des ordures ménagères;",
+      "les installations de compostage."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L'ordonnance sur les mouvements de déchets (OMoD) L'OMoD contient des dispositions concernant"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "mouvements de déchets à l’intérieur de la Suisse (remise de déchets, réception de déchets, transport de déchets spéciaux);",
+      "mouvements transfrontaliers de déchets;",
+      "exécution de l’ordonnance."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L’OMoD se rapporte aux déchets spéciaux et à d’autres déchets soumis à l’obligation de contrôles. Concernant l’acceptation des déchets, les spécialistes sont confrontés, dans leur travail, aux différentes dispositions de l’OTD ainsi que de l’OMoD. L'ordonnance sur la restitution, la reprise et l'élimination des appareils électriques et électroniques (OREA) L’OREA réglemente la restitution, la reprise et l’élimination des appareils électriques et électroniques. Sont notamment concernés:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "les appareils relevant de l’électronique de loisirs, de la bureautique et des techniques d’information et de communication;",
+      "les appareils électroménagers;",
+      "les luminaires;",
+      "les sources lumineuses;",
+      "les outils électroniques;",
+      "les équipements de loisirs et de sport ainsi que les jouets."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-7-3",
+   "number": "7.3",
+   "title": "Les déchets spéciaux",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "7.3.1 Qu’entend-on par déchets spéciaux? On entend par déchet spécial les types de déchets qui, en raison de leurs propriétés chimiques ou physiques, ont des effets nocifs pour l'environnement ou l'homme et nécessitent donc un traitement particulier. Les déchets spéciaux ne peuvent pas être collectés et éliminés avec les déchets urbains. Les déchets spéciaux sont par exemple: les peintures, les colles, les solvants, les acides, les produits chimiques, les détergents, les piles et les batteries, les huiles et les graisses, les sols imprégnés de polluants, les résidus de nettoyage des rues, les résidus des séparateurs d'hydrocarbures, les huiles moteur usagées, les batteries de voiture, les résidus de décantation et de filtration, les émulsions huileuses, les eaux et les boues contenant des métaux dissous. Les déchets spéciaux sont moins connus que les déchets urbains, car ils sont principalement produits par l'industrie. Ils représentent toutefois une part importante des déchets traités; environ 10 pour cent de la quantité totale de déchets (OFEV 2016)."
+    }
+   ]
+  },
+  {
+   "id": "s-7-3-2",
+   "number": "7.3.2",
+   "title": "Déchets à traitement spécial",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En raison de leurs caractéristiques particulières, les déchets dangereux nécessitent une manutention et un traitement spécifiques hautement professionnels. S'ils ne sont pas manutentionnés correctement (transport, stockage, traitement), les déchets dangereux représentent un danger pour l'environnement et la population. C'est pourquoi les déchets spéciaux font l'objet d'une réglementation spécifique qui définit les caractéristiques des sites, des installations et des méthodes de traitement. Sur la base de ces prescriptions, seules les personnes disposant d'une autorisation délivrée par les autorités cantonales peuvent accepter des déchets spéciaux. Contrairement aux déchets non dangereux, les déchets dangereux doivent être classés par un laboratoire en fonction de leur toxicité ou de leur dangerosité avant d'être éliminés. Ils sont ensuite triés, traités, emballés et stockés temporairement afin de préparer les matériaux de manière adéquate pour le recyclage ou le traitement approprié (énergétique ou physico-chimique), selon la nature des composants."
+    }
+   ]
+  },
+  {
+   "id": "s-7-3-3",
+   "number": "7.3.3",
+   "title": "Le danger potentiel des déchets spéciaux",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La classification d'une substance comme \"déchet spécial\" indique déjà sa dangerosité. Les déchets spéciaux représentent un danger pour l'environnement et la population s'ils ne sont pas manutentionnés correctement (lors du transport, du stockage, du traitement). Des substances nocives peuvent s'infiltrer dans l'eau, le sol ou l'air, ce qu'il faut absolument éviter."
+    },
+    {
+     "t": "p",
+     "text": "Le danger que représentent les différentes substances est très variable. Comme le constatait déjà Paracelse, c'est en premier lieu la quantité qui détermine le danger potentiel:"
+    },
+    {
+     "t": "p",
+     "text": "\" Tout est poison et rien n’est sans poison; la dose seule fait que quelque chose n’est pas un poison. \" Paracelse (1493-1541)"
+    },
+    {
+     "t": "p",
+     "text": "La manière dont une substance est conservée a également une influence sur son potentiel de danger. Si une substance est conservée correctement, le danger qu'elle représente peut-être fortement réduit ou éliminé. En se protégeant des influences extérieures, il est possible de réduire encore davantage le danger que représentent les déchets spéciaux pour l'environnement. Indépendamment de la catégorie, la prudence et le plus grand soin sont toujours de mise lors de la manipulation de déchets spéciaux. L'absence d'étiquetage de danger ne signifie pas qu'une substance n'est pas dangereuse. En cas de doute, une substance doit être considérée comme dangereuse et être manutentionnée avec les précautions nécessaires."
+    }
+   ]
+  },
+  {
+   "id": "s-7-3-4",
+   "number": "7.3.4",
+   "title": "Les sept mesures de précautions élémentaires à prendre lors de la",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "manutention de substances dangereuses"
+    },
+    {
+     "t": "p",
+     "text": "Manutention 1. Il est interdit d’ouvrir le contenant. 2. Faire preuve de la plus grande précaution lors de la manipulation (ne pas renverser, éviter la casse et la poussière). 3. Eviter de toucher le produit à mains nues. Lorsque toucher le produit est inévitable, porter impérativement des gants de protection. Se laver les mains après avoir touché le contenant. Porter des lunettes en cas de risque de projection."
+    },
+    {
+     "t": "p",
+     "text": "Le stockage 4. Protéger le produit de tout accès non autorisé (lieu de stockage verrouillable). 5. Eviter de stocker ensemble des substances inconnues. 6. Stocker à l’abri des intempéries. 7. Utiliser des contenants étanches pour éviter les fuites de liquide (bacs de rétention)."
+    }
+   ]
+  },
+  {
+   "id": "s-7-4",
+   "number": "7.4",
+   "title": "L’élimination des déchets spéciaux",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'élimination des déchets spéciaux relève de la responsabilité de spécialistes. Pour les particuliers, cela signifie: retourner au point de vente. Les entreprises s'adressent à leur fournisseur pour la restitution. Les entreprises de logistique qui doivent éliminer de grandes quantités de déchets spéciaux doivent être enregistrées dans la banque de données de l'Office fédéral de l'environnement (OFEV). Le remettant ne peut remettre les déchets spéciaux qu'à un repreneur autorisé à les réceptionner. Est habilitée à réceptionner des déchets spéciaux toute personne disposant d'une autorisation. Celle-ci est délivrée par les autorités du canton d'implantation. Il incombe au remettant de vérifier si le repreneur dispose d'une autorisation."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "La liste des codes déchets autorisés des entreprises d'élimination des déchets peut être consultée ici."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 107"
+     ]
+    }
+   ]
+  }
+ ]
+}

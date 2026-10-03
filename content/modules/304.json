@@ -1,0 +1,320 @@
+{
+ "code": "304",
+ "title": "Identification de la livraison",
+ "domain": "300",
+ "pdf": "M304.pdf",
+ "pages": 17,
+ "words": 2136,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Indépendamment de la personne qui a commandé la marchandise, de la date et de la raison de la commande: La livraison se trouve physiquement chez EnterSite AG. Dans ce module, il s'agit d'identifier la livraison. Lors de l'identification de la livraison, un travail concentré et précis est indispensable pour la réussite de cette activité. De plus, une communication correcte avec le transporteur est essentielle - il peut parfois être nécessaire de faire face à des situations délicates. Le comportement personnel dans les échanges avec le transporteur doit toujours être correct. Les deux parties vivent des journées de travail chargées. C'est précisément dans ce genre de situation que le respect mutuel est élémentaire."
+    },
+    {
+     "t": "p",
+     "text": "Lorsque le transporteur entre sur le site d'EnterSite AG, la marchandise est physiquement arrivée. Que la livraison soit planifiée ou non, la marchandise doit être identifiée:"
+    },
+    {
+     "t": "p",
+     "text": "Identification = Identifier quelque chose ou quelqu'un de manière distincte, comparer ou associer quelqu'un ou quelque chose ou quelqu'un d'autre."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1",
+   "number": "4.1",
+   "title": "Identification globale",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors de la réception des marchandises, la première question qui se pose est la suivante: la marchandise nous est-elle destinée? Cette première étape est appelée \"identification globale\". On demande au transporteur les documents d'accompagnement des marchandises afin de pouvoir vérifier l'adresse de livraison exacte du destinataire. Il ne serait pas économique et ce serait une perte de temps de décharger toute la livraison et de se rendre compte ensuite qu'elle n'est pas du tout destinée à EnterSite AG. Ce processus a également lieu dans le domaine privé: On vérifie l'adresse avant d'ouvrir un envoi postal."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1-1",
+   "number": "4.1.1",
+   "title": "Ouverture des véhicules de transport",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Afin de pouvoir procéder à une identification précise, les véhicules de transport doivent être ouverts. Lors de l'ouverture, il est important de faire attention aux points suivants:"
+    },
+    {
+     "t": "p",
+     "text": "Ouverture d'un camion"
+    },
+    {
+     "t": "p",
+     "text": "Si les marchandises sont livrées par la route, le transporteur peut ouvrir le véhicule après l'identification globale. Avant le déchargement, il faut toutefois toujours respecter les consignes de sécurité de l'entreprise. Si toutes les consignes de sécurité sont respectées, le déchargement peut être effectué."
+    },
+    {
+     "t": "p",
+     "text": "Ouverture de transports ferroviaires, de semi-remorques et de conteneurs"
+    },
+    {
+     "t": "p",
+     "text": "Transport ferroviaire Conteneur Semi-remorque"
+    },
+    {
+     "t": "p",
+     "text": "En cas de transport non accompagné (pas de transporteur), le wagon, le conteneur ou la semi-remorque est inspecté de l'extérieur (état). Si les documents de livraison nécessaires sont là et que les mesures de sécurité sont prises, l'unité peut être ouverte."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1-2",
+   "number": "4.1.2",
+   "title": "Plombs douaniers",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si la livraison provient de l'étranger, le travail est encore plus difficile. Les prescriptions douanières doivent être connues et appliquées. Si la livraison reçue est protégée par un plomb douanier, il convient d'être particulièrement prudent. Les scellés douaniers apposés sur les camions, les semi-remorques ou les conteneurs ne doivent en aucun cas être coupés ou desserrés. Les conteneurs scellés doivent être ouverts conformément aux règles de l'entreprise. Dans certains cas, il faut faire appel à un spécialiste de l'administration des douanes ou à une personne habilitée à cet effet par l'entreprise pour procéder à l'ouverture. Dans tous les cas, la procédure doit être clarifiée au préalable."
+    },
+    {
+     "t": "p",
+     "text": "Les scellés douaniers ne peuvent être coupés ou détachés que si les documents nécessaires sont disponibles ou si une personne compétente des autorités douanières a donné son accord. Dans tous les cas, les instructions de l'entreprise doivent être respectées."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1-3",
+   "number": "4.1.3",
+   "title": "Première vision",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Après l'ouverture des portes, un bref coup d'œil permet généralement de se faire une première idée de l'état des marchandises qui arrivent. Si le chargement a été bousculé durant le transport ou si des chargements de palettes se sont renversés, on peut en déduire que les contraintes de transport étaient trop importantes pour le chargement et que les marchandises ont subi des dommages pendant le transport."
+    },
+    {
+     "t": "p",
+     "text": "C'est ce qu'il faudrait souhaiter De l'extérieur, on peut déjà voir qu'il faut s'attendre à des marchandises endommagées."
+    },
+    {
+     "t": "p",
+     "text": "Il est beaucoup plus difficile de détecter les dommages liés aux conditions climatiques (par exemple l'humidité ou la température), car ils ne sont pas facilement identifiables. Les marchandises provenant du trafic international doivent être examinées avec une attention particulière. Si nécessaire, il faut faire appel à des organismes de contrôle de qualité spécialisés."
+    }
+   ]
+  },
+  {
+   "id": "s-4-2",
+   "number": "4.2",
+   "title": "Identification détaillée",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lorsqu'il a été établi avec succès que la livraison est destinée à EnterSite AG, que le véhicule, le wagon ou le conteneur est ouvert et que la marchandise fait bonne impression, on contrôle si la bonne marchandise a été livrée. Cette deuxième étape de l'identification est appelée identification détaillée. Les questions suivantes se posent:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Qui est le fournisseur?",
+      "Les documents de livraison sont-ils disponibles?",
+      "Existe-t-il un plomb douanier qui ne doit pas être ouvert?",
+      "Pour les marchandises en provenance de l'étranger: les documents douaniers sont-ils complets?",
+      "Les numéros d'articles ou les désignations de marchandises correspondent-ils aux indications figurant sur le bulletin de livraison?",
+      "Le nombre de colis ou de palettes livrés correspond-il aux informations figurant sur le bon de livraison?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-4-3",
+   "number": "4.3",
+   "title": "Documents d'accompagnement des marchandises",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme décrit pour l'identification globale, le transporteur doit présenter les documents d'accompagnement. Dans le cadre du transport international de marchandises, que ce soit par route, par rail, par air ou par mer, les législateurs ont édicté des règlements concernant les documents qui accompagnent le transport. Ces documents d'accompagnement sont également prescrits dans le cadre du transport intérieur. En conséquence, les documents suivants existent lors de l'identification globale:"
+    }
+   ]
+  },
+  {
+   "id": "s-4-3-1",
+   "number": "4.3.1",
+   "title": "Le bon de transport",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le bon de transport est l'ordre de transport émis par l'entreprise de transport. Il indique l'expéditeur, le destinataire, le type et la quantité de marchandises, le poids brut, l'unité de livraison et, le cas échéant, la valeur en douane ainsi que des instructions particulières. Le bon de transport permet au transporteur de réclamer son salaire aux entreprises de transport. Ce document ne doit pas être conservé après le transport, sauf dispositions contraires de l'entreprise. La présentation peut être choisie librement. Le bon de transport doit contenir au moins les informations suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "L'adresse de l'expéditeur",
+      "L'adresse du destinataire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-4-3-2",
+   "number": "4.3.2",
+   "title": "Convention relative au contrat de transport international de",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "marchandises par route (CMR) La lettre de voiture CMR dans le transport routier de marchandises"
+    },
+    {
+     "t": "p",
+     "text": "La lettre de voiture dite “CMR” correspond aux dispositions de la \"Convention relative au contrat de transport international de marchandises par route\". La lettre de voiture est valable pour tous les transports de marchandises et de biens par route à titre onéreux. La “CMR” couvre principalement les livraisons au-delà des frontières nationales vers d'autres pays participants au sein et en dehors de l'UE. Avant le transport, la lettre de voiture doit être remplie et remise au transporteur afin qu'il puisse la présenter aux instances autorisées, telles que les douanes."
+    },
+    {
+     "t": "p",
+     "text": "Une lettre de voiture CMR est nécessaire si au moins un des deux pays concernés - soit celui du chargement, soit celui du déchargement - fait partie de la convention. En font partie, à part la Suisse, tous les pays de l'UE ainsi que des pays non-membres de l'UE comme la Russie, la Turquie ou l'Islande. Particularités de la lettre de voiture CMR Certaines particularités s'appliquent à ce type de lettre de voiture selon la CMR:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La lettre de voiture doit toujours être accompagnée de trois exemplaires originaux et signée à la fois par l'expéditeur et le transporteur.",
+      "Conformément à l'article 6 de la CMR, la lettre de voiture CMR doit contenir des informations séparées sur la marchandise transportée ainsi que d'autres informations spécifiques.",
+      "Conformément à l'article 9 de la CMR, la lettre de voiture a ce que l'on appelle un \"effet probatoire\".",
+      "La CMR prévoit des obligations de contrôle distinctes pour le transporteur."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Dans la pratique, ces dispositions s'expriment généralement de la manière suivante: Les marchandises sont préparées en tant qu'activité intralogistique comme fret au sein de l'entrepôt. Leur transport s'effectue ensuite sur des palettes Euro via la sortie des marchandises, où elles sont transférées vers la mise à disposition. Une fois la marchandise chargée, la lettre de voiture est établie et signée par les personnes concernées. Dans de nombreuses entreprises suisses, ce processus est déjà entièrement automatisé et en grande partie numérisé. La lettre de voiture CMR est avant tout importante pour régler la responsabilité en cas de dommages pendant le transport ainsi que pour d'autres aspects."
+    }
+   ]
+  },
+  {
+   "id": "s-4-3-3",
+   "number": "4.3.3",
+   "title": "Lettre de voiture",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les lettres de voitures sont utilisées pour le transport ferroviaire. Elles sont transmises par E-mail et les données sont sauvegardées sur un transpondeur. Les données sauvegardées sur le transpondeur sont transmises au conducteur de locomotive avec le plan de transport sous forme d'ordre. L'étiquette du wagon, le transpondeur, fournit des informations sur:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "l'expéditeur",
+      "le destinataire",
+      "le nombre et la désignation des unités de transport",
+      "le poids du chargement",
+      "le matériel échangeable"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-4-3-4",
+   "number": "4.3.4",
+   "title": "Le bulletin de livraison",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le bulletin de livraison informe sur les marchandises livrées et sert à contrôler la livraison. Les marchandises mentionnées sur le bulletin de livraison sont contrôlées d'une part pour s'assurer qu'elles font partie de la livraison et d'autre part pour s'assurer que la livraison correspond à la commande. Les entreprises inscrites au registre du commerce doivent conserver les bulletins de livraison pendant dix ans."
+    },
+    {
+     "t": "p",
+     "text": "Corrections sur le bon de livraison Dans l'idéal, les marchandises reçues sont contrôlées en présence du transporteur afin qu'il puisse, le cas échéant, contresigner une anomalie ou une réclamation. Les différences entre le bon de livraison et les marchandises livrées sont directement inscrites sur le bon de livraison. Il n'y a pas de règles juridiques pour les corrections. Toutefois, il ne faut jamais effacer ou recouvrir des informations (par exemple avec du Tipp-Ex). Les corrections doivent être clairement visibles. Le transporteur ainsi que le destinataire doivent confirmer par leur signature les corrections apportées au bon de livraison. Les réclamations et les corrections sur le bon de livraison sont effectuées différemment selon les directives de l'entreprise. Il est important que les corrections soient établies par écrit afin de pouvoir les vérifier. Les accords oraux passés avec les transporteurs (chauffeurs) ne font pas office de preuve et ne sont donc pas recommandés. Il est important d'informer immédiatement le fournisseur en cas de contestations graves."
+    }
+   ]
+  },
+  {
+   "id": "s-4-4",
+   "number": "4.4",
+   "title": "La réception sous réserve",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Différentes raisons peuvent empêcher le destinataire de procéder à une réception approfondie des marchandises. Il est alors possible de faire une \"réception sous réserve\". Cette mention est notée sur le bon de livraison et est valable. Il faut cependant avoir une raison d'émettre une réserve. Le simple fait d'apposer un cachet \"réception sous réserve\" ne suffit pas. On émettra par exemple une réserve si l'emballage des marchandises livrées est endommagé. Si un examen plus approfondi révèle des défauts, le destinataire est en droit de déposer une réclamation dans le délai légal et, dans les cas graves, d'exiger un remplacement ou de résilier le contrat de vente. Les marchandises qui ne peuvent pas être comptées immédiatement ne doivent pas être acceptées sans réserve et confirmées par la signature lors de l'acceptation. Les conditions d'une acceptation valable sous réserve sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Intitulé: \"Acceptation sous réserve\" (également possible à la main)",
+      "Motif: (par exemple, emballage écrasé)",
+      "Date",
+      "Signature"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Exemple de tampon pour une acceptation de marchandises sous réserve:"
+    }
+   ]
+  },
+  {
+   "id": "s-4-5",
+   "number": "4.5",
+   "title": "Réglementations et contrats transfrontaliers dans le transport international",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "de marchandises Le transport international est passionnant. En même temps, les réglementations qui s'appliquent au-delà des frontières constituent un défi. Voici deux de ces réglementations:"
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-1",
+   "number": "4.5.1",
+   "title": "Traité de Maastricht",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Marchandises complètes Oui Non Marchandises ou emballages endommagés Oui Non Poids brut: …..................... MHD OK? Oui Non Reçu le: 31 déc. 2035 Température vérifiée:......... C Acceptation refusée Palettes échangées Oui Non Transitaire/Fournisseur Désignation: Signature: Vérifié par: Signature: Réception des marchandises sous réserve d'un contrôle ultérieur pour la quantité et la qualité exacte Le traité européen, appelé traité de Maastricht, a été signé le 7 février 1992 et est entré en vigueur le 1er novembre 1993. Il structure l'Union européenne en trois piliers:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La Communauté européenne",
+      "La politique étrangère et de sécurité",
+      "Coopération policière et judiciaire en matière pénale."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour le transport, ce traité a posé de nouveaux jalons. Jusqu'à sa conclusion, les réseaux de transport étaient principalement planifiés au niveau national, ce qui entraînait des incompatibilités entre les systèmes de transport. Les autoroutes à six voies devenaient de simples routes dès que la frontière était franchie, les trains ne pouvaient plus être utilisés de l'autre côté de la frontière etc. Les flux de trafic étaient alors souvent contraints de faire des détours considérables. Aujourd'hui, les locomotives, les wagons et le personnel roulant peuvent exercer leurs fonctions au-delà des frontières."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras un autre article sur ce thème ici."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-2",
+   "number": "4.5.2",
+   "title": "Convention de Vienne sur la vente internationale de marchandises",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Convention de Vienne est également connue sous le nom de \"Convention des Nations unies sur les contrats relatifs au commerce international des marchandises\" (CVIM). Elle a été signée le 11 avril 1988 à Vienne par dix pays à l'origine. Aujourd'hui, 89 pays ont signé la convention. Les membres de la CVIM sont responsables de plus des trois quarts du commerce international. L'objectif de la convention est de développer le commerce international sur la base de l'égalité et de l'avantage mutuel. Les États signataires acceptent d'adopter des règles uniformes pour les contrats de vente internationaux de marchandises, compatibles avec les différents systèmes sociaux, économiques et juridiques. Ces règles uniformes contribuent à l'élimination des obstacles juridiques au commerce international et favorisent le développement du commerce international."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "\u0003Tu trouveras ici la Convention des Nations unies sur les contrats de vente internationale de marchandises."
+    }
+   ]
+  }
+ ]
+}

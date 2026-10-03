@@ -1,0 +1,148 @@
+{
+ "code": "406",
+ "title": "Principes de stockage",
+ "domain": "400",
+ "pdf": "M406.pdf",
+ "pages": 5,
+ "words": 824,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage par lotissement ou chaotique ainsi que le FIFO ou le LIFO sont des principes de stockage importants. Le choix des principes à appliquer dans l'entrepôt a une influence sur les processus respectifs dans l'entrepôt. Les principes déterminent le type de rayonnage ainsi que les processus qui peuvent être utilisés pour le stockage et le déstockage. Quels sont les avantages et les inconvénients des principes de stockage? Quand utiliser quel principe? Quels types de rayonnages conviennent à chaque principe? Autant de questions qui seront traitées dans le module suivant."
+    }
+   ]
+  },
+  {
+   "id": "s-6-1",
+   "number": "6.1",
+   "title": "Lotissement par case",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cas du stockage selon le principe de lotissement par case, chaque article a un emplacement qui lui est définitivement attribué. C'est pourquoi on parle de lotissement par case. Ce système est utilisé partout où un article doit toujours se trouver au même endroit. Cette forme est souvent utilisée par exemple dans les rayons de vente des magasins en libre-service, dans les entrepôts commerciaux ou dans le domaine de la préparation des commandes. Le stockage selon le principe de réservation suit le principe de classement initial: \"chaque chose à sa place\". Le principe du stockage à réservation d'emplacement est appliqué dans les entrepôts simples, où l'on stocke sans l'aide d'un système de gestion des stocks (SGS). En cas de fortes fluctuations des stocks, le stockage lotissement par case ne permet toutefois d'obtenir qu'une mauvaise utilisation de l'espace de stockage."
+    },
+    {
+     "t": "p",
+     "text": "Le stock maximal est atteint. Ce cas est optimal, mais il n'arrive généralement qu'après la réception d'une nouvelle livraison."
+    },
+    {
+     "t": "p",
+     "text": "Stock réel: aucune autre marchandise ne peut être stockée sur les emplacements vides. L'emplacement est réservé au stock maximal possible de chaque article."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2",
+   "number": "6.2",
+   "title": "Stockage chaotique (dynamique)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le mot \"chaos\" vient du grec et signifie \"désordre\", \"confusion totale\", \" disparition de tout ordre\". En ce qui concerne le stockage, chaotique ne signifie pas désordonner. Contrairement au lotissement par case, le stockage chaotique permet d'attribuer n'importe quel emplacement libre. Il n'est donc plus nécessaire de réserver un espace pour la quantité maximale de chaque article. Le stockage chaotique permet de mieux exploiter l'espace de stockage disponible."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le stockage chaotique ne peut être réalisé qu'à l'aide d'une gestion de stock assistée par ordinateur."
+    },
+    {
+     "t": "p",
+     "text": "Dans le cas du stockage chaotique, les marchandises sont stockées n'importe où."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-1",
+   "number": "6.2.1",
+   "title": "Conditions pour le stockage chaotique",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cas d'un stockage chaotique, il faut tenir compte des caractéristiques des produits stockés et des interdictions de stockage en commun. Les systèmes optimisés peuvent intégrer de telles conditions. En outre, la fréquence des commandes ou des rotations est prise en compte. La répartition des marchandises sur plusieurs zones évite qu'une panne du système ne rende impossible le déstockage de tout un groupe de produits."
+    }
+   ]
+  },
+  {
+   "id": "s-6-3",
+   "number": "6.3",
+   "title": "Premier entré, premier sorti (FIFO)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "First-In, First-Out, appelé \"FIFO\" par les professionnels, est un principe reconnu dans le stockage qui permet de s'assurer que les marchandises ne restent pas trop longtemps dans l'entrepôt. \"First\" signifie \"premier\" en anglais. Si plusieurs unités de chargement d'un article sont disponibles, c'est toujours l'unité de chargement la plus ancienne qui doit être retirée de l'entrepôt. Les marchandises stockées en premier sont donc également sorties en premier. Le FIFO est surtout utilisé pour les produits périssables. Nous appliquons également le principe du premier entré, premier sorti dans le domaine privé, par exemple pour remplir le réfrigérateur. Ce principe est appliqué à tous les produits ayant une date de péremption."
+    }
+   ]
+  },
+  {
+   "id": "s-6-3-1",
+   "number": "6.3.1",
+   "title": "Formes de stockage supportant le FIFO",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Toutes ces formes de stockage garantissent, si elles sont utilisées correctement, que les marchandises stockées en premier seront également retirées en premier:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Rayonnage dynamique",
+      "Rayonnage drive-in à double entrée",
+      "Stockage en pile avec prélèvement à la base"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-4",
+   "number": "6.4",
+   "title": "Dernier entré, premier sorti (LIFO)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le principe LIFO n'est généralement pas recommandé pour le stockage de marchandises. Étant donné que les marchandises stockées en dernier sont"
+    },
+    {
+     "t": "p",
+     "text": "retirées en premier, ce principe entraîne la formation de \"stocks\". Les formes de stockage suivantes conduisent toutefois inévitablement à ce principe:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Stockage en bloc",
+      "Stockage en ligne ou en rangée si l'accès n'est possible que d'un seul côté",
+      "Rayonnages drive-in à une entrée"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le stockage dans des rayonnages à palettes ou à compartiments ne favorise pas ou n'entrave pas le FIFO. Lors du stockage et du déstockage, les logisticiens doivent veiller à la bonne rotation des articles. La règle est donc que les nouvelles marchandises doivent toujours être stockées derrière les marchandises déjà en place."
+    }
+   ]
+  },
+  {
+   "id": "s-6-5",
+   "number": "6.5",
+   "title": "Highest In - First Out (HIFO)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "HIFO (Highest In - First Out) désigne une procédure de valorisation des stocks. Dans ce cas, les marchandises sont stockées en fonction de leur prix, de sorte que les marchandises les plus chères sont sorties en premier. Le stock est donc valorisé avec les prix d'achat les plus bas. La méthode HIFO est utilisée pour représenter un chiffre d'affaires élevé dans le bilan, le stock final étant considéré comme faible lors de l'inventaire. Plus concrètement, cette méthode est utilisée pour réduire le revenu imposable pendant une période donnée. Bien que le HIFO soit largement répandu à l'étranger, la procédure n'est pas autorisée par le droit commercial et fiscal allemand, par exemple. L'un des avantages est l'évaluation prudente, car les stocks sont ici évalués à des prix bas."
+    }
+   ]
+  }
+ ]
+}

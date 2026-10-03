@@ -1,0 +1,320 @@
+{
+ "code": "302",
+ "title": "L'approvisionnement de marchandises",
+ "domain": "300",
+ "pdf": "M302.pdf",
+ "pages": 14,
+ "words": 2052,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une fois que l'entreprise a décidé si elle veut fabriquer elle-même un produit ou l'acheter (comme indiqué dans le module 301) et qu'elle connaît la quantité nécessaire, elle peut commencer à s'approvisionner en marchandises. Dans le module 302, les questions suivantes sont abordées:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quel fournisseur dois-je prendre en compte?",
+      "Comment fonctionne le processus de commande?",
+      "Qu'entend-on par la loi de \"l'offre et de la demande\"?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ce module met en lumière différentes informations qui aident à faire le bon choix dans le domaine de l'achat de marchandises. Il n'y a rien de plus énervant que d'expliquer au client la raison des retards de livraison ou de la mauvaise qualité du produit; ou pire encore, d'employer le service juridique d'EnterSite AG parce que les droits et les obligations de l'acheteur ou du vendeur n'ont pas été respectés."
+    },
+    {
+     "t": "p",
+     "text": "Que penses-tu de l'histoire suivante? Un enfant de huit ans a le privilège de pouvoir jouer plusieurs fois par semaine sur une console de jeu. Les succès obtenus dans les différents jeux font l'objet de discussions animées dans la cour de récréation. L'enfant de huit ans se rend compte que la plupart des autres enfants jouent déjà sur la nouvelle version de la console, dont la qualité et les jeux sont bien meilleurs. De retour de l'école, l'enfant peut à nouveau jouer le soir. Mais ce soir-là, il joue sur la tablette. Et voilà que la publicité pour la console de jeu de dernière génération apparaît sur l'écran. L’enfant regarde la publicité et la nouvelle console de jeu atterrit dans son panier d’achat. Grâce aux moyens de paiement numériques des parents, les données de la carte de crédit sont déjà enregistrées et l'enfant n'a plus qu'à accepter les conditions générales de vente (CGV) et à passer commande. Quelques jours plus tard, l'appareil nouvellement acquis arrive dans la boîte aux lettres. Deux yeux brillants chez l'enfant et de grands yeux surpris chez les parents en sont le résultat. Les parents se disent: \"Nous renvoyons immédiatement l'appareil et réclamons l'argent. Cela ne devrait pas être un problème. N'est-ce pas?”"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Dans le\u0003\u0003module 301, il était question de la quantité et du moment de la commande. Dans ce module, nous allons maintenant préciser où et comment envoyer la commande."
+    },
+    {
+     "t": "p",
+     "text": "2.1 Où acheter? Le défi est différent pour un achat privé et un achat en entreprise. Il y a quelques années, nous avions une réponse claire, le commerce dans le contexte actuel nous permet toute une série de possibilités différentes pour se procurer des biens (par exemple: le E-Commerce). Un facteur décisif sera le budget, qui limitera une première sélection de fournisseurs possibles. La disponibilité et la relation avec le fournisseur seront d'autres arguments importants pour l'achat."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "\u0003\u0003Un exemple de la vie quotidienne - l'achat d'un ordinateur L'exemple suivant montre que les \"questions principales\" lors de l'achat d'un ordinateur portable sont presque identiques, que l'achat soit effectué par une entreprise (dans ce cas, EnterSite AG) ou par un particulier. Situation de départ: Un apprenti a besoin d'un ordinateur portable pour commencer sa formation de logisticien. Apprenti = quantité d'achat 1 pce EnterSite AG dispose de différents ordinateurs portables dans son assortiment et souhaite équiper ses collaborateurs d'une nouvelle version. EnterSite AG = quantité d'achat 86 pièces"
+    },
+    {
+     "t": "p",
+     "text": "Identifier le besoin: J'ai besoin d'un ordinateur portable. (Apprenti + EnterSite AG)"
+    },
+    {
+     "t": "p",
+     "text": "Définir le budget: Combien puis-je payer pour l'appareil? (Apprenti + EnterSite AG)"
+    },
+    {
+     "t": "p",
+     "text": "Définir les exigences: Quelle performance l'appareil doit-il être en mesure de fournir? (Apprenti + EnterSite AG)"
+    },
+    {
+     "t": "p",
+     "text": "Rechercher des fournisseurs: Internet, expériences faites, recherche dans les environs ou demander conseil à des amis. (Apprenti + EnterSite AG)"
+    },
+    {
+     "t": "p",
+     "text": "Consultation sur place: Se renseigner encore une fois sur place pour savoir si les attentes sont couvertes par l'achat (se procurer des connaissances spécialisées). (Apprenti)"
+    },
+    {
+     "t": "p",
+     "text": "Demander une offre: Demandez un appel d'offres aux fournisseurs potentiels avec des informations sur les besoins. L'objectif de l'appel d'offres est de trouver le fournisseur le plus approprié en termes de qualité et de prix. (EnterSite AG)"
+    },
+    {
+     "t": "p",
+     "text": "Évaluation de l'offre: Si le rapport qualité-prix est correct, si les conditions et la date de livraison sont conformes à ce que je souhaite et si j'ai confiance au vendeur, j'accepte le deal. (Apprenti + EnterSite AG)"
+    },
+    {
+     "t": "p",
+     "text": "Achat: Je verse le montant dû conformément à l'accord et je prends en charge le produit. (Apprenti + EnterSite AG)"
+    },
+    {
+     "t": "p",
+     "text": "L’évaluation: Une fois le produit acheté et utilisé, il faut faire rapidement un bilan personnel de la transaction effectuée. Mes attentes sont-elles satisfaites? Dépassées? Les expériences faites avec le fournisseur choisi sont générées en conséquence. Cette expérience a une grande importance. Si l'on est satisfait, ce fournisseur sera à nouveau présent lors du prochain besoin et il sera recommandé à d’autres. Si les attentes ne sont pas satisfaites, on s'en rendra compte et on ne tiendra plus compte du fournisseur à l'avenir. (Apprenti + EnterSite AG)"
+    },
+    {
+     "t": "p",
+     "text": "Sélection de fournisseurs qui pourraient être pris en compte Grossistes et fournisseurs de différentes marques E-Commerce"
+    }
+   ]
+  },
+  {
+   "id": "s-2-1-1",
+   "number": "2.1.1",
+   "title": "Exemple de déroulement schématique d'une commande",
+   "level": 3,
+   "blocks": []
+  },
+  {
+   "id": "s-2-2",
+   "number": "2.2",
+   "title": "La loi de l'offre et de la demande",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-2-2-1",
+   "number": "2.2.1",
+   "title": "La demande",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La demande est la quantité d'un produit à un prix donné qui est commandée par le client. La demande peut résulter de la commande d'un client, des besoins de fabrication, du réapprovisionnement du dépôt, etc. La demande dépend du prix. Cela signifie que plus quelque chose est cher, moins il y a de demande. C'est la \"loi\" de la demande. À l'origine, Antoine Augustin Cournot, un mathématicien et philosophe français, a introduit la courbe de la demande en 1838. Il a également introduit le concept d'élasticité. En économie, les élasticités permettent d'étudier la manière dont l'offre et la demande sur un marché réagissent aux variations de prix ou de revenus. Source: Centrale fédérale pour la formation politique"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "\u0003\u0003Un exemple de demande - les cartes graphiques en 2020 En 2020, les cartes graphiques des marques NVIDIA et AMD étaient utilisées pour les consoles de jeu Playstation 5 et les consoles Microsoft Xbox X. Mais les cartes graphiques étaient également installées dans des appareils de bureau et des ordinateurs portables. La demande de cartes graphiques a augmenté en raison des ventes massives de ces appareils. En conséquence, des retards de livraison de plusieurs mois ont été enregistrés, par exemple pour la Playstation 5. Les cartes graphiques étaient complètement épuisées. La cause? La pandémie de Covid-19 a entraîné des blocages, voire des fermetures, de différentes usines d'assemblage de cartes graphiques aux Etats-Unis. Dans le même temps, la demande de différents appareils a augmenté de 175%. L'offre de la carte graphique n'a pas pu être satisfaite, les prix des cartes graphiques encore disponibles ont triplé."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-2",
+   "number": "2.2.2",
+   "title": "L'offre",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'offre est la quantité d'un produit proposé par le vendeur à un prix donné. Une offre peut provenir de différents groupes de marchandises. Les groupes de marchandises sont les suivants: 1. Produits de l'agriculture: Fruits et légumes 2. Sources d'énergie: énergie fossile (pétrole), énergie renouvelable (énergie solaire), énergie nucléaire 3. Industrie textile: habillement 4. Papier et carton: emballages 5. Cuir, caoutchouc et matières plastiques: selles pour chevaux, pneus, boîtes de rangement 6. Produits chimiques: produits pharmaceutiques 7. Pierres et terres: Verre et matériaux de construction 8. Métaux: fer et acier, produits métalliques 9. Machines, électronique: Machines industrielles, appareils ménagers 10. Véhicules: voitures, camions, aéronefs 11. Instruments, horlogerie: instruments de précision, montres, bijoux 12. Autres marchandises: Meubles, Jouets 13. Métaux précieux: objets d'art, or, platine"
+    },
+    {
+     "t": "p",
+     "text": "Plus de cent ans après l'introduction de la courbe de la demande, l'économiste britannique Alfred Marshall a introduit la courbe de l'offre."
+    },
+    {
+     "t": "p",
+     "text": "Comment fonctionne l'offre? Des représentants d'EnterSite AG visitent un salon de l'impression 3D. Il y a quatre fournisseurs d'impression 3D qui ont le produit recherché dans leur assortiment. L'offre sur le marché correspond donc à la quantité quatre. La quantité offerte dépend du prix du bien. Plus le prix est élevé, plus la quantité offerte est importante. S'il y a une augmentation du prix, il y aurait également plus de vendeurs sur le marché, car les affaires sont meilleures. L'offre sur le marché augmente donc. C'est la \"loi\" de l'offre."
+    },
+    {
+     "t": "p",
+     "text": "Ce principe empirique s'appelle: la loi de l'offre et de la demande"
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-3",
+   "number": "2.2.3",
+   "title": "L'équilibre du marché",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La loi de l'offre et de la demande fait souvent référence à l'équilibre sur un marché: l'équilibre de marché. Sur un marché où règne l'équilibre du marché, les règles suivantes s'appliquent: Lorsque les prix augmentent..."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "...la quantité offerte augmente. Les producteurs sont encouragés à offrir (produire) plus de biens, les détenteurs de ces produits sont intéressés à s'en séparer (vendre).",
+      "... la quantité demandée diminue. Plus les prix sont élevés, moins les acheteurs sont prêts à acheter."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Lorsque les prix baissent..."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "... la quantité offerte diminue. Les producteurs sont moins incités à produire. Les détenteurs ne sont pas intéressés à vendre.",
+      "... la quantité demandée augmente. Plus les prix sont bas, plus les acheteurs sont prêts à acheter."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-3",
+   "number": "2.3",
+   "title": "Le processus de commande",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors du processus de commande, les parties concernées consignent juridiquement leurs accords, les présentent et les contrôlent."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-1",
+   "number": "2.3.1",
+   "title": "L'offre",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour qu'il y ait un marché, il faut qu'il y ait un achat. Pour qu'un achat puisse avoir lieu, une offre est souvent faite."
+    },
+    {
+     "t": "p",
+     "text": "Le processus de commande est déclenché par un besoin non satisfait d'un client. Le client a la possibilité de choisir et de contacter différents fournisseurs. S'il a besoin de faire vérifier sa commande auprès de plusieurs fournisseurs possibles, il peut décider de travailler avec une offre. Il envoie sa demande à la sélection de fournisseurs potentiels et leur demande d'établir une offre. Il n'est pas obligatoire d'établir une offre avant l'achat. Si le client a déjà choisi son fournisseur, il peut sauter la phase de l'offre et déclencher immédiatement une commande. Lorsque le client demande une offre, il doit mentionner dans sa demande les principales attentes. Pour que le fournisseur puisse établir une offre, il faut au moins communiquer les éléments suivants dans la demande:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "l'article souhaité",
+      "la quantité",
+      "la date de livraison",
+      "l'adresse de livraison"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le processus de commande administratif L’offre La commande Confirmation de commande La facture L’offre"
+    },
+    {
+     "t": "p",
+     "text": "Attention: l'offre établie par le fournisseur potentiel comporte une date de validité. Jusqu'à cette date, le fournisseur potentiel s'engage à fournir le contenu de l'offre. Si les conditions générales devaient changer en raison d'adaptations effectuées par le client, l'offre ne serait plus valable. Si l'offre est confirmée par le client, le contenu fixé est respecté par les deux parties. Dans le processus de commande, la confirmation entraîne la commande."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-2",
+   "number": "2.3.2",
+   "title": "La commande",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si une phase d'offre a eu lieu, la commande se base sur les données de l'offre. Si aucune phase d'offre n'a eu lieu, le contenu exact est défini et confirmé lors de cette phase."
+    },
+    {
+     "t": "p",
+     "text": "La commande a un caractère obligatoire. Si une commande a été passée, les deux parties doivent en respecter le contenu."
+    },
+    {
+     "t": "p",
+     "text": "Droit Obligation Acheteur Obtenir la chose vendue et en devenir propriétaire En cas de vice: livraison de remplacement, une réduction ou rédhibition Payer le prix de la vente et dans les délais Vendeur Au paiement du prix de la vente Transmettre la chose vendue à l'acheteur et de lui céder la propriété"
+    },
+    {
+     "t": "p",
+     "text": "Si le contenu d'une commande n'est pas respecté, les deux parties sont tenues de trouver une solution commune. Si aucune solution ne peut être trouvée, les conditions générales de vente (CGV) ou les contenus juridiques selon le Code des obligations (CO) sont consultés."
+    },
+    {
+     "t": "p",
+     "text": "La commande Une commande comprend au minimum"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "l'article souhaité (numéro d'article et description)",
+      "la quantité",
+      "la date de livraison",
+      "l'adresse de livraison",
+      "le prix"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-3",
+   "number": "2.3.3",
+   "title": "La confirmation de commande",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une confirmation de commande est généralement un document écrit, par exemple un E-mail, qui confirme l'acceptation d'une commande. Dans le processus de commande, ce document signifie une confirmation de la réception et du contenu de la commande."
+    },
+    {
+     "t": "p",
+     "text": "La confirmation de commande"
+    },
+    {
+     "t": "p",
+     "text": "L'exemple d'une confirmation de commande de la société EnterSite AG"
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-4",
+   "number": "2.3.4",
+   "title": "La facture",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La clôture du processus de commande se termine avec la facture. La marchandise a été livrée conformément à la confirmation de commande et la propriété en a été transférée. Conformément au code des obligations, le client paie la somme convenue à la date convenue."
+    },
+    {
+     "t": "p",
+     "text": "Tout comme la confirmation de commande, la facture n'est pas liée à une forme unique. La mise en page et la présentation peuvent être choisies librement."
+    },
+    {
+     "t": "p",
+     "text": "Une facture comprend au minimum:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "le nom et l’adresse du fournisseur",
+      "le numéro de TVA du fournisseur",
+      "le nom et l’adresse du destinataire",
+      "la date de livraison",
+      "la désignation exacte de la livraison ou de la prestation",
+      "le prix",
+      "le montant appliqué de la taxe sur la valeur ajoutée (TVA)",
+      "la signature"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La facture"
+    }
+   ]
+  }
+ ]
+}
