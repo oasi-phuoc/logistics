@@ -7,7 +7,7 @@
   "Tu connais les différents types de logistique.",
   "Tu comprends la chaîne de processus."
  ],
- "words": 523,
+ "words": 605,
  "sections": [
   {
    "id": "la-mondialisation",
@@ -148,15 +148,32 @@
    "level": 3,
    "blocks": [
     {
+     "t": "p",
+     "text": "La logistique a plusieurs domaines. Voici les plus importants."
+    },
+    {
      "t": "ul",
      "items": [
+      "Approvisionnement : acheter et faire arriver ce dont on a besoin.",
+      "Production : organiser les flux dans l’usine.",
       "Stockage : choisir l’entrepôt et bien l’organiser.",
-      "Transport : déplacer les marchandises par route, air ou eau.",
+      "Transport : déplacer les marchandises par route, rail, air ou eau.",
+      "Distribution : apporter les produits aux clients.",
+      "Élimination : gérer les déchets et le retour des emballages.",
       "Intralogistique : tous les mouvements dans un même site.",
       "Emballage : choisir les emballages et les jeter correctement.",
       "Information : savoir à tout moment où est la marchandise.",
       "Succursales : remplir les magasins d’une chaîne.",
       "Dernier kilomètre : la livraison jusque chez le client."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "La logistique ne sert pas seulement au transport.",
+      "Elle regroupe plusieurs métiers et plusieurs étapes."
      ]
     }
    ]
@@ -363,6 +380,18 @@
   {
    "question": "Que veut dire « mondialisation » ?",
    "answer": "Le monde entier est relié."
+  },
+  {
+   "question": "Cite 4 flux que la logistique planifie et contrôle.",
+   "answer": "Marchandises, informations, valeurs (argent), personnes (et aussi l’énergie)."
+  },
+  {
+   "question": "Que veut dire SCM ?",
+   "answer": "Supply Chain Management : la gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "question": "Qu’est-ce qu’une interface dans la chaîne ?",
+   "answer": "L’endroit où deux entreprises ou services se rencontrent. Une erreur peut arriver là."
   }
  ],
  "source": "Guide FALC Logistique Modules 101-110"

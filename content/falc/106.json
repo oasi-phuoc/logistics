@@ -7,7 +7,7 @@
   "Tu connais les 3 voies d’élimination.",
   "Tu sais ce que veut dire recycler."
  ],
- "words": 974,
+ "words": 1031,
  "sections": [
   {
    "id": "qu-est-ce-qu-un-d-chet",
@@ -91,6 +91,34 @@
       "La plus grande partie est de la terre et des gravats.",
       "Chaque personne produit 716 kg de déchets urbains par an. C’est très élevé.",
       "53 % des déchets urbains sont recyclés."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-3-voies-d-limination",
+   "title": "Les 3 voies d’élimination",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En Suisse, il y a 3 grandes voies pour éliminer les déchets."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La mise en décharge",
+      "L’incinération",
+      "Le recyclage"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "La meilleure solution est d’éviter les déchets.",
+      "Ensuite vient le recyclage. Puis l’incinération. La décharge est le dernier choix."
      ]
     }
    ]
@@ -553,6 +581,14 @@
   {
    "question": "Quelle est la meilleure façon de traiter les déchets ?",
    "answer": "Éviter d’en produire."
+  },
+  {
+   "question": "Que veut dire UIOM ?",
+   "answer": "Usine d’incinération des ordures ménagères."
+  },
+  {
+   "question": "Que veut dire littering ?",
+   "answer": "Jeter ses déchets dans la rue ou la nature."
   }
  ],
  "source": "Guide FALC Logistique Modules 101-110"

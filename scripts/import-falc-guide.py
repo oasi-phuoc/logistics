@@ -428,10 +428,24 @@ def build_modules(docx_path: Path):
 
     OUT.mkdir(parents=True, exist_ok=True)
     for code, mod in modules.items():
-        # Drop empty trailing sections
+        # Keep parent headings even if empty (children follow); drop only empty leaf-looking blanks
         sections = []
-        for s in mod["sections"]:
+        for i, s in enumerate(mod["sections"]):
             if s["blocks"]:
+                sections.append(s)
+                continue
+            # Keep empty H2/H3 if a deeper section follows (structural parent)
+            nxt = mod["sections"][i + 1] if i + 1 < len(mod["sections"]) else None
+            if nxt and nxt["level"] > s["level"]:
+                s = {
+                    **s,
+                    "blocks": [
+                        {
+                            "t": "p",
+                            "text": f"Cette partie parle de : {s['title'].lower()}.",
+                        }
+                    ],
+                }
                 sections.append(s)
         words = 0
         for s in sections:

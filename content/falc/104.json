@@ -7,7 +7,7 @@
   "Tu connais les étapes de la chaîne.",
   "Tu connais les 3 fonctions TTS."
  ],
- "words": 370,
+ "words": 391,
  "sections": [
   {
    "id": "qu-est-ce-qu-un-flux-de-marchandises",
@@ -334,6 +334,18 @@
   {
    "question": "Que veut dire TTS ?",
    "answer": "Transport, Transbordement, Stockage."
+  },
+  {
+   "question": "Quelles sont les grandes étapes de la chaîne de processus ?",
+   "answer": "Approvisionnement, production, distribution, élimination des déchets."
+  },
+  {
+   "question": "Qu’est-ce qu’un flux de marchandises ?",
+   "answer": "Le mouvement des marchandises d’un point à un autre."
+  },
+  {
+   "question": "Quelle est la différence entre petite et grande logistique ?",
+   "answer": "La petite logistique est locale ou interne. La grande logistique couvre de longues distances et souvent plusieurs pays."
   }
  ],
  "source": "Guide FALC Logistique Modules 101-110"

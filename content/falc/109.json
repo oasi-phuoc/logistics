@@ -7,7 +7,7 @@
   "Tu sais quel courrier tu peux ouvrir.",
   "Tu sais choisir un bon mot de passe."
  ],
- "words": 581,
+ "words": 605,
  "sections": [
   {
    "id": "pourquoi-garder-des-choses-secr-tes",
@@ -410,6 +410,14 @@
   {
    "question": "Combien de caractères au minimum pour un bon mot de passe ?",
    "answer": "Au moins 8."
+  },
+  {
+   "question": "Que protège le secret postal ?",
+   "answer": "Le contenu du courrier, et aussi qui écrit à qui."
+  },
+  {
+   "question": "Que dois-tu faire si tu perds un badge ?",
+   "answer": "Tu le signales tout de suite."
   }
  ],
  "source": "Guide FALC Logistique Modules 101-110"

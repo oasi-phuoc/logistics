@@ -7,11 +7,11 @@
   "Tu connais les 6 « B ».",
   "Tu sais ce que veulent dire « efficace » et « efficient »."
  ],
- "words": 284,
+ "words": 311,
  "sections": [
   {
-   "id": "introduction",
-   "title": "Introduction",
+   "id": "reflechis",
+   "title": "Réfléchis",
    "level": 2,
    "blocks": [
     {
@@ -274,6 +274,18 @@
   {
    "question": "Cite les 6 « B » de la logistique.",
    "answer": "Bonne marchandise, bonne quantité, bonne qualité, bon moment, bon endroit, bon prix."
+  },
+  {
+   "question": "Que veut dire « efficace » ?",
+   "answer": "On atteint le but à temps."
+  },
+  {
+   "question": "Que veut dire « efficient » ?",
+   "answer": "On atteint le but sans gaspiller."
+  },
+  {
+   "question": "Quel est le but de la logistique ?",
+   "answer": "Assurer le meilleur flux possible de marchandises et de données."
   }
  ],
  "source": "Guide FALC Logistique Modules 101-110"

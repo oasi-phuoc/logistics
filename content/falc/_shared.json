@@ -127,16 +127,64 @@
    "answer": "Depuis la préhistoire."
   },
   {
+   "question": "En quelle année le mot « logistique » est-il utilisé dans l’économie ?",
+   "answer": "En 1955, aux États-Unis."
+  },
+  {
+   "question": "Qui a présenté le modèle du conteneur ?",
+   "answer": "Malcom McLean, en 1956."
+  },
+  {
+   "question": "Qu’est-ce qui a beaucoup changé la logistique depuis les années 1960 ?",
+   "answer": "L’informatique."
+  },
+  {
    "question": "Que veut dire « mondialisation » ?",
    "answer": "Le monde entier est relié."
+  },
+  {
+   "question": "Cite 4 flux que la logistique planifie et contrôle.",
+   "answer": "Marchandises, informations, valeurs (argent), personnes (et aussi l’énergie)."
+  },
+  {
+   "question": "Que veut dire SCM ?",
+   "answer": "Supply Chain Management : la gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "question": "Qu’est-ce qu’une interface dans la chaîne ?",
+   "answer": "L’endroit où deux entreprises ou services se rencontrent. Une erreur peut arriver là."
   },
   {
    "question": "Cite les 6 « B » de la logistique.",
    "answer": "Bonne marchandise, bonne quantité, bonne qualité, bon moment, bon endroit, bon prix."
   },
   {
+   "question": "Que veut dire « efficace » ?",
+   "answer": "On atteint le but à temps."
+  },
+  {
+   "question": "Que veut dire « efficient » ?",
+   "answer": "On atteint le but sans gaspiller."
+  },
+  {
+   "question": "Quel est le but de la logistique ?",
+   "answer": "Assurer le meilleur flux possible de marchandises et de données."
+  },
+  {
    "question": "Que veut dire TTS ?",
    "answer": "Transport, Transbordement, Stockage."
+  },
+  {
+   "question": "Quelles sont les grandes étapes de la chaîne de processus ?",
+   "answer": "Approvisionnement, production, distribution, élimination des déchets."
+  },
+  {
+   "question": "Qu’est-ce qu’un flux de marchandises ?",
+   "answer": "Le mouvement des marchandises d’un point à un autre."
+  },
+  {
+   "question": "Quelle est la différence entre petite et grande logistique ?",
+   "answer": "La petite logistique est locale ou interne. La grande logistique couvre de longues distances et souvent plusieurs pays."
   },
   {
    "question": "Quels sont les 3 degrés de transformation ?",
@@ -147,12 +195,60 @@
    "answer": "À moins de −18 °C."
   },
   {
+   "question": "Qu’est-ce qu’une marchandise périssable ?",
+   "answer": "Une marchandise qui se gâte vite."
+  },
+  {
+   "question": "Que veut dire manutention ?",
+   "answer": "Déplacer et manipuler des marchandises."
+  },
+  {
    "question": "Quelles sont les 3 voies d’élimination des déchets en Suisse ?",
    "answer": "La mise en décharge, l’incinération et le recyclage."
   },
   {
    "question": "Quelle est la meilleure façon de traiter les déchets ?",
    "answer": "Éviter d’en produire."
+  },
+  {
+   "question": "Que veut dire UIOM ?",
+   "answer": "Usine d’incinération des ordures ménagères."
+  },
+  {
+   "question": "Que veut dire littering ?",
+   "answer": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "question": "Quelles sont les 4 catégories de déchets en Suisse ?",
+   "answer": "Déchets de chantier, déchets urbains, déchets spéciaux, boues d’épuration."
+  },
+  {
+   "question": "Que règle l’ordonnance OMoD ?",
+   "answer": "Les mouvements de déchets, surtout les déchets spéciaux."
+  },
+  {
+   "question": "Peux-tu ouvrir le contenant d’un déchet spécial ?",
+   "answer": "Non. C’est interdit."
+  },
+  {
+   "question": "Qui donne l’autorisation pour recevoir des déchets spéciaux ?",
+   "answer": "Le canton."
+  },
+  {
+   "question": "Que veut dire SME ?",
+   "answer": "Système de management environnemental."
+  },
+  {
+   "question": "Que certifie la norme ISO 14001 ?",
+   "answer": "Les systèmes de management environnemental (SME)."
+  },
+  {
+   "question": "Combien d’objectifs a l’Agenda 2030 ?",
+   "answer": "17 objectifs de développement durable."
+  },
+  {
+   "question": "Cite 3 problèmes de l’environnement.",
+   "answer": "Par exemple : changement climatique, pénurie d’eau, pollution de l’air, déforestation, déchets plastiques."
   },
   {
    "question": "Peux-tu ouvrir un courrier « personnel / confidentiel » ?",
@@ -163,8 +259,24 @@
    "answer": "Au moins 8."
   },
   {
+   "question": "Que protège le secret postal ?",
+   "answer": "Le contenu du courrier, et aussi qui écrit à qui."
+  },
+  {
+   "question": "Que dois-tu faire si tu perds un badge ?",
+   "answer": "Tu le signales tout de suite."
+  },
+  {
    "question": "Comment calcule-t-on le besoin net ?",
    "answer": "Besoins totaux − stock − commandes en cours."
+  },
+  {
+   "question": "Que veut dire KPI ?",
+   "answer": "Key Performance Indicator : un chiffre clé pour mesurer la performance."
+  },
+  {
+   "question": "Que veut dire make or buy ?",
+   "answer": "On fabrique soi-même ou on achète."
   }
  ],
  "modules": [

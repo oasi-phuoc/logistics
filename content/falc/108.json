@@ -7,7 +7,7 @@
   "Tu connais 8 problèmes de l’environnement.",
   "Tu connais l’Agenda 2030."
  ],
- "words": 458,
+ "words": 493,
  "sections": [
   {
    "id": "les-syst-mes-de-management-environnemental",
@@ -110,6 +110,15 @@
     {
      "t": "p",
      "text": "Exemple : les 70 000 bénévoles portaient des vêtements fabriqués avec des bouteilles en PET recyclées."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "ISO 20121 sert aux grands événements.",
+      "Elle aide à organiser un événement plus respectueux de l’environnement."
+     ]
     }
    ]
   },
@@ -297,6 +306,23 @@
    "definition": "Usine d’incinération des ordures ménagères."
   }
  ],
- "quiz": [],
+ "quiz": [
+  {
+   "question": "Que veut dire SME ?",
+   "answer": "Système de management environnemental."
+  },
+  {
+   "question": "Que certifie la norme ISO 14001 ?",
+   "answer": "Les systèmes de management environnemental (SME)."
+  },
+  {
+   "question": "Combien d’objectifs a l’Agenda 2030 ?",
+   "answer": "17 objectifs de développement durable."
+  },
+  {
+   "question": "Cite 3 problèmes de l’environnement.",
+   "answer": "Par exemple : changement climatique, pénurie d’eau, pollution de l’air, déforestation, déchets plastiques."
+  }
+ ],
  "source": "Guide FALC Logistique Modules 101-110"
 }

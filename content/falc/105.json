@@ -7,11 +7,11 @@
   "Tu connais les 3 degrés de transformation.",
   "Tu sais protéger les marchandises stockées."
  ],
- "words": 843,
+ "words": 868,
  "sections": [
   {
-   "id": "introduction",
-   "title": "Introduction",
+   "id": "reflechis",
+   "title": "Réfléchis",
    "level": 2,
    "blocks": [
     {
@@ -177,21 +177,21 @@
    "blocks": [
     {
      "t": "p",
-     "text": "Le froid ralentit les bactéries et les champignons."
+     "text": "Certaines marchandises ont besoin d’une température précise."
     },
     {
-     "t": "p",
-     "text": "À moins 18 degrés, ils s’arrêtent. Ils ne sont pas morts : ils dorment."
+     "t": "ul",
+     "items": [
+      "Produits surgelés : moins de −18 °C.",
+      "Produits frais (viande, poisson, lait) : environ 0 à 5 °C.",
+      "Produits sensibles à la chaleur : au frais, à l’abri du soleil."
+     ]
     },
     {
      "t": "note",
      "kind": "warn",
      "label": "Attention",
-     "text": "Quand un produit surgelé a décongelé, on ne le recongèle jamais."
-    },
-    {
-     "t": "p",
-     "text": "Réfrigérer : entre 0 et 5 degrés. Congeler : moins 18 degrés."
+     "text": "Si la température n’est pas bonne, la marchandise peut se gâter ou devenir dangereuse."
     }
    ]
   },
@@ -410,6 +410,14 @@
   {
    "question": "À quelle température range-t-on les produits surgelés ?",
    "answer": "À moins de −18 °C."
+  },
+  {
+   "question": "Qu’est-ce qu’une marchandise périssable ?",
+   "answer": "Une marchandise qui se gâte vite."
+  },
+  {
+   "question": "Que veut dire manutention ?",
+   "answer": "Déplacer et manipuler des marchandises."
   }
  ],
  "source": "Guide FALC Logistique Modules 101-110"

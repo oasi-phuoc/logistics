@@ -7,7 +7,7 @@
   "Tu sais calculer un besoin net.",
   "Tu connais quelques chiffres importants (KPI)."
  ],
- "words": 722,
+ "words": 829,
  "sections": [
   {
    "id": "que-comprend-la-gestion-des-marchandises",
@@ -82,6 +82,34 @@
     {
      "t": "p",
      "text": "Quand on crée un nouvel article dans le système (l’ERP), il y a 2 sortes de données."
+    },
+    {
+     "t": "p",
+     "text": "Les données de base sont statiques. Elles changent peu."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Numéro d’article",
+      "Nom de l’article",
+      "Unité : pièce, kg, litre, mètre",
+      "Place de stockage",
+      "Fournisseur",
+      "Poids et volume"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les données de mouvement sont dynamiques. Elles changent tout le temps."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Stock",
+      "Consommation",
+      "Commandes",
+      "Factures"
+     ]
     },
     {
      "t": "note",
@@ -212,6 +240,34 @@
      "items": [
       "Réception : on contrôle l’identité, la quantité et la qualité.",
       "Entreposage : on attribue une place. Place fixe ou place libre (chaotique). On range aussi par zones."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-logistique-interne",
+   "title": "La logistique interne",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique interne, c’est tout ce qui bouge dans l’entreprise."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Préparer les commandes",
+      "Déplacer les marchandises d’un endroit à un autre",
+      "Choisir le bon engin de manutention"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Une bonne logistique interne fait gagner du temps.",
+      "Elle évite les longs trajets et les stocks inutiles."
      ]
     }
    ]
@@ -520,6 +576,14 @@
   {
    "question": "Comment calcule-t-on le besoin net ?",
    "answer": "Besoins totaux − stock − commandes en cours."
+  },
+  {
+   "question": "Que veut dire KPI ?",
+   "answer": "Key Performance Indicator : un chiffre clé pour mesurer la performance."
+  },
+  {
+   "question": "Que veut dire make or buy ?",
+   "answer": "On fabrique soi-même ou on achète."
   }
  ],
  "source": "Guide FALC Logistique Modules 101-110"

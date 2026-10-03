@@ -7,7 +7,7 @@
   "Tu sais comment éliminer les déchets courants.",
   "Tu sais que les déchets spéciaux sont dangereux."
  ],
- "words": 593,
+ "words": 733,
  "sections": [
   {
    "id": "les-4-cat-gories",
@@ -222,6 +222,52 @@
    ]
   },
   {
+   "id": "les-7-mesures-de-pr-caution",
+   "title": "Les 7 mesures de précaution",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Avec les déchets spéciaux, tu dois être très prudent."
+    },
+    {
+     "t": "p",
+     "text": "Voici 7 règles simples."
+    },
+    {
+     "t": "p",
+     "text": "Pendant la manutention :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "1. N’ouvre pas le contenant.",
+      "2. Fais très attention : ne renverse pas, n’abîme pas, évite la poussière.",
+      "3. Ne touche pas le produit à mains nues. Porte des gants. Lave-toi les mains. Porte des lunettes s’il y a un risque de projection."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pendant le stockage :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "4. Protège le produit. Le lieu de stockage doit pouvoir se fermer à clé.",
+      "5. Ne range pas ensemble des substances inconnues.",
+      "6. Stocke à l’abri de la pluie et du soleil.",
+      "7. Utilise des contenants étanches. Mets des bacs de rétention pour les liquides."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "En cas de doute, traite la substance comme dangereuse."
+    }
+   ]
+  },
+  {
    "id": "qui-peut-liminer-des-d-chets-sp-ciaux",
    "title": "Qui peut éliminer des déchets spéciaux ?",
    "level": 3,
@@ -384,6 +430,23 @@
    "definition": "Usine d’incinération des ordures ménagères."
   }
  ],
- "quiz": [],
+ "quiz": [
+  {
+   "question": "Quelles sont les 4 catégories de déchets en Suisse ?",
+   "answer": "Déchets de chantier, déchets urbains, déchets spéciaux, boues d’épuration."
+  },
+  {
+   "question": "Que règle l’ordonnance OMoD ?",
+   "answer": "Les mouvements de déchets, surtout les déchets spéciaux."
+  },
+  {
+   "question": "Peux-tu ouvrir le contenant d’un déchet spécial ?",
+   "answer": "Non. C’est interdit."
+  },
+  {
+   "question": "Qui donne l’autorisation pour recevoir des déchets spéciaux ?",
+   "answer": "Le canton."
+  }
+ ],
  "source": "Guide FALC Logistique Modules 101-110"
 }

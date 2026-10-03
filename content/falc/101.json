@@ -7,7 +7,7 @@
   "Tu connais quelques grandes dates.",
   "Tu comprends que les buts n’ont pas changé."
  ],
- "words": 361,
+ "words": 543,
  "sections": [
   {
    "id": "la-logistique-existe-depuis-toujours",
@@ -44,6 +44,22 @@
       {
        "term": "Distribution",
        "definition": "Apporter les produits aux clients."
+      },
+      {
+       "term": "Palette",
+       "definition": "Une planche pour porter et déplacer des marchandises."
+      },
+      {
+       "term": "Conteneur",
+       "definition": "Une grande caisse standard pour transporter des marchandises."
+      },
+      {
+       "term": "Code-barres",
+       "definition": "Des traits noirs qui identifient un produit."
+      },
+      {
+       "term": "Juste à temps",
+       "definition": "Livrer exactement quand on a besoin, sans stock inutile."
       }
      ]
     }
@@ -170,11 +186,34 @@
    "blocks": [
     {
      "t": "p",
-     "text": "La logistique a changé très vite. Voici quelques dates."
+     "text": "La logistique a changé très vite. Voici les dates importantes."
     },
     {
-     "t": "p",
-     "text": "En 1955, le mot « logistique » est utilisé pour la première fois dans l’économie. C’était aux États-Unis."
+     "t": "ul",
+     "items": [
+      "1804 : la locomotive démarre.",
+      "1875 : le premier moteur à essence.",
+      "1896 : le premier camion transporte des marchandises.",
+      "1907 : naissance des services de colis.",
+      "1944 : les palettes en bois et les chariots élévateurs arrivent en Europe.",
+      "1948 : ouverture de l’aéroport de Kloten, en Suisse.",
+      "1949 : invention du code-barres.",
+      "1953 : début du « juste à temps ».",
+      "1955 : le mot « logistique » est utilisé dans l’économie aux États-Unis.",
+      "1956 : Malcom McLean présente le conteneur.",
+      "1960 : le mot « logistique » arrive dans les pays germanophones.",
+      "1980 : ouverture du tunnel routier du Gothard, en Suisse.",
+      "1992 : vote sur la NLFA. Mise en service définitive en 2020."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Les palettes, le conteneur et le code-barres ont changé la logistique.",
+      "En Suisse, le Gothard et la NLFA sont des dates importantes."
+     ]
     }
    ]
   },
@@ -334,6 +373,18 @@
   {
    "question": "Depuis quand la logistique existe-t-elle ?",
    "answer": "Depuis la préhistoire."
+  },
+  {
+   "question": "En quelle année le mot « logistique » est-il utilisé dans l’économie ?",
+   "answer": "En 1955, aux États-Unis."
+  },
+  {
+   "question": "Qui a présenté le modèle du conteneur ?",
+   "answer": "Malcom McLean, en 1956."
+  },
+  {
+   "question": "Qu’est-ce qui a beaucoup changé la logistique depuis les années 1960 ?",
+   "answer": "L’informatique."
   }
  ],
  "source": "Guide FALC Logistique Modules 101-110"
