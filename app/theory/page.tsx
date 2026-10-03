@@ -321,10 +321,25 @@ export default function TheoryPage() {
             <p className="text-sm uppercase tracking-[0.25em] text-cyan-400">Logistics Academy</p>
             <h1 className="mt-2 text-3xl font-bold text-white">Theory</h1>
           </div>
-          <a href="/glossary" className="rounded-full border border-violet-400/40 bg-violet-500/10 px-4 py-2 text-sm font-medium text-violet-300 hover:bg-violet-500/20">
-            Glossary
-          </a>
+          <div className="flex gap-2">
+            <a 
+              href="/theory-falc" 
+              className="rounded-full border border-emerald-400/40 bg-emerald-500/10 px-4 py-2 text-sm font-medium text-emerald-300 transition hover:bg-emerald-500/20"
+              title="Easy to Read and Understand Mode"
+            >
+              📖 FALC Mode
+            </a>
+            <a href="/glossary" className="rounded-full border border-violet-400/40 bg-violet-500/10 px-4 py-2 text-sm font-medium text-violet-300 hover:bg-violet-500/20">
+              Glossary
+            </a>
+          </div>
         </header>
+
+        <div className="mb-8 rounded-2xl border border-emerald-800 bg-emerald-950/20 p-4">
+          <p className="text-sm text-emerald-200">
+            💡 <strong>Tip:</strong> Looking for easier explanations? Click the <strong>📖 FALC Mode</strong> button above for accessible, simple language version!
+          </p>
+        </div>
 
         <div className="space-y-8">
           {theoryModules.map((block) => (
@@ -360,4 +375,3 @@ export default function TheoryPage() {
     </main>
   );
 }
-
