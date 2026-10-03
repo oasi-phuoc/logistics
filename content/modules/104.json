@@ -1,0 +1,260 @@
+{
+ "code": "104",
+ "title": "Flux des marchandises",
+ "domain": "100",
+ "pdf": "Entersite_M104.pdf",
+ "pages": 9,
+ "words": 1315,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Bonne qualité",
+      "Bon moment",
+      "Bon endroit",
+      "Bon prix"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Deux autres \"B\" se sont ajoutés et gagnent en importance:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Bonnes informations",
+      "Bons clients"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La logistique consiste donc à rendre les biens disponibles. Les 6B montrent quels aspects doivent être pris en compte pour qu'une tâche logistique puisse être exécutée avec succès."
+    },
+    {
+     "t": "p",
+     "text": "Le développement d'une définition de la logistique Pendant des années, la logistique s'est concentrée sur les 4B, à savoir le bon produit, dans la bonne qualité, au bon moment et au bon endroit. Entre-temps, la quantité et les coûts sont venus s'y ajouter pour répondre à la réduction de l'intégration verticale (par exemple dans le cas d'une"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "production en flux tendu, ( module 504). C'est ainsi que les 6B se sont établis comme éléments clés de la logistique. L'évolution n'est pas encore terminée. Aujourd'hui, on parle aussi de 7B (6B plus la bonne information) ou de 8B (6B plus la bonne information et le bon client). On parle de ces extensions parce que la gestion et l'importance des processus logistiques augmentent, tant dans la production industrielle que dans l'ensemble de la société."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 103"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le flux de marchandises (également appelé flux de biens) désigne le chemin qu'emprunte une marchandise. Ce chemin doit être le plus clair, le plus simple et le plus net possible. Cliquez sur \"Dessin\" dans la barre de menu de OneNote. Utilisez le stylo (ou les symboles disponibles) pour esquisser dans le champ vert le flux des marchandises dans votre entreprise formatrice:"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Dans le module 102, les notions de processus logistique et de gestion de la chaîne d'approvisionnement (SCM) ont été approfondies. Ces notions se ressemblent et poursuivent des objectifs similaires. Les objectifs sont notamment le flux optimal des marchandises et les flux de marchandises optimaux. Pour atteindre cet objectif, le flux de marchandises doit être connu et organisé de manière optimale. Le cas échéant, l'organisation d'un flux de marchandises nécessite le soutien d'un partenaire."
+    },
+    {
+     "t": "p",
+     "text": "Le flux de marchandises au sein de la chaîne de processus de la logistique:"
+    },
+    {
+     "t": "p",
+     "text": "Chaîne de processus de la logistique"
+    }
+   ]
+  },
+  {
+   "id": "s-4-1",
+   "number": "4.1",
+   "title": "Approvisionnement",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'achat de biens est une tâche responsable qui incombe à ceux que l'on appelle les acheteurs. Les acheteurs sont des professionnels qualifiés qui recherchent les biens présentant le meilleur rapport qualité/prix possible et qui négocient les conditions et les contrats de livraison avec les fournisseurs. Les acheteurs sont chargés de veiller à ce que leurs entreprises disposent toujours des biens adéquats, de haute qualité et au meilleur prix."
+    },
+    {
+     "t": "p",
+     "text": "La mondialisation et les nouvelles possibilités numériques ont fait de l'approvisionnement un défi majeur. Il n'est pas exceptionnel que les fournisseurs se trouvent dans d'autres fuseaux horaires ou régions linguistiques."
+    }
+   ]
+  },
+  {
+   "id": "s-4-2",
+   "number": "4.2",
+   "title": "Production",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La production industrielle nécessite l'utilisation de machines. Comme leur acquisition est coûteuse, il convient de les utiliser au maximum de leurs capacités. Cela nécessite une planification et une gestion précises de l'ensemble du processus de production. Les machines doivent être \"alimentées\" en matières premières et les produits fabriqués doivent être évacués."
+    },
+    {
+     "t": "p",
+     "text": "Pour la logistique de production, trouver la bonne quantité pour le processus de production est un grand défi. Des quantités trop importantes peuvent entraîner une surproduction (engorgement). En revanche, la production de trop petites quantités n'est pas intéressante financièrement."
+    }
+   ]
+  },
+  {
+   "id": "s-4-3",
+   "number": "4.3",
+   "title": "Distribution",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La distribution des biens du producteur au consommateur final s'appelle la distribution. Elle peut se faire de différentes manières. Par exemple, la poste distribue les envois adressés jusqu'au destinataire, c'est-à-dire jusqu'au consommateur final. C'est également le cas d'autres entreprises de transport de colis et de services."
+    },
+    {
+     "t": "p",
+     "text": "Dans le cas du commerce de détail, en revanche, ce ne sont pas les clients qui sont directement livrés, mais les points de vente. Le client peut s'y procurer la marchandise souhaitée et l'emporter chez lui. L'évolution du transport routier entraîne constamment de nouveaux défis."
+    }
+   ]
+  },
+  {
+   "id": "s-4-4",
+   "number": "4.4",
+   "title": "Élimination des déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'élimination des déchets est le dernier maillon de la chaîne logistique. Dans la mesure du possible, les matières résiduelles doivent être réutilisées, ce que l'on appelle le recyclage. Les matières qui ne peuvent pas être recyclées sont généralement incinérées."
+    },
+    {
+     "t": "p",
+     "text": "Les entreprises de logistique s'occupent quotidiennement de l'élimination correcte des déchets résiduels. Il s'agit par exemple de matériaux d'emballage ou d'objets usagés. Il convient d'accorder une attention particulière aux substances nocives qui sont p roduites lors de l'élimination de nombreux produits d'usage courant."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5",
+   "number": "4.5",
+   "title": "Fonctions TTS",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les processus de soutien au sein du SCM sont appelés fonctions TTS (transport, transbordement (manutention) et stockage). La différence avec les processus décrits précédemment réside dans le fait que les processus T TS ont une fonction de soutien au sein des domaines et entre eux."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-1",
+   "number": "4.5.1",
+   "title": "TTS - Transport",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchandises peuvent être transportées via différents modes de transport: route, rail, eau et air. Selon le mode de transport, d'autres moyens de transport entrent en ligne de compte. Le choix du mode de transport, et donc du moyen de transport, se fait généralement en fonction des critères de prix, de sécurité, de vitesse et d'effica cité. Avec l'augmentation massive des transports de marchandises au cours des dernières années, les critères écologiques (compatibilité avec l'environnement) ont en outre gagné en importance."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-2",
+   "number": "4.5.2",
+   "title": "TTS – Transbordement (manutention)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lorsque des marchandises sont réceptionnées ou transférées d'un moyen de transport à un autre, on parle de transbordement de marchandises. Le transbordement de marchandises signifie que les marchandises sont déchargées, stockées temporairement et chargées à nouveau."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-3",
+   "number": "4.5.3",
+   "title": "TTS - Stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage professionnel des marchandises est une tâche centrale au sein de la chaîne logistique. Il existe une multitude de types d'entrepôts et de systèmes différents. Chaque entrepôt a son caractère spécifique. La forme de l'entrepôt et les installations techniques dépendent des marchandises stockées et de la durée de stockage."
+    }
+   ]
+  },
+  {
+   "id": "s-4-6",
+   "number": "4.6",
+   "title": "Le flux de marchandises en tant que prestataire de services vers le",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "producteur Le flux de marchandises peut prendre différentes formes. L'ordre correct résulte de la tâche à accomplir. Les différences sont évidentes si l'on compare un simple flux de marchandises d'un prestataire de services et d'un producteur:"
+    }
+   ]
+  },
+  {
+   "id": "s-4-6-1",
+   "number": "4.6.1",
+   "title": "Flux de marchandises Prestataires de services",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Entrée de marchandises Sortie de marchandises Contrôle de marchandises Emballage Stockage de marchandises Préparation de commandes"
+    },
+    {
+     "t": "p",
+     "text": "Le prestataire de services achète ses biens et les revend. Il est spécialisé dans l'achat de biens de bonne qualité, leur stockage en conservant leur valeur et leur vente au bon client."
+    }
+   ]
+  },
+  {
+   "id": "s-4-6-2",
+   "number": "4.6.2",
+   "title": "Flux de marchandises Producteur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Contrairement au prestataire de services, le producteur modifie le produit au sein du flux de marchandises. C'est pourquoi l'a ssemblage ou la production font également partie de ses attributions. Le produit passe d'une matière première ou d'un produit semi -fini à l'entrée des marchandises à un produit semi-fini ou à un produit fini à la sortie des marchandises."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "RReemmaarrqquuee:: un flux de marchandises est très spécifique à l'entreprise. Il existe donc une grande diversité de représentations et de termes utilisés."
+    }
+   ]
+  },
+  {
+   "id": "s-4-7",
+   "number": "4.7",
+   "title": "Grandeurs logistiques",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique est nécessaire lorsque les fournisseurs veulent vendre quelque chose que les clients veulent acheter. Les fournisseurs sont des entreprises qui livrent des matières premières, des produits semi-finis ou des produits finis contre paiement. Les clients sont des acheteurs de ces biens, qui les paient. Il est rare qu'une entreprise soit uniquement fournisseur ou uniquement client; la plupart"
+    },
+    {
+     "t": "p",
+     "text": "Entrée de marchandises Stock en aval Déplacement de stock Production Production Stock intermédiaire Sortie de marchandises sont les deux. En y regardant de plus près, on trouve partout un type de logistique, grande ou petite, simple ou compliquée. Même un ménage privé est en fait une logistique car, là aussi, il faut organiser l'approvisionnement en biens de consommation courante et l'élimination des déchets et, là aussi, cela ne fonctionne que si la communication est efficace."
+    },
+    {
+     "t": "p",
+     "text": "Il existe plusieurs termes techniques pour désigner la division de la logistique en différentes tailles: 1. Les fabricants de chariots de manutention parlent d' intralogistique. Il s'agit d'une logistique interne allant de l'entrée à la sortie des marchandises. Cette dimension de la logistique est également connue sous les termes de logistique interne ou de micro-logistique. 2. Si une logistique est créée entre au moins deux entreprises, elle est appelée logistique interentreprises ou méta logistique. 3. La macro logistique ou la logistique mondiale désigne les mouvements de marchandises internationaux ou même intercontinentaux entre deux entreprises."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 104"
+     ]
+    }
+   ]
+  }
+ ]
+}

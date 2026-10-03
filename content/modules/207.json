@@ -1,0 +1,150 @@
+{
+ "code": "207",
+ "title": "Pre-Sale-Service (service à la prévente)",
+ "domain": "200",
+ "pdf": "M207.pdf",
+ "pages": 4,
+ "words": 815,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Remercier le client (par exemple pour ses précieuses suggestions), réitérer vos excuses si nécessaire",
+      "Résumer brièvement les points en suspens et la suite de la procédure",
+      "Prendre congé du client, si possible en le nommant"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Il peut être difficile de mettre fin à une conversation avec un client bavard. Mais on y est souvent obligé en raison de la charge de travail. Les formulations suivantes permettent de mettre fin à la conversation sans que le client ne le prenne personnellement:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "« J'aimerais vous écouter plus longtemps, mais malheureusement, mes fonctions m'obligent à poursuivre mon travail. »",
+      "« Il faut absolument que nous continuions à parler une autre fois."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Malheureusement, je ne peux pas faire attendre les autres clients plus longtemps. »"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "« Il y aurait encore beaucoup de choses intéressantes à dire à ce sujet."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Peut-être aurons-nous le temps d'échanger à nouveau quelques mots sur ce sujet demain? »"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 206"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Modul 207"
+    },
+    {
+     "t": "p",
+     "text": "Les services de prévente (Pre-Sales-Services) sont des services proposés au client avant l'achat afin d'aider le vendeur à obtenir des commandes. Dans le commerce de détail, il peut s'agir par exemple de parking gratuit ou d'heures d'ouverture prolongées. Dans le secteur des services, il s'agit par exemple de réservations par téléphone ou sur Internet. Pour les biens durables et de grande valeur, il peut s'agir par exemple d'une utilisation d'échantillons ou de conseils techniques."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1",
+   "number": "7.1",
+   "title": "Les besoins",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Celui qui souhaite vendre quelque chose doit connaître les besoins des clients potentiels. Du point de vue de la gestion d’entreprise, le terme « besoin » peut être décrit de la manière suivante:"
+    },
+    {
+     "t": "p",
+     "text": "Un besoin est la sensation d’un manque liée au souhait de le combler."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-1",
+   "number": "7.1.1",
+   "title": "La pyramide des besoins",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L’importance des besoins peut être représentée avec la pyramide des besoins. Les besoins élémentaires, tels que manger, boire, dormir, constituent la base. La satisfaction de ces besoins est nécessaire à la vie. Ce n’est que lorsque les besoins du niveau inférieur sont comblés que les besoins supérieurs entrent en ligne de compte. Cela peut être aisément constaté: une grande faim et une soif tenaillante évincent tous les autres besoins. Mais il existe également des situations dans lesquelles les besoins élémentaires sont moins importants, par exemple en cas de maladie ou avant des tests, ou des examens. Lorsqu’on est malade, on a certes encore faim et soif même si on a moins d’appétit, mais on a surtout un fort besoin de sécurité. On souhaite guérir car ce n’est qu’en bonne santé que l’on se sent en sécurité, c’est pourquoi on souhaite être soigné et recevoir des médicaments. Pendant la maladie, on a aussi généralement de forts besoins sociaux car on a envie d’affection et de paroles réconfortantes et encourageantes. Les besoins élémentaires perdent également de leur importance avant des examens, celui des autres augmentant."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2",
+   "number": "7.2",
+   "title": "Vente",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Afin qu’une vente se réalise, il doit y avoir au moins deux personnes: un acheteur et un vendeur. L’un veut acheter, l’autre veut vendre, telle est la situation de départ. Dans un contexte global de gestion d'entreprise, la tâche principale de vente consiste à générer un chiffre d'affaires minimum à réaliser pour être rentable, afin que l'entreprise puisse assurer son existence."
+    }
+   ]
+  },
+  {
+   "id": "s-7-3",
+   "number": "7.3",
+   "title": "Motifs d'achat",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il existe des raisons tout à fait différentes qui expliquent pourquoi des individus achètent un produit ou un service. Les individus ayant un revenu faible se concentrent le plus souvent sur la satisfaction de leurs besoins élémentaires. Ceux qui gagnent mieux leur vie peuvent se permettre d’autres motifs d’achat, tels que:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "curiosité (un produit nous plaît, nous souhaitons essayer quelque chose de nouveau);",
+      "augmentation de l’estime de soi (achat de symboles de statut social);",
+      "passion (par ex. achat de vieilles voitures ou d’objets d’art);",
+      "envie d’acheter (achat d’objets dont on n’a pas du tout besoin)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-7-4",
+   "number": "7.4",
+   "title": "Les évaluations des fournisseurs",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le but de trouver le meilleur fournisseur possible pour le produit requis lors de la procédure de sélection, une évaluation des fournisseurs est effectuée en pratique. Il existe différentes variantes d'évaluation des fournisseurs. Un modèle qui a fait ses preuves est la grille de scoring (notation). La grille de scoring est une méthode d'évaluation ponctuelle qui utilise des notes, des indices ou des ratios pour évaluer la performance du fournisseur. Des critères appropriés sont sélectionnés pour l'évaluation, qui est ensuite évaluée en mesurant ou en estimant. Les résultats sont rassemblés en une valeur globale. Avec une pondération individuelle, certains critères et les performances du fournisseur peuvent être pris en compte de manière différente dans l'évaluation globale. Critères d'évaluation possibles, comparables et mesurables au cas par cas:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la qualité de la fonction, de l'apparence, des propriétés ou des caractéristiques des produits, des services et des services complémentaires fournis",
+      "les compétences de livraison en termes de quantité, de date de livraison, d'informations et de flexibilité",
+      "le prix des produits et services achetés",
+      "le risque de défaillance du fournisseur",
+      "la confiance et fiabilité dans la coopération",
+      "la dépendance de l'acheteur vis-à-vis du fournisseur",
+      "Aperçu de la planification du module 207"
+     ]
+    }
+   ]
+  }
+ ]
+}

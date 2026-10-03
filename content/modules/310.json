@@ -1,0 +1,213 @@
+{
+ "code": "310",
+ "title": "Préparation à la mise en stock",
+ "domain": "300",
+ "pdf": "M310.pdf",
+ "pages": 12,
+ "words": 1835,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une lampe de chevet ne comporte que quelques points de contrôle permettant de vérifier son bon fonctionnement. Il suffit de déballer la lampe de chevet et de l'allumer pour voir immédiatement le résultat du contrôle de fonctionnement. Le contrôle du fonctionnement des composants électroniques est plus exigeant et fastidieux. Il est possible que le composant doive d'abord être monté sur un banc de test pour que le fonctionnement de l'appareil puisse être contrôlé."
+    },
+    {
+     "t": "p",
+     "text": "Dans les échanges de marchandises entre entreprises certifiées, le destinataire n'a souvent pas besoin de vérifier le fonctionnement. Des accords écrits obligent les fournisseurs à effectuer eux -mêmes le contrôle fonctionnel avant la livraison."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "$SHUoX\u0003GH\u0003OD\u0003SODQLILFDWLRQ\u0003du module 309"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le processus d'approvisionnement se termine par la préparation à la mise en stock."
+    },
+    {
+     "t": "p",
+     "text": "Aussi divers que puissent être les biens, les formes de stockage et les emballages, la tâche de la préparation à la mise en stock est tout aussi importante. Les unités doivent être adaptées aux installations afin qu’aucuns coûts supplémentaires ne soient engendrés tout au long du flux des marchandises."
+    },
+    {
+     "t": "p",
+     "text": "1. Quels sont les reconditionnements dans votre entreprise formatrice pour que l'unité soit de la bonne taille et bien emballée, mais aussi prête à la vente? Notez les activités de votre entreprise d'apprentissage qui pourraient correspondre à ce module."
+    },
+    {
+     "t": "p",
+     "text": "Réflexions:"
+    },
+    {
+     "t": "p",
+     "text": "2. Expliquez vos notes à votre voisin de classe. Ensuite, votre voisin vous décrit ses notes. Notez les explications de votre voisin en une phrase. Ex. Voisin de classe:"
+    },
+    {
+     "t": "p",
+     "text": "La préparation à la mise en stock est la dernière étape du processus de la logistique d'approvisionnement. Elle a lieu après que la qualité et la quantité des marchandises aient été contrôlées. La méthode dont la préparation au stockage est organisée dépend des exigences interne et de la marchandise en matière de stockage, de transport et de vente. S'il n'y a pas d'exigences particulières, les marchandises peuvent être stockées directement après le contrôle. S'il y a des exigences particulières, les marchandises peuvent être réemballées, reconditionnées (repacking) ou spécialement étiquetées selon les directives."
+    }
+   ]
+  },
+  {
+   "id": "s-10-1",
+   "number": "10.1",
+   "title": "Objectifs d’un nouvel emballage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si l'emballage de la marchandise reçue ne correspond pas à l'emballage de vente souhaité par le client, l'article doit être réemballé. Les raisons suivantes peuvent aussi entraîner la nécessité de reconditionner ou de réétiqueter la marchandise:"
+    },
+    {
+     "t": "p",
+     "text": "Présentation de l’emballage L'inscription, le logo ou la couleur ne correspondent pas à l'emballage souhaité pour la clientèle visée. La marchandise est déballée et réemballée dans le nouvel emballage de vente."
+    },
+    {
+     "t": "p",
+     "text": "Emballage incorrect Lors de la réception de la marchandise, il peut y avoir de mauvaises surprises. Par exemple, la taille du paquet peut être inappropriée (p.ex. pour le point de vente) ou l'emballage endommagé. De tels problèmes doivent être résolus rapidement. Les logisticiens procèdent à un reconditionnement, d’un nouvel emballage, plus adapté à l'article et à son volume. Le reconditionnement est également effectué lorsque l'état de l'emballage de vente ne permet pas de vendre au client (image) ou lorsque l'emballage de vente ne peut plus assurer la fonction de protection."
+    },
+    {
+     "t": "p",
+     "text": "Marquage des promotions sur le produit Lorsqu'une entreprise décide de faire une promotion, la réduction et le nouveau prix sont indiqués sur le produit."
+    },
+    {
+     "t": "p",
+     "text": "Nouvelles tailles d'emballage Si des marchandises sont achetées à la pièce, mais qu'il existe différentes tailles d'emballage de vente, il faut éventuellement assembler des pièces individuelles (conception d’un lot) pour former un emballage plus convenable."
+    },
+    {
+     "t": "p",
+     "text": "Création de bundles (lots) Un bundle se compose de différentes pièces détachées. EnterSite AG vend entre autres différentes cartouches de toner pour photocopieuses et des matières premières pour l'impression 3D. Dans la vente, l'entreprise a la possibilité de vendre les couleurs Cyan, Magenta, Yellow et Black en tant que produits individuels. Comme alternative, ces pièces individuelles peuvent également être vendues sous forme de \"Rainbow Kit\" (lot multicolors). Pour ce faire, EnterSite AG regroupe les différentes couleurs et les vend comme une nouvelle unité."
+    },
+    {
+     "t": "p",
+     "text": "Manutention de la marchandise Les marchandises ne sont pas reconditionnées ou réemballées uniquement pour des raisons esthétiques ou de vente. Un réemballage est également fait pour que les tâches de la logistique puissent être exécutées le plus facilement possible. Avec un petit bac à bec, il est par exemple possible de transporter des centaines de vis à la fois. S'il fallait les transporter une par une de A à B, cela serait particulièrement improductif."
+    },
+    {
+     "t": "p",
+     "text": "Type de stockage et de préparation des commandes Les marchandises sont stockées à l'aide de différents moyens. Si l'entrepôt est équipé de rayonnages à palettes, toutes les marchandises doivent être préparées pour le stockage sur des palettes correspondantes aux prescriptions. Si les marchandises sont destinées à un emplacement de prélèvement, il est possible de préparer les marchandises dans des bacs pour le stockage."
+    },
+    {
+     "t": "p",
+     "text": "Automatisation L'automatisation exerce une influence décisive sur le fait que les marchandises puissent être stockées directement ou doivent être réemballées. Si le stockage a lieu dans un rayonnage à palettes automatique, les palettes doivent être munies de leur propre marquage d’identification. Les informations figurant sur ce marquage permettent au système d'effectuer le stockage et le déstockage en identifiant l’unité de stockage."
+    }
+   ]
+  },
+  {
+   "id": "s-10-2",
+   "number": "10.2",
+   "title": "Enregistrement de la marchandise",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Indépendamment du fait que le produit ait subi une modification lors de sa préparation à la mise en stock, il est enregistré à la fin du processus d'entrée en stock."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "\u0003\u0003Un exemple de vue dans l’ERP:"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Comme indiqué dans le\u0003\u0003module 303, il existe des réceptions de marchandises planifiées ou non planifiées. Si la réception est planifiée, la commande est déjà pré-enregistrée dans l'ERP de l'entreprise. Dès que les marchandises sont préparées à la mise en stock, l'enregistrement est effectué et les marchandises sont transférées à l’emplacement de stockage."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3",
+   "number": "10.3",
+   "title": "Gestion des stocks",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'article est enregistré dans la gestion des stocks dès que la commande est réceptionnée."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-1",
+   "number": "10.3.1",
+   "title": "Notions de base de la gestion des stocks",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les termes de base de la gestion des marchandises sont des termes techniques qui ne sont malheureusement pas réglementés de manière uniforme. Les termes utilisés peuvent être différents dans la littérature spécialisée. De même, les présentations suivantes ne sont pas toujours identiques et ne servent généralement que d’exemples."
+    },
+    {
+     "t": "p",
+     "text": "Article Un article est une marchandise stockée dont toutes les parties sont identiques. Une cartouche de toner, par exemple, peut différer par sa forme, sa taille et sa couleur. Ainsi, toute marchandise en stock présentant une caractéristique différente devient un article. Quelques exemples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "CE410X 305 X Toner BLACK",
+      "CE411A 305 Toner CYAN",
+      "CE412A 305 Toner YELLOW",
+      "CE413A 305 Toner MAGENTA"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-2",
+   "number": "10.3.2",
+   "title": "L’en-tête de la fiche de stock",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La structure suivante d'une fiche de stock pourrait également faire partie d'un système de gestion des stocks (SGS) ou d'un système ERP (Enterprise Resource Planning). L'en-tête de la fiche de stock contient toutes les données relatives à cet article. Dans cet exemple, une distinction est faite entre les données relatives aux articles et celles relatives aux stocks."
+    },
+    {
+     "t": "p",
+     "text": "1 Le numéro d'article unique garanti une identification claire de l'article. 2 La désignation de l'article complète le numéro d'article et permet un contrôle visuel de l'article. Il en résulte une sécurité supplémentaire, évitant les confusions. 3 L'unité de livraison définit le nombre minimal de pièces qui seront livrées par le fournisseur. Dans le cas présent, il s'agit de 5 pièces. Dans le langage technique, l'unité de livraison est désignée par l'abréviation \"UL\". 4 L'unité de vente ”UV” définit la quantité minimale pour la vente. Une unité de vente comprend généralement 1 pièce, mais peut également comprendre 5, 10 ou 100 pièces. 5 Le prix d’achat, également appelé prix d'approvisionnement ou prix d'acquisition, est un terme technique commercial. C'est le prix que le commerçant doit payer pour acquérir un article. Pour le logisticien, il sert à évaluer l'état des stocks. Le prix d’achat est utilisé en interne et n'est pas destiné au public (attention à la confidentialité). L'article est vendu plus cher au client final, on parle alors du prix de vente (PV). 6 Le fournisseur d'un article est noté sur la fiche de stock afin de pouvoir réagir plus rapidement en cas d'irrégularités. 7 Le stock maximal d'un article est déterminé sur la base de la rotation des stocks et de l'espace de stockage disponible. La définition d'un stock maximal par article permet d'éviter la constitution de stocks inutilement élevés et coûteux."
+    },
+    {
+     "t": "p",
+     "text": "8 La rubrique \"point de commande\" (cote d’alerte) indique le niveau de stock à partir duquel la nouvelle commande doit être déclenchée. Les systèmes de gestion des stocks avancés rappellent automatiquement à l'utilisateur de passer une nouvelle commande lorsque le niveau du point de commande est atteint. 9 Le stock de sécurité, également appelé stock minimal constitue la réserve \"pour les coups durs”. Ce stock est défini individuellement pour chaque article et ne devrait pas (en théorie) être dépassée."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-3",
+   "number": "10.3.3",
+   "title": "Les saisies comptables",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "10 Date de comptabilisation est la date de la saisie dans la fiche de stock. Pour les systèmes informatisés, la date du système est généralement inscrite automatiquement. La plupart du temps, on inscrit en plus - de manière invisible pour l'utilisateur - l'ID de l'utilisateur. Cela permet d'attribuer toutes les modifications à un utilisateur et d'en assurer la traçabilité. 11 Les entrées de marchandises sont enregistrées dans cette colonne. Les entrées de marchandises sont également appelées entrées ou entrées en stock. Les entrées de marchandises augmentent le stock. 12 Dans la colonne \"Sorties\" sont comptabilisées les marchandises qui sont prélevées du stock. Les sorties sont également appelées sorties de marchandises ou sorties de stock. Elles diminuent le stock. 13 Les réservations sont inscrites dans la colonne \"Stock réservé\". Sont considérés comme réservations, les stocks qui sont prévus et réservés pour un client ou un usage déterminé. Les stocks réservés existent physiquement, mais ne sont plus disponibles. C'est pourquoi les stocks réservés diminuent le stock disponible, mais pas le stock total. 14 Le stock AQ (assurance qualité) est constitué de marchandises qui doivent encore être contrôlées avant d'être stockées définitivement. Le stock d'assurance qualité est lui aussi physiquement présent, mais non disponible. 15 Tous les stocks qui, pour une raison ou une autre, ne peuvent pas être utilisés ou livrés sont considérés comme des stocks bloqués. Les stocks bloqués existent aussi physiquement. Ils sont pris en compte dans le stock total, mais pas dans le stock disponible. 16 Le stock disponible est également appelé stock librement disponible. Cette colonne indique le nombre d'unités (pièces, kilogrammes, tonnes) qui pourraient être livrées immédiatement à partir du stock. 17 Le stock total indique le nombre total de pièces d’un article en stock. Il comprend le stock disponible, le stock réservé, le stock d'assurance qualité (AQ) et le stock bloqué."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-4",
+   "number": "10.3.4",
+   "title": "Exemples de comptabilisation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comptabilisation d’entrées et de sorties de stock Le 01.09.20xx, le stock est de 10'000 pièces. Le 02.09.20xx, 2'870 pièces sont livrées par l’entreprise, le 03.09.20xx elle livre 1'640 pièces et le 04.09.20xx 3'980 pièces. Le 05.09.20xx, 5'000 pièces sont réceptionnées. Le même jour, l’entreprise effectue une livraison de 2'300 pièces. Quelle est la fluctuation du stock disponible et celle du stock initial?"
+    },
+    {
+     "t": "p",
+     "text": "Date Entrée Sortie Stock Réservé Stock AQ Stocks Bloqués Stock Disponible Stock Total 01.09.20xx 10'000 10'000 02.09.20xx 2'870 7'130 7'130 03.09.20xx 1'640 5'490 5'490 04.09.20xx 3'980 1'510 1'510 05.09.20xx 5'000 6'510 6'510 06.09.20xx 2'300 4'210 4'210"
+    },
+    {
+     "t": "p",
+     "text": "Les entrées et les sorties ont lieu de manière concrète. Donc le stock disponible et le stock total fluctuent de la même quantité."
+    }
+   ]
+  }
+ ]
+}

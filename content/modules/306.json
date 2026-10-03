@@ -1,0 +1,480 @@
+{
+ "code": "306",
+ "title": "Contrôle des contenants",
+ "domain": "300",
+ "pdf": "M306.pdf",
+ "pages": 19,
+ "words": 2986,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L’\"emballage\" est une expression très souvent utilisée en logistique et peut prendre différents visages. Par exemple: \"Un emballage qui est souvent lié à des coûts élevés\". Ou encore: \"Un emballage qui a une très grande importance pour la logistique actuelle\". La logistique est inconcevable sans l'utilisation de différents types d'emballages. Mais qu'est-ce qu'un emballage au juste?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 306"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Comme indiqué dans le\u0003\u0003module 304, l'identification détaillée permet entre autres de vérifier l'exactitude des marchandises à décharger. Dans ce contexte, le contrôle des emballages est très souvent abordé pendant ou après le déchargement. Il est important que ce contrôle puisse être effectué de manière consciencieuse. Il faut donc disposer de suffisamment de temps et d'espace."
+    },
+    {
+     "t": "p",
+     "text": "6.1 Qu'est-ce qu'un contenant? Le terme \"contenant\" est très répandu dans le domaine de la logistique et peut revêtir différentes significations. Le terme décrit le regroupement de marchandises et de matériaux les plus divers en une nouvelle unité. Grâce au contenant, de nombreuses marchandises, matériaux ou matières premières individuels peuvent être formés en une unité, ce qui simplifie la manipulation dans la logistique. Les emballages permettent de faciliter le transport, le stockage et le déstockage de marchandises. Le stockage lui-même peut être effectué de manière moins encombrante. Le terme contenant peut être utilisé, entre autres, pour:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Unités palettisées",
+      "Fûts",
+      "Récipients en plastique",
+      "Caisses en bois"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Selon le type d'emballage, les coûts peuvent être plus élevés. Dans l'exemple illustré, les coûts pour les seuls contenants livrés s'élèvent à 180,10 francs."
+    },
+    {
+     "t": "p",
+     "text": "EURO Palette avec cadres"
+    },
+    {
+     "t": "p",
+     "text": "Désignation Quantité Coûts unitaires (situation en 2022) Total des coûts Palette Euro 1 CHF 18.30 CHF 18.30 Cadre Euro 3 CHF 48.- CHF 144.- Couvercle Euro 1 CHF 17.80 CHF 17.80"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "\u0003Tu trouveras les coûts actuels ici."
+    },
+    {
+     "t": "p",
+     "text": "Bien entendu, en logistique, une livraison ne se résume souvent pas à un seul emballage. Cela signifie que les coûts sont bien plus élevés pour une livraison. La tâche des logisticiens et logisticiennes est de travailler de manière concentrée et de ne pas réaliser de pertes dans l'échange des récipients."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2",
+   "number": "6.2",
+   "title": "Le support de charge",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour le stockage ou le transport, les marchandises sont empilées sur des supports de charge. Dans cette optique, la palette s'est imposée dans le monde entier. Il n'existe toutefois pas de dimensions uniformes à l'échelle mondiale pour la palette. Le monde des palettes est essentiellement divisé en trois parties:"
+    },
+    {
+     "t": "p",
+     "text": "Europe ÉTATS-UNIS Asie"
+    },
+    {
+     "t": "p",
+     "text": "Euro palette type 1 Dimensions: longueur 1200 mm, largeur 800 mm, hauteur 144 mm Poids: 22 kg"
+    },
+    {
+     "t": "p",
+     "text": "Euro palette type 2 Dimension: longueur 1200 mm, largeur 1000 mm, hauteur 162 mm Poids: env. 28 kg Souvent appelée palette \"textile\"."
+    },
+    {
+     "t": "p",
+     "text": "Euro palette type 3 Dimensions: longueur 1200 mm, largeur 1200 mm, hauteur 162 mm Poids: env. 35 kg Souvent appelée palette \"Chimique\" ou \"Baloise\" parce qu'elle est utilisée dans l'industrie chimique. La palette \"EPAL 3\" est parfaitement adaptée aux charges industrielles les plus lourdes."
+    },
+    {
+     "t": "p",
+     "text": "Euro palette type 6 Dimensions: longueur 600 mm, largeur 800 mm, hauteur 144 mm Poids: env. 18 kg Appelée \"demi-palette\" ou \"palette de Düsseldorf\"."
+    },
+    {
+     "t": "p",
+     "text": "Amérique du Nord Type de palette \"Américaine\" Dimensions en pouces: longueur 48\" (1219mm), largeur 40\" (1016mm) Poids: 30 kg"
+    },
+    {
+     "t": "p",
+     "text": "Asie Type de palette \"Asia Dimensions: longueur 1100 mm, largeur 1100 mm, hauteur 144 mm Poids: 28 kg Cette palette convient à l'expédition en conteneurs (outre-mer) d'une largeur de 2430 mm"
+    },
+    {
+     "t": "p",
+     "text": "Souvent, les palettes sont réalisées en fonction des besoins des clients sans tenir compte des normes habituelles."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-1",
+   "number": "6.2.1",
+   "title": "Le support de charge selon EURO",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le support de charge le plus important en Europe est connu sous le nom de \"palette Euro\". Actuellement, environ 450 millions d'Euro palettes circulent dans le monde entier."
+    },
+    {
+     "t": "p",
+     "text": "Le pool européen de palettes (EPP) En 1952, les CFF ont créé un pool de palettes suisse. Cela a incité les chemins de fer allemands à créer en 1962 le pool de palettes européen (EPP). L'EPP est une union des chemins de fer européens visant à simplifier les transports nationaux et transfrontaliers. La simplification est basée sur des palettes échangeables et en partie sur des cadres et des couvercles échangeables, qui sont gérés par les administrations ferroviaires des pays membres."
+    },
+    {
+     "t": "p",
+     "text": "Euro palettes Le support de charge de loin le plus utilisé est l’Euro palette 1. Les palettes peuvent être échangées au sein des pays qui font partie du pool européen de palettes - c'est également le cas en Suisse."
+    },
+    {
+     "t": "p",
+     "text": "Euro-palette type I"
+    },
+    {
+     "t": "p",
+     "text": "L'Euro palette est conçue pour supporter les charges suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "1000 kg, lorsque la charge est répartie de manière aléatoire sur la surface de la palette.",
+      "1500 kg, si la charge est répartie uniformément sur la surface de la palette.",
+      "2000 kg, si la charge est disposée de manière compacte et uniforme sur toute la surface de la palette."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Critères d'échange pour les Euro palettes Pour l'échange des palettes, le pool de palettes européen a convenu de critères d'échange. Ceux-ci sont des normes obligatoires relatives à l'état à respecter. Les palettes qui présentent des dommages et qui ne répondent donc pas aux exigences minimales ne doivent pas être acceptées pour l'échange."
+    },
+    {
+     "t": "p",
+     "text": "Ne sont pas échangeables les palettes qui ne répondent pas aux prescriptions de construction et de marquage des palettes échangeables ou qui présentent un ou plusieurs des défauts suivants: 1 Une planche manquante 2 Une planche comportant une cassure en transversale ou oblique 3 Une planche inférieure ou supérieure comportant des accrocs au point de faire apparaître les tiges de clous ou plus de deux planches inférieures ou supérieures comportant des accrocs au point de faire apparaître une tête de clou par planche. 4 Un plot manquant ou fendu, de manière à faire apparaître plus d'un clou. 5 La marque de l'EPAL ou EUR manque."
+    },
+    {
+     "t": "p",
+     "text": "Ne sont également pas échangeables les palettes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dont l'état général est mauvais;",
+      "Dont la capacité de charge n'est plus garantie;",
+      "Qui sont sales au point de salir la cargaison;",
+      "Sur lesquelles plusieurs plots sont fendus;",
+      "Pour lesquels des composants non conformes aux prescriptions ont manifestement été utilisés."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Critères d'échange pour les cadres et les couvercles En Suisse, il est possible d'échanger non seulement des palettes, mais aussi des cadres et des couvercles. Les critères d'échange suivants s'appliquent: Ne sont pas échangeables les cadres:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dont les signes distinctifs ne sont pas conformes aux prescriptions.",
+      "Dont une paroi frontale ou latérale est enfoncée.",
+      "Dont une paroi frontale ou latérale est fendue au point de faire apparaître une tige de vis.",
+      "Qui présentent des parois intérieures fortement salies.",
+      "Dont plusieurs parois sont fortement endommagées."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "De même, les cadres dont l'état général est mauvais ne sont pas échangeables."
+    },
+    {
+     "t": "p",
+     "text": "Un couvercle n'est pas échangeable si:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Une planche supérieure ou latérale est manquante, cassée ou fendue au point de laisser apparaître les clous;",
+      "L’arête externe d'une planche située en bordure est cassée sur plus de la moitié de sa longueur et que la largeur de la brèche est supérieure à"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "20 cm par endroits."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le sigle de la société des chemins de fer manquant ou illisible est manquant ou illisible."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-3",
+   "number": "6.3",
+   "title": "EPAL (European Pallet Association)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'European Pallet Association (EPAL) est l'organisation faîtière des fabricants et des réparateurs de supports de charge EPAL. L'EPAL est responsable du plus grand pool de palettes ouvert et est responsable de l'assurance qualité des supports de charge. Ainsi, lorsque de nouvelles palettes sont fabriquées ou si des palettes sont réparées, le donneur d'ordre est l'EPAL."
+    }
+   ]
+  },
+  {
+   "id": "s-6-3-1",
+   "number": "6.3.1",
+   "title": "Normes de qualité pour les palettes échangeables",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Afin que l'EPAL puisse rendre la qualité visible, les critères de qualité suivants ont été définis:"
+    },
+    {
+     "t": "p",
+     "text": "1 Marque de l'European Pallet Association ( EPAL ) 2 Marque d'une compagnie ferroviaire européenne 3 Marque du pool européen de palettes (EPAL ou EUR) 4 Plan de cloutage standardisé 5 Planches inférieures chanfreinées 6 Pas de traces de moisissure 7 Agrafe de contrôle de la qualité avec marque de qualité EPAL 8 Après la réparation: clou de réparation avec marque de qualité EPAL"
+    }
+   ]
+  },
+  {
+   "id": "s-6-4",
+   "number": "6.4",
+   "title": "Procédure d'échange de palettes EURO",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme indiqué au chapitre 6.1, les contenants (par exemple les palettes EURO) ont un coût. Selon les entreprises, plusieurs centaines de ces palettes sont livrées chaque jour et doivent être restituées."
+    }
+   ]
+  },
+  {
+   "id": "s-6-4-1",
+   "number": "6.4.1",
+   "title": "Les pools d’engins échangeables",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le mot \"pool\" est le terme anglais pour désigner un réservoir. Nous connaissons tous la « swimming pool » qui signifie piscine. Un pool d'engins échangeables est également une sorte de \"réservoir\": les engins échangeables y sont déposés, d'autres sont retirés. L'utilisation et l'échange de palettes en pool se sont largement généralisés. L'adhésion à un pool d'engins échangeables n’est pas obligatoire. Les pools fonctionnent selon deux principes différents: soit ils sont ouverts, soit ils sont fermés. Dans le pool ouvert, les engins échangeables sont la propriété des participants du pool. Toute personne qui remet un engin échangeable reçoit en échange un engin de remplacement de même valeur. L'échange est soumis à des règles contenues dans un règlement. Il existe trois variantes d'échange. Grâce à ces variantes, le support de charge peut être échangé et il n'est pas nécessaire de décharger toute la marchandise et de la recharger sur un support de charge de l’entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-6-4-2",
+   "number": "6.4.2",
+   "title": "Échange standard (pièce contre pièce)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La procédure d'échange la plus simple dans le pool palettes ouvert est la variante \"Pièce contre pièce\". Dans sa livraison, le transporteur remet 30 Euro palettes de marchandises au premier client et 30 Euro palettes vides lui sont rendues. Avec cette variante, les coûts des emballages sont à nouveau équilibrés. Il faut veiller à ce que des palettes équivalentes soient échangées."
+    }
+   ]
+  },
+  {
+   "id": "s-6-4-3",
+   "number": "6.4.3",
+   "title": "Échange contre un bon",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une entreprise qui ne dispose pas des réserves nécessaires de palettes vides peut avoir recours à un bon. La forme du bon n'est pas imposée. En principe, il suffit d'une note sur une feuille de papier reconnaissant la dette d'engins échangeables (type et nombre) envers le fournisseur. Le bon est juridiquement valable que s'il est muni de la signature d'un collaborateur."
+    },
+    {
+     "t": "p",
+     "text": "Bon pour palettes EnterSite AG"
+    }
+   ]
+  },
+  {
+   "id": "s-6-4-4",
+   "number": "6.4.4",
+   "title": "Echange avec compte courant",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les fournisseurs et les clients qui échangent régulièrement des palettes entre eux peuvent tenir un compte courant d'engins échangeables. Il s'agit d'une sorte de plan comptable, sur papier ou sous forme de document électronique, dans lequel sont enregistrées toutes les entrées et sorties des engins échangeables. Le nombre d'engins échangeables reçus est compensé par le nombre d'engins échangeables remis. La différence, appelée solde dans le jargon, est positive pour l'un des deux partenaires d'engins échangeables et négative pour l'autre. Le partenaire avec un solde négatif a droit aux engins échangeables et l'autre doit les lui fournir. Il est Bon pour engins échangeables Destinataire Expéditeur L’expéditeur livre Transporteur L’expéditeur reçoit Pal.Euro type 1 Quantité Quantité Quantité Cadre Couvercle. Date, signature, destinataire Date, signature, expéditeur"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "possible de gérer son propre compte courant sur le site Internet\u0003\u0003Portail de palettes. Le solde actuel peut y être consulté à tout moment. Comme alternative au portail de palettes, un classeur Excel peut également servir de compte courant. Si les formules sont correctement utilisées, les données peuvent être saisies et calculées immédiatement. Le classeur Excel peut être partagé avec l'autre personne pour qu'elle puisse le consulter ou le modifier."
+    },
+    {
+     "t": "p",
+     "text": "Compte courant EnterSite AG"
+    }
+   ]
+  },
+  {
+   "id": "s-6-5",
+   "number": "6.5",
+   "title": "Le support de charge selon CHEP",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'organisation « Commonwealth Handling Equipment Pool (CHEP) » s'est imposée comme une alternative aux produits euros. Durant la Seconde Guerre mondiale, le gouvernement australien a créé le « Allied Materials Handling Standing Committee (AMHSC) » afin d'assurer l'approvisionnement des postes de défense. Après la guerre, l'armée américaine a laissé en Australie une profusion d'équipements de transport et de chargement. Le CHEP a été créé à partir de ces stocks et de l'infrastructure déjà existante."
+    },
+    {
+     "t": "p",
+     "text": "Date Échange pal. Échange cadre Échange couv. Échange pal. Échange cadre Échange couv. Entrée Entrée Entrée Entrée Entrée Entrée Sem. 31 31.07.2023 52 16 4 16 4 1 01.08.2023 36 42 12 3 02.08.2023 03.08.2023 42 8 3 58 16 5 04.08.2023 8 2 1 Sem. 32 07.08.2023 43 21 5 22 08.08.2023 12 09.08.2023 48 16 6 10.08.2023 11.08.2023 22 6 2 12 5 2 Sem. 33 14.08.2023 8 62 26 12 15.08.2023 12 2 16.08.2023 42 18 4 8 2 1 17.08.2023 18.08.2023 8 12 3 1 Sem. 34 21.08.2023 22.08.2023 23 4 1 28 12 3 23.08.2023 12 2 1 12 2 1 24.08.2023 25.08.2023 32 14 4 24 Compte courant Destinataire ou expéditeur Transporteur EnterSite AG Rigistrasse 52, 3250 Rupperswil Planzer Transport AG Lerzenstrasse 14, 8953 Dietikon"
+    }
+   ]
+  },
+  {
+   "id": "s-6-5-1",
+   "number": "6.5.1",
+   "title": "Pool fermé",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans un pool fermé, les entreprises participantes ne doivent pas acheter d'engins échangeables pour pouvoir les échanger avec les autres. Une seule entreprise achète les engins et les met à la disposition des autres contre rémunération. CHEP, qui gère entre autres les \"palettes bleues\", est l'un de ces pools fermés, auquel se sont jointes plusieurs entreprises en Suisse, surtout des grandes entreprises commerciales. Entre-temps, CHEP s'est établi dans le monde entier avec 220 centres de service dans 35 pays. Outre les palettes habituelles selon la norme EURO 0, l et ll, CHEP propose également dans son assortiment des quarts de palettes (600 x 400 mm) et des palettes USA (1219 x 1016 mm). Les différences par rapport au pool ouvert sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les supports de charge ne sont pas achetés, mais loués. La location comprend les frais de collecte et de réparation.",
+      "Il n'y a pas d'échange de supports de charge. Les entreprises qui envoient des marchandises sur des supports de charge informent le responsable du pool (CHEP). Elles communiquent à ce dernier le nombre et le type de supports de charge envoyés ainsi que l'adresse du destinataire.",
+      "Les supports de charge vides sont déposés à un point de collecte où ils sont récupérés par l’organisme responsable du pool."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-6",
+   "number": "6.6",
+   "title": "Supports de charge spéciaux",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bien sûr, dans la logistique, il n'y a pas que des produits de la gamme Euro ou CHEP. Il existe une grande variété de produits et donc un grand choix de supports de charge différents et spécifiques:"
+    },
+    {
+     "t": "p",
+     "text": "Palette CHEP selon la norme EUR, type 1 Palette industrielle CHEP, type II (1200 x 1000 mm) Palette en tôle d'acier Capacité de charge jusqu'à 2 t, disponible dans les dimensions standard 1200x800, 1000x800 et 1200x1000 mm"
+    },
+    {
+     "t": "p",
+     "text": "Palettes en matière synthétique Disponibles en différentes couleurs, modèles et dimensions. Conviennent pour les zones humides, l'industrie chimique et l'industrie alimentaire, etc."
+    },
+    {
+     "t": "p",
+     "text": "Palettes INKA Les palettes empilables permettent un stockage peu encombrant. Elles conviennent comme palettes à usage unique pour les marchandises légères. Celles en copeaux de bois compressés sont très économiques et écologiques."
+    },
+    {
+     "t": "p",
+     "text": "Palette à fûts Permet de transporter en toute sécurité des fûts couchés."
+    },
+    {
+     "t": "p",
+     "text": "Pal-Box Cette palette est un assemblage composé d’un carton fixé sur des plots en styropor. Peuvent être saisies par des chariots élévateurs ou des transpalettes comme une palette normale. Conviennent pour des marchandises à faible volume et légères."
+    },
+    {
+     "t": "p",
+     "text": "Cadre grillagé Le cadre grillagé illustré est depuis peu échangeable dans le pool de palettes européen, si son état correspond aux critères d'échange."
+    },
+    {
+     "t": "p",
+     "text": "Box-palettes métalliques Les box-palettes en métal conviennent pour le stockage de produits en vrac tels que les copeaux de métal ou les éclats de verre. Elles sont souvent utilisées pour la collecte de déchets ou pour le recyclage, comme la box palette I en métal illustrée ici."
+    },
+    {
+     "t": "p",
+     "text": "Box à claire-voie Pour le stockage et le transport des fruits et légumes, on utilise différents box en bois, comme le box à pommes de terre. Les parois sont ajourées afin que le contenu soit suffisamment aéré. Les box à pommes de terre sont nécessaires en grand nombre durant la saison. Le reste du temps, elles sont stockées en blocs."
+    },
+    {
+     "t": "p",
+     "text": "Palettes réservoirs - Varitainers Les palettes réservoirs ou les varitainers sont utilisés pour le stockage et le transport de liquides ou de produits en vrac à grains fins. S'ils sont correctement équipés, ils conviennent également au transport de marchandises dangereuses. Les palettes réservoirs ou les varitainers sont disponibles dans les dimensions de base de la palette l ou 0, mais aussi dans les variantes les plus diverses pour des usages spécifiques."
+    },
+    {
+     "t": "p",
+     "text": "Conteneur réservoirs Ont une capacité de 0,8 - 1,2 m3. Conviennent au transport de liquides. Sont souvent utilisés dans l'industrie agroalimentaire."
+    }
+   ]
+  },
+  {
+   "id": "s-6-6-1",
+   "number": "6.6.1",
+   "title": "Matériels auxiliaires pour le support de charge",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les équipements supplémentaires suivants conviennent à l’ l'EURO-Palette type I, mais ne sont pas couverts par l'accord de pool et ne peuvent pas être échangés."
+    },
+    {
+     "t": "p",
+     "text": "Supports frontaux Facilitent la palettisation des rouleaux ou des balles de tissu."
+    },
+    {
+     "t": "p",
+     "text": "Support latéral (aide à l'empilage) Peuvent être ajustés à la palette."
+    }
+   ]
+  },
+  {
+   "id": "s-6-7",
+   "number": "6.7",
+   "title": "Supports de charge sur roulettes",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les supports de charge sur roulettes se sont révélés très pratiques. Ils permettent une manipulation facile dans l'entrepôt. Ils présentent également de grands avantages lors du transbordement ou de la livraison."
+    },
+    {
+     "t": "p",
+     "text": "Palettes à roulettes Les palettes à roulettes sont des supports de charge en métal avec des montants latéraux rabattables et des roulettes sur un côté large. Si la palette est légèrement soulevée sur l'autre côté large, elle peut être roulée vers l'avant. Cela facilite le placement des charges dans les wagons."
+    },
+    {
+     "t": "p",
+     "text": "Conteneur à roues (rollcontainers) Les conteneurs à roues sont utilisés pour éviter un emballage coûteux lorsque différents articles doivent être transportés en petites quantités sur une courte distance. Leur domaine d'application classique est l'approvisionnement des magasins. Pour le transport dans les camions, les roll-conteneurs sont sécurisés par des barres."
+    },
+    {
+     "t": "p",
+     "text": "Conteneur de collecte (SB- Sammelbehälter) Chariot de collecte de la Poste: L'introduction récente de conteneurs à lettres standardisés a nécessité un nouveau conteneur de collecte. Il est idéal pour transporter efficacement les conteneurs de courrier (BB)."
+    }
+   ]
+  },
+  {
+   "id": "s-6-8",
+   "number": "6.8",
+   "title": "Emballages à usage unique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme indiqué au chapitre 6, le terme \"contenant\" est un terme générique. Un emballage peut être un conteneur, une caisse ou un carton. Lors de la fabrication d'emballages, on fait la distinction entre un emballage à usage unique et un emballage réutilisable. Comme son nom l'indique, l'emballage à usage unique est utilisé une seule fois et est ensuite éliminé. Ces emballages entraînent des coûts de déchets très élevés dans la logistique et nuisent à notre environnement. Malgré cela, les emballages perdus sont actuellement indispensables."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "\u00037X\u0003WURXYHUDV\u0003de plus amples informations sur les emballages perdus et les emballages dans le module 602."
+    }
+   ]
+  },
+  {
+   "id": "s-6-9",
+   "number": "6.9",
+   "title": "Emballages réutilisables",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'alternative à l'emballage à usage unique est l'emballage réutilisable. Il s'agit d'un récipient fabriqué pour être réutilisé plusieurs fois. Chaque emballage réutilisable ne génère pas de déchets directs. Il est toutefois important que ces emballages ne quittent pas le circuit et se retrouvent dans la nature. Souvent, les emballages réutilisables sont fabriqués en plastique."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "\u0003Tu trouveras plus d'informations sur les emballages réutilisables, en particulier sur le Dispo-Box, dans le module 602."
+    }
+   ]
+  }
+ ]
+}

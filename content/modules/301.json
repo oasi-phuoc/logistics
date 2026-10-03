@@ -1,0 +1,200 @@
+{
+ "code": "301",
+ "title": "La logistique d'approvisionnement",
+ "domain": "300",
+ "pdf": "M301.pdf",
+ "pages": 7,
+ "words": 1109,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Logisticienne / Logisticien"
+    },
+    {
+     "t": "p",
+     "text": "300_ Procurement Management"
+    },
+    {
+     "t": "p",
+     "text": "Manuel des compétences logistiques"
+    },
+    {
+     "t": "p",
+     "text": "La logistique d'approvisionnement se situe au tout début de chaque processus logistique. Le terme de logistique d'approvisionnement montre l'interconnexion des domaines de l'approvisionnement et de la logistique. L'interaction entre ces deux domaines doit être harmonieuse dans chaque entreprise afin que ses objectifs puissent être atteints."
+    },
+    {
+     "t": "p",
+     "text": "La logistique d'approvisionnement est un sujet auquel nous sommes confrontés au quotidien, à différents niveaux et avec des rôles différents. Qu'il s'agisse d'une personne vivant seule, d'une famille ou d'une entreprise: chacune doit se procurer différents produits. Bien entendu, la quantité à approvisionner n'est pas la même dans les trois situations citées bien que les réflexions et la démarche soient très similaires. Dans la vie quotidienne des particuliers, les fournisseurs et les prix des produits vendus dans l'environnement immédiat sont bien connus. En conséquence, l'achat de produits est facile. En entreprise, en revanche, cette mission peut devenir un défi de taille. L'achat représente une tâche centrale pour les entreprises. Des personnes ayant la compétence requise, appelés \"acheteurs\", sont engagées à cet effet. Le rôle de ces spécialistes est de rechercher, négocier et fournir la marchandise présentant le meilleur rapport qualité/prix ainsi que les conditions de livraison avec les fournisseurs. Leur objectif selon la règle des 6B est de trouver la bonne marchandise ayant la bonne qualité au meilleur prix possible. La logistique d'approvisionnement est un grand défi en raison de différents facteurs: un éventail de choix important dans un monde numériquement interconnecté, les influences politiques, les influences de la nature, les aspects financiers, la protection de l'environnement et bien plus encore."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1",
+   "number": "1.1",
+   "title": "La procédure d’approvisionnement",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour atteindre les objectifs en matière d'achat, il faut avoir des connaissances spécialisées, des compétences en termes de négociation et établir une répartition claire des tâches. Ces tâches sont souvent divisées en missions stratégiques et opérationnelles:"
+    },
+    {
+     "t": "p",
+     "text": "Missions stratégiques (planification):"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Négociations des conditions de prix et de livraison",
+      "Collaboration lors du développement des produits",
+      "Garantie du savoir-faire (Know How)",
+      "L’optimisation (amélioration) des processus d'approvisionnement",
+      "Garantie sur du long terme des sources d'approvisionnement"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "\u0003Remarque: les missions stratégiques sont souvent effectuées par les cadres de l'approvisionnement."
+    },
+    {
+     "t": "p",
+     "text": "Missions opérationnelles (activité d'exécution des conditions convenues):"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Passation de la commande",
+      "Contrôle des délais",
+      "Contrôle de la livraison"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "\u0003Remarque: les missions opérationnelles peuvent également être exécutées par des acheteurs juniors et inexpérimentés. La commande est établie en tenant compte de ce qui a été décidé et convenu au niveau stratégique."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-1",
+   "number": "1.1.1",
+   "title": "But de l'approvisionnement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme tout individu, les entreprises doivent se procurer les éléments nécessaires dont elles ont besoin pour fonctionner. Par exemple:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Biens",
+      "Informations",
+      "Prestations de services",
+      "Capitaux",
+      "Main-d'œuvre",
+      "Licences, brevets"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Approvisionnement en matières premières: Ex. fève de cacao"
+    },
+    {
+     "t": "p",
+     "text": "Approvisionnement en main-d'œuvre: Ex. récolte de légumes"
+    },
+    {
+     "t": "p",
+     "text": "Les biens à acquérir peuvent être répartis dans les catégories suivantes: Biens de consommation durables Matériaux de production tel que les matières premières, les matières auxiliaires ou les consommables. Biens d'équipement Machines de fabrication, machines de bureau, halles de production et de stockage. Prestations de services Nettoyage, gardiennage (sécurité), formation, support informatique."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2",
+   "number": "1.2",
+   "title": "Faire ou acheter",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "“Make or Buy” signifie \"faire ou acheter\". Dans la vie quotidienne, nous sommes souvent confrontés à cette question: Je le fais ou je l'achète? On prend une première décision de ce type avant même de prendre son petit-déjeuner: est-ce que je fais mon pain moi-même ou est-ce que je l'achète? La décision de faire soi-même un produit ou de l'acheter peut-être influencée par les facteurs prix, qualité et du temps. Les entreprises sont confrontées à la même décision. Elles se demandent: qu’est-ce qui est plus rentable et génère le plus de profit?; fabriquer le produit soi-même ou faire fabriquer? La décision \"Make or Buy\" de l'entreprise doit être bien réfléchie et ancrée dans la stratégie. Comme dans le domaine privé, la décision est prise en fonction des facteurs prix, qualité et temps. Le principe suivant aide à prendre la décision:"
+    },
+    {
+     "t": "p",
+     "text": "Nous ne faisons que ce que nous savons faire mieux que les autres."
+    },
+    {
+     "t": "p",
+     "text": "Lorsqu'une entreprise choisit de créer un produit, elle est convaincue qu'elle est la mieux placée pour le fabriquer elle-même. Il s’agit, pour l’entreprise, d’avoir ses propres \"compétences clés\" qui lui permettent de se forger et d’assurer sa place dans l'économie. Si une entreprise décide d'acheter, ses acheteurs entrent en jeu. Ils sont confrontés au défi de trouver le producteur le plus à même de fabriquer et de livrer les produits."
+    }
+   ]
+  },
+  {
+   "id": "s-1-3",
+   "number": "1.3",
+   "title": "Externalisation",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le terme \"outsourcing\" désigne l'externalisation d'activités."
+    },
+    {
+     "t": "p",
+     "text": "\"out\" = hors de “source” = source"
+    },
+    {
+     "t": "p",
+     "text": "L'externalisation est le transfert d'une activité (en tout ou en partie) de sa propre organisation (entreprise) vers un partenaire externe. L'externalisation, c'est-à-dire la sous-traitance d'activités, repose sur des contrats. Ceux-ci définissent la durée et l'objectif des prestations. Le partenaire doit être bien choisi. La confiance et une communication ouverte entre les partenaires contractuels aident à atteindre ensemble le succès souhaité. Les produits ou services typiques externalisés sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Travaux de nettoyage",
+      "Assistance informatique",
+      "Distribution",
+      "Comptabilité",
+      "etc."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "1.4 Quelles quantités doit-on acheter? L'une des questions-clés lors de l'achat de biens est celle à la quantité. La question \"Combien dois-je acheter?\" est bien connue dans la vie quotidienne privée. Par exemple, si l'on veut cuisiner, il faut d'abord connaitre le nombre de convives. Dans l'entreprise, il en va de même. Ici, la prévision et la planification des besoins aident à trouver les bonnes réponses et à déterminer la quantité à acheter. Pour cela, on fait appel à des valeurs empiriques et à des prévisions. Les prévisions sont des \"attentes\" pour le futur proche. La quantité calculée est discutée avec le fournisseur et les conditions de livraison sont clarifiées."
+    },
+    {
+     "t": "p",
+     "text": "Service typique de l'externalisation: travaux de nettoyage La prévision et la planification des besoins contribuent à:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "fixer les quantités à acheter et le nombre de commandes par an",
+      "définir les conditions et modalités de livraison avec le partenaire"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Bien entendu, d'autres aspects doivent être pris en compte dans la prévision et la planification de la demande, comme les ressources en personnel, la capacité de stockage, la consommation (écoulement) des marchandises, etc. Cela explique pourquoi chaque entreprise doit établir des prévisions et une planification individuelle."
+    },
+    {
+     "t": "p",
+     "text": "1.5 A quel moment acheter? En principe, les achats sont effectués lorsque les besoins d'une entreprise se font ressentir. Cependant, et au-delà de ce principe, l’acheteur doit prendre en considération quelques exceptions. Certains produits ne sont disponibles qu’à certaines périodes de l'année (produits saisonniers). D'autres produits peuvent faire l’objet d’achat spéculatif, car dépendant de facteurs politiques et économiques. Il s'agit d'un achat effectué dans le but de pouvoir profiter d'une hausse et/ou d'une baisse de prix en faveur de l'entreprise. Le pétrole et les devises (CHF vers. EURO) sont des exemples de produits dont le prix est constamment soumis à des variations."
+    },
+    {
+     "t": "p",
+     "text": "Spéculation sur le pétrole Spéculation avec des masques"
+    }
+   ]
+  }
+ ]
+}

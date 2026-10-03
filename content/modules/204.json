@@ -1,0 +1,281 @@
+{
+ "code": "204",
+ "title": "Le marché",
+ "domain": "200",
+ "pdf": "M204.pdf",
+ "pages": 11,
+ "words": 2212,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L’ouverture des bandes de cerclage Une autre tâche qui peut mettre les yeux en danger, est l'ouverture des bandes de cerclage(feuillard). Comme ceux-ci sont tendus, ils s'ouvrent rapidement lorsqu'on les coupes. Pour éviter qu'ils ne touchent le corps ou le visage, l'endroit où ils vont être coupées doit être choisi de manière à obtenir une extrémité courte et une extrémité longue. L'extrémité courte ne peut pas être endommagée lorsqu'elle s'échappe, tandis que l'extrémité longue doit être maintenue avec un morceau de bois ou des gants (pas à mains nues) afin qu'elle ne puisse pas rebondir."
+    },
+    {
+     "t": "p",
+     "text": "L’ergonomie L'ergonomie (science des lois régissant le travail de l’homme) s'occupe de tout ce qui a un rapport avec le travail en lui-même. Son but consiste à aménager des postes de travail et les équipements de manière confortable, afin que les travailleurs ne se fatiguent pas trop vite et qu’ils ne souffrent pas de problèmes de santé. Les postes de travail présentant une ergonomie optimale sont installés de manière à pouvoir être adaptés à la tâche et aux caractéristiques physiques des travailleurs. Ils ont un effet positif sur la performance et la disponibilité des travailleurs. Les signes précoces d'un poste de travail non adapté sont, entre autres, des tensions au niveau de la nuque."
+    },
+    {
+     "t": "p",
+     "text": "EnterSite AG repose sur l'esprit pionnier de son fondateur Jonathan Gugger. Ce logisticien de formation et diplômé en commerce technique a fondé l'entreprise en 1990 sous le nom d'EnterSite AG. Après ses études d'agent technico-commercial, Jonathan Gugger a travaillé comme Key Account Manager dans une entreprise de commerce de gros qui vendait des articles de bureau haut de gamme."
+    },
+    {
+     "t": "p",
+     "text": "Grâce à son activité de Key Account Manager, Jonathan Gugger était en contact permanent avec les clients clés. Cela lui a donné la possibilité de découvrir quels étaient les besoins et les demandes des clients. Au cours de ses conversations avec les clients, il a appris qu'ils avaient une grande demande pour un serveur de stockage en réseau. Cela permet par exemple d'alimenter en données un ordinateur, un notebook et plusieurs smartphones, économisant ainsi de l’espace de stockage et facilitant la gestion de grandes quantités de données. Ces serveurs de stocakge, également appelés NAS (Network Attached Storage) n'existaient pas encore sur le marché suisse. Il n'y avait qu'aux Etats-Unis que l'on pouvait les acheter, mais pas à l'unité. Lorsque Jonathan Gugger a proposé ce produit à la direction comme nouveau secteur d'activité, il s’est heurté à une indifférence. On soupçonnait que les efforts et les revenus qui en résulteraient ne créeraient aucune valeur ajoutée pour l'entreprise."
+    },
+    {
+     "t": "p",
+     "text": "Par conséquent, Jonathan Gugger a décidé de créer sa propre entreprise pour faire du commerce d’importation et de vente de serveurs NAS. Il a effectué des recherches et évalué les différents fournisseurs sur le marché et a opté pour le fournisseur Qnap, qui a garanti à EnterSite AG un contrat de distribution exclusif pour toute la Suisse. La demande sur le marché suisse s'est confirmée, à la suite de quoi l'entreprise a grandi d'année en année et a été transmise à la deuxième génération, Reto Gugger."
+    },
+    {
+     "t": "p",
+     "text": "Aujourd'hui, EnterSite AG compte parmi les fournisseurs les plus renommés de la communication bureautique sur le marché suisse. Le marché de la bureautique a beaucoup évolué au cours des dernières années, et EnterSite AG aussi. Aujourd'hui, EnterSite AG est active dans le domaine des solutions de bureau et bureautique, ses compétences de base comprenant la consultation (évaluation) et la vente dans de logiciels et de matériel, un large assortiment de consommables avec sa propre production en Suisse et le support bureautique."
+    },
+    {
+     "t": "p",
+     "text": "Toujours garder un œil sur la concurrence! Au néolithique, l'homme commençait à récolter des céréales sauvages et à en faire des réserves. Il a ensuite utilisé ces mêmes réserves afin d’en cultiver des céréales. Certains hommes se sont spécialisés dans des compétences particulières, comme la poterie, la fabrication d'outils, ou ont travaillé comme tailleurs de pierre. Les produits dont ils n'avaient pas besoin pour eux-mêmes pouvaient être échangés avec d'autres personnes contre de la nourriture."
+    },
+    {
+     "t": "p",
+     "text": "À la fin de l'âge du bronze, on échangeait des sortes de marchandises contre d'autres. Pour cela, il fallait avoir de bonnes compétences en négociation afin de vendre ses produits au meilleur prix. C'est ainsi que se sont développés les marchés, où le marchand et l'acheteur se rencontraient et échangeaient des marchandises contre des autres ou des marchandises contre de l'argent. Aujourd'hui encore, nos marchés fonctionnent selon ce principe (marché aux légumes, marché aux poissons, marché de Noël)."
+    },
+    {
+     "t": "p",
+     "text": "Pour qu'un marché se crée, il faut ce que l'on appelle un besoin. Un besoin est l'envie ou le souhait de remédier à un manque ressenti ou réel. L'élimination du manque est appelée la satisfaction du besoin. Les besoins des personnes varient en fonction de l'âge, du pays, de la profession, du lieu, de l'époque, etc. Le fondateur d'EnterSite AG a par exemple constaté qu'il existait un besoin de disques durs de stockage externes (NAS). C'est sur ce besoin qu'il a construit son modèle d'entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1",
+   "number": "4.1",
+   "title": "L'étude de marché",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Du point de vue de la gestion d'entreprise, le marché a beaucoup évolué au fil des ans. Autrefois, une entreprise se fiait à l'expérience qu'elle avait accumulée lorsqu'elle évoluait sur le marché. A l'époque, cela ne posait pas de gros problèmes à une entreprise, car le marché était gérable. Mais au fil du temps, le marché est devenu de plus en plus grand et donc difficile à appréhender. C'est pourquoi les entreprises ont dû commencer à étudier le marché à l'aide de méthodes de marketing. Les informations ainsi obtenues peuvent réduire les incertitudes et aider l'entreprise à prendre les bonnes décisions."
+    },
+    {
+     "t": "p",
+     "text": "4.1.1 Pourquoi l'étude de marché est-elle devenue nécessaire?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "L'augmentation constante du nombre d'entreprises et donc de la concurrence sur le marché entraîne une lutte d'exclusion.",
+      "Les marchés saturés ou 🔎🔎🔎🔎 les biens de substitution exigent de l'innovation",
+      "La mondialisation ouvre de nouveaux marchés aux entreprises",
+      "Renchérissement des matières premières",
+      "Etc…."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le marché ouvert est très concurrentiel. C'est pourquoi une analyse précoce du marché est très importante pour une entreprise. Cette analyse permet de répondre à des questions telles que: Proposons-nous quelque chose de nouveau sur le marché? Voulons-nous améliorer notre chiffre d'affaires? Ou faut-il s'adresser à un nouveau groupe de clients?"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: Tout changement sur le marché nécessite au préalable une étude de marché approfondie."
+    },
+    {
+     "t": "p",
+     "text": "4.1.2 Quels sont les résultats de l'étude de marché? Le but de l'étude de marché est donc de recueillir des informations afin de pouvoir prendre les bonnes décisions. Les informations recueillies permettent d'analyser les opportunités et les menaces sur le marché. L'objectif est de pouvoir agir à temps grâce aux résultats obtenus. Une étude de marché peut viser les points suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Identifier la situation actuelle sur le marché, par exemple les concurrents existants et les concurrents potentiels, les personnes qui influencent le marché, etc.",
+      "Identifier les nouvelles tendances et les besoins du marché",
+      "Minimiser les risques de décisions incorrectes",
+      "Etc…."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-4-1-3",
+   "number": "4.1.3",
+   "title": "L'étude de marché",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une forme d'analyse de marché plus simple, moins coûteuse et moins complexe est appelée l'étude de marché. Cette méthode consiste à observer le marché (par exemple via Internet, des articles de presse) ou à mener des entretiens avec ses propres clients et fournisseurs. Contrairement à l'analyse de marché, l'étude de marché n'est donc pas une collecte systématique d'informations."
+    },
+    {
+     "t": "p",
+     "text": "De l'étude de marché à la conception marketing"
+    },
+    {
+     "t": "p",
+     "text": "Les prévisions de marché sont des prévisions relatives à l'évolution du marché sur la base de données collectées lors de la prospection ou de l'étude de marché. Les prévisions de marché aident l'entreprise à décider de ses activités de politique commerciale."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "RReemmaarrqquuee:: ll''ééttuuddee ddee mmaarrcchhéé est l'analyse systématique et situationnelle du marché selon des méthodes scientifiques dans le but d'obtenir des informations sur le marché comme base de la planification marketing. L'ééttuuddee ddee mmaarrcchhéé est une collecte occasionnelle et non systématique d'informations, dont certaines sont obtenues au sein de l'entreprise."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple tiré du quotidien: étude de marché chez EnterSite AG L'une des tâches et objectifs du département Customer Service est le marketing, c'est-à-dire l'exploration et la recherche du marché. Les résultats de l'étude de marché doivent permettre de connaître les attentes et les souhaits des clients et ainsi de pouvoir positionner correctement le produit. Les connaissances acquises sont transformées en processus (tâches récurrentes) et renforcent ainsi l'image et les ventes. EnterSite AG vend des produits dans le domaine des logiciels et du matériel informatique. De plus, l’entreprise possède un grand assortiment de fournitures. Une autre compétence clé de l'entreprise est le conseil en matière de solutions logicielles et matérielles dans le domaine de la technique de réseau active et passive ainsi que des équipements de bureau. Ces dernières années, les ventes d'armoires de serveur ont évolué de manière défavorable. EnterSite AG veut prendre les mesures nécessaires pour orienter l'évolution dans le sens inverse. L'entreprise se demande d'abord pourquoi les ventes sont en baisse. Pour le savoir, elle réalise une étude de marché. Une enquête est menée auprès des clients, d'une part par téléphone et d'autre part par des “Key Account Managers” avec des clients clés lors d'entretiens personnels. Sur la base des réponses obtenues, EnterSite AG se rend compte que le recul est surtout dû à la qualité insuffisante. Afin d'augmenter son chiffre d'affaires, EnterSite AG décide d'impliquer les chefs de produits afin d'améliorer la qualité de la conception des armoires réseau, en tenant compte bien sûr de la rentabilité."
+    }
+   ]
+  },
+  {
+   "id": "s-4-2",
+   "number": "4.2",
+   "title": "Les types et les formes de marché",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-4-2-1",
+   "number": "4.2.1",
+   "title": "Les types de marché",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchés peuvent être divisés et structurés selon différents critères:"
+    },
+    {
+     "t": "p",
+     "text": "Par objet ou service:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Marché des biens de consommation: le commerce de biens destinés au consommateur final, tels que les livres, les produits alimentaires, les vêtements, l'électronique, etc.",
+      "Marché du travail: la force de travail humaine est proposée demandée.",
+      "Marché des services: par exemple, conseils juridiques, soins, divertissement, etc.",
+      "Marché monétaire: la mise à disposition de crédits à court terme par les banques.",
+      "Marché immobilier: le commerce de terrains et de bâtiments.",
+      "Autres marchés tels que le marché des matières premières, le marché de l'art, etc."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Par fonction:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "le 🔎🔎🔎🔎🔎🔎🔎🔎 marché d'approvisionnement",
+      "le 🔎🔎🔎🔎🔎🔎🔎🔎 marché de vente"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Par type d'accès:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Marchés ouverts: un marché ouvert n'est soumis à aucune restriction. Il peut être utilisé par les offreurs et les demandeurs. Dans un marché ouvert, la concurrence entre les différents participants domine. Le marché des caisses d'assurance maladie en est un exemple.",
+      "Marchés fermés: il existe un accès limité pour les participants au marché. L'accès est par exemple limité par des règles économiques ou juridiques, telles qu'une obligation de capital minimum ou certaines qualifications et certificats. On trouve un marché fermé dans les services publics et l'infrastructure publique. En Suisse, on appelle service public l'ensemble des prestations que la Confédération, les cantons et les communes doivent fournir à la collectivité. Les secteurs publics ont pour mission d'assurer l'approvisionnement de base de la population avec une infrastructure standard, par exemple avec la Poste et les"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chemins de fer fédéraux (CFF)."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Marchés limités: dans un marché limité, certains secteurs sont soumis à des conditions restreintes. Par exemple, lorsqu'il existe un intérêt public, le nombre maximum de prestataires est fixé par la loi. C'est le cas par exemple pour les taxis. Pour éviter que trop de taxis ne circulent dans les villes, leur nombre est limité par l'attribution de concessions. Pour limiter un marché, les possibilités suivantes existent: l'accord de licences, l'accord de concessions ou de brevets, l'obligation de prouver sa capacité, l'obligation de prouver son capital."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-4-2-2",
+   "number": "4.2.2",
+   "title": "Les formes de marché",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchés peuvent être divisés en fonction de ce que l'on appelle les formes de marché. La forme de marché décrit la structure de l'offre et de la demande. Voici quelques exemples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Monopole: s'il n'y a qu'un seul fournisseur sur le marché, on parle de monopole. Dans ce cas, une entreprise n'a pas de concurrence. La production et les prix de vente demandés ne sont pas soumis à une rivalité. Les exemples de monopoles sont les gazoducs, les conduites d'eau, le réseau de transport, etc.",
+      "Oligopole: forme de marché dans laquelle il n'y a que quelques fournisseurs dans le secteur. Ce petit nombre de fournisseurs peut toutefois faire face à des demandes plus importantes. Les exemples sont nombreux: Marché du pétrole, marché de l'électricité, réseau mobile, etc.",
+      "Polypole: forme de marché dans laquelle il existe un grand choix des deux côtés (offreurs et demandeurs). La concurrence peut s'exercer librement et influence l'assortiment et le prix correspondant. Par exemple: Marché hebdomadaire, marché du logement, etc.",
+      "Monopsone: forme de marché dans laquelle il y a de nombreux offreurs, mais un seul demandeur. Le monopsone est le contraire du monopole. Il ne se produit toutefois que rarement. Un exemple est le marché du travail où il y a plusieurs offreurs (candidats à un emploi, employés) mais un seul demandeur (offreur du poste vacant, employeur)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Demandeur"
+    },
+    {
+     "t": "p",
+     "text": "Fournisseur"
+    },
+    {
+     "t": "p",
+     "text": "Un Peu Beaucoup Un"
+    },
+    {
+     "t": "p",
+     "text": "Monopole bilatéral Monopole limité Monopole Peu"
+    },
+    {
+     "t": "p",
+     "text": "Oligopole limité Oligopole bilatéral Oligopole Beaucoup"
+    },
+    {
+     "t": "p",
+     "text": "Monopsone Oligopole Polypole bilatéral"
+    }
+   ]
+  },
+  {
+   "id": "s-4-3",
+   "number": "4.3",
+   "title": "La taille d'un marché",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La taille d'un marché influence considérablement le marketing d'une entreprise. La taille peut notamment être déterminée en fonction de l'étendue géographique du marché ou du nombre de clients potentiels."
+    }
+   ]
+  },
+  {
+   "id": "s-4-3-1",
+   "number": "4.3.1",
+   "title": "Taille géographique",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En fonction de son étendue géographique, un marché est classé dans l'un des cinq groupes suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Local (p. ex. magasin de village)",
+      "Régional (p. ex. marché hebdomadaire)",
+      "National (p. ex. marché suisse de la téléphonie mobile)",
+      "International (par ex, marché de l'Union européenne)",
+      "Global (par ex. marché financier)",
+      "Aperçu de la planification du module 204"
+     ]
+    }
+   ]
+  }
+ ]
+}

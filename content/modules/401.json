@@ -1,0 +1,162 @@
+{
+ "code": "401",
+ "title": "Le rôle du stockage",
+ "domain": "400",
+ "pdf": "M401.pdf",
+ "pages": 5,
+ "words": 575,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un entrepôt ne doit pas être considéré comme un simple lieu de stockage de marchandises ou de biens. Il remplit bien plus de fonctions qu'on ne le pense. En fonction des marchandises et des tâches, un entrepôt doit être conçu et géré de manière spécifique. Ce module met en lumière les travaux et les responsabilités de l'entrepôt."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1",
+   "number": "1.1",
+   "title": "La fonction de réserve",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La fonction de réserve de marchandises n'est pas nouvelle. Nos ancêtres déjà entretenaient des \"réserves\" de denrées alimentaires. En Suisse, la Confédération gère encore aujourd'hui des réserves obligatoires qui servent à garantir l'approvisionnement de la population en temps de crise. Le monde animalier connaît lui aussi le même principe. L'écureuil, par exemple, enterre ses noisettes avant l'hiver pour s'assurer de sa survie. Chez les animaux, les provisions sont souvent stockées au hasard et ne sont pas toujours stockées au même endroit par mesure de sécurité. Ce stockage pourrait être comparé au stockage chaotique."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Le stockage chaotique est traité de manière approfondie dans le module 406."
+    },
+    {
+     "t": "p",
+     "text": "Comment définir le stockage?"
+    },
+    {
+     "t": "p",
+     "text": "Chez EnterSite AG, le terme “stockage” décrit d'une part le local dans lequel on stocke et d'autre part les biens qui y sont conservés."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: pour diverses raisons, il n'est pas possible d'acheter uniquement la quantité de marchandises dont on a besoin. Ainsi, l'entrepôt d'EnterSite AG aura du stock de réserve."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2",
+   "number": "1.2",
+   "title": "Aperçu des objectifs du stockage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Fonction de réserve Fonction de sécurisation Fonction de transformation Fonction de contrôle et de tri Fonction de spéculation Fonction de maturation"
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-1",
+   "number": "1.2.1",
+   "title": "La fonction de réserve",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La forme la plus privilégiée de stockage est la fonction de réserve. Des stocks en cas d'urgence. Cette fonction dite de sauvegarde est également appelée fonction tampon ou fonction de compensation et aide l'entreprise à surmonter des situations critiques. La fonction d e réserve intervient dans les cas suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Si des difficultés de livraison ou de transport surviennent.",
+      "Lorsque des fluctuations de la consommation se produisent en raison d 'une augmentation de la demande.",
+      "Si les marchandises livrées sont insuffisantes ou défectueuses Stockage de réserve"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: dans le langage technique, on parle aussi de de stock minimum pour désigner la fonction de réserve."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-2",
+   "number": "1.2.2",
+   "title": "L’objectif de transformation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans les entrepôts des entreprises commerciales, les marchandises sont souvent transvasées, mélangées ou triées. La fonction de transformation sert à mettre les marchandises à la disposition des clients dans les quantités souhaitées (10 pièces, 100 pièces, etc.) ou sous forme de kits (kit de joints, kit de réparation, etc.). Les fonctions de transformation typiques sont également:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "le reconditionnement de mar-chandises",
+      "la coupe ou la découpe de mar-chandises",
+      "le mélange (produits chimiques, colorants)",
+      "le prémontage de composants",
+      "Le séchage (par ex. pour le stockage du bois) Reconditionnement du chocolat"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-3",
+   "number": "1.2.3",
+   "title": "L’objectif de contrôle et de tri",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cadre du flux de marchandises, différentes tâches de contrôle sont effectuées dans l'entrepôt. Les plus importantes sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "l'identification des marchandises.",
+      "le contrôle de la quantité et de l'état de la marchandise.",
+      "le contrôle des suivis des délais"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le tri des marchandises fait également partie de la fonction de contrôle: Les marchandises obsolètes, inutiles ou périmées sont éliminés selon les directives de l’entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-4",
+   "number": "1.2.4",
+   "title": "La fonction de spéculation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si des hausses de prix sont attendues, des avantages de prix sont obtenus en achetant au bon moment. La tâche de spéculation consiste à acheter des marchandises lorsqu'elles sont bon marché (p. ex. achat de mazout en été) pour les revendre ensuite à un prix plus élevé."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-5",
+   "number": "1.2.5",
+   "title": "La fonction d’affinage ou de maturation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il existe de nombreuses marchandises (fromage, vin, produits carnés, etc.) qui n'atteignent leur qualité et leur maturité optimales qu'après un stockage approprié. Les entrepôts qui stockent de telles marchandises sont souvent appelés entrepôts de maturation."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,334 @@
+{
+ "code": "307",
+ "title": "Contrôle sommaire et traitement des dommages",
+ "domain": "300",
+ "pdf": "M307.pdf",
+ "pages": 13,
+ "words": 2602,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "\u00037X\u0003WURXYHUDV\u0003de plus amples informations sur les emballages perdus et les emballages dans le module 602."
+    },
+    {
+     "t": "p",
+     "text": "6.9 Emballages réutilisables L'alternative à l'emballage à usage unique est l'emballage réutilisable. Il s'agit d'un récipient fabriqué pour être réutilisé plusieurs fois. Chaque emballage réutilisable ne génère pas de déchets directs. Il est toutefois important que ces emballages ne quittent pas le circuit et se retrouvent dans la nature. Souvent, les emballages réutilisables sont fabriqués en plastique."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "\u0003Tu trouveras plus d'informations sur les emballages réutilisables, en particulier sur le Dispo-Box, dans le module 602."
+    },
+    {
+     "t": "p",
+     "text": "Une fois que la marchandise a été déchargée, que l'identification globale et détaillée a été réalisée et que le contrôle des emballages a été effectué, il est essentiel de s’assurer de la qualité de la marchandise. Les modules suivants vous expliqueront comment procéder. Ce module aborde les erreurs ou dommages possibles et comment les gérer dans la logistique. Il est fort probable que vous ayez déjà fait l'expérience d'erreurs ou de dommages, bien sûr, sans en être responsable:) 1. Faites une liste de vos propres expériences en logistique, où vous avez déjà découvert une erreur ou un dommage, ou au moins entendu parler. Description:"
+    },
+    {
+     "t": "p",
+     "text": "2. Discutez en classe ou en groupe des erreurs ou des dommages que vous avez notés. N'hésitez pas à noter les erreurs ou les dommages par écrit sous forme de mots-clés. Mots-clés erreurs/dommages de la discussion:"
+    },
+    {
+     "t": "p",
+     "text": "Les erreurs ou les dommages ne sont malheureusement pas rares dans la logistique. Il est important de les reconnaître, d'en analyser les causes et d'améliorer le taux d'erreur."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1",
+   "number": "7.1",
+   "title": "Erreur dans la livraison",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les erreurs dans une livraison ne devraient pas exister, mais elles peuvent se produire. Il est important que les logisticiens effectuent les contrôles de"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "manière précise. L'identification globale et l'identification détaillée \u0003 module 304) devraient déjà mettre en évidence d'éventuels défauts ou erreurs. Les erreurs possibles qui peuvent être constatées lors de l'identification globale et détaillée sont les suivantes:"
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-1",
+   "number": "7.1.1",
+   "title": "Mauvais destinataire",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il est possible que EnterSite AG reçoive une livraison qui ne lui est pas destinée. L'identification globale permet précisément d'éviter de telles erreurs. Si l'erreur n'est pas détectée, des efforts inutiles sont alors générés, ce qui prend du temps et engendre des coûts. L'expéditeur, le transporteur et le destinataire peuvent contribuer à éviter de telles erreurs en communiquant clairement les adresses et les personnes de contact en interne et de manière transversale; c'est dans l'intérêt de toutes les parties concernées."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "\u0003Remarque: ce sont surtout les entreprises ayant différentes succursales qui présentent une potentielle augmentation d'erreurs."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-2",
+   "number": "7.1.2",
+   "title": "Marchandises incorrectes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Même si le destinataire est juste, le contenu correct n'est pas encore garanti. Il faut éviter que des marchandises erronées soient livrées. L'expéditeur peut prévenir les erreurs de livraison en appliquant le principe du double contrôle (avant l'envoi) ou en travaillant avec des scanners qui permettent une identification claire. Le destinataire peut détecter les erreurs de livraison en appliquant l'identification détaillée."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-3",
+   "number": "7.1.3",
+   "title": "Mauvaise quantité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il n'y a pas seulement erreur de livraison lorsque les marchandises livrées ne sont pas correctes, mais aussi lorsque la quantité livrée est incorrecte. Dans ce cas, le scanner permettant de détecter une erreur de mauvaise marchandise n'est pas la bonne solution pour détecter une erreur de quantité. La livraison de mauvaise quantité se produit en particulier avec des"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "petites marchandises en grandes quantités. Le\u0003\u0003module 308 montre avec quels outils le destinataire peut détecter une erreur de quantité."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-4",
+   "number": "7.1.4",
+   "title": "Différence qualitative",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Même si tout a été fait correctement lors de l'identification globale et détaillée, il peut encore y avoir une erreur de livraison. Il y a également erreur de livraison lorsque la marchandise présente des différences qualitatives Sont considérés comme différence qualitative, les dommages dus au transport ainsi que tous les dégâts causés à la marchandise par des influences extérieures pendant le transport. Il s’agit souvent de dommages mécaniques sous forme de déchirures, de bosses ou autres déformations. Le papier peut aussi être endommagé par des conditions climatiques (humidité). Une livraison correcte n’a aucune valeur si l'objet ne correspond"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "pas à la qualité attendue. Le module 309 montre comment le destinataire peut garantir la qualité. \u0003\u0003Remarque: même les contenants endommagés peuvent être considérés comme une anomalie qualitative, car ils empêchent une vente."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-5",
+   "number": "7.1.5",
+   "title": "Livraison tardive",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En règle générale, une commande est assortie d'une date de livraison convenue. D'autres activités sont liées à cette date de livraison, comme la production ou la livraison au client. Si la date de livraison ne peut pas être respectée par l'expéditeur ou l'entreprise de transport, l'accord et la commande peuvent être annulés. Cela nuit malheureusement à l’image de l’entreprise et entraine une augmentation de ses dépenses et de ses coûts."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-6",
+   "number": "7.1.6",
+   "title": "Taux d'erreur et conséquences",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans un accord de qualité entre le fournisseur et le client, on définit ensemble quel taux d’erreur peut être toléré."
+    },
+    {
+     "t": "p",
+     "text": "Exemple de tolérance d'erreur de livraison définie dans un accord sur la qualité"
+    },
+    {
+     "t": "p",
+     "text": "L'accord peut varier en fonction de la valeur et de l'importance des articles. Il définit les conséquences pour le fournisseur en cas de non-réalisation. Les conséquences peuvent aller jusqu'à une pénalité (sanction). Indépendamment du nombre d'erreurs ou des conséquences, chaque erreur est une erreur de trop pour le fournisseur. De tels manquements font l'objet de discussions dans l’entreprise et peuvent entraîner des conséquences importantes si l'image de l'entreprise est touchée. Le taux d'erreur peut être calculé et est connu en logistique sous le nom de taux d'erreur de livraison. Ce chiffre-clé est approfondi dans le domaine du stockage."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2",
+   "number": "7.2",
+   "title": "Dégâts",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un bref coup d'œil (identification globale) permet généralement de se faire une première idée de l'état des marchandises qui arrivent. Si le chargement est déplacé ou si des charges de palettes se sont renversées, il faut partir du principe que les contraintes de transport ont été considérables et que les marchandises n'ont pas supporté le transport sans dommage. Il est plus difficile de constater des dommages dus à des influences climatiques (p. ex. humidité, température), car ils ne sont pas évidents à constater. En particulier dans le transport international, les marchandises arrivant à destination doivent"
+    },
+    {
+     "t": "p",
+     "text": "toujours être examinées avec un soin tout particulier. Si nécessaire, il faut faire appel à des bureaux de contrôle de la qualité. Une contrainte de transport est difficilement évitable. Les marchandises qui sont directement destinées à la vente ont un suremballage pour le transport. L'objectif de cet emballage supplémentaire est de protéger l'emballage de vente. Selon les normes actuelles, les emballages de vente déjà endommagés sont une raison de ne pas présenter le produit dans les points de vente."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-1",
+   "number": "7.2.1",
+   "title": "Emballages endommagés durant le transport",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors de la constatation de dégâts, il convient de faire une distinction entre les suremballages et les emballages de vente. L'évaluation de la présence ou non d'un dégât peut varier en fonction du rôle de l'emballage."
+    },
+    {
+     "t": "p",
+     "text": "Les emballages déchirés laissent supposer que leur contenu est endommagé. Le produit dont l’emballage de vente est abimé, est impropre à la vente."
+    },
+    {
+     "t": "p",
+     "text": "Lorsqu'un emballage est taché, la question se pose de savoir si la tâche est venue de l'extérieur ou de l'intérieur de l'emballage. Une souillure provenant de l'intérieur est due à une marchandise cassée, celle-ci est alors inutilisable. Une tache provenant d’une influence extérieure peut être supportée par le suremballage, mais pas par l’emballage de vente."
+    },
+    {
+     "t": "p",
+     "text": "Si l'emballage est écrasé ou cabossé, il faut vérifier si le contenu a été endommagé. S’il s’agit de l’emballage de vente, la marchandise doit être refusée."
+    },
+    {
+     "t": "p",
+     "text": "Emballage déchiré"
+    },
+    {
+     "t": "p",
+     "text": "Emballage avec des taches"
+    },
+    {
+     "t": "p",
+     "text": "Emballage écrasé et cabossé"
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-2",
+   "number": "7.2.2",
+   "title": "Moyens auxiliaires pour détecter les dommages",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il existe différents outils permettant d'accompagner et de surveiller des produits coûteux ou délicats, même sur de longues distances de transport. Les conditions durant le transport ou le stockage peuvent exercer une influence négative sur la qualité de la marchandise. Les dommages possibles sont la casse due à un choc, à une chute ou à une dépose brutale, les dommages dus au basculement, les dommages causés au produit par le non-respect de la chaîne du froid, le vol, etc. Pour certains produits, aucun dommage n'est visible de l'extérieur, même si leur fonctionnalité a été altérée pendant le transport. Pour demander un remboursement des dommages de transport à l'assurance transport, des preuves claires sont nécessaires. Les dommages doivent être visibles (photos), sinon il faut des données (indicateurs ou enregistreur de données de transport) qui documentent clairement le sinistre. Cela peut coûter cher: Pour l'entreprise, il s'agit souvent non seulement de l'argent perdu en cas de dommages, mais aussi de la perception du client, ce qui est souvent presque plus important. La confiance peut être perdue et la réputation de l'entreprise peut être ternie. Les indicateurs de surveillance du transport contrôlent de manière économique et complète le respect de la qualité de transport requise et garantissent ainsi que l'envoi est traité avec le soin requis."
+    },
+    {
+     "t": "p",
+     "text": "Indicateurs de basculement Pour pouvoir \"contrôler\" les marchandises sensibles pendant le transport, il est possible de travailler avec un indicateur de basculement. Comme son nom l'indique, cet outil permet de mesurer l'inclinaison d'un objet. Différents indicateurs de basculement permettent de mesurer différentes inclinaisons."
+    },
+    {
+     "t": "p",
+     "text": "Indicateur de basculement avec sable de quartz bleu Le sable de quartz dans l'indicateur de basculement est retenu à l'état neutre par une séparation par rapport à la flèche. Juste avant le transport, il faut retirer la séparation pour activer l’indicateur. Si l'indicateur est incliné de 60o, le sable s'écoule à travers la séparation et adhère à la partie supérieure. Lors du contrôle d'entrée des marchandises, il est possible de voir d'un coup d'œil si la livraison a été fortement inclinée."
+    },
+    {
+     "t": "p",
+     "text": "L'indicateur de basculement avec billes de verre est une alternative au sable de quartz. Une bille de verre est placée à l'intérieur de la \"forme de doigt\". En l'inclinant, celle-ci s'éloigne et se déplace dans le moule en fonction de l'angle d'inclinaison. La bille de verre reste collée à l'extrémité du moule. Lors de la sortie des marchandises, il est ainsi possible de constater si la livraison a été inclinée."
+    },
+    {
+     "t": "p",
+     "text": "Indicateurs de choc L'indicateur de choc mesure les secousses, les chocs ou les contraintes dues aux chutes."
+    },
+    {
+     "t": "p",
+     "text": "Les indicateurs de choc existent en différentes tailles et versions. Un produit souvent utilisé fonctionne au moyen d'un tube en verre de précision (voir illustration). Le tube en verre de précision est rempli d'un liquide rouge. Ce liquide est caché à l’intérieur du tube en verre. Si le carton tombe sur le sol ou subit un choc anormal, le liquide se déplace et colore immédiatement en rouge le tube central de manière irréversible."
+    },
+    {
+     "t": "p",
+     "text": "Indicateur de basculement avec billes de verre"
+    },
+    {
+     "t": "p",
+     "text": "Indicateurs de choc"
+    },
+    {
+     "t": "p",
+     "text": "Indicateurs de température La chaîne du froid est une donnée d'une grande importance pour la logistique. Si la chaîne du froid ne peut pas être respectée durant le transport, des livraisons entières peuvent se détériorer. Visuellement, les dégâts sont à peine visibles à la réception des marchandises. L'utilisation d'indicateurs de température est donc des plus importants. Dans la pratique, on connaît différents modèles. Sur l'indicateur de température de l'illustration, trois points de couleur indiquent quand la température réelle dépasse la température attendue, et le point devient rouge."
+    },
+    {
+     "t": "p",
+     "text": "Utilisation d'indicateurs Les indicateurs peuvent épargner de gros ennuis et des coûts importants aux logisticiens. Mais pour cela, ils doivent être utilisés correctement. Pour les utiliser, il faut suivre les cinq étapes suivantes:"
+    },
+    {
+     "t": "p",
+     "text": "Indicateurs de température L'utilisation d'indicateurs en cinq étapes: \u0003Étape 1: Appliquer l'indicateur sur l'emballage \u0003Étape 2: Le transporteur confirme l'intégrité de l'indicateur lors de la prise en charge de la marchandise \u0003Étape 3: La réception des marchandises vérifie l'indicateur à la livraison \u0003Étape 4: Le transporteur doit confirmer un indicateur déclenché ou manquant lors de la livraison \u0003Étape 5: Après un examen approfondi du produit, une libération ou un traitement des dommages dus au transport est effectué."
+    },
+    {
+     "t": "p",
+     "text": "Travailler avec des appareils à infrarouge Une alternative aux indicateurs est de travailler avec des appareils à infrarouge."
+    },
+    {
+     "t": "p",
+     "text": "Les appareils à infrarouge ont l'avantage de pouvoir mesurer rapidement les températures de différents produits. Contrairement aux indicateurs, ils ne détectent pas les écarts, mais peuvent indiquer la température effective d'un article. Il convient de noter que l'utilisation de l'infrarouge est une mesure instantanée. Les températures durant le transport ne peuvent pas être évaluées avec cet appareil."
+    },
+    {
+     "t": "p",
+     "text": "Appareil à infrarouge"
+    },
+    {
+     "t": "p",
+     "text": "Enregistreurs numériques La manière la plus moderne et efficace de mesurer en permanence les données est l'utilisation d'un enregistreur de données. L'enregistreur de données rend la chaîne d'approvisionnement des marchandises transparente et traçable. Des paramètres pertinents tels que la température, l'humidité, l'inclinaison et les chocs sont mesurés en accompagnant l'envoi. Les données mesurées par l'enregistreur de données sont documentées et visualisées via une application mobile. En fixant individuellement des s euils pour tous les paramètres, les dépassements sont clairement signalés par l'enregistreur de données et peuvent être attribués de manière transparente aux étapes de toute la chaîne logistique. Les enregistreurs de données sont utilisés dans des endroits nécessitant une grande précision des données avec des niveaux de certification exigeants (musées, secteur pharmaceutique et médical, etc.)"
+    },
+    {
+     "t": "p",
+     "text": "Enregistreurs numériques"
+    }
+   ]
+  },
+  {
+   "id": "s-7-3",
+   "number": "7.3",
+   "title": "Le cas de dommage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Malgré tous les moyens auxiliaires et un travail correct, des dommages peuvent survenir. En cas de dommage, l'endommagement du chargement est immédiatement signalé au supérieur compétent. Le dommage doit être documenté selon les directives de l'entreprise. A cet effet, de nombreuses entreprises fournissent un formulaire de constatation des dégâts. Ce document doit être rempli conformément aux prescriptions de l’entreprise. On s'assure ainsi qu'aucune information importante ne manque. En cas de sinistre, il est aujourd'hui possible de profiter de la technologie avancée et de photographier le dégât avec un smartphone ou un appareil photo numérique. Dans la mesure du possible, les photos doivent être prises sous tous les angles. Elles constituent des preuves importantes et sont jointes au protocole de dégât."
+    }
+   ]
+  },
+  {
+   "id": "s-7-3-1",
+   "number": "7.3.1",
+   "title": "Comportement en cas de dommage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dommages lors du transport accompagné: La livraison par camion Le dommage est constaté en présence du chauffeur. Celui-ci appose sa signature sur le formulaire de constatation des dégâts. L'entreprise transmet le document au fournisseur. Le chauffeur décide lui-même s'il communique le dommage à son entreprise."
+    },
+    {
+     "t": "p",
+     "text": "La livraison par courrier postal Si un coursier livre un envoi endommagé ou incomplet, une déclaration de dommage doit être effectuée. Pour ce faire, il faut utiliser le formulaire \"déclaration de dommage\". Pour chaque prestataire, le délai de remise de la déclaration de dommage et la procédure à suivre sont différents. L'envoi endommagé doit toutefois être conservé jusqu'à ce que l'enquête sur les dommages soit terminée, afin de pouvoir examiner les marchandises et l'emballage si nécessaire."
+    },
+    {
+     "t": "p",
+     "text": "Les dommages causés par le transport non accompagné de marchandises: La livraison par transport ferroviaire Les dommages aux cargaisons transportées dans des wagons de marchandises ou des conteneurs sont signalés comme suit: En cas de livraison dans un wagon de marchandises, les informations doivent être transmises au gestionnaire d'événements ferroviaires responsable de la région, dont la mission est de déterminer sur place la nature et l'ampleur des dégâts."
+    },
+    {
+     "t": "p",
+     "text": "La livraison par camion En cas de livraison d’un conteneur par camion, les dégâts doivent être signalés au transporteur ou au fournisseur responsable de la marchandise afin d'obtenir des instructions sur la marche à suivre. Dans certains cas, le déchargement doit être interrompu jusqu'à ce qu'une personne (fournisseur ou transporteur) soit chargée d'évaluer les dommages."
+    },
+    {
+     "t": "p",
+     "text": "Protocole des dégâts Il est important de se comporter correctement lorsqu'un dégât est constaté. Le protocole de constatation des dégâts peut aider à éviter des situations désagréables ou des litiges. La mise en page d'un tel document peut être choisie librement. L'important est que le contenu correct et le visa du transporteur soient présents."
+    },
+    {
+     "t": "p",
+     "text": "Conteneur ISO défectueux"
+    },
+    {
+     "t": "p",
+     "text": "Protocole de dégâts EnterSite AG Le protocole de dégâts est accompagné de photos réalisées ainsi que le bon de transport ou de livraison traité. Protocole de dégâts Nom: Transporteur: Expéditeur: Adresse: Description des dégâts: Le constat de dommage est enregistré par: Le constat de dommage est confirmé par: Le constat de dommage concerne le numéro d’envoi: Date, heure et lieu: Annexe: Photo et bon de livraison"
+    }
+   ]
+  }
+ ]
+}

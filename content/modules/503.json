@@ -1,0 +1,302 @@
+{
+ "code": "503",
+ "title": "Organisation de la production",
+ "domain": "500",
+ "pdf": "M503.pdf",
+ "pages": 12,
+ "words": 1798,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La planification d'une zone de production ou de fabrication se fait selon différents principes. Un facteur déterminant est la structure du produit. Si les biens sont fabriqués en masse ou en série, l'infrastructure nécessaire n'est pas la même que pour une fabrication unitaire. La disposition spatiale des machines, des outils et des postes de travail est déterminée en fonction des types de production. On détermine également comment et dans quel ordre les matières premières, les produits semi-finis ou les produits finis traversent le processus de fabrication. Cet ordre détermine ensuite le flux de marchandises et d'informations des commandes à travers la production."
+    },
+    {
+     "t": "p",
+     "text": "Comme nous l'avons expliqué dans les deux premiers modules du département \"Production\", les caractéristiques du produit sont déterminantes pour l'infrastructure non seulement lors du stockage, ma is aussi lors de la production. La structure du produit peut être extrêmement vari ée. C'est pourquoi il existe différentes possibilités d'organiser la production."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1",
+   "number": "3.1",
+   "title": "Définition des types de fabrication",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lorsqu'un produit est fabriqué, on parle souvent de fabrication dans le langage technique. La fabrication est influencée par les critères suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Nombre de produits fabriqués (quantité de fabrication)",
+      "Organisation de la production",
+      "Dépendance du lieu de fabrication"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-2",
+   "number": "3.2",
+   "title": "Types de fabrication",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans chaque processus de production ou de fabrication, un type de fabrication est choisi. Il peut faire l’objet de modification ultérieurement, ce qui implique beaucoup d'efforts et des coûts. Le choix du type de fabrication doit être bien planifié et initialisé."
+    },
+    {
+     "t": "p",
+     "text": "Les types de fabrication suivants sont connus:"
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-1",
+   "number": "3.2.1",
+   "title": "Fabrication unitaire",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La fabrication ou la production unitaire, a pour mission de produire des pièces uniques. L'infrastructure mais également le personnel doive être polyvalents, car l'ordre de fabrication ne porte que sur une seule pièce à la fois. Les changements d'équipement et les nouvelles planifications font partie de ce type de production. Aucun des produits fabriqués n'est identique à un autre, tous ont leurs caractéristiques spécifiques. Les fabrications uniques sont, par exemple, des tableaux d'un artiste peintre, des appartements, des costumes sur mesure, etc. Avantage: les souhaits des clients peuvent être réalisés individuellement. Inconvénient: le temps de fabrication est généralement conséquent."
+    },
+    {
+     "t": "p",
+     "text": "Fabrication individuelle typique \"Peindre un tableau"
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-2",
+   "number": "3.2.2",
+   "title": "Production multiple",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme l’indique son nom, la production multiple consiste à fabriquer plusieurs fois le même produit. Ainsi, l'infrastructure mise en place et le personnel concerné s’orientent vers une production spécifique qui permet une optimisation du processus; les activités de la chaine de production étant répétitives."
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-3",
+   "number": "3.2.3",
+   "title": "Production de masse",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La production de masse a pour objectif de produire la plus grande quantité possible en un minimum de temps - tout en conservant une bonne qualité. Au démarrage de la production, aucune quantité limitée n'est co nnue. Si une masse est fabriquée, il est possible d'adapter les proce ssus au produit à fabriquer. Une fois le processus optimisé et enclenché, o n fabrique la plus grande quantité possible d'un produit similaire et homogèn e. Les autres avantages de la production de masse sont l'effet de rationalisation (processus optimisés) et un coût unitaire le plus bas possible. Il n'est pas n écessaire de rééquiper les machines, au contraire, nombre de ces pro cessus peuvent être automatisés. La fabrication de ciment, d'oursons en gomme, de pi èces de monnaie, etc. sont autant d'exemples de production de masse. Avantage: grandes quantités = faible coût de fabrication Inconvénient: aucune flexibilité dans le processus de fabrication."
+    },
+    {
+     "t": "p",
+     "text": "Production de pièces de monnaie en masse"
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-4",
+   "number": "3.2.4",
+   "title": "Production en série",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La production en série est la fabrication de produits similaires et est une variante qui se situe entre la production individuelle et la production de masse. Contrairement à la production de masse, la production est limitée à un certain nombre de produits similaires, fabriqués en une seule fois ou en série, et chacune de ces séries présente des différences minimales. Les v oitures, les vêtements, les meubles, etc. sont produits en série. Avantage: la productivité peut être augmentée. Inconvénient: pas de flexibilité et coûts de conversion élevée."
+    },
+    {
+     "t": "p",
+     "text": "Les automobiles sont produites en série"
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-5",
+   "number": "3.2.5",
+   "title": "Production de variété",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La production par variété est fortement apparentée à la production en série. Certaines quantités sont produites, mais elles présente nt des différences minimes. Classiquement, dans le secteur de la mode, une distinction de tailles est appelée fabrication par sortes, car les produits sont identiques mais se distinguent par leur taille. La fabrication par sortes est utilisée pour les cigarettes, la bière, la mode, etc. Avantage: les matières premières utilisées sont identiques ou similaires. Inconvénient: la détermination de la taille optimale des lots (quantité de production) est un défi."
+    },
+    {
+     "t": "p",
+     "text": "Différentes variétés dans la production de bière"
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-6",
+   "number": "3.2.6",
+   "title": "Production par lots",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors de la production par lots, des différences apparaissen t dans le processus de fabrication; des produits identiques peuvent présenter des différences. La production par lots est donc une production en série non volontaire. Dans la plupart des cas, un lot est défini par une limite de production. Par exemple, lors de la fabrication d'une tresse au beurre à la maison, sa cu isson dépend du récipient et du four. La production par lots est utilisée dans le secteur de la chimie (récipients), mais aussi dans la production de pain (bol de pétrissage et four) ou de pommes de terre (taille de la surface cultivée). Avantages: si une série de fabrication ne réussit pas, elle peut être éliminée. Par ailleurs, la série peut être numérotée, ce qui g arantit la possibilité de traçabilité ( module 506). Inconvénient: le processus est très laborieux et est constamment stoppé par l'infrastructure existante."
+    }
+   ]
+  },
+  {
+   "id": "s-3-3",
+   "number": "3.3",
+   "title": "Organisation de la production",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une fois que le type de fabrication idéal pour la production a été choisi, la planification commence. Il convient tout d’abord de définir l'infrastructure à utiliser et l'ordre dans lequel la production doit être mise en place. L'organisation de la production peut certes être optimisé e et modifiée"
+    },
+    {
+     "t": "p",
+     "text": "ultérieurement en fonction des besoins, mais cela demande beau coup d'efforts et entraîne des coûts élevés. Les organisations de production suivantes sont connues:"
+    }
+   ]
+  },
+  {
+   "id": "s-3-3-1",
+   "number": "3.3.1",
+   "title": "Fabrication à l’établi",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans la fabrication à l ’établi, le travail artisanal est exécuté du début à la fin par une personne ou un groupe de personnes attitré à un poste de travail. Il n'y a donc généralement pas de transition obligatoire vers d'autres postes de travail. La fabrication à l’établi produit des pièces uniques ou en petites séries. EnterSite AG fabrique également ses propres produits selon ce type de fabrication. Les bijoux, les tableaux d'artistes peintres, etc… sont des exemples de produits fabriqués à l’établi. Avantage: dans la fabrication à l’établi, un produit est souvent créé par un travailleur ou un groupe de travail. On peut donc s' attendre à une qualité élevée. Inconvénient: le processus de travail est souvent unique et doit être redéfini à chaque fois. Il en résulte une fabrication plus longue et donc plus coûteuse."
+    },
+    {
+     "t": "p",
+     "text": "Poste de travail à l’établi"
+    }
+   ]
+  },
+  {
+   "id": "s-3-3-2",
+   "number": "3.3.2",
+   "title": "Fabrication en atelier",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les moyens de production et les postes de travail effectuant des opérations identiques ou similaires sont regroupés dans un atelier. Le produit \"se déplace\" selon le plan de déroulement à travers les différents post es de travail, dans lesquels chaque machine effectue une opération spécifique. Une machine fraise les pièces, la suivante les rabote à la bonne épaisseur, une autre perce des trous. Cette organisation offre une grande flexibilité. L'ordre des activités peut être modifié en fonction du produit. Une série peut être répartie entre les différents postes de travail et chaque poste peut effectue r ses activités sur le produit indépendamment des autres postes. On trouve des exemples de fabrication en atelier, entre autr es, dans les secteurs du bois et du métal. Avantage: grande flexibilité. Inconvénient: temps de passage plus long."
+    },
+    {
+     "t": "p",
+     "text": "Fabrication en atelier avec différents postes de travail dans la même pièce"
+    }
+   ]
+  },
+  {
+   "id": "s-3-3-3",
+   "number": "3.3.3",
+   "title": "Fabrication à la chaîne",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La production en flux continu est organisée de manière que l es différents postes de travail soient utilisés dans un ordre fixe, contrairement à la production en atelier. L'organisation ne comprend pas seulement un ordre fixe; les moyens de production et les postes de travail sont également coordon nés dans le temps. Les produits sont transportés et traités sans i nterruption d'un poste de travail à l'autre. Le transport d'un poste de travail à l'autre peut se faire manuellement ou via une chaîne de montage. En cas d'utili sation d'une chaîne de montage, il est important de choisir la bonne vi tesse afin que tous"
+    },
+    {
+     "t": "p",
+     "text": "les postes de travail puissent terminer leur travail da ns le temps imparti. Un exemple classique de production à la chaîne est la fabrication de voitures. Avantage: temps de traitement courts. Inconvénient: coûts d'installation élevés, tâches monotones pour les collaborateurs."
+    },
+    {
+     "t": "p",
+     "text": "Les automobiles sont fabriquées en flux tendu"
+    }
+   ]
+  },
+  {
+   "id": "s-3-3-4",
+   "number": "3.3.4",
+   "title": "Fabrication de chantier",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cas de la fabrication de chantier (également appelée fabrication selon le principe de l'emplacement), la main-d'œuvre et les moyens de p r o d u c t i o n d o i v e n t ê t r e a m e n é s s u r l e s i t e. L e p r o d u i t ( p ar exemple une maison) nécessite une fabrication sur place. Les moyens de production sont amenés à l'endroit où ils sont utilisés en fonction des opérations. Selon leur taille, les pièces sont également fabriquées et livrées en dehors du chantier. La construction de maisons, la construction de tunnels, etc. sont des exemples de produits fabriqués sur le chantier. Avantage: la surface de production est mise à disposition par le client. Inconvénient: coûts de transport de la main-d'œuvre et des intrants."
+    },
+    {
+     "t": "p",
+     "text": "Construction d'une maison individuelle"
+    },
+    {
+     "t": "p",
+     "text": "Intrant = dans le langage économique, un intrant est un élément entrant dans un processus de production; il est opposé à extrant qui est un élément sortant du processus."
+    }
+   ]
+  },
+  {
+   "id": "s-3-4",
+   "number": "3.4",
+   "title": "Aperçu des types de production et de l'organisation de la production",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Type de fabrication Brève description Avantages Inconvénients Fabrication unitaire"
+    },
+    {
+     "t": "p",
+     "text": "Fabrication de produits uniques Qualité Coûts Production de masse"
+    },
+    {
+     "t": "p",
+     "text": "Fabrication de séries continues Coûts Qualité Fabrication en série Fabrication pour de grandes quantités avec un nombre limité de pièces"
+    },
+    {
+     "t": "p",
+     "text": "Développement des produits Convertir Fabrication de variétés Fabrication pour des produits présentant des différences minimales"
+    },
+    {
+     "t": "p",
+     "text": "Matières premières uniformes Convertir"
+    },
+    {
+     "t": "p",
+     "text": "Fabrication par lots Fabrication définie par une limite de production"
+    },
+    {
+     "t": "p",
+     "text": "Traçabilité Temps Fabrication sur établi Fabrication par un poste de travail"
+    },
+    {
+     "t": "p",
+     "text": "Qualité Temps Fabrication en atelier Fabrication par plusieurs postes de travail"
+    },
+    {
+     "t": "p",
+     "text": "Temps Planification Fabrication à la chaîne Fabrication par plusieurs postes de travail dans un ordre précis"
+    },
+    {
+     "t": "p",
+     "text": "Temps Coûts des machines Fabrication de chantier Fabrication sur place Pas besoin de surface de production propre"
+    },
+    {
+     "t": "p",
+     "text": "Frais de transport"
+    }
+   ]
+  },
+  {
+   "id": "s-3-5",
+   "number": "3.5",
+   "title": "Production allégée",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "\"Lean Production\" signifie \"production allégée\". Ce terme désigne l'utilisation à la fois économique et efficace en termes de temps, de moyen, de production et de personnel. L'entreprise a pour mission de choisir la meilleure var iante possible parmi les types de fabrication et les types d'organisation. Toutes les activités superflues sont supprimées. Seul le nécessaire est utilisé pour la fabrication. Le processus de fabrication est ainsi optimisé. Ainsi, les objectifs de la production allégée peuvent être mis en œuvre: stocks réduits, lots de petite taille, grande flexibilité par rap port aux souhaits des clients, temps de passage courts, bon travail d'équipe."
+    }
+   ]
+  }
+ ]
+}

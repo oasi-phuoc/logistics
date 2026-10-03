@@ -1,0 +1,527 @@
+{
+ "code": "110",
+ "title": "Définition de la gestion des marchandises",
+ "domain": "100",
+ "pdf": "Entersite_M110.pdf",
+ "pages": 17,
+ "words": 3226,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "20 Module 110_Définition de la gestion des mar - chandises EnterSite SA est un fournisseur renommé dans le domaine des logiciels et du matériel informatique ainsi que dans le commerce des consommables correspon - dants. C'est pourquoi la gestion du matériel occupe une place centrale au sein de l’entreprise. Il est essentiel d'organiser de manière rapide et économique d’im - portants flux de matériel, car cela favorise la fidélisation et la croissance de la cli - entèle. L 'un des défis de la gestion du matériel est de trouver l'équilibre entre les coûts de stockage des marchandises et la disponibilité des livraisons. Des spécialistes de la logistique, des achats et de la planification de la production relèvent ce défi au quotidien. Ils travaillent en étroite collaboration avec le service des ventes et le service financier et assurent ainsi un flux de marchandises opti - mal et économique au sein d'EnterSite SA. Pour réussi dans le domaine de la gestion des marchandises, il est nécessaire de posséder des compétences opérationnelles et de penser de manière interconnec - tée. Ce sont précisément ces compétences que vous allez acquérir pendant votre apprentissage. Plongez-vous dans un sujet passionnant et stimulant. Ayez tou - jours à l'esprit l'objectif de fournir à votre entreprise tout ce dont elle a besoin pour satisfaire les besoins de ses clients. Bonne chance!"
+    },
+    {
+     "t": "p",
+     "text": "21 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Module 110_Définition de la gestion des marchandises Connaissance théorique du module 110 10.1 Que comprend la gestion des marchandises? La gestion des marchandises regroupe tous les flux de marchandises et de données au sein d'une entreprise ( en interne ). Les points clés suivants font partie intégrante de la gestion des matières:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Approvisionnement et stockage: par ex. planification des besoins ( planifica-tion et approvisionnement ) en matières premières, fournitures, produits com - merciaux, services et informations ( voir 10.5.1 )",
+      "Logistique interne: par ex. préparation des commandes et transports internes pour la production ou la création de services ( voir 10.5.2 )",
+      "Production et élimination: par ex. les flux de marchandises dans la production et l'élimination des rebuts et des déchets ( voir 10.5.3 )",
+      "Distribution: livraison de produits prêts à être vendus ( voir 10.5.4 )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La gestion marchandises peut être divisée en trois types:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Gestion intégrée des matières: par ex. tous les articles et informations requis par la production doivent être gérés de façon centrale",
+      "Gestion intégrée avancée des matières: par ex. assurer l'approvisionnement de toute l'entreprise – approvisionnement, gestion des stocks, planification de la production",
+      "Gestion totalement intégrée des matériaux: par ex. la livraison au marché des biens et services"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Approvisionnement Planification de la demande, étude de marché de l'approvisionnement Logistique Stockage, logistique interne Production Déterminiation du besoin, tri-recycla - ge, élimination de déchets Gestion intégrée des matiéres Plus production Planification de la production Gestion intégrée avancée des matiéres Plus logistique Distribution Gestion totalement Intégrée des matériaux"
+    },
+    {
+     "t": "p",
+     "text": "22 La difficulté de la gestion des matières est de faire coïncider au mieux les dif - férents objectifs de tous les services concernés:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Couvrir les besoins matières",
+      "Assurer la capacité de livraison ( production et distribution )",
+      "Réduire les quantités manquantes",
+      "Réduire les coûts de stockage",
+      "etc…"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque Dans la gestion matière, le bon article est mis à disposition au bon moment, au bon endroit, dans la bonne quantité, avec la bonne qualité et au bon prix ( la règle des 6B du professeur Jünemann, Université de Dortmund )."
+    },
+    {
+     "t": "p",
+     "text": "23 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-10-2",
+   "number": "10.2",
+   "title": "Objectifs et tâches de la gestion des matières",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La gestion des matières consiste à optimiser le flux de marchandises dans une entreprise, aussi bien dans l'approvisionnement, la mise à disposition interne ( préparation des commandes, transport ) ainsi que dans le stockage et la distri - bution selon les besoins. Les différents flux de marchandises sont synchronisés et organisés de la manière la plus économique possible ( coûts réduits, disponibilité rapide ). L ’optimisation des marges est ici aussi le but ultime. Des indicateurs ( voir 10.6 ) sont utilisés pour la comparaison, la gestion et l'optimisation. Remarque L 'objectif fondamental de la gestion des matières est de couvrir les besoins de la production et/ou de la fourniture de prestations de service en temps voulu et de manière économique. Les objectifs de la gestion des matières peuvent être répartis en trois groupes: Objectifs formels Les objectifs formels sont plutôt à long terme et ont un caractère économique, mesurés en valeur. Ils sont répartis en trois sous-domaines:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Coûts d'achat: coûts générés dans le cadre du processus d’approvisionnement, tels que les coûts de passation de commande ( achat, logistique, réception des marchandises, etc… ) et le prix d’achat des marchandises. On cherchera à mini - miser les 2",
+      "Frais de stockage: les frais de stockage tels que le capital immobilisé ainsi que les articles à faible rotation doivent être maintenus aussi bas que possible",
+      "Coûts liés aux ruptures de stock: éviter les erreurs et les coûts qui en découl - ent, par exemple une mauvaise gestion des dates de commande"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Module 110_Définition de la gestion des marchandises"
+    },
+    {
+     "t": "p",
+     "text": "24 Objectifs spécifiques Ces objectifs comprennent la garantie des marchandises nécessaires à l'entreprise:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La bonne marchandise",
+      "Le bon endroit",
+      "Le bon moment",
+      "La bonne quantité",
+      "La bonne qualité",
+      "Le bon prix"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le délai de livraison du fournisseur fait également partie des objectifs spécifiques, et, si l'article n'est pas disponible en stock, ce délai doit être inférieur à celui sou - haité par le client."
+    },
+    {
+     "t": "p",
+     "text": "Objectifs sociaux Les objectifs sociaux dans la gestion des matières peuvent également être quali - fiés d'objectifs environnementaux. Ils garantissent une action de l'entreprise respectueuse de l'environnement dans le cadre de sa gestion."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Emballage respectueux de l'environnement",
+      "Recyclage",
+      "Protection de l'environnement ( par ex. en matière de transport )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La plupart du temps, les trois objectifs ne peuvent pas être pris en compte avec la même priorité, car ils sont souvent en conflit les uns avec les autres, ce que l'on appelle un conflit d'objectifs. Si, par exemple, la priorité est donnée à un embal - lage le plus respectueux possible de l'environnement, cela a souvent des réper - cussions sur le prix, qui augmente alors. Dans cet exemple, les objectifs sociaux sont en conflit avec les objectifs économiques."
+    },
+    {
+     "t": "p",
+     "text": "25 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-10-3",
+   "number": "10.3",
+   "title": "L 'importance de la gestion des matières",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L 'organisation professionnelle de la gestion des matières représente un facteur es-sentiel pour l'optimisation des marges d'une entreprise. Elle a des impacts sur toute l’entreprise. La qualité de l'entreprise, la fiabilité des livraisons et la rentabilité ( coûts ) dépen - dent d'une gestion des matières bien organisée."
+    },
+    {
+     "t": "p",
+     "text": "Un diagramme Sankey permet de représenter clairement les quantités, par ex - emple d'un flux de marchandises interne à l'entreprise. On peut voir quels flux ( quantités ) circulent entre chaque entité ( par ex. en tonnes par an ). Plus la flèche est épaisse, plus la quantité est importante. RÉCEPTION DES MARCHANDISES Livraison Stock de matières premières Stock de produits /f_inis Elimination des déchets Assemblage Fabrication 10 170 10 5 15 170 25 5 10 70 80 100 5 Dans le cadre des efforts visant à optimiser le flux de matières, ce type de représentation aide à identifier les principaux flux de matières et à définir les priorités. Module 110_Définition de la gestion des marchandises"
+    },
+    {
+     "t": "p",
+     "text": "26"
+    }
+   ]
+  },
+  {
+   "id": "s-10-4",
+   "number": "10.4",
+   "title": "Données statiques et dynamiques",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors de la saisie d'un nouvel article dans notre système ( ERP ), il existe en principe deux types de données."
+    }
+   ]
+  },
+  {
+   "id": "s-10-4-1",
+   "number": "10.4.1",
+   "title": "Données de base",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les données de base, en anglais «Master Data», sont des données statiques, c'est-à-dire qu'elles restent inchangées pendant une période prolongée. Il s'agit donc d'informations qui sont toujours réutilisées. Exemples de données de base pour un article"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Numero d'article",
+      "Designation de l'article",
+      "Unité de mesure ( p. ex. pièce, kg, litre, mètre )",
+      "Emplacement de stockage ( pour le principe de l'emplacement fixe )",
+      "Fournisseur",
+      "Poids",
+      "Volume"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Autres exemples de données de base"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Données de base des clients",
+      "Données de base des fournisseurs",
+      "Données de base du personnel",
+      "Listes de pièces"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-10-4-2",
+   "number": "10.4.2",
+   "title": "Données de mouvement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les données de mouvement, en anglais «Transaction Data», sont des données dy - namiques, c'est-à-dire qu'elles évoluent en permanence. Exemple de données de mouvement pour un article"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Stock",
+      "Consommation"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Autres exemples de données de mouvement"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Commandes",
+      "Factures",
+      "Commandes"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "27 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-10-5",
+   "number": "10.5",
+   "title": "Domaines de la gestion des matières",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-10-5-1",
+   "number": "10.5.1",
+   "title": "Approvisionnement et stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L 'approvisionnement a pour mission de fournir à l'entreprise toutes les matières premières, les matières auxiliaires, les fournitures, les produits commerciaux, les services et les informations dont elle a besoin."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les matières premières sont par exemple le bois, les profilés en acier et les gra - nulés.",
+      "Les matériaux auxiliaires sont par exemple les clous, les vis, le fil à souder et les emballages.",
+      "Les consommables sont par exemple les lubrifiants, les produits de nettoyage et les huiles.",
+      "Les marchandises commerciales sont des articles qui ne seront pas trans - formés, comme par exemple les ordinateurs, le pain, les fleurs, les briquets.",
+      "Les services sont par exemple le conseil, le coaching, les services avant-vente et les services après-vente.",
+      "Les informations sont par exemple des dessins et des instructions."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La gestion matière peut prendre en charge l’approvisionnement de façon globale, ou de façon spécifique. Remarque Les données de mouvement se basent sur les données de base. Des données de base et des données de mouvement fiables sont essentielles pour une gesti - on des articles réussie. Module 110_Définition de la gestion des marchandises"
+    },
+    {
+     "t": "p",
+     "text": "28 Détermination des besoins Il existe trois méthodes différentes pour déterminer un besoin ( par exemple d'un article ). Méthode des déterminations Déterminations détermi-nistes des besoins Déterminations stockastis-ques des besoins Déterminations heuris-tiques des besoins"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Commandes",
+      "Nomenclature",
+      "Gammes opératoires",
+      "Prévisions des vents",
+      "Statistiques de vente",
+      "Statistiquesde la demande",
+      "Traitement ultérieur pour les prévisions",
+      "Données de sorties",
+      "Estimation subjective"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Déterministe ( orienté programme ) Les besoins en articles sont calculés à l'aide de nomenclatures, de gammes opéra - toires, d'ordres de fabrication, de prévisions de ventes ( prévision ) et de comman - des. Cette méthode de calcul des besoins est utilisée dans les cas suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Articles coûteux",
+      "Biens d'investissement ( p. ex. machines )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Stochastique ( basé sur la consommation ) La demande d'articles est calculée sur la base des chiffres de la demande d'une certaine période, par exemple l'année dernière. Pour ce faire, ces chiffres sont ex - trapolés à l'aide des données de l'année en cours. Des facteurs tels que la con - joncture sont pris en compte. Des exemples sont, tous les articles achetés dans le commerce de détail ou commandés à court terme, tels que:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Lapins de Pâques",
+      "Chaussures de sport",
+      "Téléphone mobile / ordinateur portable"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Heuristique ( méthode d'estimation subjective ) Lorsque ni les commandes ni les chiffres historiques ne sont disponibles, les besoins futurs sont estimés. Cette méthode est utilisée par exemple pour les nouveaux ar - ticles. Voici des exemples de questions d’optimisation dans l’approvisionnement:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Make or buy ( faire ou acheter )",
+      "Planification des besoins: détermination des besoins nets. Pour cela, on calcu - le les besoins totaux d’un article moins le stock et moins les commandes déjà en cours: Total des besoins 250 pces. Stock – 100 pces. Commandes en cours – 50 pces. Besoin net = 100 pces."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "→ Dans cet exemple, il y a risque de rupture et il faut agir."
+    },
+    {
+     "t": "p",
+     "text": "29 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Choisir un fournisseur: Chez qui vais-je acheter? ( date de livraison, prix, qua - lité, etc… )",
+      "Transports: transport routier, transport ferroviaire, fret maritime, fret aérien, éventuellement combiné",
+      "Planification du besoin: Quand les biens sont-ils nécessaires?",
+      "Analyse ABC: vérifier périodiquement la rotation des stocks et adapter les quantités d'approvisionnement"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le stockage a pour mission d'éviter les temps d'attente dans le processus de créa - tion de valeur. Le stockage assure l'approvisionnement de la production en biens nécessaires et la distribution en biens à livrer. Les stocks sont définis de manière à ce que les quantités disponibles soient les plus optimales possibles. Il convient d'éviter autant que possible les stocks intermédiaires et de réduire au maximum les distances de transport internes. La disponibilité des livraisons doit être aussi élevée que possible."
+    },
+    {
+     "t": "p",
+     "text": "Remarque La logistique de stockage détermine quels articles sont stockés, où, en quel - les quantités et comment. Elle détermine également quand les articles quittent l'entrepôt et comment ils sont transportés. Module 110_Définition de la gestion des marchandises"
+    },
+    {
+     "t": "p",
+     "text": "30 Fonctions du stockage Réception des marchandises"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Contrôle de la réception des marchandises",
+      "Vérification de l'identité, de la quantité et de la qualité"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Entreposage"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Affectation des emplacements et stockage physique",
+      "Allocation fixe des emplacements",
+      "Allocation chaotique ou flexible des emplacements",
+      "Zones de stockage par catégorie ( par ex. stockage dans la même zone d'ar - ticles électriques, d'articles pneumatiques, d'articles normalisés, etc… )",
+      "Analyse ABC en vue d’optimiser les emplacements en fonction de la rotation des stocks"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-10-5-2",
+   "number": "10.5.2",
+   "title": "Intralogistique",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Préparation des commandes Différents principes de préparation des commandes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prélèvement en une étape, en fonction de la commande: Les quantités d'ar - ticles sont prélevées pour une commande. Une fois terminée, la commande suivante est traitée.",
+      "Préparation de commandes en 2 étapes, orientée articles: Plusieurs com mandes sont regroupées. Tous les articles sont préparés ensemble afin d'op - timiser le temps de trajet. Après le prélèvement, les articles sont attribués aux différentes commandes.",
+      "Prélèvement en série: Chaque commande est traitée individuellement dans toutes les zones de stockage. Le préparateur de commandes traite chaque commande dans son intégralité.",
+      "Préparation de commandes en parallèle: Les différentes commandes sont divisées en commandes partielles ( par ex. par zone de stockage ). Plusieurs préparateurs/-trices de commandes traitent simultanément les comman - des partielles dans chaque zone de stockage. Les commandes partielles sont ensuite regroupées.",
+      "Préparation de commande dynamique: Les systèmes de stockage sont au - tomatiques. Les différents articles sont transportés automatiquement du système de stockage au préparateur de commandes. La marchandise vient à l’homme.",
+      "Préparation de commandes statique: Les articles sont immobiles à l'emplace - ment de stockage et sont récupérés manuellement par le préparateur de com - mandes à l'emplacement de stockage. L ’homme va à la marchandise."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "31 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prélèvement unidimensionnel: Les articles ne sont prélevés qu'horizontalement.",
+      "Prélèvement bidimensionnel ou multidimensionnel: Les articles sont préle - vés aussi bien horizontalement que verticalement ( voir photo )."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Transports internes à l'entreprise pour la production Par transport interne à l'entreprise, on entend tous les mouvements de marchan - dises au sein d'une entreprise. Les ordres de transport sont généralement spon - tanés. Lors du choix de l'engin de manutention, différents critères doivent être pris en compte:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Distance, parcours",
+      "Priorité de la tâche, importance",
+      "Délais",
+      "Volume et poids des marchandises",
+      "Capacité de chargement du chariot de manutention",
+      "Conditions cadres techniques et organisationnelles, sécurité au travail"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque La plupart du temps, on utilise des formes mixtes de ces organisations de préparation de commandes. Remarque Une organisation optimale du transport permet de réduire les temps de pas - sage et les trajets à vide, de diminuer les coûts de transport et contribue large - ment à un approvisionnement sûr de la production dans l'entreprise. Module 110_Définition de la gestion des marchandises"
+    },
+    {
+     "t": "p",
+     "text": "32"
+    }
+   ]
+  },
+  {
+   "id": "s-10-5-3",
+   "number": "10.5.3",
+   "title": "Production et élimination des déchets",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les flux de marchandises dans la production font partie de la gestion des ma - tières et sont organisés et optimisés par celle-ci. Questions typiques concernant l'optimisation des flux de marchandises dans la production:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Qu'est-ce qui doit être produit, par type, dans quelles quantités et dans quels délais?",
+      "Comment éviter ( au niveau de l'organisation ) les stockages intermédiaires?",
+      "Comment les besoins en transport et trajets sont-ils organisés pendant la pro - duction?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Lors de l'élimination des rebuts et des déchets pendant le processus de producti - on, les points suivants doivent être pris en compte:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Assurer une élimination aussi économique que possible, à faible coût.",
+      "Les normes de recyclage doivent être respectées.",
+      "La protection de l'environnement doit être optimisée en permanence.",
+      "En tant qu'objectif social de la gestion des matières, les exigences écologiques doivent être mises en œuvre le mieux possible."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "33 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Exigences écologiques:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les matières premières, l'énergie, etc… sont prélevées dans l'environnement en tant que facteurs d'entrée ( voir module 501 Production ).",
+      "Il en résulte des facteurs de sortie ( voir module 501 ). Des substances telles que les déchets, la chaleur, les eaux usées, le bruit, etc… sont rejetées dans l'en - vironnement."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-10-5-4",
+   "number": "10.5.4",
+   "title": "Distribution",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le dernier domaine du flux de matières interne à l'entreprise est la distribution. Elle s'occupe de la livraison des produits demandés par le marché. Les questions d'optimisation de ce domaine peuvent être:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Comment et où les produits sont-ils emballés pour le transport?",
+      "La sécurité du transport des produits est-elle garantie?",
+      "La distribution est-elle effectuée par l'entreprise elle-même ou est-elle sous-traitée ( make or buy )?",
+      "Avec quelles entreprises de transport travaille-t-on?",
+      "La vente est-elle directe ou indirecte, ou les clients finaux sont-ils livrés direc - tement ou via un intermédiaire?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Module 110_Définition de la gestion des marchandises"
+    },
+    {
+     "t": "p",
+     "text": "34"
+    }
+   ]
+  },
+  {
+   "id": "s-10-6",
+   "number": "10.6",
+   "title": "Indicateurs dans la gestion des matières",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un ratio ou indicateur est un chiffre permettant d'évaluer et comparer un contex - te opérationnel ou économique."
+    },
+    {
+     "t": "p",
+     "text": "1.06.1 Indicateurs courants dans la gestion des matières Les indicateurs clés de performance dans la gestion des matières sont appelés Key Performance Indicators ( KPI'S ). Un exemple d'indicateurs clés de performance ( KPI'S ) Rotation de stocks Besoin annuel en CHF ou pces. = 150'000.– = 1.5x 0 Stock en CHF ou pces 100'000.– Le stock moyen a été entièrement prélevé et renouvelé 1,5 fois. Durée de stockage 360 jours = 360 = Le stock est en magasin 240 joursRotation des stocks 1.5 Dans la gestion des articles, on utilise ce que l'on appelle l'année bancaire. Année bancaire: 12 mois / an, 30 jours / mois, 360 jours / an Taux de service Commandes clients honorées x 100 = 237 x 100 = 90,45% Commandes clients reçues 262 Intensité matières Achats x 100 = 82 Mio. Fr. x 100 = 53,25% Chiffre d'affaires 154 Mio. Fr. L 'entreprise a besoin de 53,25% de son chiffre d'affaires pour l'achat de marchan - dises."
+    },
+    {
+     "t": "p",
+     "text": "35 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Intensité totale du capital – Retour sur investissement ( ROI ) En 1919, un groupe chimique américain a développé un système d'indicateurs de performance qui est devenu mondialement connu sous le nom de système d'in - dicateurs de performance Du Pont. Aujourd'hui encore, il s'agit d'un indicateur important dans une entreprise. Un système d'indicateurs se compose de plusieurs indicateurs individuels et re - présente la relation entre ces indicateurs. RETOUR SUR INVESTISSEMENT /parenleft.capROI/parenright.cap Rentabilité du chiffre d‘affaires (ROS) Rotation des capitaux Total des actifs Chiffre d‘affaires (CA) Fonds de roulement Actifs immobilisés Liquidités (trésorerie) Réserves (provisions) Demandes (exigences) Chiffre d‘affaires (CA) Succès Coûts Chiffre d‘affaires (CA) Ventes et frais administratifs Coûts de fabrication Coûts de stockage X:: + /endash.cap + + + + x Tu trouveras d'autres ratios de stockage importants dans le recueil de formules pour la logistique. Aperçu de la planification du module 1 10 Remarque Le ROI est un indicateur de gestion qui montre à quel point une activité entre - preneuriale est profitable ( rentable ), mesurée au capital investi ( argent ). Module 110_Définition de la gestion des marchandises"
+    }
+   ]
+  }
+ ]
+}

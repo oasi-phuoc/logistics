@@ -1,0 +1,172 @@
+{
+ "code": "101",
+ "title": "Histoire de la logistique",
+ "domain": "100",
+ "pdf": "Entersite_M101.pdf",
+ "pages": 7,
+ "words": 1043,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les activités de la logistique d'hier sont étroitement liées aux activités logistiques d'aujourd'hui. L'approvisionnement en divers matériaux, le stockage au bon moment sans que la marchandise ne perde de sa valeur, la consommation des marchandises: autant d'étapes simples du processus de la logistique d'hier et de la logistique d'aujourd'hui."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: ce qui a changé, ce ne sont pas les objectifs de la logistique, mais les moyens auxiliaires qui sont aujourd’hui mis à disposition."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1",
+   "number": "1.1",
+   "title": "Activités logistiques",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique d'aujourd'hui est étroitement liée aux activités logistiques d'autrefois. L'acquisition de différents matériaux primaires, leur mise à disposition au bon moment et bon endroit, sans qu’ils ne perdent de leur valeur ainsi que leur consommation sont de simples étapes de processus de logistique qui ont évolué au fil de l'histoire."
+    },
+    {
+     "t": "p",
+     "text": "Il y a de nombreuses années, le processus logistique aurait pu être représenté comme suit:"
+    },
+    {
+     "t": "p",
+     "text": "Chasser - Transformer - Consommer"
+    },
+    {
+     "t": "p",
+     "text": "La logistique de nos jours dessine le processus simplifié de manière suivante:"
+    },
+    {
+     "t": "p",
+     "text": "Approvisionnement - Production - Distribution"
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-1",
+   "number": "1.1.1",
+   "title": "La logistique en temps de guerre",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si l'on reconnaît les activités simples et originelles de la logistique, on comprend que la logistique a toujours eu une grande importance pour toutes les civilisations. Dans l'histoire de la logistique, outre les activités des hommes dès l'âge de pierre, essentielles à leur survie, les activités logistiques militaires sont également très pertinentes. L'histoire de la logistique a été fortement marquée par les campagnes d’expansion de Napoléon Bonaparte."
+    },
+    {
+     "t": "p",
+     "text": "Napoléon Bonaparte 1769-1821"
+    },
+    {
+     "t": "p",
+     "text": "Autrefois, lorsqu'un chef d'armée ne parvenait pas à trouver à temps de la nourriture pour les soldats et du fourrage pour les animaux, les campagnes militaires n'avaient guère de succès. C'est pourquoi des troupeaux de bétail étaient transportés pour servir de réserves de viande vivante, ou les soldats entreprenaient des raids pour s’approvisionner. Des commandants ingénieux ont tenté de réduire l'appétit de leurs soldats en leur imposant une consommation obligatoire de tabac. En effet, dès que les soldats fumaient ou mâchaient du tabac, ils mangeaient moins. Les commandants pouvaient ainsi économiser des quantités considérables de nourriture, ce qui facilitait le ravitaillement et donc la logistique. Napoléon Bonaparte a fait de la logistique militaire une véritable science. Il ne s'agissait pas seulement de déplacer et nourrir les troupes, mais auss i d'acheminer de grandes quantités de matériel de guerre et de munitions. Cette logistique sophistiquée a largement contribué à la force de frappe de l'armée napoléonienne."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-2",
+   "number": "1.1.2",
+   "title": "La logistique et la construction des pyramides",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans la vie civile aussi, des défis logistiques sont apparus, notamment là où de grands ouvrages ont été construits. La logistique et les défis qu'elle implique ont toujours été un sujet de préoccupation. L'humanité a toutefois réussi à plusieurs reprises à accomplir des tâches logist iques incroyables avec des moyens modestes. L'un des défis logistiques les plus importants a été relevé lors de la construction des pyramides. Les blocs de granit utilisés pour la construction ne pesaient pas seulement plus de 50 tonnes, ils étaient généralement extraits de carrières situées à 800 kilomètres de là. À l'époque, il n'était pas rare qu'un port soit spécialement aménagé pour ce type de construction."
+    },
+    {
+     "t": "p",
+     "text": "La construction des pyramides est si impressionnante aujourd'hui, qu'il n'y a longtemps eu aucune explication sur la manière dont elle a pu être réalisée. Ce n'est qu'au cours des dernières années que les archéologues ont découvert quelques indices qui ont permis de découvrir la technique de construction. On suppose que les pyramides ont été construites à l'aide d'immenses rampes. Sur ces rampes, les grandes et lourdes pierres de granit étaient poussées ou tirées de plus en plus haut, jusqu'au sommet de la pyramide. La construction des pyramides est une prouesse logistiq ue de l'époque qui suscite encore aujourd'hui l'étonnement."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2",
+   "number": "1.2",
+   "title": "Produits commerciaux et circuits commerciaux",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Autrefois, de nombreuses routes commerciales traversaient des déserts. Après avoir réussi à domestiquer les chameaux, ces animaux habitués au désert sont devenus un moyen de transport important. Dans l'histoire, les deux routes commerciales suivantes ont joué un rôle important."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-1",
+   "number": "1.2.1",
+   "title": "La Route de la Soie",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La route de la soie"
+    },
+    {
+     "t": "p",
+     "text": "L'ancienne route de la soie désigne un réseau d'anciennes voies commerciales entre la Chine, l'Asie centrale et la Méditerranée. Cette route longue et exigeante trouve son origine dans la capitale de l'époque, Luoyang. A travers les déserts et les montagnes, la route menait déjà il y a plus de 2000 ans vers l'Asie centrale jusqu’en Europe. Dans le flux de marchandises allant d'est en ouest, la soie était le produit commercial le plus important. Les autres marchandises échangées sont le thé, le sel, les épices, le sucre et la porcelaine."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-2",
+   "number": "1.2.2",
+   "title": "La route de l'ambre",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Très tôt, les gens ont commencé à ramasser de l'ambre sur les plages. L'ambre brute et les bijoux en ambre sont ainsi devenus des biens commerciaux et des objets d'échange. Cela a conduit à donner son nom à la liaison nord-sud la plus importante d'Europe jusqu'à aujourd'hui: la route de l'ambre. L'ambre est une résine fossile de couleur jaune doré. Autrefois, on l'appelait \"l'or de la mer\" ou \"les larmes des dieux\"."
+    },
+    {
+     "t": "p",
+     "text": "La route de l'ambre"
+    },
+    {
+     "t": "p",
+     "text": "La route de l'ambre menait de la mer Baltique aux ports de la Méditerranée et relie encore aujourd'hui les cultures du nord, du centre et du sud de l'Europe."
+    }
+   ]
+  },
+  {
+   "id": "s-1-3",
+   "number": "1.3",
+   "title": "Les grandes étapes de la logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique est marquée par différentes étapes qui ont conduit à un changement rapide. En voici quelques-unes:"
+    },
+    {
+     "t": "p",
+     "text": "1804 La locomotive se met en marche 1875 Le premier moteur à essence 1896 Le premier camion transporte des marchandises 1907 La naissance des services de colis 1944 Les premières palettes en bois et chariots élévateurs arrivent en Europe avec le débarquement de Normandie 1948 Ouverture de l'aéroport de Kloten (CH) 1949 Invention du code-barre 1953 \"Révolution\" du juste à temps 1955 Le terme \"logistique\" est utilisé pour la première fois dans un contexte économique aux États-Unis. 1956 Présentation du modèle conteneur par Malcom McLean"
+    },
+    {
+     "t": "p",
+     "text": "1960 Le terme \"logistique\" est utilisé dans l'espace germanophone 1980 Le tunnel routier du Gothard est ouvert (CH) 1992 Vote sur le projet du centenaire de la NLFA (mise en service définitive en juin 2020)"
+    },
+    {
+     "t": "p",
+     "text": "Ces jalons de la logistique pourraient être complétés par de nombreux autres événements. Il est cependant un terme auquel on ne peut échapper: L'informatique. Celle-ci a également complètement transformé la logistique. Le terme \"informatique\" n'a été véritablement connu que dans les années 1960. Il se compose du jeu de mots suivant:"
+    },
+    {
+     "t": "p",
+     "text": "Information + automatisme"
+    },
+    {
+     "t": "p",
+     "text": "Depuis l'avènement de l'informatique, la logistique est en train de se réinventer et évolue de manière exponentielle."
+    }
+   ]
+  }
+ ]
+}

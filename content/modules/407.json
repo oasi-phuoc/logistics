@@ -1,0 +1,403 @@
+{
+ "code": "407",
+ "title": "Moyens de transport",
+ "domain": "400",
+ "pdf": "M407.pdf",
+ "pages": 16,
+ "words": 2195,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Stockage en bloc",
+      "Stockage en ligne ou en rangée si l'accès n'est possible que d'un seul côté",
+      "Rayonnages drive-in à une entrée"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le stockage dans des rayonnages à palettes ou à compartiments ne favorise pas ou n'entrave pas le FIFO. Lors du stockage et du déstockage, les logisticiens doivent veiller à la bonne rotation des articles. La règle est donc que les nouvelles marchandises doivent toujours être stockées derrière les marchandises déjà en place. 6.5 Highest In - First Out (HIFO) HIFO (Highest In - First Out) désigne une procédure de valorisation des stocks. Dans ce cas, les marchandises sont stockées en fonction de leur prix, de sorte que les marchandises les plus chères sont sorties en premier. Le stock est donc valorisé avec les prix d'achat les plus bas. La méthode HIFO est utilisée pour représenter un chiffre d'affaires élevé dans le bilan, le stock final étant considéré comme faible lors de l'inventaire. Plus concrètement, cette méthode est utilisée pour réduire le revenu imposable pendant une période donnée. Bien que le HIFO soit largement répandu à l'étranger, la procédure n'est pas autorisée par le droit commercial et fiscal allemand, par exemple. L'un des avantages est l'évaluation prudente, car les stocks sont ici évalués à des prix bas."
+    },
+    {
+     "t": "p",
+     "text": "Ce département s'est principalement occupé des conditions nécessaires à un stockage professionnel des marchandises. Cependant, les marchandises ne sont pas seulement stockées, elles doivent également être transportées dans un entrepôt. Ce module se penche donc sur les caractéristiques de base des moyens de transport. Le transport de marchandises repose sur l'une des inventions les plus révolutionnaires: la roue. Pendant des millénaires, la force musculaire des hommes et des animaux a été le seul moyen de déplacer des charges. Ce n'est que vers la fin du 18e siècle, avec l'invention du moteur, que l'on est parvenu à une propulsion indépendante de la force musculaire. L'un des premiers moyens de propulsion était la vapeur d'eau, produite dans une chaudière embarquée. Les premiers moteurs à essence, dont l'utilisation a marqué un nouveau grand pas, étaient nettement moins encombrants. Avec la conquête du monde par l'automobile, le progrès technique ne pouvait plus être arrêté. Les appareils techniques servant à se déplacer ont été constamment améliorés et utilisés pour le transport de personnes et de marchandises."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 407"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-7-1",
+   "number": "7.1",
+   "title": "Notions de base des moyens de transport",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les notions de convoyage et de transport sont étroitement liées. Dans le contexte de la logistique, le terme \"transporter\" est utilisé pour le déplacement des marchandises au sein de l'entreprise. Dans la logistique ainsi que chez EnterSite AG, on trouve les moyens de transport les plus divers. Il existe des installations fixes telles que des convoyeurs à rouleaux, des convoyeurs à bandes transporteuses ou des appareils de manutention qui ne sont pas installés de manière fixe et qui peuvent donc se déplacer librement au sol - ce que l'on appelle des engins de manutention comme le chariot élévateur."
+    },
+    {
+     "t": "p",
+     "text": "Chez EnterSite AG, le transport désigne le déplacement au sein d'une unité d'exploitation délimitée en un endroit et interconnectée (par ex. au sein de la logistique ou de la production)."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2",
+   "number": "7.2",
+   "title": "Les moyens de transport dans la logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De nombreuses entreprises s'occupent aujourd'hui de la fabrication de matériel de manutention pour la logistique. Les dispositifs de manutention vont du simple appareil aux systèmes les plus sophistiqués et les plus complexes. Les moyens de manutention peuvent alors être classés selon différents critères:"
+    },
+    {
+     "t": "p",
+     "text": "Arborescence des moyens de transport"
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-1",
+   "number": "7.2.1",
+   "title": "Critères de subdivision",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les moyens de transport peuvent être classées selon les critères suivants: Selon le mode de guidage:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Guidé par des rails, par exemple un transstockeur",
+      "Sans rail, par ex. système de transport sans conducteur (FTS)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "En fonction de la mobilité:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Moyens de transport avec flux de matériel bidimensionnel, p. ex. chariot élévateur",
+      "Moyens de transport avec flux de matériel unidimensionnel, p. ex. convoyeurs à rouleaux"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Selon l'entraînement:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Moyens de transport entraînés manuellement, p. ex. Transpalettes manuels",
+      "Moyens de transport à entraînement mécanique, p. ex. appareil à timon"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Selon le degré d'automatisation:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les moyens de transport commandés par l'opérateur, par exemple les appareils de préparation de commandes",
+      "Les moyens de transport commandés par ordinateur, par exemple transtockeur automatique"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "D’après le type de marchandise à transporter:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Marchandises unitaire, p. ex. palettes",
+      "Matériaux en vrac, p. ex. gravier",
+      "Liquides, par ex. huile"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-2",
+   "number": "7.2.2",
+   "title": "Choisir le bon moyen de transport",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lorsque des moyens de transport mécaniques sont choisis chez EnterSite AG, on planifie en fonction des critères suivants:"
+    },
+    {
+     "t": "p",
+     "text": "1. Selon le type de marchandise à transporter 2. Selon le poids et la dimension des marchandises à transporter 3. Selon la quantité de marchandise à transporter 4. Selon la direction et la longueur du trajet de transport 5. Selon l'effet de rationalisation recherché"
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-3",
+   "number": "7.2.3",
+   "title": "Moyens de levage ou de transport manuels",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "À l'heure de l'automatisation, EnterSite AG utilise toujours des moyens de levage et de transport manuels, pour lesquels la \" force humaine \" est nécessaire. Sur de courtes distances, le transport manuel est une variante flexible et surtout une solution économique."
+    },
+    {
+     "t": "p",
+     "text": "Transpalette manuel Chariot à bras Palan manuel à chaîne"
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-4",
+   "number": "7.2.4",
+   "title": "Convoyeurs continus",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les convoyeurs continus transportent les marchandises en permanence sur un parcours linéaire et constant. Le produit transporté peut être alimenté ou prélevé automatiquement ou manuellement. Les convoyeurs continus sont utilisés lorsqu'il s'agit de transporter de grandes quantités, par exemple dans les entreprises industrielles qui pratiquent une production de masse ou pour la distribution de lettres ou de paquets comme à la Poste."
+    },
+    {
+     "t": "note",
+     "kind": "good",
+     "label": "Bonne pratique",
+     "text": "Avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "automatisation élevée",
+      "faibles besoins en personnel"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "bad",
+     "label": "À éviter",
+     "text": "Inconvénients:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "coûts d'investissement élevés",
+      "rentabilité uniquement en cas d'utilisation importante",
+      "ne convient pas à tous les types de produits",
+      "en cas de panne, arrêt du flux de marchandises"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Convoyeur à bande Convoyeur à rouleaux Convoyeur à chaîne"
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-5",
+   "number": "7.2.5",
+   "title": "Pont roulant et portiques roulants",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les ponts roulants et portiques roulants font partie des engins de levage mobiles aériens. Selon l'équipement, les ponts roulants et portiques roulants permettent de desservir l'ensemble de l'espace dans lequel la marchandise est transportée (en trois dimensions). Ils sont particulièrement adaptés au transport de marchandises lourdes et encombrantes. Dans le domaine de la logistique, les ponts roulants et portiques roulants suivants sont le plus souvent utilisés:"
+    },
+    {
+     "t": "p",
+     "text": "Pont roulant Pont roulant suspendu 1 Pont roulant suspendu 2"
+    },
+    {
+     "t": "p",
+     "text": "Portique roulant pour une utilisation à l'intérieur de l'entreprise"
+    },
+    {
+     "t": "p",
+     "text": "7.2.6. Engins de manutention à usage interne Pour réaliser ses travaux, EnterSite AG utilise divers engins de manutention. Les engins de manutention transportent des marchandises au sol. Ils peuvent être utilisés manuellement ou mécaniquement. La condition préalable à leur utilisation est une largeur d'allée de travail (AST) correspondant à l'appareil. Les engins de manutention sans rail offrent une grande flexibilité."
+    },
+    {
+     "t": "p",
+     "text": "Transpalette électrique à timon Chariot élévateur électrique à timon ou Gerbeur Tracteur électrique à conducteur porté debout"
+    },
+    {
+     "t": "p",
+     "text": "Préparateur de commandes à petite levée Préparateur de commandes à petite levée"
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-7",
+   "number": "7.2.7",
+   "title": "Chariot élévateur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chez EnterSite AG, comme ailleurs dans la logistique, le chariot élévateur est l'engin de manutention le plus souvent utilisé. Les chariots élévateurs existent dans les versions les plus diverses. Les marchandises sont prélevées, transportées et empilées à l'aide de fourches ou d'autres accessoires. Le mât hydraulique offre une grande flexibilité d'utilisation. L'inclinaison des fourches facilite la prise ou la dépose. De plus, l'inclinaison empêche les marchandises de glisser lors du transport. Les types de chariots les plus divers, y compris les équipements complémentaires, ont été développés pour les systèmes de stockage individuels. Chariot élévateur à contrepoids Chariot à mât rétractable Gerbeur à conducteur porté assis"
+    },
+    {
+     "t": "p",
+     "text": "Le chariot élévateur comme support de données La technologie RFID est de plus en plus utilisée sur les chariots et les engins de manutention dans le but de faciliter la mise en réseau des flux de marchandises et d'informations. La technologie RFID utilisée avec les engins de manutention présente de nombreux avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Enregistrement automatique des palettes à l'entrée des marchandises",
+      "Attribution automatique des emplacements",
+      "Régulation de la vitesse aux endroits dangereux ou lors du transport de marchandises dangereuses",
+      "Optimisation des itinéraires parcourus grâce à l'évaluation de la distance parcourue"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-8",
+   "number": "7.2.8",
+   "title": "Transtockeur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les transtockeurs dépendant des rayonnages sont utilisés pour stocker et déstocker rationnellement les marchandises dans les rayonnages. Ils sont guidés par des rails dans le sens de la longueur et ne peuvent donc pas être déplacés librement. Si l'entreprise dispose de plusieurs allées de rayonnages, elle doit utiliser un appareil par allée. Cela entraîne des coûts d'investissement élevés, mais augmente le rendement de la manutention. Pour économiser des coûts d'investissement, il est possible de déplacer les transtockeurs entre les différents rayonnages via des aiguillages. Toutefois, cela réduit la capacité de transbordement."
+    },
+    {
+     "t": "p",
+     "text": "Transstockeur"
+    },
+    {
+     "t": "p",
+     "text": "Les transtockeurs automatiques sont équipés d'une fourche télescopique qui fait entrer et sortir le moyen de chargement correspondant (palette, conteneur, plateau) dans le rayonnage. Les engins de mise en stock constituent une alternative aux transtockeurs. Ce type d'engin est utilisé dans les allées de rayonnages, plus rarement pour le transport des marchandises sur de longues distances. Contrairement au transtockeur, l'engin de mise en stock nécessite une largeur d'allée un peu plus importante. L'engin de mise en stock est commandé manuellement. L'employé peut soit commander l'appareil depuis le siège du conducteur au sol, soit se rendre à l'emplacement de stockage concerné en se déplaçant dans le poste de conduite sur le mât de levage pour le stockage ou le déstockage."
+    },
+    {
+     "t": "p",
+     "text": "Transstockeur automatique Engin de mise en stock"
+    }
+   ]
+  },
+  {
+   "id": "s-7-3",
+   "number": "7.3",
+   "title": "La loi du levier",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La capacité du chariot élévateur à contrepoids à soulever des charges repose sur la loi du levier. La charge se trouve en dehors de la base des roues (ou surface d'appui) du chariot élévateur. Le chariot élévateur constitue le contrepoids. La roue avant constitue le point d'appui ou l'axe de rotation. Le moment de force du chariot élévateur doit donc toujours être supérieur à celui de la charge, sinon le chariot basculera. Pour augmenter la capacité de charge du chariot élévateur, il existe trois possibilités:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Augmentation du poids propre du chariot élévateur",
+      "Allongement du bras de levier du contrepoids (allongement de la partie arrière)",
+      "Raccourcissement du bras de levier de la charge"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-7-3-1",
+   "number": "7.3.1",
+   "title": "Le levier à deux bras",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La loi du levier est très souvent rencontrée (souvent même inconsciemment) dans la vie quotidienne. Elle constitue la base de la compréhension de la construction des chariots élévateurs à contrepoids. Le chariot élévateur à contrepoids constitue un levier à deux bras."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: un levier à deux bras signifie que les deux bras de force F1 et F2 se situent de part et d’autre du point d’appui (P)."
+    },
+    {
+     "t": "p",
+     "text": "Termes relatifs au levier Point d'appui (P) Le point sur lequel repose le levier. Sur le chariot élévateur à contrepoids, il s'agit de l'essieu avant. Force (F1, F2) Force agissante sur le bras de levier en un point donné. Pour le chariot à contrepoids, il s'agit de la charge d'un côté et du contrepoids de l'autre côté. Bras du couple (a1, a2) Distance entre le point d’appui et le point d'application de la force. Pour le chariot à contrepoids, il s'agit de la distance entre l'essieu avant et la charge ou le contrepoids. Moment Produit de la force appliquée par la longueur du bras du couple. Celui-ci est exprimé en Nm (newton-mètre) (calcul: newton x mètre)."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Exemple de calcul I"
+    },
+    {
+     "t": "p",
+     "text": "Levier de gauche: Moment de gauche = 0,4 m x 200 N = 80 Nm Levier de droite: Moment de droite = 0,8 m x 100 N = 80 Nm Le levier est donc en équilibre."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Exemple de calcul II D'un point de vue physique, le chariot élévateur à contrepoids est un levier à deux bras. Dans notre exemple, le moment de gauche est formé par le contrepoids (F1) et le bras de levier a1. Le moment de droite est composé de a2 x F2 (mât) et a3 x F3 (charge). Une utilisation sûre du chariot élévateur est garantie tant que le moment de gauche est supérieur à la somme des moments de droite."
+    },
+    {
+     "t": "p",
+     "text": "Formule: M gauche = F1 x a1 > M droite = (F2 x a2) + (F3 x a3)"
+    }
+   ]
+  },
+  {
+   "id": "s-7-4",
+   "number": "7.4",
+   "title": "Diagrammes de capacité de",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "charge"
+    },
+    {
+     "t": "p",
+     "text": "Le cariste serait incapable de calculer le moment du couple lors de son travail journalier avec un chariot élévateur. Sur la plaque signalétique du chariot élévateur figure la capacité de charge maximale autorisée. Celle-ci ne doit en aucun cas être dépassée. En outre, le diagramme de capacité de charge correspondant se trouve sur chaque chariot élévateur. Le diagramme montre au cariste le poids qu'il peut transporter et soulever en fonction de la distance du centre de gravité de la charge et de la hauteur de levage."
+    }
+   ]
+  },
+  {
+   "id": "s-7-4-1",
+   "number": "7.4.1",
+   "title": "Lire les diagrammes de capacité de charge",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le cariste doit pouvoir lire les diagrammes de charge afin de garantir une utilisation sûre dans le travail journalier. Malheureusement, les diagrammes de charge n'ont pas un aspect uniforme."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Exemple 1: diagramme de la capacité de charge sans indication de la hauteur de levage"
+    },
+    {
+     "t": "p",
+     "text": "Au-dessus de la distance du centre de gravité de la charge, on peut lire le poids maximal autorisé. Ce type de diagramme se trouve sur les chariots élévateurs plus simples, (par exemple les gerbeurs à timon)."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Exemple 2: Diagramme de capacité de charge avec indication de la hauteur de levage"
+    },
+    {
+     "t": "p",
+     "text": "Sur ce type de diagramme, la lecture des hauteurs de levage différentes doit être prise en compte, la capacité de charge diminue avec l'augmentation de la hauteur de levage. Ceci est la seule différence. La lecture se fait de la même manière que dans l'exemple 1. Le poids maximal autorisé est lu selon la distance du centre de gravité de la charge. Des informations détaillées sur les diagrammes de capacité de charge sont disponibles dans le manuel du cariste."
+    }
+   ]
+  }
+ ]
+}

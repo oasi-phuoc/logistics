@@ -1,0 +1,365 @@
+{
+ "code": "402",
+ "title": "Les genres de stockage",
+ "domain": "400",
+ "pdf": "M402.pdf",
+ "pages": 8,
+ "words": 1620,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entrepôts se différencient non seulement en termes de différentes fonctions et missions, mais aussi en termes de types et de formes d'entrepôts. Chaque type d'entrepôt remplit une fonction spécifique. En fonction des besoins, il peut être judicieux de gérer un entrepôt central pour l'ensemble de l'entreprise ou un entrepôt décentralisé à l'emplacement d'utilisation respective. Lors de la conception des entrepôts, il est crucial qu'ils apportent une valeur ajoutée spécifique à chaque entreprise."
+    },
+    {
+     "t": "p",
+     "text": "Tous les entrepôts ne sont pas identiques. Différents facteurs doivent être pris en compte lors de la planification d'un nouvel entrepôt et influencent sa conception. Les critères à prendre en compte pour l'entrepôt d'EnterSite AG sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quelles marchandises doivent être stockées?",
+      "Dans quel domaine d’activité EnterSite AG est-elle active?",
+      "Où se trouve l'entrepôt en question?",
+      "Quelle fonction doit remplir l'entrepôt?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-1",
+   "number": "2.1",
+   "title": "Distinction selon les marchandises",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchandises qui doivent y être stockées constituent un facteur important"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "pour la planification d'un entrepôt. Comme décrit dans le module 105, il existe différentes caractéristiques en raison desquelles les marchandises doivent être manipulées et donc stockées différemment. Pour un stockage qui préserve la qualité des marchandises, il convient par exemple de tenir compte des caractéristiques suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dimensions et volume",
+      "Densité (poids)",
+      "État physique (solide, liquide, gazeux)",
+      "Durabilité (périssable, fragile, empilable)",
+      "Valeur (stockage sécurisé)",
+      "Etc…"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "2.1.1 l’entrepôt de matières premières Les matières premières (acier, bois, coton, etc.) sont les principaux composants d'un bien à produire. Selon l'entreprise, il peut être judicieux de gérer un stock de matières premières de manière centralisée pour l'ensemble de l'entreprise ou d'avoir des stocks décentralisés proches de la production. L'entrepôt de matières premières d'EnterSite AG remplit en premier lieu une fonction de tampon en garantissant le bon fonctionnement de la chaîne de production."
+    },
+    {
+     "t": "p",
+     "text": "2.1.2 l’entrepôt self-service Les stock self-service sont de petit stock dans lesquels sont conservé de petites quantités de marchandises fréquemment utilisées. Ces biens sont très souvent des produits achetées (vis, rondelles, joints, etc.). Dans les stocks self-service, les collaborateurs se servent généralement eux-mêmes et sans comptabiliser les prélèvements. Pour que la gestion des stocks d'EnterSite AG fonctionne malgré tout, les articles du stock manuel sont régulièrement contrôlés par un collaborateur ou une collaboratrice afin de déterminer quels biens ont été retirés et en quelles quantités, et d'adapter les stocks."
+    }
+   ]
+  },
+  {
+   "id": "s-2-1-3",
+   "number": "2.1.3",
+   "title": "L’entrepôt de produits finis",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lorsque les biens fabriqués (produits) ne sont pas vendus immédiatement, il s sont stockés temporairement. La fonction d'un stock de produits finis est donc principalement de faire le lien entre la production et la vente. Dans le commerce de détail ou en gros, on parle de stock de vente. Le commerçant achète les marchandises directement au producteur et les vend en petite s quantités aux consommateurs finaux. L'espace de vente dans lequel les marchandises sont proposées aux clients est également appelé entrepôt d e vente."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt de produits finis"
+    }
+   ]
+  },
+  {
+   "id": "s-2-2",
+   "number": "2.2",
+   "title": "Distinction par secteur",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les exigences en matière de stockage sont très variées. Dans ce contexte, chaque branche à des dispositions individuelles pour la manipulation de ses marchandises."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-1",
+   "number": "2.2.1",
+   "title": "Entreprises de fabrication (production)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entreprises de fabrication produisent des biens. La société EnterSite AG produit par exemple des stylos à bille, des cartouches d'encre ou des agrafes. Le processus de production est toujours le même. Comme on peut le voir sur le processus de fabrication illustré ci-dessous, on distingue trois types de roulements dans son processus de fabrication."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôts de production en amont L'entrepôt de production en amont a pour tâche principale d' approvisionner le secteur de la fabrication en matières premières, produits semi-finis, etc. afin de garantir une production équilibrée et donc une utilisation économique des moyens de production disponibles."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt intermédiaire dans la production Lorsque les produits passent par plusieurs étapes de fabrication (par exemple, prémontage - fabrication - peinture - montage final), il y a souvent des temps d'attente entre les différentes étapes. C'est pourquoi la fabrication nécessi te des entrepôts intermédiaires qui assurent une fonction de transition. Dans le secteur pharmaceutique, on parle alors de \"bulk\". Dans ce cas, les produits pharmaceutiques ne sont pas stockés dans leur emballage de vente, mais dans de grands récipients, afin de pouvoir les préemballer si nécessaire et de les livrer ensuite."
+    },
+    {
+     "t": "p",
+     "text": "Stockage de production typique - Stockage de rouleaux de tôle dans une aciérie"
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt de production en aval L'entrepôt de production en aval a pour but"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "l'approvisionnement régulier du commerce et de la vente",
+      "l'absorption des excédents de production",
+      "l'équilibre entre l'offre et la demande"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-2",
+   "number": "2.2.2",
+   "title": "L'entreprise de distribution",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La poste, les sociétés d'expédition et les entreprises de transport sont des entreprises de distribution typiques qui gèrent des entrepôts de transbordement."
+    },
+    {
+     "t": "p",
+     "text": "Le thème de la logistique de distribution est abordé plus en détail dans le"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "module 600."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt de transbordement L'entrepôt de transbordement est un entrepôt sans stock. Les marchandises disponibles y sont uniquement stockées temporairement pour les raisons suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Transbordement d'un moyen de transport à un autre",
+      "Tri des envois",
+      "Préparation des livraisons pour le chargement.",
+      "Formalités douanières et d’importation"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les grands entrepôts de transbordement sont souvent situés à des nœuds de transport comme:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ports de plaisance",
+      "Gares de marchandises",
+      "Aéroports",
+      "Terminaux à conteneurs",
+      "Centres de tri de courrier et de colis"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Terminal portuaire de conteneur"
+    },
+    {
+     "t": "p",
+     "text": "Les exploitants d'entrepôts de transbordement ne sont pas seulement responsables du bon déroulement du transbordement des marchandises. Ils sont également spécialisés dans le traitement approprié des tâches administratives nécessaires. Les tâches administratives dans les entrepôts de transbordement sont"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Accomplissement des formalités douanières",
+      "Contrôles de sécurité",
+      "Établissement de lettres de voiture",
+      "Facturation des frais de transport"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-3",
+   "number": "2.2.3",
+   "title": "Entreprises commerciales",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entreprises commerciales gèrent souvent des entrepôts contenant de grandes quantités de marchandises qui sont vendues au commerce de détail et aux entreprises de fabrication."
+    },
+    {
+     "t": "p",
+     "text": "Centre de distribution Si une entreprise commerciale gère un entrepôt de livraison, elle peut réduire la distance de transport et donc le temps nécessaire à la livraison des clients. Les entreprises de production peuvent également profiter des avantages d'un entrepôt de livraison en stockant leurs marchandises auprès d'une entreprise de transport. L'entreprise de transport peut ainsi livrer les marchandises avec un délai réduit lorsque le client les contacte."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt de consignation L’entrepôt de commissionnement ou entrepôt de consignation est un entrepôt de marchandises appartenant à un fournisseur ou à un prestataire de services. Le fournisseur (par exemple, le fabricant d'un produit) met les marchandises à la disposition de son client (site commercial) à ses propres frais. Les marchandises restent alors la propriété du fournisseur, mais sont stockées chez le client. Les prélèvements effectués dans l'entrepôt sont décomptés périodiquement avec le fournisseur. Pour le client, cela signifie un flux de marchandises assuré malgré une immobilisation réduite du capital."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3",
+   "number": "2.3",
+   "title": "Choix du site géographique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le choix du site géographique est influencé par différents facteurs. On distingue les facteurs internes et externes."
+    },
+    {
+     "t": "p",
+     "text": "Facteurs internes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Type de biens",
+      "Poids",
+      "Volume",
+      "Durabilité",
+      "Taux de rotation"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Facteurs externes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Règles de construction",
+      "Législation environnementale",
+      "Mesures de protection contre le bruit",
+      "Mesures pour le stockage des marchandises dangereuses",
+      "Mesures relatives à la circulation"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-1",
+   "number": "2.3.1",
+   "title": "Entrepôts centralisés ou décentralisés pour la production",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Afin de garantir un flux de marchandise économique entre l'entrepôt et la production, les entrepôts pour les matières premières, les fournitures et les matières consommables sont généralement construits, si possible, à proximité des sites de production. L'entreprise doit alors choisir entre un stockage centralisé ou décentralisé. Si toute la zone de production est approvisionnée par un entrepôt central, les avantages sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les stocks peuvent être maintenus à un niveau inférieur",
+      "L'achat de biens est facilité (moins de commandes, mais des quantités plus importantes = rabais)",
+      "Exploitation efficace de l'espace",
+      "L'infrastructure existante peut être utilisée de manière optimale",
+      "Le personnel peut être mieux planifié"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Si la distance entre la production et l'entrepôt est trop importante, il peut être tout à fait judicieux de gérer des entrepôts décentralisés à proximité de la production. C'est notamment le cas pour les marchandises lourdes et volumineuses ou pour les productions qui appliquent le principe du \"juste à temps\"."
+    },
+    {
+     "t": "p",
+     "text": "Les entrepôts décentralisés offrent les avantages suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le flux d'informations accru",
+      "Trajets plus courts",
+      "Les marchandises spéciales peuvent être stockées de manière optimale et coordonnée"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-4",
+   "number": "2.4",
+   "title": "Entrepôt temporaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On appelle stockage temporaire tout entrepôt dont le but est d'accueilli r temporairement des marchandises. L'entreposage intermédiaire signifi e: conserver des biens jusqu'à leur enlèvement ou leur consommation. Les entrepôts intermédiaires typiques sont, entre autres"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Consignes à bagages",
+      "Casiers",
+      "Boîtes aux lettres Consigne à bagages"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: les entrepôts temporaires accueillent généralement les marchandises pour une courte durée, un casier par exemple, pour quelques heures seulement."
+    },
+    {
+     "t": "p",
+     "text": "Il n'y a pas de règle sans exception, cela vaut aussi pour la logistique. En Suisse, il existe également des dépôts intermédiaires pour les déchets radioactifs. Comme ces déchets ne peuvent pas encore être stockés définitivement en Suisse, ils doivent parfois être entreposés pendant plusieurs années."
+    }
+   ]
+  },
+  {
+   "id": "s-2-5",
+   "number": "2.5",
+   "title": "Entrepôt de maturation",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De même que la qualité de différents aliments réside dans leur fraîcheur, i l existe des produits qui doivent atteindre une certaine maturité. Ce sont par exemple:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Fromage (stocké pendant quatre à douze mois)",
+      "Produits carnés",
+      "Vin, bière, spiritueux",
+      "Fruits"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Armoire de maturation de viande"
+    },
+    {
+     "t": "p",
+     "text": "Le goût évolue au cours de l'affinage. Le fromage jeune est généralement doux. Au fur et à mesure de son entreposage, il devient plus corsé, c'est-à-dire que son goût devient plus prononcé. Dans le cas des fromages affinés, le climat de stockage peut jouer un rôle décisif sur la qualité du produit final. Les fromages affinés sont stockés en grotte naturelle ou d’anciens ouvrages militaires et atteignent ainsi une qualité particulièrement excellente. Le fromage n'est pas seulement stocké dans l'entrepôt d'affinage, il est également entretenu de manière intensive. Ainsi, la surface est régulièrement travaillée avec une solution saline. Les fruits exotiques ne supportent souvent pas la longue durée de transport depuis leur pays d'origine s'ils ne sont pas cueillis et transportés avant maturité. C'est pourquoi ils sont mûris dans des installations spéciales avant d'être vendus. Les entrepôts de maturation de bananes des grands distributeurs en sont l'exemple le plus connu."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 402"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,717 @@
+{
+ "code": "105",
+ "title": "Marchandises",
+ "domain": "100",
+ "pdf": "Entersite_M105.pdf",
+ "pages": 21,
+ "words": 3868,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Situation Initiale Le flux de marchandises est le chemin que parcourent les marchandises. Il est influencé par la marchandise ou l'objet qui est transporté. En raison du grand nombre de marchandises différentes dans la logistique, il existe une multitude de flux de marchandises différents. 1. Notez le nom d'un produit de votre entreprise formatrice qui est particulièrement facile à travailler ou à transformer - un objet dont la manipulation ne présente pas de grands défis. Notez en outre pourquoi cet objet ne représente pas un grand défi et justifiez votre choix. Produit:"
+    },
+    {
+     "t": "p",
+     "text": "Justification: 2. Tous les produits ne sont pas faciles à manipuler. Souvent, les objets transportés représentent un défi pour les logisticiens et les logisticiennes. Notez un objet de votre entreprise formatrice qui représente un défi pour la logistique et justifiez votre choix. Produit:"
+    },
+    {
+     "t": "p",
+     "text": "Justification: 3. Consultez votre voisin ou votre voisine de pupitre. Quelles sont les réponses qu'il/elle a notées? Notez le produit de votre voisin(e) de pupitre et les raisons pour lesquelles il/elle pose des défis à la logistique. Produit:"
+    },
+    {
+     "t": "p",
+     "text": "Justification:"
+    },
+    {
+     "t": "p",
+     "text": "Le terme \"marchandises\" désigne les objets physiques avec lesquels la logistique est organisée. Les marchandises sont également appelées articles, biens ou produits. La gestion de la grande diversité de marchandises constitue le plus grand défi de la logistique. Voici quelques exemples de marchandises avec des caractéristiques particulières:"
+    },
+    {
+     "t": "p",
+     "text": "Mini vis de 0,6mm"
+    },
+    {
+     "t": "p",
+     "text": "Pneu de tracteur de 2,32 m de diamètre Bouteilles de gaz sous pression"
+    }
+   ]
+  },
+  {
+   "id": "s-5-1",
+   "number": "5.1",
+   "title": "Caractéristiques et manipulation des marchandises",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Toutes les marchandises ont des propriétés spécifiques dont il faut tenir compte lors de leur manipulation. Les pommes, par exemple, sont par nature périssables et sensibles à la pression et à la température. Comme les points de pression accélèrent leur détérioration, les pommes nécessitent une manipulation particulièrement délicate. Les moyens techniques utilisés pour la manipulation des pommes doivent être conçus de manière à ne pas les endommager. D'autres marchandises nécessitent d'autres moyens techniques spécifiques. Lors du choix des moyens auxiliaires, il convient de tenir compte des caractéristiques suivantes des marchandises:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La dimension, le volume",
+      "La densité (poids spécifique)",
+      "L’état de la matière (gazeux, liquide, solide)",
+      "La périssabilité",
+      "La fragilité",
+      "L’empilabilité",
+      "La valeur (stockage antivol)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les exigences en matière d’une soigneuse manipulation des marchandises sont presque aussi nombreuses que les marchandises elles-mêmes. Chaque secteur a ses propres règles en matière de manipulation des marchandises."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2",
+   "number": "5.2",
+   "title": "Degré de transformation",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Au cours du processus de production, la plupart des biens passent par plusieurs étapes de transformation. A chaque étape de transformation, d'autres caractéristiques peuvent être prises en compte. Selon le degré de transformation, les marchandises sont classées en matières premières, produits semi-finis et produits finis."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-1",
+   "number": "5.2.1",
+   "title": "Matières premières",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les matières premières sont des marchandises non transformées. Les matières premières dites \"primaires\" proviennent directement de la nature, comme par exemple les ressources minérales telles que le minerai de fer, le pétrole et le charbon. Le bois, le sable, l'eau, etc. peuvent également être utilisés comme matières premières. Les \"matières premières secondaires\" sont les matières premières que l'on a récupérées à partir de déchets (recyclage)."
+    },
+    {
+     "t": "p",
+     "text": "Extraction de sable en Indonésie = matière première primaire Recyclage du PET = matière première secondaire"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-2",
+   "number": "5.2.2",
+   "title": "Produits semi-finis",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les produits semi-finis sont des matières premières qui ont été assez transformées pour pouvoir être réutilisées (par exemple l'acier et les planches de bois). La farine utilisée pour faire du pain est également un produit semi-fini, obtenue à partir de la matière première: le blé. Le sel est aussi une matière première. Le sel domestique utilisé dans le pain est toutefois un produit semi-fini, voire un produit fini, car il a été nettoyé, éventuellement complété de fluor et conditionné. Les composants électroniques sont également des produits semi-finis, car il en faut un certain nombre pour les assembler et utiliser un appareil qui fonctionne."
+    },
+    {
+     "t": "p",
+     "text": "Planches en épicéa"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-3",
+   "number": "5.2.3",
+   "title": "Produits finis",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On appelle produits finis les produits qui ne nécessitent aucune transformation supplémentaire pour servir le consommateur final. Il en existe un très grand nombre, du simple pain à la machine la plus complexe. De nos jours, de nombreux biens de consommation courante sont également des produits finis, comme par exemple la pizza surgelée."
+    },
+    {
+     "t": "p",
+     "text": "Exemple d’un produit fini: la télévision"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-4",
+   "number": "5.2.4",
+   "title": "Évaluer le degré de transformation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La perception du degré de transformation d'un produit peut varier en fonction de son observateur."
+    },
+    {
+     "t": "p",
+     "text": "Si on a comme objectif de produire du jus de pomme, on évalue la pomme comme matière première. Mais qu'en est-il lorsque la pomme est cueillie directement sur l'arbre et consommée? Dans ce cas, il s’agit d’un produit fini."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le degré de traitement peut varier en fonction du point de vue de son observateur."
+    }
+   ]
+  },
+  {
+   "id": "s-5-3",
+   "number": "5.3",
+   "title": "Les critères d’aptitude au stockage des marchandises",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les propriétés d’une marchandise sont d'une importance cruciale pour le stockage. Le choix du lieu de stockage est essentiellement déterminé par trois critères:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la périssabilité",
+      "la dangerosité",
+      "la manutention la périssabilité la dangerosité la manutention"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Dans certaines situations, plusieurs caractéristiques doivent être prises en compte simultanément lors du choix du lieu de stockage. Les marchandises dangereuses, par exemple, peuvent également être périssables."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4",
+   "number": "5.4",
+   "title": "La périssabilité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les produits stockés peuvent se détériorer sous l'effet d'une multitude d'influences. Les influences extérieures entraînent une détérioration spontanée ou une destruction lente des produits stockés. Les influences spontanées typiques sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "les influences mécaniques (choc, chute, pression)",
+      "la chaleur",
+      "le froid",
+      "l’humidité",
+      "les décharges électrostatiques (ESD)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les détériorations spontanées ne surviennent généralement pas pendant le stockage, mais lors de la réception, du contrôle, du transport interne ou de l'entreposage. Une méthode de travail minutieuse permet d'éviter de nombreux dommages."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-1",
+   "number": "5.4.1",
+   "title": "Les influences mécaniques (choc, chute, pression)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "C'est principalement lors du transport que les marchandises sont soumises à des contraintes mécaniques. En raison du mouvement de transport, des forces agissent sur la marchandise: elle peut se heurter, se renverser ou tomber. Des mesures de sécurité appropriées permettent d'éviter les dommages. Des marchandises de grande valeur peuvent être endommagées ou détruites en raison d’une inclinaison trop importante, par"
+    },
+    {
+     "t": "p",
+     "text": "exemple une machine sensible. L'endommagement de marchandises stockées par des objets durs ou pointus est également considéré comme une influence mécanique. Les fourches des chariots élévateurs, en particulier, provoquent régulièrement des dommages."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-2",
+   "number": "5.4.2",
+   "title": "La chaleur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les produits sensibles à la température peuvent être rapidement détruits par la chaleur. Tout le monde le sait: la glace fond si rapidement avec la chaleur de l'été que l'on a du mal à la consommer. Dans le domaine du stockage, la chaleur peut avoir de graves conséquences. Si les marchandises réfrigérées sont exposées trop longtemps à une température trop élevée ou si elles ne sont pas assez refroidies, elles peuvent devenir inutilisables. C'est le cas par exemple des produits laitiers ou carnés. Les marchandises livrées trop chaudes en raison d'une rupture de la chaîne du froid ne peuvent même pas être acceptées."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-3",
+   "number": "5.4.3",
+   "title": "Le froid",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tout comme la chaleur, le froid peut également causer des dégâts. Certains légumes et fruits exotiques, mais aussi les fleurs, ne supportent pas des températures négatives. Même si ces produits sont exposés que brièvement à des températures négatives, certaines parties peuvent geler. La \"brûlure de congélation\" qui s'ensuit rend les produits inutilisables. Les logisticiens veillent à ce que les marchandises restent toujours dans la plage de la température idéale pour elles et ne soient pas exposées à de fortes variations de température."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-4",
+   "number": "5.4.4",
+   "title": "L’humidité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'action spontanée de l'humidité et de l'eau détruit rapidement les marchandises stockées. Elles doivent être protégées par l'emballage ou ne doivent pas être exposées à l'humidité. La pluie détruit les marchandises tout comme le déclenchement d'un système d'arrosage."
+    },
+    {
+     "t": "p",
+     "text": "Protéger de l'humidité"
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-5",
+   "number": "5.4.5",
+   "title": "Les décharges électrostatiques (ESD)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La plupart d'entre nous a déjà fait l'expérience d'une forme ou d'une autre de décharge électrostatique. En hiver surtout, lorsque l'air est sec à l'intérieur des bâtiments, nous sursautons souvent en touchant une poignée de porte, car nous ressentons une décharge électrique, ou les cheveux se dressent sur la tête lorsque nous nous peignons. L'être humain génère en permanence des charges électrostatiques qui se déchargent au contact de la terre. Ce phénomène est connu sous le nom “d'Electrostatic Discharge (ESD)”. Les composants électroniques tels que les microprocesseurs ou les transistors (appelés semi-conducteurs) peuvent être détruits par l’“ESD”. Des mesures de protection doivent donc être prises partout où de tels composants sont stockés, installés ou transportés. Les collaborateurs qui manipulent des pièces électroniques doivent être mis à la terre. La règle la plus importante pour le secteur de la logistique: ne sortir les composants électroniques de leur emballage de protection que si cela s’avère absolument nécessaire."
+    },
+    {
+     "t": "p",
+     "text": "Attention ESD"
+    }
+   ]
+  },
+  {
+   "id": "s-5-5",
+   "number": "5.5",
+   "title": "La périssabilité due à des influences de longue durée",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Alors qu'il est possible d'éviter avec précaution que des marchandises soient endommagées par des influences extérieures spontanées, il n'est pas toujours possible d’identifier des influences dommageables de longue durée. Le fait qu'une influence extérieure provoque ou non des dommages dépend des propriétés des marchandises entreposées. La connaissance de la fragilité des marchandises constitue donc la base d'un stockage sans dommage. Ce sont surtout les influences suivantes qui peuvent provoquer des dommages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la pression à l’empilage",
+      "la température de stockage incorrecte",
+      "l’humidité de l'air inadaptée (trop humide ou trop sec)",
+      "l’influence de la lumière",
+      "le vieillissement",
+      "les nuisibles",
+      "l’influence réciproque des marchandises stockées"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-1",
+   "number": "5.5.1",
+   "title": "La pression à l’empilage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'empilage des marchandises génère une pression d’empilement. Seules les marchandises insensibles à la pression peuvent être stockées en empilage. Les marchandises peuvent être endommagées par la pression d'empilage si le poids de la pile est trop important ou si des points de pression apparaissent suite à un empilage imprécis. Les sacs doivent faire l'objet d'une attention particulière lors de l'empilement en bloc. Ceux-ci peuvent éclater dans des cas extrêmes. Les collaborateurs attentifs font attention aux emballages écrasés ou aux empilements inclinés et évitent les dommages en les démontant à temps. Les légumes ou les fruits ne peuvent être empilés que dans des récipients stables. Ces récipients ne doivent pas être remplis complètement, de manière à protéger entièrement leur contenu. Ne pas empiler plus de 8 couches"
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-2",
+   "number": "5.5.2",
+   "title": "La température de stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les produits frais ne peuvent être stockés que dans des entrepôts climatisés, réfrigérés ou congelés. La température dépend des exigences des produits. Les valeurs indicatives suivantes s'appliquent aujourd'hui:"
+    },
+    {
+     "t": "p",
+     "text": "Viande et charcuterie: 0 à +2° C Produits laitiers: +2 à +4° C Fruits et légumes: +4 à +6° C Antichambres des entrepôts frigorifiques: +4 à +6° C Produits surgelés: en dessous de -18° C"
+    },
+    {
+     "t": "p",
+     "text": "Quel est l'effet de la réfrigération? Les matières organiques, dont font partie les aliments, sont attaquées ou décomposées par des bactéries et des champignons, ce qui les rend impropres à la consommation. Ces petits organismes (micro-organismes) ont besoin de chaleur et d'humidité pour se multiplier. La réfrigération permet de limiter fortement la prolifération des bactéries et des champignons. Lorsque la température est inférieure à -18° C, la propagation s'arrête complètement. Les bactéries ou les champignons ne meurent pas, mais entrent dans un genre d’hibernation. Dès que la température augmente, ces micro-organismes se réveillent et la multiplication recommence. Les aliments surgelés ne doivent donc pas être recongelés après avoir été décongelés. On distingue la réfrigération et la congélation:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la réfrigération 0-5o C",
+      "la congélation -18o C"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-3",
+   "number": "5.5.3",
+   "title": "L’hygrométrie",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le terme \"humidité de l'air\" désigne la part d’eau contenue dans un mètre cube d’air. Les spécialistes parlent d'humidité relative de l'air, car la part d'eau n'est pas constante, mais dépend de la température. Concrètement, l'air chaud a la capacité d'absorber beaucoup plus d'eau que l'air froid. C'est la raison pour laquelle l'air est sec dans les logements en hiver. En aérant la pièce, nous y faisons entrer de l’air froid qui peut être très humide s’il pleut ou s’il neige. Plus l’air chauffe, plus il est capable de stocker l’humidité. L’humidité de l’air diminue donc proportionnellement à la température. Hygrométrie trop élevée: les produits sensibles à l'humidité absorbent l'humidité de l'air. Dans le jargon, ils réagissent de manière \"hygroscopique\". Le papier, par exemple, est un tel produit. Les réactions hygroscopiques peuvent également provoquer l'agglutination de produits en poudre (p. ex. le sucre). Les emballages d'appareils électroniques sont souvent accompagnés de sachets dessiccateur. Ce dessiccateur (généralement du gel de silice ou de l'argile sèche) peut absorber l'humidité et protéger ainsi le contenu de l'emballage."
+    },
+    {
+     "t": "p",
+     "text": "Sachet dessicateur"
+    },
+    {
+     "t": "p",
+     "text": "Hygrométrie trop faible: les produits stockés peuvent être endommagés non seulement par une humidité de l'air trop élevée, mais aussi par une humidité trop faible. Les fruits et les légumes, en particulier, ont besoin d'un taux d'humidité d'environ 90 pour cent pour ne pas se rider. La perte de poids due au rétrécissement doit être prise en compte lors du stockage. Un rétrécissement trop important rend les produits stockés inutilisables. Le bois, par exemple, peut se fissurer."
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-4",
+   "number": "5.5.4",
+   "title": "La lumière",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les produits stockés contenant de l'huile et de la graisse se détériorent sous l'influence de la lumière. Ce sont surtout les rayons ultraviolets qui pénètrent avec la lumière du jour qui sont néfastes. Par exemple, la graisse change de goût sous l'influence de la lumière et de l'air - elle s'oxyde et rancit. Les matières plastiques ou le caoutchouc peuvent être fragilisés par la lumière du jour. L’obscurité permet d’éviter ces dommages."
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-5",
+   "number": "5.5.5",
+   "title": "Le vieillissement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les produits stockés peuvent - en l'absence d'influences néfastes - perdre de la valeur ou devenir inutilisables par simple vieillissement. Un produit qui reste trop longtemps en stock peut ne plus être vendu parce qu'il n'est plus d'actualité. Cela vaut surtout pour les produits tendance. Mais il y a aussi des produits (par exemple le vin, le whisky) qui sont stockés pour vieillir. Ce n'est qu'après quelques années de stockage correct qu'ils atteignent leur pleine valeur."
+    },
+    {
+     "t": "p",
+     "text": "Stockage traditionnel de vin dans les fûts en bois"
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-6",
+   "number": "5.5.6",
+   "title": "Les nuisibles",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'action des nuisibles préoccupe tout entrepôt. Ceux qui pensent, que seuls les entrepôts des pays sous-développés sont concernés, se trompent. Trois groupes de nuisibles peuvent avoir une influence négative sur les marchandises stockées:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "les champignons, spores et bactéries (moisissure, pourriture, etc.) = micro-organismes (petits êtres vivants)",
+      "les insectes (coléoptères, mites, etc.)",
+      "les petits mammifères (souris, rats)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les mesures constructives, une bonne hygiène, des conditions de stockage optimales et un contrôle permanent des produits stockés permettent de réduire les attaques de parasites, mais pas de les exclure complètement. Des spores de champignons et des larves d'insectes sont parfois introduites avec les marchandises stockées. Les larves se transforment en insectes dès que les conditions de stockage sont favorables à leur multiplication. La multiplication peut être très rapide. Le secteur de la recherche travaille en permanence sur de nouvelles techniques de lutte biologique contre les nuisibles. Ainsi, l’utilisation de guêpes microscopiques (insectes utiles) a été testée avec succès dans des silos de céréales contre les larves de vrillettes du pain et de mites alimentaires."
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-7",
+   "number": "5.5.7",
+   "title": "L’influence réciproque de marchandises les unes avec les autres",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchandises organiques (par ex. les denrées alimentaires) peuvent s’influencer réciproquement pendant le stockage. Les pommes, par exemple, dégagent un gaz qui accélère la maturation des autres fruits. D’autres aliments (par exemple les produits de boulangerie non emballés) absorbent aisément les odeurs."
+    }
+   ]
+  },
+  {
+   "id": "s-5-6",
+   "number": "5.6",
+   "title": "La protection des marchandises stockées",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Depuis toujours, les hommes essaient de prolonger la conservation de leurs aliments. Nos ancêtres ont développé à cet effet des méthodes qui ont encore cours aujourd’hui ou ont été adaptées. Méthodes de conservation traditionnelles:"
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-1",
+   "number": "5.6.1",
+   "title": "Le séchage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le séchage est l’une des méthodes les plus anciennes de conservation de la viande, du poisson et des fruits. Les fruits secs sont appréciés comme en-cas, et la viande séchée est une de nos spécialités. Le poisson séché, par contre, est moins répandu chez nous. Dans le Grand Nord, la morue séchée servait de réserve pour l’hiver et de provision de voyage sur les bateaux."
+    },
+    {
+     "t": "p",
+     "text": "Viande séchée"
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-2",
+   "number": "5.6.2",
+   "title": "Le salage (saumurage)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La viande est frottée soit avec du sel (salage), soit avec de la saumure (saumurage). L’exemple de la viande salée le plus connu est le salami (en italien: salame = viande salée)."
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-3",
+   "number": "5.6.3",
+   "title": "Fumage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La viande, mais aussi d’autres aliments sont exposés à la fumée d’un feu de bois. Les substances contenues dans la fumée et la réduction de la teneur en eau conservent le produit. Le fumage permet non seulement de conserver le lard, le jambon ou les saucisses, mais leur donne également un goût fumé spécifique."
+    },
+    {
+     "t": "p",
+     "text": "Fumage industriel de saucisses"
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-4",
+   "number": "5.6.4",
+   "title": "La pasteurisation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La pasteurisation, qui tire son nom du scientifique français Louis Pasteur, est utilisée dans les ménages pour conserver les fruits. Le produit est enfermé dans un récipient puis chauffé à environ 70 °C afin de tuer la plupart des micro-organismes. Les bactéries ne peuvent plus se multiplier jusqu’à ouverture du récipient. De nombreux aliments sont pasteurisés, notamment le lait, le fromage ou les jus de fruits"
+    },
+    {
+     "t": "p",
+     "text": "Pasteurisation du lait"
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-5",
+   "number": "5.6.5",
+   "title": "Stérilisation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les objets à stériliser sont chauffés à une température pouvant atteindre 120 °C. A cette température, toutes les bactéries sont tuées. Dans les aliments, la plupart des vitamines sont également détruites."
+    },
+    {
+     "t": "p",
+     "text": "Les nouvelles méthodes de conservation:"
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-6",
+   "number": "5.6.6",
+   "title": "La réfrigération",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les produits frais sont en général stockés ou traités dans des locaux réfrigérés ou au moins climatisés. La température dépend des exigences des produits."
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-7",
+   "number": "5.6.7",
+   "title": "La congélation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De nos jours, il est impossible d’imaginer une cuisine moderne sans produits surgelés. Les poissons et la viande, mais aussi les légumes, les fruits et les plats cuisinés sont congelés, si possible lorsqu’ils sont frais. Les entrepôts surgelés répondent aux besoins de notre époque, mais consomment énormément d’énergie."
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-8",
+   "number": "5.6.8",
+   "title": "La mise sous vide",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le mot « vide » vient du latin « vacuus », qui signifie également « libre », « vacant ». On emballe un produit dans un sac en plastique dont on évacue l’air. Cette méthode permet souvent de conserver les saucisses et la charcuterie."
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-9",
+   "number": "5.6.9",
+   "title": "L’emballage sous atmosphère protectrice",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L’emballage sous vide est de plus en plus souvent remplacé pour la charcuterie par l’emballage sous atmosphère protectrice. Le produit est également emballé dans un sac en plastique, mais l’air contenu dans le sac est remplacé par un gaz protecteur avant le soudage. On utilise comme gaz protecteur des gaz inertes, c’est-à-dire inactifs, qui empêchent le déclenchement de processus de vieillissement dans l’emballage. Le contenu est moins « écrasé » que dans un emballage sous vide."
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-10",
+   "number": "5.6.10",
+   "title": "Le conditionnement sous atmosphère contrôlée (CA)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il est principalement utilisé pour le stockage des fruits. CA signifie « Controlled Atmosphere ». La température, l’hygrométrie et la composition de l’air sont maintenues à des valeurs constantes. La part d’oxygène dans l’air est réduite et la part de dioxyde de carbone augmentée, ce qui ralentit considérablement le processus de maturation. Les valeurs souhaitées sont programmées ou s’adaptent automatiquement après quelque temps, grâce à la maturation des fruits dans un local exempt de gaz, parce que la maturation des fruits (respiration) consomme de l’oxygène et émet du dioxyde de carbone."
+    }
+   ]
+  },
+  {
+   "id": "s-5-6-11",
+   "number": "5.6.11",
+   "title": "Le stockage ULO",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage ULO (Ultra Low Oxygène) est le fruit du perfectionnement du conditionnement sous atmosphère modifiée. La teneur en oxygène est maintenue à une valeur extrêmement faible, c’est-à-dire à la limite requise pour le processus de maturation biologique. On ralentit ainsi considérablement la maturation des fruits."
+    }
+   ]
+  },
+  {
+   "id": "s-5-7",
+   "number": "5.7",
+   "title": "La dangerosité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les exigences en matière de stockage découlent de la nature du danger. Le"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "stockage des marchandises dangereuses est traité en détail dans le module 405."
+    },
+    {
+     "t": "p",
+     "text": "Les symboles de danger à partir de 2012 Attention danger Inflammable Comburant"
+    },
+    {
+     "t": "p",
+     "text": "Peut irriter la peau, provoquer des allergies ou eczémas, une somnolence, des intoxications après un contact unique, contribue à détruire la couche d’ozone. Exemples: tablettes de lave-vaisselle, produits, nettoyants, eau de Javel. Peut s’enflammer par contact avec des flammes ou étincelles, coups, frottements, chauffage ou contact avec l’air ou l’eau. Peut s’enflammer spontanément en cas de stockage incorrect. Exemples: allume-feu, lampes à huile, aérosols, solvants. Peut activer ou favoriser un incendie. Dégage de l’oxygène pendant l’incendie et ne peut donc être éteint qu’à l’aide de produits spéciaux. Il est impossible d’étouffer les flammes. Exemples: décolorant, eau oxygénée"
+    },
+    {
+     "t": "p",
+     "text": "Explosif Gaz sous pression Danger pour l’environnement et le milieu aquatique"
+    },
+    {
+     "t": "p",
+     "text": "Peut exploser sous l’effet d’un contact avec des flammes ou étincelles, de coups, de frottements ou de la chaleur. Peut également provoquer des explosions sans influence extérieure en cas de mauvais stockage. Exemples: explosifs, nitroglycérine Contient des gaz comprimés, liquéfiés ou dissous. Des gaz inodores ou invisibles peuvent s’échapper sans que l’on s’en aperçoive, et les récipients contenant du gaz sous vide peuvent éclater sous l’effet de la chaleur ou d’une déformation. Exemples: bouteilles de propane/butane, bouteilles de CO2 (pour l’eau gazeuse). Peut nuire à l’environnement et aux milieux aquatiques (poissons, insectes aquatiques, plantes) à très faible concentration, soit immédiatement soit à long terme. Exemples: produits anti-moisissures, bombes insecticides, huiles moteur, produits chimiques pour piscines"
+    },
+    {
+     "t": "p",
+     "text": "Corrosif Dangereux pour la santé Toxique"
+    },
+    {
+     "t": "p",
+     "text": "Peut provoquer de graves brûlures de la peau et des lésions oculaires et dissoudre certains matériaux (comme les textiles). Nuisible pour les animaux, les plantes et le matériel organique de tout type. Exemples: nettoyant pour fours, détartrant, produits nettoyants puissants, produits déboucheurs de canalisations. Peut nuire à certains organes, porter massivement atteinte à la santé immédiatement ou à long terme), provoquer un cancer, nuire au patrimoine génétique, à la fertilité ou au développement. Peut être mortel en cas d’atteinte des voies respiratoires. Exemples: essence, peintures, allume-feu, lampes à huile, certaines huiles essentielles Peut, en très petites quantités, entraîner de graves intoxications et la mort. Exemple: Mort-aux-rats"
+    }
+   ]
+  },
+  {
+   "id": "s-5-7-1",
+   "number": "5.7.1",
+   "title": "L’utilisation sûre des produits chimiques",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Achat Utilisation Stockage"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Tenir compte des symboles de danger",
+      "Lire les avertissements",
+      "Vérifier l’existence de solutions alternatives"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(Existe-t-il des produits équivalents mais moins dangereux?)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ne pas acheter plus que nécessaire",
+      "Tenir compte de la notice d’utilisation",
+      "Suivre les consignes de sécurité"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Porter des équipements de protection adaptés (lunettes de protection, gants)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ne rien laisser sans surveillance",
+      "Conserver dans un endroit sûr et hors de la portée des enfants",
+      "Ne jamais remplir dans des récipient alimentaires (risque de confusion)",
+      "Tenir compte des consignes d’élimination",
+      "Mesures structurelles"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(constitution d’espaces coupe-feu, réservoirs collecteurs)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Plan de mesures en cas d’incidents"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(incendie et/ou avarie)"
+    }
+   ]
+  },
+  {
+   "id": "s-5-7-2",
+   "number": "5.7.2",
+   "title": "La manutention des marchandises",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La manutention des marchandises dépend principalement des critères suivants: Le volume: grand, moyen, petit La dimension: long/court, large/étroit, encombrant/maniable La densité: léger, lourd, très lourd L’empilage: empilable, non empilable L’état de l'agrégation: solide, liquide, gazeux La valeur: bon marché, cher, de grande valeur"
+    },
+    {
+     "t": "p",
+     "text": "Les logisticiennes et logisticiens sont confrontés à trois types de marchandises en matière de manutention: Des marchandises faciles à manutentionner Sont considérées comme marchandises faciles à manutentionner les marchandises empilables d’un volume peu important à moyen, dont les dimensions correspondent aux normes d’emballage courantes. La longueur maximale est de 1,20 m. Ces marchandises peuvent être conditionnées sans problème sur une palette EUR et peuvent être rangées sur tous les rayonnages de palettes courants. Les volumes plus petits entrent dans des cartons ou des conteneurs en plastique qui peuvent être à leur tour empilés sur des supports de charge."
+    },
+    {
+     "t": "p",
+     "text": "Des marchandises de formes particulières ou encombrantes Les marchandises encombrantes ou de formes particulières constituent un défi pour les logisticiens. Soit le volume est trop gros pour les supports de charge ou les rayonnages courants, soit la longueur, la largeur et la hauteur exigent des solutions particulières. Le stockage de telles marchandises exige en règle générale une solution individuelle qui requière une certaine dose de créativité. Ce faisant, la sécurité est un critère prioritaire"
+    },
+    {
+     "t": "p",
+     "text": "Des marchandises de grande valeur Les marchandises de valeur sont conservées dans des zones de stockage particulièrement sécurisées. Des séparations en grillage sont souvent installées dans les entrepôts de marchandises. Ce n’est pas toujours la valeur de la marchandise qui est déterminante du besoin de protection. Il peut s’agir aussi d’autres produits qui peuvent être sujets au vol comme de l’alcool ou des produits à base de tabac. Dans le domaine pharmaceutique, les drogues ou produits apparentés doivent être conservés avec une protection particulière. Ce sont souvent les clients qui exigent une protection particulière de la part des prestataires logistiques. Un stockage sous protection particulière peut également être nécessaire pour des raisons de confidentialité. Ceci peut être le cas, par exemple, pour de nouveaux produits qui doivent être protégés de la concurrence. On protège les marchandises dans des locaux verrouillables, ou des systèmes de stockage tels que des armoires ou des rayonnages rotatifs verticaux."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 105"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,490 @@
+{
+ "code": "311",
+ "title": "Les concepts de l’approvisionnement",
+ "domain": "300",
+ "pdf": "M311.pdf",
+ "pages": 20,
+ "words": 5380,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "38 Module 311_Les concepts de l’approvisionne - ment Il n'y a pas si longtemps, il était normal pour une entreprise de production de réa - liser autant de tâche que possible en interne. La part de valeur ajoutée créée en interne était nettement plus importante que la valeur ajoutée achetée. Avec Internet et la mondialisation toujours plus forte ( par exemple l'ouverture de nouveaux marchés ), cette stratégie a radicalement changé. Aujourd'hui, une entreprise ne produit en principe plus elle-même que les articles qui sont d'une importance centrale ou qu'elle peut produire mieux que d'autres ( savoir-faire/ know-how ). Le reste est acheté dans le monde entier. L 'image ci-dessous illustre cette évolution. BUY = acheter"
+    },
+    {
+     "t": "p",
+     "text": "Make = faire ( part de production interne ) Env. 1970 Aujourd’hui"
+    },
+    {
+     "t": "p",
+     "text": "Avec cette évolution, l'approvisionnement a gagné en importance et contribue de manière décisive aux résultats financiers de l’entreprise. C'est une raison suf - fisante pour se pencher un peu plus en détail sur l’approvisionnement et les as - pects passionnants de cette activité importante dans ce module. La création de valeur est la transformation de biens en biens ayant une valeur financière plus élevée, par exemple des planches de bois transformées en une table. Dans chaque entreprise, la création de valeur est donc l'objectif de toute activité productive."
+    },
+    {
+     "t": "p",
+     "text": "39 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Module 311_Les concepts de l’approvisionnement Connaissance théorique du module 311"
+    }
+   ]
+  },
+  {
+   "id": "s-11-1",
+   "number": "11.1",
+   "title": "Approvisionnement ( Procurement, Purchaising )",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On appelle approvisionnement le service qui s'occupe de l'approvisionnement de l'entreprise, par exemple en matériel destiné à être réutilisé dans la production, en services ( conseil, formation, etc… ) ou en marchandises commerciales destinées à être revendues. Comme on produit aujourd'hui de moins en moins soi-même et qu'on achète de plus en plus, l'importance de l'approvisionnement a beaucoup changé ces dernières années. Autrefois, la majorité des achats se faisait dans le pays même ou dans les pays li - mitrophes. Aujourd'hui, on se procure les biens nécessaires dans le monde entier. Le graphique montre les flux commerciaux globaux ( mondiaux ): Remarque Tous ces flux de marchandises sont déclenchés par des processus d'approvisi - onnement et mis en œuvre par des processus logistiques."
+    },
+    {
+     "t": "p",
+     "text": "40"
+    }
+   ]
+  },
+  {
+   "id": "s-11-2",
+   "number": "11.2",
+   "title": "Formes d'approvisionnement",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le marché ( nous, nos clients, nos processus ) doit s'approvisionner en biens néces - saires dans un délai de réapprovisionnement acceptable ( quand vais-je le rece - voir? ). Le délai de réapprovisionnement accepté pour une voiture de sport spé - ciale est différent de celui d'un jean, par exemple. Le délai d'approvisionnement ( de la commande à la disponibilité en stock ) doit donc être inférieur au délai de réapprovisionnement accepté par le marché. Délai de réapprovisionne - ment acceptable 1 2... 19 20 21 22 23 24 25 26 Délai en joursDélai d'approvisionnement achat 1 2... 19 20 Si le délai d'approvisionnement est supérieur au délai de réapprovisionnement accepté, l'article doit être géré en stock afin de pouvoir être livré directement de - puis le stock."
+    },
+    {
+     "t": "p",
+     "text": "Composition du délai d'approvisionnement Le délai d'approvisionnement des produits se compose de différentes étapes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Détermination des besoins et communication de ceux-ci",
+      "Demande d'offres, négociations, choix des fournisseurs",
+      "Déroulement de la commande",
+      "Attente de la confirmation de commande",
+      "Délai de livraison",
+      "Délai de transport",
+      "Date de l’entrée de la marchandise ( contrôles de quantité et de qualité )",
+      "Transport des marchandises vers l'entrepôt ou le lieu de consommation"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque Si le fournisseur ne parvient pas à s'approvisionner en biens souhaités dans le délai de réapprovisionnement accepté par ses clients, il court le risque que ses clients aillent acheter ailleurs et qu'il les perde."
+    },
+    {
+     "t": "p",
+     "text": "41 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Un grand nombre d'articles sont achetés, avec des caractéristiques et des formes d'approvisionnement très différentes. Voici quelques-unes des principales formes d'approvisionnement: Approvisionnement On achète plus que ce dont on a besoin actuellement et on crée une réserve de matériel dans l'entrepôt. Avantages: L 'entreprise devient autonome par rapport aux situations du marché et des fournisseurs pendant un certain temps. La capacité de livraison est garantie. Inconvénients: Des stocks élevés entraînent une immobilisation importante du capital. Il y a un risque de générer des stocks en magasin en cas de non-utilisation."
+    },
+    {
+     "t": "p",
+     "text": "Approvisionnement au cas par cas/approvisionnement individuel La commande n'est passée qu'en cas de besoin et seule la quantité nécessaire est achetée. Avantages: Faible immobilisation de capital, car pas de stock ni de stock de sécurité, durée de vie relativement courte. Durée de stockage très courte. Inconvénients: L 'entreprise ne peut pas attendre un moment d'achat «favorable», mais elle doit commander lorsque le besoin est présent. La dépendance vis-à-vis du fournisseur est grande et l'entreprise a une mauvaise position pour négocier les prix."
+    },
+    {
+     "t": "p",
+     "text": "Approvisionnement juste-à-temps ( JIT ) Les biens ne sont achetés que lorsqu'ils sont nécessaires, et exactement dans le nombre d'unités souhaitées. Les stocks devraient ainsi pouvoir être presque en - tièrement réduits. Avantages: Faible immobilisation du capital, car pas de stock et de stock de sécurité. Colla - boration plus intensive avec les fournisseurs associés. Inconvénients: Les stocks sont déplacés sur la route, ce qui entraîne un plus grand nombre de camions et une plus grande pollution de l'environnement. En outre, augmen - tation de la dépendance à l'égard d'une livraison ponctuelle et sans erreur. Module 311_Les concepts de l’approvisionnement"
+    },
+    {
+     "t": "p",
+     "text": "42 Une forme particulière d'approvisionnement JIT est ce que l'on appelle l'approvi-sionnement synchronisé avec la fabrication. Les articles nécessaires à la production sont livrés dans la quantité correspondan - te, exactement à la date de fabrication. Le fournisseur est étroitement associé à son propre processus de production et est un partenaire important. La dépen - dance s'en trouve fortement accrue. Ce type d'approvisionnement est par exemp - le utilisé dans l'industrie automobile."
+    }
+   ]
+  },
+  {
+   "id": "s-11-3",
+   "number": "11.3",
+   "title": "Concepts d'approvisionnement",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il existe plusieurs concepts d'approvisionnement courants. En anglais, «sourcing» signifie «approvisionnement». En conséquence, les concepts d'approvisionne - ment sont souvent appelés concepts de sourcing. Dans la pratique, on rencontre souvent des formes mixtes de différents concepts de sourcing."
+    },
+    {
+     "t": "p",
+     "text": "Global Sourcing Les achats se font à l'échelle internationale. Cela permet de profiter des avantages existants en termes de coûts. La logistique, qui fonctionne bien dans le monde entier, simplifie ce concept."
+    },
+    {
+     "t": "p",
+     "text": "Local Sourcing Les biens nécessaires sont achetés dans la région ou dans le pays. Le sourcing local est utilisé pour les biens de grande valeur et importants pour l'entreprise. La proximité du fournisseur présente certains avantages et réduit considérablement les retards de livraison dus à des problèmes de transport, par exemple. En contre - partie, il faut éventuellement s'accommoder de prix plus élevés."
+    },
+    {
+     "t": "p",
+     "text": "Single Sourcing Les biens nécessaires ne sont achetés qu'auprès d'un seul fournisseur. Le concept de Single Sourcing renonce aux avantages de prix à court terme et mise sur une collaboration partenariale à moyen et long terme. Ce concept permet d'optimiser les processus d'approvisionnement au bénéfice des deux parties. Il peut égale - ment être avantageux d'acheter la totalité du volume d'achat disponible ( pour un groupe de marchandises ) auprès d'un fournisseur et de profiter ainsi d'éventuel - les rabais. Remarque Selon la nature des articles et/ou le concept d'approvisionnement, ces trois for - mes sont souvent utilisées dans l'approvisionnement."
+    },
+    {
+     "t": "p",
+     "text": "43 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Double Sourcing Les biens nécessaires sont achetés auprès de deux fournisseurs en concurrence. Cela permet de réduire la dépendance et de disposer d'un fournisseur alternatif en cas de retard de livraison. La «division par deux»du volume d'un groupe de marchandises peut toutefois présenter des inconvénients, car le volume d'achat est éventuellement trop faible pour obtenir des rabais. Multiple Sourcing Dans ce concept, les biens nécessaires sont achetés auprès de plusieurs fournis - seurs. Cela permet de réaliser des avantages de prix à court terme à la suite de comparaisons de prix et le risque de dépendance peut être maintenu au mini - mum en raison de l'interchangeabilité. L'approvisionnement multiple convient aux biens standardisés qui ont des dimensions et des propriétés identiques. Les directives d'achat d'une entreprise peuvent par exemple stipuler qu'un tiers ( 33,3 % ) au maximum de ses propres besoins peut être acheté auprès d'un fournisseur. Cette consigne vise un concept de sourcing multiple."
+    },
+    {
+     "t": "p",
+     "text": "Modular - System Sourcing Alors qu'auparavant, on achetait généralement des pièces détachées pour les assembler dans l'entreprise, on achète aujourd'hui de plus en plus souvent des modules ou des sous-ensembles prêts à l'emploi et on se contente de les sou - mettre à un montage final. Ce concept présente plusieurs avantages. Il est utilisé lorsque les différentes pièces modulaires ne font pas partie des compétences clés de l'entreprise ou lorsque les modules nécessitent des connaissances spécialisées dont la mise en place est très coûteuse pour l'entreprise. L 'un des inconvénients de ce type de sourcing est la dépendance vis-à-vis des fournisseurs, qui doivent être sélectionnés avec soin pour ce concept. Fabricant Sourcing modulaire Partie de module B Fournisseur A Fournisseur B Fournisseur C Partie de module C Partie de module A Module 311_Les concepts de l’approvisionnement"
+    },
+    {
+     "t": "p",
+     "text": "44"
+    }
+   ]
+  },
+  {
+   "id": "s-11-4",
+   "number": "11.4",
+   "title": "Stock et délai d'approvisionnement",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cela n'a pas de sens d'avoir des stocks importants d'un article qui est disponible à tout moment et en grande quantité chez différents fournisseurs régionaux. En cas de besoin, l'article peut être commandé et être disponible en peu de temps. Le délai d'approvisionnement d'un bien dépend de différents facteurs. Il est notam - ment influencé par la distance de transport et le moyen de transport. Les stocks peuvent être maintenus à un niveau bas lorsqu'une entreprise a des fournisseurs régionaux à courte distance de transport et que le réapprovisionnement est pos - sible à tout moment. Plus la distance de transport augmente et plus les produits ne sont pas toujours disponibles, plus les stocks doivent être élevés. Le dilemme ( alternative entre deux choix conduisant à des résultats indésirables dans les deux cas ) en matière de stock est qu'un stock élevé entraîne des coûts importants ( capital immobilisé ), alors qu'un stock faible peut entraîner une mau - vaise disponibilité des livraisons. Remarque Le stock sert à couvrir les besoins des clients ou les besoins de production en attendant une nouvelle livraison. Un exemple de la vie quotidienne - les bananes Comment les bananes des tropiques arrivent-elles au supermarché? Et com - ment se fait-il qu'elles obtiennent la bonne maturité précisément au superm - arché? Les bananes sont toujours récoltées vertes, même dans les pays producteurs, elles ne mûrissent pas sur l’arbre. Au moment de la récolte, les fruits sont durs et pas encore sucrés. Pour récolter les bananes, on coupe l’inflorescence entiè - re, également appelée régime de bananes, à l'aide d'une machette ( long cou - teau ), puis transportée. Ce n'est qu'ensuite que les bananes sont séparées de régime, lavées et emballées dans les fameux cartons à bananes. Enfin, les car - tons de bananes sont chargées sur des bateaux et transportées, par exemple, vers l'Europe. La traversée dure deux semaines. Pour éviter que les bananes ne mûrissent pendant le transport, elles sont stockées dans des cales frigorifiques sous atmosphère contrôlée ( stockage CA ). Ce stockage ralentit la poursuite de la maturation des bananes. Une fois qu'elles sont arrivées dans le pays de consommation, elles sont stockées dans une mûrisserie de bananes. Une fois le processus de maturation terminé, les bananes sont mises en vente dans les rayons du commerce de détail."
+    },
+    {
+     "t": "p",
+     "text": "45 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL 1 1.5 Procédures de commande utilisées en raison d'une vari - ation de stock liée à la consommation Pour les articles dont le stock évolue au gré des entrées et des sorties de stock, quatre procédures de commande différentes se sont imposées dans la pratique. Toutes les quatre présentent des avantages et des inconvénients différents. Il s'agit de les examiner pour chaque article et d'enregistrer le modèle adéquat. Remarque À chaque article acheté doit être attribué sa «procédure de commande»."
+    },
+    {
+     "t": "p",
+     "text": "Procédure du point de commande à quantités fixes Dans cette procédure, un point de commande est défini. Dès que le stock atteint ce point, une quantité fixe q ( toujours la même ) est commandée. Il importe peu que le stock soit nettement inférieur au point de commande ou qu'il ne le soit pas du tout. Bien que cette procédure ne semble pas très avantageuse du point de vue économique pour l'entreprise, elle est le plus souvent utilisé pour les articles à forte rotation de stock, et tirée de contrats de livraison à long terme. La conditi - on préalable est de disposer de réserves de place suffisamment importantes dans l'entrepôt. Le stock d'un article peut alors varier fortement. Cette méthode est certes relativement pratique pour les articles à forte rotation, mais elle peut rapi - dement conduire à des niveaux de stock excessifs en période de faible demande. Orienté vers la consommation: La cadence de commande s'adapte à la fréquence à laquelle l'article est utilisé. Si l'article est souvent utilisé, la cadence de commande est importante. Si l'artic - le est rarement ou pas du tout utilisé, il n’est rarement voire jamais commandé. Procédure du point de commande – quantités fixes Module 311_Les concepts de l’approvisionnement"
+    },
+    {
+     "t": "p",
+     "text": "46 Procédure du rythme de commande à quantités variables Dans cette procédure également, un point de commande est défini. Dès que le point de commande est atteint, le réapprovisionnement se fait jusqu'à un niveau maximum défini. La quantité commandée varie donc. Cette procédure tient compte de l'évolution des ventes et garantit que l'on peut compter sur un espace maximal constant par article et que le stock ne dépasse pas le maximum souhaité. Cette procédure est toutefois un peu plus compliquée, car la quantité commandée doit être recalculée à cha - que fois. Procédure du rythme de commande à date fixe: La commande supplémentaire d’ une quantité variable ( q ) jusqu’au stock maximum est déclenchée à un mo - ment précis ( t ). Aucune cote d’alerte n’est déterminée. Lorsque les ventes chutent, le stock dépasse rapidement le stock maximal prévu. Cette procédure est utilisée lorsqu’il a été convenu con - tractuellement que le fournisseur ( ou le fabricant ) livrera régulièrement l’entre - prise acheteuse ( par exemple dans le cadre de production continue ). Procédure du rythme de commande – quantités variables Procédure du point de commande – quantités fixes Procédure du rythme de commande – date fixe"
+    },
+    {
+     "t": "p",
+     "text": "47 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Procédure du rythme de commande à quantités fixes Une alternative peut également être utilisée pour la procédure de rythme de commande: la procédure de ryth - me de commande avec des quantités fixes. Comme pour la variante avec des quantités variables, cette variante se reconnaît à une fréquence temporel - le fixe. La différence réside dans le fait que la quantité à commander est éga - lement fixe. Cette méthode est adaptée à des ventes constantes. Si les deux pa - ramètres ( temps et quantité ) sont dé - finis dans les bonnes proportions, ce processus peut être exécuté automa - tiquement."
+    }
+   ]
+  },
+  {
+   "id": "s-11-6",
+   "number": "11.6",
+   "title": "La quantité de commande optimale au meilleur coût ( Qopt )",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le concept a été développé en 1913 par Ford W. Harris ( USA ). C'est l'ingénieur Kurt Andler qui l'a fait connaître en 1929 dans les pays germanophones. La for - mule Andler, qui porte son nom, est toujours valable aujourd'hui et fait partie de nombreuses formations en gestion d'entreprise. Dans les pays anglophones, elle est connue sous le nom de formule EOQ ( Economic Order Quantity ). La formule comprend deux courbes de coûts qui sont modifiées par la quantité commandée. L 'une des courbes de coûts diminue avec l'augmentation du nombre de pièces ( quantité commandée ), l'autre augmente. Le point d'intersection des deux cour - bes correspond à la quantité de commande optimale théoriquement la plus ren - table. Qopt Coût de stockage: Les coûts augmentent proportionnelle - ment à l'augmentation du nombre de pièces. Coût de passation d'une commande: Les coûts de commande par pièce di - minuent avec l'augmentation du nomb - re de pièces. Procédure du rythme de commande – quantités fixes En premier Politique – ( t/q ) t ( Time = Temps ) q ( Quantity = Quantité ) Module 311_Les concepts de l’approvisionnement"
+    },
+    {
+     "t": "p",
+     "text": "48 Les coûts de passation d’une commande sont tous les coûts internes qui survi - ennent lorsque nous déclenchons une commande: l'étude des offres par le ser - vice des achats, l'établissement de la commande par la logistique, la vérification de la réception des marchandises, le contrôle de la qualité, le traitement des fac - tures et des paiements, etc… On peut estimer les coûts entre 100 et 200 francs par commande ( ou plus ). Dans la formule d'Andler, ces coûts sont divisés par le nombre d'articles commandés. Remarque La quantité de commande optimale, du point de vue de la gestion d'entreprise, avec les coûts totaux les plus faibles, se situe là où la courbe rouge a son point le plus bas – au point d'intersection des deux courbes de coûts."
+    }
+   ]
+  },
+  {
+   "id": "s-11-6-1",
+   "number": "11.6.1",
+   "title": "La formule d'Andler",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bien que la formule d'Andler soit un modèle remarquable, il convient de noter qu'il s'agit d'un modèle de calcul lié à certaines conditions qui ne sont pas tou - jours remplies dans la pratique. L 'application de la formule d'Andler suppose les conditions suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La quantité des besoins doit être connue et constante.",
+      "L 'entrée des marchandises et la consommation doivent être uniformes.",
+      "Le prix et les coûts de passation de commande sont constants.",
+      "Les coûts de stockage sont connus et constants."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Q Quantité de commande Q opt Quantité optimale de commande m Besoin annuel en unités a ou B Coût de passation de commande p ou P Prix d’achat par unité q ou L Coût de stockage en % de la va - leur des achats"
+    }
+   ]
+  },
+  {
+   "id": "s-11-6-2",
+   "number": "11.6.2",
+   "title": "Exemple pratique: calculateur de quantité de commande",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un exemple de la vie quotidienne Si les frais de commande s'élèvent à 150 francs et qu'une seule pièce est com - mandée, les 150 francs sont entièrement imputables à cet article. Si deux pièces sont commandées, les frais peuvent être divisés par deux et s'élèvent à 75 fran - cs par pièce. Si quatre pièces sont commandées, ils sont divisés par quatre et s'élèvent à 37,50 francs par pièce, etc… Les coûts sont décroissants lorsque le nombre de pièces augmente ( voir l'évolution verte des coûts de passation de commande ci-dessus ). La somme des deux courbes de coûts est visible sur la courbe rouge des coûts de passation de commande et de stockage."
+    },
+    {
+     "t": "p",
+     "text": "49 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Hypothèse de départ: détermination de la quantité de commande optimale pour un article présentant les paramètres suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Besoin annuel en pièces ( M ): 30'000",
+      "Prix d’achat unitaire en francs ( P ): 4.50",
+      "Coût de passation de commande par commande en francs ( B ): 1'250.00",
+      "Coût de stockage en % de la valeur ( L ): 28"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le tableau montre que la quantité optimale à commander par an est d'environ 8'000 pièces. L 'article doit être commandé quatre fois ( exactement 3,8 fois ) par an. 1 2 3 4 5 6 Quantité par commande Commandes anuelles Valeur par commande Coûts de passation de commande Coûts de stockage Coûts de stockage et de passation de commandes Q M/Q QxP M/QxB ( Q/2 )xPxL Colonne 4+5 2'000.00 15.00 9'000.00 18'750.00 1'260.00 20'010.00 4'000.00 7. 50 18'000.00 9'375.00 2'520.00 11' 895. 0 0 6'000.00 5.00 27'000.00 6'250.00 3'780.00 10'030.00 8'000.00 3.80 36'000.00 4'6 87. 50 5'040.00 9 ' 727. 50 10'000.00 3.00 45'000.00 3'750.00 6'300.00 10'050.00 12'000.00 2.50 54'000.00 3'125.00 7'560.00 10'685.00 14'000.00 2.10 63'000.00 2'678.57 8'820.00 11'49 8. 57 16'000.00 1.90 72'000.00 2'343.75 10'080.00 12'423.75 18'000.00 1.70 81'000.00 2'083.33 11'3 4 0. 0 0 13'423.33 20'000.00 1.50 90'000.00 1'875.00 12'600.00 14'475.00 22'000.00 1.40 99'000.00 1'704.55 13'860.00 15'564.55 Besoin annuel Prix d'achat par pièce Coûts de passation de commandes Coûts de stockage ( M ) CHF ( P ) ( B ) % ( L ) 30'000.00 4.50 1'250.00 28 Calcul d'après la formule d'Andler ( Qopt ) 7'715.00 pces. Le calcul de contrôle avec la formule d'Andler est un peu plus précis. Nous ob - tenons comme résultat, avec les mêmes paramètres, une quantité optimale de commande de 7'715 pièces. Module 311_Les concepts de l’approvisionnement"
+    },
+    {
+     "t": "p",
+     "text": "50"
+    }
+   ]
+  },
+  {
+   "id": "s-11-7",
+   "number": "11.7",
+   "title": "Analyse ABC/XYZ",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-11-7-1",
+   "number": "11.7.1",
+   "title": "Par e to",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Vilfredo Federico Pareto ( 1848 – 1923 ) était un ingénieur, économiste et sociolo - gue italien. En 1906, il a étudié la répartition de la fortune de la population italien - ne. Il a constaté que 20 pour cent de la population italienne possédait environ 80 pour cent de la fortune. Inversement, 80 pour cent de la population devait vivre avec seulement 20 pour cent de la fortune. Cette répartition qu'il a identifiée a été confirmée à maintes reprises dans d'autres études et dérivée en tant que Loi de Pareto."
+    },
+    {
+     "t": "p",
+     "text": "Ce phénomène de répartition peut être confirmé à maintes reprises dans la pratique. En 1989, on a par exemp - le constaté que 20% de la population mondiale possédait 82,7% de la riches - se mondiale. Avec 20 pour cent d'effort, on obtient 80 pour cent de résultat. Les 80 pour cent d'efforts restants produi - sent encore les 20 pour cent de résul - tats restants. Une entreprise réalise 80% de son chiffre d'affaires avec 20% de ses clients. Les 80 pour cent de clients restants génèrent les 20 pour cent de chiffre d'affaires restants. Le principe de Pareto est également utilisé dans la gestion d'entreprise pour la planification et la prise de décision. Dans le domaine de la logistique, ce principe est utilisé pour pouvoir organiser l'entrepôt de la manière la plus optimale pos - sible. Dans le domaine du stockage, le principe de Pareto a été complété par un domaine et est connu sous le nom d'analyse ABC. 20% 20% 80% des efforts 80% des résultats apportent"
+    },
+    {
+     "t": "p",
+     "text": "51 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Différencier la quantité et la valeur avec l'analyse ABC Deux points de vue se sont révélés particulièrement intéressants dans le domaine de l'entreposage:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Rotation des stocks = Quels sont les articles les plus utilisés?",
+      "Valeur = quels sont les articles les plus chers du stock?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Répartition Part de la quantité total Part de stock Proportion sur le champ-valeur Recommandation d'action Biens A 20% 75% Stocké le plus près possible Biens B 30% 20% Stocké dans la zone centrale Biens C 50% 5% Stocké dans la zone arrière Biens A 20% 75% Priorité dans les négocia - tions d'achat Biens B 30% 20% Deuxième priorité dans les négociations d'achat Biens C 50% 5% Troisième priorité dans les négociations d'achat Part de la valeur en % A – Eléments B – Eléments C – Eléments Part des quantités en % important, car part de valeur élevé ou rendement élevé peu important, car faible part de valeur ou faible rendement, mais éventuellement coùts élevés Module 311_Les concepts de l’approvisionnement"
+    },
+    {
+     "t": "p",
+     "text": "52 A B C D E F G H I J 1 N° d'article Prix d'achat Quantité commandées Valeuer de la com-mande en CHF Part en % de la valeur de la com-mande % cumulés Nombre d'article Part en % du nombre d'article Catégorie Part par catégorie 2 16 30.30 288'000.00 8'726'400.00 30.74 30.74 1 5% A A = 20% 3 13 29.30 190'800.00 5'590'440.00 19.69 50.43 2 10% A 4 7 42.60 102'000.00 4'345'200.00 15.30 65.73 3 15% A 5 4 22.00 190'825.00 4'198'150.00 14.79 79.98 4 20% A 6 14 18.10 130'200.00 2'356'620.00 8.30 88.82 5 25% B B = 10% 7 9 59.50 30'200.00 1'796'900.00 6.33 95.15 6 30% B 8 15 35.50 9'200.00 326'600.00 1.15 96.30 7 35% C C = 70% 9 20 20.50 15'900.00 325'950.00 1.15 97.44 8 40% C 10 18 7.80 36'000.00 280'800.00 0.99 98.43 9 45% C 11 19 13.90 11'000.00 152'900.00 0.54 98.97 10 50% C 12 11 16.80 4'000.00 67'200.00 0.24 99.21 11 55% C 13 17 5.40 10'000.00 54'000.00 0.19 99.40 12 60% C 14 12 8.60 5'500.00 47'300.00 0.17 99.57 13 65% C 15 6 16.00 2'000.00 32'000.00 0.11 99.68 14 70% C 16 10 11.50 2'000.00 23'000.00 0.08 99.76 15 75% C 17 3 43.00 500.00 21'500.00 0.08 99.83 16 80% C 18 5 25.00 800.00 20'000.00 0.07 99.91 17 85% C 19 8 8.00 1'800.00 14'400.00 0.05 99.96 18 90% C 20 2 20.00 400.00 8'000.00 0.03 99.98 19 95% C 21 1 45.00 100.00 4'500.00 0.02 100.00 20 100% C 20 28'391'860.00 100.00 1 2 3 4 5 6 7 8"
+    },
+    {
+     "t": "p",
+     "text": "53 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-11-7-2",
+   "number": "11.7.2",
+   "title": "Analyse ABC selon la valeur de la commande - Voici",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "comment procéder Légende: Étape 1: Déterminer la valeur de la commande C2 * D2 Étape 2: Faire le total de la valeur commande ( E2:E21 ) Étape 3: Part en % de la valeur de la commande = ( E2/$E$22 )*100 Étape 4: Trier la colonne de la valeur de la commande par ordre décroissant Étape 5: % Cumulus: 1. F2; 2. G2+F3; 3. G3+F4 etc… Étape 6: Dans la colonne H, numéroter les articles dans l'ordre croissant Étape 7: Colonne I: Part en % sur le nombre a'article: ( H2/$B$22 )*100 Étape 8: Classer par catégorie A B C Il ressort de l'analyse que les articles n° 16/13/7/4 représentent 20 pour cent en termes de quantité et 79.98 pour cent en termes de valeur de commande. L 'entreprise doit fournir un effort particulier pour ces quatre articles, par exemple lors des négociations de prix avec le fournisseur, car ils sont particulièrement importants pour l'entreprise. Module 311_Les concepts de l’approvisionnement"
+    },
+    {
+     "t": "p",
+     "text": "54"
+    }
+   ]
+  },
+  {
+   "id": "s-11-7-3",
+   "number": "11.7.3",
+   "title": "Optimisation des emplacements de stockage selon l'analyse ABC",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une entreprise de production dispose d'un entrepôt proche de la production. Les marchandises sont stockées de manière désordonnée ( chaotique ). Les marchan - dises sont stockées partout où il y a de la place. Une analyse ABC permet de déterminer les biens auxquels on a souvent recours. Ces biens sont ensuite stockés à proximité de la production. Avant l'optimisation: les articles A sont répartis dans l'entrepôt et les trajets de transport sont longs. Après l'optimisation: les articles A sont stockés à proximité de la production, les distances de transport sont nettement plus courtes."
+    }
+   ]
+  },
+  {
+   "id": "s-11-7-4",
+   "number": "11.7.4",
+   "title": "Analyse XYZ",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L 'analyse ABC montre par exemple quels articles ont la valeur la plus élevée dans le stock. L 'analyse XYZ déduit de la consommation, une prévision de la consom - mation future, et répartit les articles en classes X, Y, et Z. L 'analyse XYZ permet d'évaluer les stocks et de déterminer la quantité d'articles à acheter."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les articles X sont utilisés très régulièrement et en quantités à peu près éga - les. Grâce à cette régularité, la précision de prévision des consommations futu - res est très grande.",
+      "Les articles Y ont une évolution de consommation régulière à la hausse ou à la baisse et correspondent à une prévisibilité moyenne pour les consommations futures.",
+      "Les articles Z sont consommés de manière très irrégulière. Il existe une faible prévisibilité pour les consommations futures."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les formes d'approvisionnement ( voir chapitre 1 1.2 ) sont déduites de l'analyse XYZ:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Approvisionnement",
+      "Approvisionnement au cas par cas ou individuel",
+      "Juste à temps"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "55 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-11-7-5",
+   "number": "11.7.5",
+   "title": "Fusion de l'analyse ABC et de l'analyse XYZ",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Ci-dessous, nous rassemblons les conclusions de ces deux analyses et en dédui - sons des recommandations pour la forme d'approvisionnement. Ces recomman - dations doivent, bien entendu, être adaptées à la situation actuelle de l'entreprise. Valeur / Quantité A"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Part de la valeur élevée",
+      "Part de la quantité faible"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "B"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Part de la valeur moyenne",
+      "Part de la quantité moyenne"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "C"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Part de la valeur-faible",
+      "Part de la quantité élevée"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Précision des prévisions X"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Consommation régulière",
+      "Des quantites à près égales",
+      "Précision de prédic-tion élevée",
+      "Livraison juste à temps",
+      "Approvisionnement en stocks",
+      "Approvisionnement optimal taille du lot",
+      "Approvisionnement en stocks",
+      "Approvisionnement optimal taille du lot"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Y"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Consommation en augmentation ou en diminution régulière",
+      "Quantités fluctu-antes",
+      "Précision de prédic-tion moyenne",
+      "Livraison juste à temps",
+      "Pas de stockage",
+      "Contrat sur appel ou càdre",
+      "Approvisionnement en stocks",
+      "Pas ou peu de stockage",
+      "Approvisionnment en stocks",
+      "L'approvisionne-ment est suffisant pour und période plus longue"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Z"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Consommation très irrégulière",
+      "Précision de prédic-tion faible",
+      "Livraison juste à temps",
+      "Pas de stockage",
+      "Contrat sur appel ou cadre",
+      "Livraison juste à temps",
+      "Pas de stockage",
+      "Apptovisionnment en stocks",
+      "L'approvisionne-ment est suffisant pour und période plus longue"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque les classes d'articles XA, XB et XC sont les plus faciles à planifier. Les classes d'ar - ticles ZA, ZB et ZC sont les plus difficiles à planifier. Module 311_Les concepts de l’approvisionnement"
+    },
+    {
+     "t": "p",
+     "text": "56 Contrats sur appel et contrats-cadres Recommandation pour les classes d'articles YA et ZA: le service d'approvisionne - ment passe un contrat avec un fournisseur. Ce contrat comprend l'achat garanti d'une certaine quantité d'un article. Il peut s'agir par exemple de la quantité an - nuelle connue ( p. ex. 1000 pièces ). L 'approvisionnement garantit au fournisseur l'achat de cette quantité dans un délai convenu ( p. ex. un an ). Le fournisseur s'en - gage à toujours avoir suffisamment d'articles en stock. L 'approvisionnement com - mande au besoin les quantités nécessaires ( besoin net module 1 10 ) et dispose ainsi d'un délai d'approvisionnement très court. Ce type de contrat aide l'entrepri - se à maintenir ses stocks à un niveau bas et à éviter les stocks de sécurité. L 'achat garanti de grandes quantités ( par exemple en l'espace d'un an ) permet égale - ment de négocier de bons prix d'achat."
+    }
+   ]
+  },
+  {
+   "id": "s-11-8",
+   "number": "11.8",
+   "title": "Formes d'approvisionnement et conséquences sur la",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "réception des marchandises"
+    }
+   ]
+  },
+  {
+   "id": "s-11-8-1",
+   "number": "11.8.1",
+   "title": "La réception des marchandises",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La réception des marchandises se situe ent - re la livraison des articles et le stockage. Les marchandises sont réceptionnées, déchar - gées par le transporteur, déballées et cont - rôlées. Ce processus est enseigné dans le module 304 ( identification de la livraison ) et dans le module 308 ( contrôle détaillé ). Les articles importants et/ou coûteux sont liv - rés au contrôle d'entrée des marchandises ( voir module 309 ) conformément aux instructions relatives à la qualité et y sont contrôlés quant à leur identité, leur quantité et leur qualité. Si les articles répondent à toutes les exigences, ils sont stockés dans l'entrepôt et sont libérés pour une utilisation ultérieure. Les articles défectueux sont signalés au service des achats conformément aux instructions de l'AQ, qui détermine la marche à suivre, le plus souvent en concertation avec le fournisseur. Exigeant et important, ce processus de réception des marchandises garantit un départ ordonné dans la création de la valeur interne."
+    },
+    {
+     "t": "p",
+     "text": "57 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-11-8-2",
+   "number": "11.8.2",
+   "title": "Conséquences ( effets ) du mode d'acquisition sur ce processus",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L 'article 30001 1619-Q651 1X Cartridge HP 2420 Toner Black est utilisé en quantités moyennes. Selon la répartition, il s'agit d'un article XB qui a été acheté jusqu'à pré - sent selon la formule Andler dans une taille de lot optimale en termes de coûts. Lors d'une réunion d'approvisionnement avec ce fournisseur fiable et de longue date, il a été convenu d'acheter cet article juste à temps, en raison de sa bonne disponibilité. Le capital immobilisé sous forme de stock ainsi économisé promet d'être une décision rentable. Peu après le changement, le service de réception des marchandises signale qu'il a un surcroît de travail considérable parce que cet ar - ticle arrive maintenant beaucoup plus souvent qu'avant à la réception des mar - chandises. Le surcroît de travail à la réception des marchandises doit donc être compensé par les économies réalisées sur le stock et diminue donc, voire s'épuise complètement. Approche de solution Lors d'une autre réunion avec le fournisseur, qui est certifié ISO 9001, il a été con - venu que le contrôle de sortie du fournisseur devait également contenir et consig - ner les points de contrôle de l'entrée des marchandises chez le client. Un certificat de contrôle correspondant est joint à la livraison. Ainsi, l'entrée des marchandises se réduit à la réception, au stockage et à l'enregistrement de la livraison. Cette approche ne peut pas être appliquée de manière généralisée, mais pour certains articles et pour les fournisseurs correspondants certifiés ISO, un contrôle de la réception des marchandises peut être effectué et consigné dès la livraison par le fournisseur. Cela permet de réduire la charge de travail à la réception des marchandises. Les directives et instructions internes à l'entreprise sont toutefois décisives. Module 311_Les concepts de l’approvisionnement"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,481 @@
+{
+ "code": "206",
+ "title": "Communication",
+ "domain": "200",
+ "pdf": "M206.pdf",
+ "pages": 16,
+ "words": 2618,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pop-up ou pop-under Pop-up et pop-under sont des termes marketing qui désignent une fenêtre qui s'affiche lors d'une navigation au sein d'un site web. Ils s'ouvrent automatiquement et incitent les internautes à l'action. Les pop-ups, de plus petite taille que la fenêtre principale, chevauchent le contenu de la page web qui est consultée. Alors que les pop-unders sont totalement non invasifs. Contrairement aux pop-ups, les pop-unders n’interrompent pas les utilisateurs qui naviguent paisiblement sur internet. L'internaute ne s’en aperçoit que quand il a fermé l’onglet qu’il consultait. L'affichage des pop-ups peut être supprimé à l'aide d'un bloqueur de pop-ups. Une forme plus récente de pop-ups est ce que l'on appelle les Hover Ads. Elles sont placées sur un site web de manière à en masquer le contenu et à forcer l'attention de l'utilisateur. Pour accéder au site souhaité, il faut fermer la fenêtre publicitaire."
+    },
+    {
+     "t": "p",
+     "text": "L'exemple d'une Hover Ads: le contenu de la page web est masqué par la publicité. Pour pouvoir lire la page Web, il faut fermer la Hover Ad."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 205"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "EnterSite AG est un fournisseur renommé de communication bureautique. Basée à Rupperswil, elle opère dans toute la Suisse. Les collaborateurs atteignent les clients dans toute la Suisse, les conseillent et les soutiennent avec plaisir et avec beaucoup d'engagement. Leur seul objectif est d’obtenir de bons résultats! Face à l'intensité croissante de la concurrence, il devient de plus en plus important pour EnterSite AG de réaliser des avantages concurrentiels sur le marché et de les maintenir durablement grâce à un travail de communication efficace et efficient."
+    }
+   ]
+  },
+  {
+   "id": "s-6-1",
+   "number": "6.1",
+   "title": "Moyens de communication",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La communication est omniprésente, elle englobe toutes les formes de transmission de messages d'un émetteur à un récepteur. Peu importe que la communication ait été établie dans un but précis ou non. La particularité de toute communication est que chaque partenaire de communication agit à la fois comme émetteur et récepteur. Même si une seule personne parle (verbalement), l'autre lui « répond » au moins par des expressions de langage corporel (non-verbal)."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2",
+   "number": "6.2",
+   "title": "Fonctionnement de la communication",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour que la communication humaine soit réussie, les trois éléments suivants doivent être au moins réunis:"
+    },
+    {
+     "t": "p",
+     "text": "Dans le contact indirect, l'émetteur envoie un message qui est reçu par le récepteur; il n'y a pas de réponse. C'est ainsi que fonctionnent la radio et la télévision. Le présentateur (l’émetteur) du message n'a pas d'interlocuteur. Il ne sait pas si son message a été reçu et compris par le destinataire et ce que celui-ci en pense, car il ne reçoit pas de retour direct."
+    },
+    {
+     "t": "p",
+     "text": "Dans le contact direct, le message est suivi d'un retour, appelé feedback. L'émetteur transmet son message et observe en même temps le récepteur (son interlocuteur). Celui-ci donne, volontairement ou non, un feed-back. Ce feedback peut être verbal (avec des mots) ou non-verbal (langage du corps). Il est enregistré par l'émetteur et influence ainsi la suite de la communication. L'émetteur interprète surtout les signaux non-verbaux du récepteur."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la communication peut être verbale ou non-verbale."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-1",
+   "number": "6.2.1",
+   "title": "Un modèle de communication",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le modèle émetteur-récepteur Le modèle émetteur-récepteur définit la communication comme la transmission d'une information d'un émetteur à un récepteur. Pour ce faire, l'émetteur doit transformer le message en une représentation (codage) que les deux parties peuvent comprendre, le message doit être adapté mais non déformé dans le but d’aider le récepteur à décoder ce qu’on souhaite lui communiquer. Ce message est ensuite transporté par un canal de communication (direct ou indirect) vers le récepteur qui l'interprète. Le récepteur perçoit le message et doit le décoder, c’est à dire le comprendre. Sa perception ne correspond cependant pas toujours au message que l'émetteur voulait communiquer, car des interférences peuvent survenir à toutes les étapes et les deux doivent utiliser le même codage ou décodage. Une fois le message parvenu à l’émetteur, celui-ci initie par sa réponse un processus de communication en sens inverse, ce qu’on appelle le feedback. Ce n'est que cette réaction qui indique à l'émetteur du message si son message a été compris. Le feedback peut à son tour être sujet à des"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "perturbations et par conséquent non compris. Remarque: Entre ce que je pense, ce que je veux dire, ce que je crois dire, ce que je dis et entre vous voulez entendre, ce que vous entendez, ce que vous croyez comprendre, ce que vous voulez comprendre, ce que vous comprenez...il y a au moins neuf possibilités de ne pas se comprendre!"
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-2",
+   "number": "6.2.2",
+   "title": "Le feedback aide tout le monde",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le feedback désigne un retour d'information. C’est la réponse que donne le récepteur à l’émetteur. Ça peut être positif, négatif, verbal ou non-verbale. Il est essentiel d’écouter le feedback pour savoir si votre message a été reçu et compris. De la même manière que l'on aime recevoir du feedback, on devrait également en envoyer, de préférence en combinant le verbal et le non-verbal. Cela permet d'améliorer la communication et de réduire les malentendus. Tu peux ainsi donner un feedback utile:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Exprime honnêtement comment tu comprends le message et ce que tu ressens.",
+      "Relie le feedback au contenu et non à la personne.",
+      "Donne le plus de feedback possible et rapidement (verbal et non-verbal)."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Exemple: Par exemple, si t’envoie un message à un ami pour lui demander un service, sa réponse sera un feedback"
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-3",
+   "number": "6.2.3",
+   "title": "L'écoute active",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L’écoute active est une technique de communication visant à encourager les échanges. Elle repose sur l’utilisation de reformulations et d’interrogations pour montrer à son interlocuteur qu’il est écouté et compris. Cette technique participe à créer une atmosphère de confiance pour inviter chacun à s’exprimer librement. Pour pratiquer l’écoute active lors d’échanges, on peut essayer ce qui suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Être là pour l'autre pendant un certain temps",
+      "S'intéresser réellement à l'autre personne",
+      "Savoir se taire (laisser l’autre personne s’exprimer)",
+      "S'adapter à l'autre personne; être attentif",
+      "Accepter l'autre tel qu'il/elle est",
+      "Rester soi-même, ne pas prendre en charge les problèmes de l'autre personne",
+      "Se mettre à la place de l'autre personne"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Trois phases d'écoute active"
+    }
+   ]
+  },
+  {
+   "id": "s-6-3",
+   "number": "6.3",
+   "title": "Types de communication",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-6-3-1",
+   "number": "6.3.1",
+   "title": "Communication verbale",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Les messages verbaux sont communiqués au moyen des mots que nous utilisons. Évidemment, le message verbal constitue un aspect important de la communication, mais notre façon de communiquer de façon non-verbale est tout aussi importante, si ce n’est plus. La communication est d’autant plus efficace quand le langage verbal est en adéquation avec le langage non-verbale, on parte alors de congruence."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Lorsque j'appelle un fournisseur et que je lui demande: « Quand est-ce que la marchandise promise arrivera-t-elle enfin? », je ne me contente pas de demander de la date de livraison, je lui fais également savoir, par ma façon de parler et le ton de ma voix, que je me suis fâché, mécontent et qu'il doit respecter les accords passés. La question ainsi posée est donc porteuse d'un vaste message à quatre niveaux d'expression:"
+    },
+    {
+     "t": "p",
+     "text": "Le choix des mots exerce une grande influence sur la manière dont le message est perçu par le destinataire et sur la réaction de ce dernier. L'affirmation: « Quand la marchandise promise arrivera-t-elle enfin? » sonne comme un reproche et la personne à laquelle on s'adresse doit, qu’on le veuille ou non, se défendre. C'est tout un art que d'exprimer clairement des faits sans pour autant blesser son interlocuteur. Dans l'exemple de la marchandise en attente, une formulation possible pourrait être:"
+    },
+    {
+     "t": "p",
+     "text": "« Nous n'avons malheureusement pas encore reçu la marchandise, mais nous en aurions désespérément besoin. »"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le langage dit expressif est souvent encore plus important que le contenu du message. Les nourrissons, par exemple, ne réagissent qu'au langage expressif, ils ne peuvent pas encore interpréter les mots."
+    }
+   ]
+  },
+  {
+   "id": "s-6-3-2",
+   "number": "6.3.2",
+   "title": "Communication non-verbale",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La communication non-verbale désigne tous les signaux corporels et façon de parler qui accompagnent le message verbal. Les signaux corporels sont difficiles à contrôler, la plupart du temps on n'en est même pas conscient. La communication non-verbale est utile pour comprendre le message de l'interlocuteur dans sa globalité. Elle peut appuyer ou altérer le message verbal, mais également transmettre une information émotionnelle sur la personne qui communique. Ce langage corporel influence la relation entre les individus en la précisant et en la renforçant. La congruence en communication c’est quand vos mots, votre corps ainsi que votre voix portent le même message. Et c’est dans cette configuration que vous serez le plus convaincant."
+    },
+    {
+     "t": "p",
+     "text": "La communication non-verbale englobe les points suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le volume (fort, faible)",
+      "Le ton de la voix (décontracté, objectif, brusque, menaçant)",
+      "La vitesse d'élocution (lente, rapide, précipitée)",
+      "L'intonation (uniforme, soulignant chaque mot, avec insistance)",
+      "Expressions du visage",
+      "Intensité du contact visuel établi",
+      "Langage corporel et position",
+      "Gestuelle et toucher"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Différents scientifiques soulignent qu'environ deux tiers de notre communication se fait sans mots. Le comportement non-verbal est d'une part « l'expression de pensées et de sentiments » et d'autre part une « caractéristique des relations interpersonnelles ». Les images suivantes montrent différentes expressions au moyen du langage corporel (non-verbal):"
+    },
+    {
+     "t": "p",
+     "text": "Signal Description du signal Signification"
+    },
+    {
+     "t": "p",
+     "text": "Adopter une posture décontractée Détente, confiance en soi"
+    },
+    {
+     "t": "p",
+     "text": "Croiser les bras sur la poitrine Défense"
+    },
+    {
+     "t": "p",
+     "text": "Se détourner Désintérêt"
+    },
+    {
+     "t": "p",
+     "text": "Adopter une posture rigide"
+    },
+    {
+     "t": "p",
+     "text": "Tension"
+    },
+    {
+     "t": "p",
+     "text": "Se balancer d'un pied à l'autre ou faire des gestes avec les mains Impatience"
+    },
+    {
+     "t": "p",
+     "text": "Soutenir la tête Réflexion ou ennui"
+    },
+    {
+     "t": "p",
+     "text": "Regard ouvert Expression faciale amicale Intérêt et volonté de dialogue"
+    },
+    {
+     "t": "p",
+     "text": "Acquiescer de la tête Compréhension ou accord"
+    },
+    {
+     "t": "p",
+     "text": "Froncer les sourcils Incompréhensio n, mécontenteme nt ou scepticisme"
+    },
+    {
+     "t": "p",
+     "text": "Tirer les coins de la bouche vers le bas"
+    },
+    {
+     "t": "p",
+     "text": "Insatisfaction, scepticisme S'accompagne généralement d'un froncement de sourcils"
+    },
+    {
+     "t": "p",
+     "text": "Baisser la tête ou regarder fixement le sol Incertitude ou défi"
+    },
+    {
+     "t": "p",
+     "text": "Passer devant (couper) l'interlocuteur Manque d'intérêt ou insécurité"
+    }
+   ]
+  },
+  {
+   "id": "s-6-4",
+   "number": "6.4",
+   "title": "Questions dans la communication",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Questionner ne signifie pas simplement poser des questions. Ce serait bien trop simple! L’important est de poser les bonnes questions au bon moment autant dans le quotidien professionnel que personnel. Pour cela, l’écoute active et la reformulation (feedback) sont deux alliés précieux. Soyez également attentifs à la communication non-verbale (la vôtre ainsi que celle de voter interlocuteur) et adaptez-vous. L’objectif de la communication peut être d’obtenir des informations, de prendre contact, de prospecter, de négocier ou de conclure/obtenir une validation. Dans le quotidien professionnel, il faut souvent se procurer des informations. Pour les obtenir, il faut poser des questions ciblées. Poser des questions ciblées est un art. La réponse souhaitée est obtenue grâce à des questions ciblées."
+    },
+    {
+     "t": "p",
+     "text": "« Quel est le montant de l'affranchissement pour cette lettre? » « Où mènent ces chemins? »"
+    }
+   ]
+  },
+  {
+   "id": "s-6-4-1",
+   "number": "6.4.1",
+   "title": "Question fermée",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La question fermée vise à obtenir une réponse courte et précise, de valider, obtenir un accord ou un refus sans demander de développement de la réponse. Généralement la réponse sera un « oui » ou un « non ». Elle commence généralement par un verbe. Quelques exemples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "« As-tu préparé la commande client? »",
+      "« Est-ce que le chargement du camion est terminé? »",
+      "« Est-ce que vous êtes satisfait du résultat que vous avez obtenu? »",
+      "« Le prix est-il un critère pour vous? »",
+      "« As-tu fait tes devoirs? »"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "« Est-ce que tu veux bien partager avec moi un peu de ton casse-croûte? »"
+    }
+   ]
+  },
+  {
+   "id": "s-6-4-2",
+   "number": "6.4.2",
+   "title": "Question ouverte",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La question ouverte est très efficace pour cerner les besoins et les attentes de votre interlocuteur car elle l’invite à développer ses pensées. On ne peut pas répondre brièvement à des questions ouvertes par « oui » ou « non », Les questions ouvertes sont formulées de manière à ce que la personne interrogée développe une réponse détaillée. Pour ce faire, vous pouvez utiliser la méthode QQOQCP (qui, quoi/quel, où, quand, comment/combien, pourquoi). Quelques exemples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "« Qui sont les parties prenantes engagées dans cette problématique? »",
+      "« Qu’est le problème? »",
+      "« Où puis-je trouver cette référence? »",
+      "« Quand a eu lieu le problème? »",
+      "« Comment se manifeste le problème? »",
+      "« Combien d’intervenants est-il possible de consulter? »",
+      "« Pourquoi avoir choisi cette solution? »"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Il existe une autre variante de la question ouverte qui comment par un verbe mais qui demande à votre interlocuteur de s’exprimer. Quelques exemples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "« Pouvez-vous me donner la raison de votre absence? »",
+      "« Est-il possible de me décrire le déroulement des faits? »"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-5",
+   "number": "6.5",
+   "title": "Conduire une conversation",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tu as probablement déjà constaté que tu préfères parler à certaines personnes, leur confier des choses plutôt qu'à d'autres, sans pouvoir donner de raison à cela. On ne peut contrôler ses sympathies et antipathies que dans une certaine mesure. Mais le fait que quelqu'un te soit sympathique pourrait aussi être dû à la manière dont cette personne réagit à tes propos."
+    }
+   ]
+  },
+  {
+   "id": "s-6-5-1",
+   "number": "6.5.1",
+   "title": "Moteurs de communication",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les moteurs de communication sont toutes les prises de position qui incitent l'interlocuteur à continuer à parler, à en dire plus. Avec les prises de position, on signale la compréhension, l’empathie et l'intérêt qu’on porte à notre interlocuteur. Dans le jargon, on appelle cela « l'écoute active ». Les prises de position suivantes sont des moteurs de communication typiques:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "« Ça a l'air intéressant! »",
+      "« Je ne le savais pas. »",
+      "« Qu'est-ce que tu veux dire? »",
+      "« Il faut que tu en dises plus. »",
+      "« Je te crois quand tu dis que... »"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-5-2",
+   "number": "6.5.2",
+   "title": "Obstacles de communication",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Contrairement aux moteurs de communication, les obstacles de communication rendent l’échange avec l’interlocuteur difficile voire impossible. Les obstacles de communication peuvent être liés à un désintérêt pour ce qui se dit ou par un environnement inadapté à la communication. Un manque d’intérêt pour la conversation peut se manifester en ignorant son interlocuteur ou en lui faisant comprendre par des formulations dévalorisantes que la conversation avec lui est peut intéressante. Cela peut le blesser ou même déclencher un comportement agressif. En plus de nuire à la bonne communication, le manque d’intérêt peut faire échouer par la suite vos tentatives de rapprochement. Dans le service à la clientèle, les obstacles de communication ne doivent pas être utilisés. Il est préférable de dire ouvertement et honnêtement au client que l'on n'a malheureusement plus le temps et que l'on ne peut pas poursuivre la conversation avec lui. Les obstacles de communication possibles:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Emettre des recommandations ou donner son avis",
+      "Passer son interlocuteur en interrogatoire",
+      "Ramener la conversation sur soi",
+      "Minimiser ou mépriser les propos de l’autre",
+      "Environnement inadapté pour l’échange"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Quelques exemples typiques d’obstacles de communication:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "« Ce que tu ne dis pas, tu ne le crois pas toi-même! »",
+      "« N'importe qui peut dire ça! »",
+      "« Qui a bien pu te raconter ça? »",
+      "« Je comprends pourquoi c'est comme ça, ça ne peut pas être autrement! »",
+      "« Tu dois juste... »",
+      "Des lieux communs comme: « Les années d'apprentissage ne sont pas des années de travail! »",
+      "Des recettes simples comme: « Tu dois apprendre plus! »",
+      "Des insinuations comme: « Tu dois te coucher plus tard! »",
+      "Des catégorisations telles que: « A ton âge, on ne peut pas encore comprendre! »",
+      "Parler uniquement de soi: « Eh bien, j'ai toujours fait comme ça... »"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-5-3",
+   "number": "6.5.3",
+   "title": "Mettre fin aux conversations",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La manière de conclure une conversation avec un client est aussi importante que la conversation elle-même. Une excellente façon de mettre un terme à une conversation, c’est de la conclure par un commentaire positif. Il convient de tenir compte des points suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Remercier le client (par exemple pour ses précieuses suggestions), réitérer vos excuses si nécessaire",
+      "Résumer brièvement les points en suspens et la suite de la procédure",
+      "Prendre congé du client, si possible en le nommant"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Il peut être difficile de mettre fin à une conversation avec un client bavard. Mais on y est souvent obligé en raison de la charge de travail. Les formulations suivantes permettent de mettre fin à la conversation sans que le client ne le prenne personnellement:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "« J'aimerais vous écouter plus longtemps, mais malheureusement, mes fonctions m'obligent à poursuivre mon travail. »",
+      "« Il faut absolument que nous continuions à parler une autre fois."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Malheureusement, je ne peux pas faire attendre les autres clients plus longtemps. »"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "« Il y aurait encore beaucoup de choses intéressantes à dire à ce sujet."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Peut-être aurons-nous le temps d'échanger à nouveau quelques mots sur ce sujet demain? »"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 206"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,172 @@
+{
+ "code": "505",
+ "title": "Planification et pilotage de la production",
+ "domain": "500",
+ "pdf": "M505.pdf",
+ "pages": 9,
+ "words": 1378,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entreprises de production comme EnterSite AG ne peuvent garantir leur compétitivité qu'en s'adaptant de manière flexible aux conditions externes. La planification et le contrôle de la production (PCP) est un instrument qui permet de planifier, de gérer et de contrôler le flux d'informations et de marchandises en termes de temps, de quantité ou d'espace. Une PCP qui fonctionne soutient les collaborateurs dans leur travail quotidien en créant de la transparence et en contribuant à adapter de manière optimale les processus aux circonstances particulières. L'objectif est de réduire au maximum les temps de passage des produits. Aperçu de la planification du module 505"
+    },
+    {
+     "t": "p",
+     "text": "5. planification et contrôle de la production (PCP)"
+    },
+    {
+     "t": "p",
+     "text": "L'une des tâches du département des ventes est de vendre suffisamment de produits pour que l'entreprise puisse se développer. Pour ce faire, il est nécessaire que les différents services intègrent un programme de vente dans leur planification. Le service des achats a, par exemple, pour mission d'acheter et d'organiser les matières premières, les produits semi-finis et finis nécessaires. Pour les produits que l'entreprise fabrique elle-même, un programme dit de production est établi. Celui-ci sert à la planification et à la gestion de la production pour calculer les besoins en matières. Cela permet de déterminer les articles pour lesquels le stock ne suffit pas à couvrir les besoins actuels (issus du programme de production). Cette soi-disant couverture insuffisante est planifiée dans la production à l'aide d'une planification des délais et des capacités. Dès que les commandes sont prêtes à être intégrées dans la production, le contrôle de la production prend le relais. La commande surveille l'ensemble du processus de production de toutes les commandes."
+    },
+    {
+     "t": "p",
+     "text": "Explications sur les tâches de la PCP"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Planification du programme de production: il s'agit de définir les produits à fabriquer en termes de type, de quantité et de délai.",
+      "Gestion du matériel, planification des quantités: les pièces et les sous-ensembles nécessaires à la production ou les matériaux à a cquérir"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(achat) sont définis ici selon le type, la quantité et le délai."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Planification des délais et des capacités: il s'agit de déterminer les délais de traitement et les capacités (humaines et machines) nécess aires à la production et de définir l'ordre de production.",
+      "Lancement de l'ordre: la production est lancée et tous les travaux et ordres qui y sont rattachés sont attribués.",
+      "Suivi des commandes: il s'agit de contrôler l'avancement des travaux, l'évolution des capacités des collaborateurs et des machines, les commandes des fournisseurs et les entrées de marchandises."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-1",
+   "number": "5.1",
+   "title": "Production push/pull",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il existe différentes formes de gestion de la production; le push et le pull en sont deux."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Production en flux poussé: la production en flux poussé possède une unité centrale de planification et de contrôle. Le flux d'informations et de marchandises vont dans la même direction. Il en résulte des s tocks importants, des délais de livraison longs et des coûts de plan ification élevée.",
+      "Production en flux tiré: la production en flux tiré découle des besoins actuels des clients et est généralement gérée de manière décentralisée."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Elle ne nécessite donc pas d'unité centrale de planificatio n et de contrôle. La production se fait en fonction des besoins. Le flux d'informations va à l'encontre du flux de matériel, car les informations du client arrivent en amont de la production. Des stocks réduits, des délais de livraison courts, un effort de planification moindre et une plus grande orientation client sont les conséquences positives du principe \"pull\"."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2",
+   "number": "5.2",
+   "title": "Production en vrac",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "\"Bulk\" est un mot anglais qui signifie \"masse\" ou \"quantité\". Les marchandises en vrac sont donc des marchandises de masse. Il s'agit de marchandises transportées en très grandes quantités (p ar exemple, des cargaisons entières ou partielles). La plupart du temps, les marchandises e n v r a c n e s o n t p a s destinées au consommateur final, mais aux commerçants et aux entreprises de transformation. Le plus souvent, les marchandises en vra c sont des produits semi-finis ou des biens de production qui entrent dans la compo sition d'un produit final. Remarque: dans le cas de la production en vrac ou de la production de masse, des biens présentant les mêmes caractéristiques son t produits en quantités non limitées et de manière récurrente. EExxeemmpplleess ddee pprroodduuccttiioonn eenn vvrraacc"
+    }
+   ]
+  },
+  {
+   "id": "s-5-3",
+   "number": "5.3",
+   "title": "Liste des pièces",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La notion de programme de vente a été évoquée dans le module 501. Elle est également pertinente dans ce chapitre. Le graphique, ci-dessous, montre l'influence du programme de vente sur la planification des quantités jusqu'à l'optimisation des quantités."
+    },
+    {
+     "t": "p",
+     "text": "Le programme de vente peut également être appelé besoin primaire, c’est-à-dire le besoin en produits vendables (par exemple, des voitures). Il se compose généralement de plusieurs pièces détachées et/ou de sous-ensembles. Ces composants sont, par exemple, assemblés dans un montage; ceux liés à besoin indépendant, sont regroupés dans une nomenclature. Une nomenclature (en anglais: Bill of Materials (BOM)) répertorie donc tous les articles et sous-ensembles d'un produit final. En gestion d'entreprise, on"
+    },
+    {
+     "t": "p",
+     "text": "parle ici de besoins secondaires. Les besoins secondaires servent à produire les besoins primaires. Pour que le service des achats et la planification de la production aient connaissance des articles et/ou sous-ensembles à acheter ou fabriquer, les besoins secondaires sont comparés au stock actuel. Il en résulte ce que l'on appelle les besoins secondaires nets. UUnn eexxeemmppllee Besoins primaires: 100 voitures Besoins secondaires: 400 pneus (sans roue de secours) Stock: 100 pneus Besoins secondaires nets: 400 - 100 = 300 pneus"
+    }
+   ]
+  },
+  {
+   "id": "s-5-3-1",
+   "number": "5.3.1",
+   "title": "Types de nomenclature",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nomenclature quantitative La nomenclature quantitative rassemble tous les composants d'un produit, fabriqué sous une forme non structurée. On distingue les pièces internes et les pièces externes (pièces achetées)."
+    },
+    {
+     "t": "p",
+     "text": "Numéro d'article Désignation Art Nombre 12398 Ressort B 2 12374 Arbre E 1 12355 Tube E 3 12363 Arceau F 2 12380 Boule E 10"
+    },
+    {
+     "t": "p",
+     "text": "B = sous-ensemble E = fabrication interne F = pièce exter ne"
+    },
+    {
+     "t": "p",
+     "text": "Une nomenclature de quantité est une forme de présentation simple et claire qui permet de lire directement les quantités résumées d'un produit/d'un article. Il manque toutefois une structuration. L'appartenance des pièces détachées et des sous-ensembles n'est pas reconnaissable. Par exemple, les nomenclatures par quantité ne sont donc pas adaptées à un service de montage. En revanche, elles le sont aux services d'achat ou de calcul du coût de revient, où il n'est généralement pas nécessaire d'établir une appartenance ou une hiérarchie. Nomenclature structurelle La nomenclature structurelle est une liste de tous les composants d'un produit sous une forme structurée et hiérarchisée. Elle permet d’évaluer le stade de fabrication et de voir quelles sont les pièces nécessaires et en quelles quantités."
+    },
+    {
+     "t": "p",
+     "text": "Le nombre visible au départ des flèches correspond au besoin d’un module. Pour un produit A, il faut trois groupes de construction II. Pour deux produits A, il en faut donc six etc. Il est également possible de gérer une nomenclature structurelle sous forme de tableau. La clarté est toutefois limitée."
+    },
+    {
+     "t": "p",
+     "text": "1 2 3 Nombre de pièces Numéro d'article Désignation X 1 A Produit X 3 II Sous-ensemble X 1 a Partie X 2 c Partie X 2 I Sous-ensemble X 3 a Partie X 1 b Partie"
+    },
+    {
+     "t": "p",
+     "text": "Nomenclature modulaire La nomenclature modulaire est obtenue en décomposant une nomenclature structurelle et montre l'assemblage d'un certain sous-ensemble souhaité. Dans l'exemple ci-dessous, on voit les sous-ensembles I et II au niveau de fabrication (FS) 1."
+    },
+    {
+     "t": "p",
+     "text": "La nomenclature modulaire peut également être gérée sous forme de tableau."
+    },
+    {
+     "t": "p",
+     "text": "Pos. pcs. No. Désignation Propre SL Pos. pcs. No. Désignation 1 1 I Sous-ensemble X 1 3 a Partie 2 1 b Partie Pos. pcs. No. Désignation Propre SL Pos. pcs. No. Désignation 1 1 II Sous-ensemble X 1 1 a Partie 2 2 c Partie"
+    },
+    {
+     "t": "p",
+     "text": "X 1 b Nomenclature de variantes La nomenclature de variantes est utilisée partout où le produit final/produit dont les composants peuvent présenter de légères différences."
+    },
+    {
+     "t": "p",
+     "text": "UUnn eexxeemmppllee Vélo: Couleur Voiture: Automatique, à commande manuelle Tension: Amérique du Nord 120V/Suisse 230V"
+    },
+    {
+     "t": "p",
+     "text": "Toutes ces différences correspondent à des variantes."
+    },
+    {
+     "t": "p",
+     "text": "Exemple de nomenclature de variantes"
+    },
+    {
+     "t": "p",
+     "text": "Les nomenclatures sont utilisées dans la planification de la production, la gestion des matériaux, la planification des capacités, la ges tion des temps, le montage, les achats, les tâches de calcul des coûts et bien d' autres choses encore. C'est pourquoi la gestion de la qualité des nomenclatures joue un rôle important dans une entreprise industrielle. Des nomenclatures erronées perturbent l'ensemble du processus et entraînent des coûts non souhaités."
+    }
+   ]
+  }
+ ]
+}

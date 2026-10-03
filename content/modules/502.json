@@ -1,0 +1,166 @@
+{
+ "code": "502",
+ "title": "Logistique de production",
+ "domain": "500",
+ "pdf": "M502.pdf",
+ "pages": 7,
+ "words": 761,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "RReemmaarrqquuee:: la structure du produit sert à la documentation complète à partir de différents points de vue ((pp.. eexx.. CCoonncceeppttiioonn//ffaabbrriiccaattiioonn)) d'un produit ou d'un groupe de produits similaires."
+    },
+    {
+     "t": "p",
+     "text": "PPrroodduuiitt SSttrruuccttuurree DDeessssiinnaatteeuurr MMoommeennccllaattuurree ss RRaappppoorrtt NNoommeennccllaattuurree Dans une entreprise industrielle, la logistique de production est responsable de la planification, de la gestion et du contrôle des processus logistiques au sein de l'entreprise. La production doit être approvisionnée en matières premières, en matières consommables et en pièces de rechange. Outre les activités liées au déroulement de la production, la logistique de production coordonne également l'élimination des déchets générés par la production."
+    },
+    {
+     "t": "p",
+     "text": "Aperçu de la planification du module 502"
+    }
+   ]
+  },
+  {
+   "id": "s-2-1",
+   "number": "2.1",
+   "title": "Définition de la logistique de production",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique de production est un processus dans une entreprise de fabrication qui se situe entre la logistique d'approvisionnement (input) et la logistique de distribution (output). La logistique de production planifie et contrôle le flux de marchandises en approvisionnant la production avec les biens nécessaires à la fabrication (matières premières, matières auxiliaires, consommables, etc.) à partir des entrepôts. Une fois la production terminée, les marchandises sont évacuées et conservées de manière appropriée dans l'entrepôt correspondant. Par ailleurs, la logistique de production soutient différentes activités de la production."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2",
+   "number": "2.2",
+   "title": "Objectifs et tâches de la logistique de production",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les tâches principales de la logistique de production peuvent être décrites comme suit: Par logistique de production, on entend toutes les mesures qui concernent le processus de fourniture de prestations (création de valeur), c'est-à-dire toutes les mesures allant de la prise en charge des facteurs de production mis à disposition jusqu'au transfert des produits finis à la distribution. Il s'agit de mettre à disposition tous les matériaux et informations nécessaires à la production dans le type, la quantité et la qualité requis et au bon moment. Comparer la \"règle des six B\" de Reinhardt Jünemann"
+    },
+    {
+     "t": "p",
+     "text": "Les objectifs de la logistique de production sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "des délais d'exécution courts",
+      "un grand respect des délais",
+      "des stocks aussi bas que possible dans les entrepôts",
+      "un niveau de qualité élevé",
+      "l’utilisation optimale de la capacité (homme et machine)",
+      "l’organisation optimale des voies de transport dans la production Remarque: en résumé, les objectifs de la logistique de production visent à réduire au maximum les coûts de fabrication."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-3",
+   "number": "2.3",
+   "title": "Types de stocks dans la production",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il existe différents types d'entrepôts pour soutenir le processus de production de prestations dans la production."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-1",
+   "number": "2.3.1",
+   "title": "Stocks d'approvisionnement ou de production",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La mission de ces entrepôts est de stocker les matières premières, les produits semi-finis et les produits finis nécessaires à la production. L'entrepôt d'approvisionnement sert à recevoir les marchandises entrantes (achetées) nécessaires à la production. La plupart du temps, les entrepôts de production sont situés dans la zone de production, ce qui permet de réduire les distances de transport. Dans les petites entreprises, les deux types d'entrepôts sont souvent réunis. On distingue les entrepôts de production en amont, les entrepôts intermédiaires dans la production, les entrepôts de production en aval et les entrepôts manuels. Entrepôts de production en amont Stockage de matières premières, de produits semi-finis et finis pour le processus de production."
+    },
+    {
+     "t": "p",
+     "text": "Stock de matières premières dans la production"
+    },
+    {
+     "t": "p",
+     "text": "Stockage intermédiaire dans la production Les entrepôts intermédiaires permettent de stocker des marchandises semi-finies jusqu'à ce qu'elles soient traitées lors d'une étape de production ultérieure."
+    },
+    {
+     "t": "p",
+     "text": "Rouleaux d'acier stockés temporairement Entrepôts de production en aval Les produits de production semi-finis et finis y sont stockés et préparés pour le transport en vue d'un traitement ultérieur (par ex.: atelier de peinture) ou pour le marché (commerce de détail, commerce de gros)."
+    },
+    {
+     "t": "p",
+     "text": "Vue aérienne: voitures produites en attente de transport"
+    },
+    {
+     "t": "p",
+     "text": "Stock de proximité Les stocks de proximité sont des petits espaces et généralement mobiles, ils permettent le stockage du matériel utilisé pour la production. En règle générale, les collaborateurs s'y servent en libre-service, sans comptabilisation dans le système ERP. Le petit matériel utilisé pour un produit (par ex.: vis) n'est généralement pas comptabilisé individuellement, mais comme un poste de petit matériel et de consommable dans le produit fini."
+    },
+    {
+     "t": "p",
+     "text": "Stock de proximité fixe"
+    },
+    {
+     "t": "p",
+     "text": "Stock de proximité sur chariot mobile"
+    },
+    {
+     "t": "p",
+     "text": "Graphique: types d'entrepôts dans une entreprise de production"
+    }
+   ]
+  },
+  {
+   "id": "s-2-4",
+   "number": "2.4",
+   "title": "Logistique opérationnelle d'élimination des déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique d'élimination est chargée de collecter, de trier, d'emballer, de stocker et enfin d'évacuer les déchets de toutes sortes, c'est-à-dire de prendre toutes les mesures nécessaires à la préparation et à l'exécution d'une élimination écologique et économique. En principe, il convient de noter que la prévention des déchets précède leur valorisation et que leur valorisation précède leur élimination."
+    }
+   ]
+  },
+  {
+   "id": "s-2-4-1",
+   "number": "2.4.1",
+   "title": "Tâches de la logistique de gestion des déchets",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les tâches de la logistique d'élimination correspondent en principe aux tâches classiques de la logistique."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prestation principale: transport, transbordement, stockage (processus"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "TTS)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prestation supplémentaire: collecte, tri, emballage / regroupement",
+      "Prestation d'information: traitement des commandes, suivi et traçabilité Tu trouveras d'autres informations importantes sur l'élimination dans le module 106."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,233 @@
+{
+ "code": "209",
+ "title": "After-Sales-Service (service après-vente (SAV))",
+ "domain": "200",
+ "pdf": "M209.pdf",
+ "pages": 7,
+ "words": 1592,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "Loi fédérale contre la concurrence déloyale (LCD) Article 8"
+    },
+    {
+     "t": "p",
+     "text": "«Agit de façon déloyale celui qui, notamment, utilise des conditions générales de vente qui, en contradiction avec les règles de la bonne foi prévoient, au détriment du consommateur, une disproportion notable et injustifiée entre les droits et les obligations découlant du contrat.»"
+    },
+    {
+     "t": "p",
+     "text": "8.8.3 Conditions générales de vente: exemples actuels"
+    },
+    {
+     "t": "p",
+     "text": "La Poste Suisse"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "CGV prestations postales pour la clientèle commerciale Les Chemins de fer fédéraux (CFF) CGV pour l'achat et l'utilisation du demi-tarif La Swisscom CGV pour les clients professionnels"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 208"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le service après-vente a pour but que la relation avec le client ne se termine pas avec la conclusion d’une transaction, mais qu'elle se poursuit pendant toute la durée d'utilisation d'un produit ou d'un service. En outre, les fabricants et les distributeurs espèrent obtenir davantage d'informations sur les souhaits des clients, la satisfaction des clients et les tendances du marché grâce au marketing d’après-vente. Ainsi, les connaissances et les expériences acquises dans le cadre du marketing d’après-vente sont également intégrées dans la planification, la production et la commercialisation de futurs produits, services et idées commerciales."
+    },
+    {
+     "t": "p",
+     "text": "Le service après-vente décrit les mesures de marketing qu'une entreprise prend, pour fidéliser les clients à long terme après la vente réussie d'un produit. En outre, le service après-vente a pour objectif de confirmer ultérieurement les clients dans leur décision d'achat, de les convaincre d'effectuer d'autres achats et d'augmenter leurs satisfactions en général. Le service après-vente devrait donc toujours être adapté individuellement à chaque client et cliente. Dans la distribution, le service après-vente offre souvent des possibilités d'affaires supplémentaires. Un autre objectif d'un bon service après-vente est de renforcer le lien durable avec l'entreprise: Plus l'expérience est bonne et confortable pour les clients, plus il est probable qu'ils reviennent vers l'entreprise à l'avenir."
+    },
+    {
+     "t": "p",
+     "text": "Fidéliser les clients à l'entreprise Les clients peuvent être fidélisés de différentes manières. Les services techniques et/ou commerciaux après l'achat du produit, tels que la formation des opérateurs, les services de maintenance et de réparation et les services de gestion, en sont un exemple."
+    }
+   ]
+  },
+  {
+   "id": "s-9-1",
+   "number": "9.1",
+   "title": "Réclamations",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La réclamation se distingue du droit de rétractation ou de la garantie. Une réclamation peut être introduite lorsque le produit présente un défaut matériel, qui existait déjà avant la remise du produit. Il y a défaut matériel lorsque la marchandise achetée ne correspond pas à la qualité convenue dans le contrat de vente. Le vendeur est tenu de livrer la marchandise sans défaut. S'il ne respecte pas cette obligation, le client a droit à la garantie. Ce droit est inscrit dans la loi. L'idée de base de la loi est que le contrat de vente doit être maintenu. Le client ne doit toutefois pas se contenter d'un produit défectueux. Il peut demander une réparation ou un échange du produit endommagé."
+    }
+   ]
+  },
+  {
+   "id": "s-9-1-1",
+   "number": "9.1.1",
+   "title": "Le droit de réclamation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le délai pendant lequel les réclamations peuvent être faites est fixé par la loi. Il est de deux ans. Le commerçant ne peut pas raccourcir cette période de garantie. Toutefois, la période de garantie n'est pas une garantie de durabilité: le fournisseur doit uniquement répondre des défauts qui existaient déjà au moment de l'achat. Les réclamations ne sont pas les seules à être soumises à des délais. Les factures et les justificatifs sont également soumis à certains délais de conservation."
+    },
+    {
+     "t": "p",
+     "text": "Quelle est la différence entre une plainte et une réclamation?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Une réclamation porte sur un produit ou un service spécifique. Elle comprend le droit légal à la garantie si le produit ou le service ne correspond pas à ce qui a été convenu dans le contrat de vente.",
+      "En revanche, en déposant une plainte, le client ne fait qu'exprimer son mécontentement."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-2",
+   "number": "9.2",
+   "title": "Le service à la clientèle",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De nombreux utilisateurs sursautent lorsqu'ils lisent le mot \"jeu-concours\". Mais il n'y a pas toujours quelque chose à gagner. Les escrocs connaissent différentes astuces pour dépouiller les utilisateurs qui ne se doutent de rien de leurs données ou de leur argent."
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-1",
+   "number": "9.2.1",
+   "title": "Le jeu-concours",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un jeu-concours est un jeu de hasard dans lequel un ou plusieurs prix sont mis en jeu. En règle générale, seuls les jeux de hasard orchestré par l'organisateur à des fins de publicité ou de collecte de données et pour lesquels le joueur ne doit pas payer, sont considérés comme des jeux promotionnels. Il ne s'agit pas de jeux promotionnels lorsqu'un jeu est simplement proposé dans le but de poursuivre d'autres objectifs, par exemple la conclusion d'un contrat (par ex. un piège à abonnement). Il existe plusieurs types de loteries: Loteries, concours (par écrit, par voie électronique, par téléphone), jeux de devinettes, quiz, tombolas, paris, etc."
+    },
+    {
+     "t": "p",
+     "text": "Objectif commercial Avec les jeux-concours, les entreprises poursuivent l'objectif de faire de la publicité et d'obtenir des données personnelles de consommateurs potentiels pour le commerce d'adresses dans le marketing direct. Les jeux-concours sont également utilisés pour attirer l'attention sur les réseaux sociaux. Il arrive également que des personnes reçoivent un avis de gain (promesse de gain) alors qu'elles n'ont participé à aucun jeu-concours. Avant de leur remettre un gain, les victimes sont invitées à fournir une contrepartie, par exemple à payer des \"frais\", à appeler des numéros de téléphone surtaxés ou à participer à des événements proposant des marchandises de mauvaise qualité à des prix exorbitants."
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-2",
+   "number": "9.2.2",
+   "title": "Enquêtes auprès des clients",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La satisfaction des clients est l'un des facteurs les plus importants qui contribuent au succès d'une entreprise. Si une entreprise ne sait pas ce que le client veut ou ne veut pas, elle peut en conséquence réaliser moins de chiffre d'affaires. Une bonne méthode pour obtenir le feedback des clients est l'enquête de satisfaction des clients (Customer Satisfaction Survey). L'enquête auprès des clients permet d'obtenir systématiquement des informations sur la satisfaction, les attentes et les habitudes d'achat des clients actuels ou potentiels. Les enquêtes clients réalisées de manière professionnelle favorisent la confiance des clients et renforcent l'image de sa propre entreprise. Les nouvelles connaissances acquises aident à exploiter le potentiel et à mettre en œuvre des stratégies d'amélioration."
+    },
+    {
+     "t": "p",
+     "text": "Quels sont les objectifs de la réalisation d'une enquête auprès des clients?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Déterminer les besoins et les souhaits des clients et connaître les attitudes et les attentes de ceci.",
+      "Détection à temps des évolutions négatives (système d'alerte précoce.)",
+      "Identifier les forces et les faiblesses de sa propre entreprise.",
+      "Poser les bases des stratégies de marketing et de vente des années à venir.",
+      "Prévenir l'exode des clients.",
+      "Donner le signal que l'entreprise se soucie de ses clients.",
+      "Augmenter la fidélité des clients et encourager leur développement"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(\"Satisfied - Loyal - Advocate\": Les clients satisfaits deviennent des clients fidèles et les clients fidèles des \"ambassadeurs enthousiastes.\")"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Augmentation de la motivation des employés grâce aux retours positifs des clients"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les différentes formes d'enquête Il est important d'adapter le type d'enquête au groupe cible à la clientèle de l'entreprise. En outre, le lieu, l'étendue, le moment et la méthode jouent un rôle dans une enquête. Il existe les formes d'enquêtes suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Enquête en ligne.",
+      "Enquête téléphonique.",
+      "Enquête personnelle."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "À l'ère du numérique, l'enquête en ligne est le moyen le plus courant d'interroger les clients. Il permet d'atteindre et d'interroger un nombre relativement important de clients à moindre coût. Un autre avantage de l'enquête en ligne est le fait que le client peut toujours choisir lui-même le moment de l'enquête."
+    }
+   ]
+  },
+  {
+   "id": "s-9-3",
+   "number": "9.3",
+   "title": "Tolérance",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans de nombreux secteurs, les entreprises n'ont pas la tâche facile: d'une part, le cycle de vie de nombreux produits s'est considérablement raccourci au fil des ans. D'autre part, les entreprises doivent pouvoir réagir à l'évolution rapide des tendances de consommation. Dans ce contexte, des facteurs tels que la satisfaction et la fidélisation des clients jouent un rôle important pour elles. Un instrument utile, souvent oublié dans ce contexte, est la bonne volonté."
+    },
+    {
+     "t": "p",
+     "text": "9.3.1 Qu'entend-on par bonne volonté? Le terme de complaisance désigne la concession unilatérale et volontaire entre deux parties contractuelles. Une entreprise n'est pas légalement tenue d'être conciliante envers un client: elle peut l'être si elle le souhaite. Le geste commercial ne peut être accordé qu'après l'exécution complète d'une commande. D'un point de vue purement juridique, le geste commercial est une décision volontaire de renoncer à des droits fixés par contrat. Le geste commercial se distingue de la garantie, qui est régie par la loi."
+    }
+   ]
+  },
+  {
+   "id": "s-9-4",
+   "number": "9.4",
+   "title": "Garantie",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On distingue la garantie et la garantie du fabricant:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Garantie: En Suisse, la loi prévoit que les consommateurs ont deux ans de garantie sur les objets achetés. Cela signifie que le vendeur doit garantir à ses clients pendant deux ans que son produit ne présente aucun défaut."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Cette période de garantie de deux ans est obligatoire et ne peut pas être raccourcie. Il est toutefois permis d'exclure totalement une garantie dans un contrat. Si c'est le cas, les clients doivent absolument jeter un coup d'œil à la garantie du fabricant de leur appareil."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Garantie du fabricant: dans le cadre de la garantie du fabricant, c'est le fabricant, (et non le vendeur) qui offre une garantie pour un produit sans défaut. La garantie du fabricant n'est pas réglementée par la loi. Un fabricant peut donc déterminer lui-même l'étendue et la durée de sa garantie. La plupart du temps, les fabricants proposent, dans le cadre de leur garantie, une réparation ou des pièces de rechange pendant un à cinq ans en cas de dommage. Certains fabricants garantissent en outre que leur appareil fonctionne parfaitement (garantie de bon fonctionnement)."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la garantie du vendeur et la garantie du fabricant ne s'excluent pas mutuellement. Souvent, le mode d'emploi d'un appareil fait référence à la garantie du fabricant. Il vaut la peine de jeter un coup d'œil à ces conditions, car chez certains fabricants, il faut faire enregistrer la garantie du fabricant."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification"
+     ]
+    }
+   ]
+  }
+ ]
+}

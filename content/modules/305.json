@@ -1,0 +1,604 @@
+{
+ "code": "305",
+ "title": "Déchargement des marchandises",
+ "domain": "300",
+ "pdf": "M305.pdf",
+ "pages": 25,
+ "words": 4378,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "\u0003Tu trouveras ici la Convention des Nations unies sur les contrats de vente internationale de marchandises."
+    },
+    {
+     "t": "p",
+     "text": "Une fois la livraison confirmée et acceptée par l'identification globale et détaillée, on passe au déchargement des marchandises. Le travail dans la logistique implique diverses tâches administratives et de nombreuses activités physiques. Lors de l'utilisation de différents moyens auxiliaires, du travail avec des marchandises lourdes et volumineuses et du travail sur des rampes, des portes ou des portails, il faut tenir compte de la sécurité au travail. Essayez le programme d'apprentissage de la SUVA:"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Comme décrit dans le\u0003\u0003module 304, les marchandises sont déchargées et contrôlées après le contrôle des documents d'accompagnement. Le déchargement de la livraison sur une rampe comporte, comme d'autres situations, différents risques. Il est donc nécessaire de travailler de manière concentrée et d'avoir des connaissances dans le domaine de la sécurité au travail. Ce module transmet les connaissances techniques nécessaires sur le thème de la sécurité au travail lors du chargement et du déchargement sur un quai. La sécurité au travail est divisée en deux domaines: les dangers liés à l’infrastructure et les dangers liés au travail."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1",
+   "number": "5.1",
+   "title": "Dangers liés à l’infrastructure",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les dangers liés à l’infrastructure concernent les risques liés à différentes conditions de construction dans la logistique, comme les rampes, les zones de circulation entre autres. Ceux-ci peuvent être qualifiés de zones dangereuses."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1-1",
+   "number": "5.1.1",
+   "title": "Surfaces de stockage et de circulation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Afin d'éviter les accidents, les zones de stockage doivent être clairement séparées des zones de circulation. Cela s'applique également lorsque des stockages en bloc sont créés dans des espaces non signalés. Si elles ne sont utilisées qu'à pied, les voies de circulation secondaires doivent avoir une largeur d'au moins 80 cm et les voies de circulation principales une largeur d'au moins 120 cm."
+    },
+    {
+     "t": "p",
+     "text": "Les marchandises doivent toujours être stockées de manière à ce qu'elles ne dépassent pas sur les voies de circulation et ne deviennent des dangers sur lesquels l’on pourrait trébucher."
+    },
+    {
+     "t": "p",
+     "text": "Aucune marchandise ne doit être déposée sur les voies de circulation."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1-2",
+   "number": "5.1.2",
+   "title": "Autres endroits dangereux dans l'entreprise",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les zones dangereuses liées aux infrastructures dans la logistique ne se limitent pas aux zones de stockage ou de circulation. Selon le bâtiment, il y en a d'autres:"
+    },
+    {
+     "t": "p",
+     "text": "1 Plateformes Les plateformes sont des surfaces de sol surélevées. Dans les entreprises, une barrière de sécurité protège généralement contre les chutes. Il convient d'être particulièrement prudent lors de la circulation sur ces plateformes. Si l'on doit s'arrêter avec un engin de manutentions sur une plate-forme, il faut le faire de manière qu’il ne puisse pas se déplacer en cas de mauvaise manipulation (p. ex. avec la commande d’inversion de sens). 2 Balances intégrées Les chariots de manutention ne doivent pas circuler sur les plateformes! Seules les balances intégrées au sol pour véhicules routiers le permettent. Les autres modèles pourraient être endommagés par le poids trop élevé des chariots de manutention. 3 Salissures Les saletés sur les zones de circulation doivent être nettoyées le plus rapidement possible. Lors de la conduite, il convient d'éviter les flaques de liquide et les objets qui traînent sur le sol. 4 Portails et portes Attention à La hauteur et la visibilité des portails, portes. Les passages sont limités. Afin de ne mettre personne en danger, il convient de les franchir avec prudence (utiliser des miroirs) et à vitesse réduite."
+    },
+    {
+     "t": "p",
+     "text": "5 Quai de chargement Attention aux risques de chute. Ne s’y rendre que lorsque c’est strictement nécessaire. N’entreposer aucune marchandise sur les quais. En s’éloignant avec le chariot élévateur, tenir compte du déportement."
+    },
+    {
+     "t": "p",
+     "text": "6 Rails Circuler avec prudence sur les voies ferrées industrielles couvertes. Selon les instructions du manuel du cariste, traverser les voies ferrées à un angle de 45°. 7 Plateformes élévatrices Toujours assurer les engins de manutention sur les plates-formes élévatrice (risque de chute). Stationner à une distance suffisante pour ne pas être entraîné lors du levage de la plate-forme élévatrice. 8 Grilles et couvercles de regard Risque d’effondrement!"
+    },
+    {
+     "t": "p",
+     "text": "Les grilles qui ne sont pas posés avec précision sont peu résistantes, l’engins de manutention peut basculer. Les couvercles de regard ont également une capacité de charge limitée. De plus, ils peuvent se déformer lors de la circulation et l’engin de manutention peut s’y enfoncer. Il convient donc de rouler à vitesse réduite sur ces zones à risque."
+    },
+    {
+     "t": "p",
+     "text": "9 Rampes Les rampes doivent être franchies avec une précaution particulière par les engins de manutention. Il ne doit jamais prendre de la vitesse et la charge doit toujours être orientée en amont de la pente. Avec le chariot élévateur vide, les montées et les descentes doivent être abordées conformément aux directives internes"
+    },
+    {
+     "t": "p",
+     "text": "Zone dangereuse: Quai de chargement Le quai de chargement est un endroit particulièrement dangereux dans la logistique. En règle générale, il n'est pas possible d'installer des barrières permanentes sur les quais de chargement, car ils doivent être directement accessibles pour les camions ou les wagons. Il existe donc un risque de chute lorsque l'on circule sur les quais de chargement. Les mesures suivantes permettent de réduire le risque de chute:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les rampes doivent être suffisamment larges. La règle suivante s'applique à la circulation des engins de manutention: largeur de l'allée de travail (Ast) + 10 %; voir également le manuel du cariste.",
+      "Les bords du quai doivent être marqués de manière bien visible ou être munis de protection amovible.",
+      "Les quais de chargement ne doivent pas être utilisés comme zone de stationnement ou de stockage temporaire.",
+      "Les collaborateurs doivent respecter les mesures de prudence relatives aux quais de chargement.",
+      "Les rampes de chargement trop étroites pour être empruntées par des chariots élévateurs ou qui, pour d'autres raisons, ne s'y prêtent pas, doivent être interdites à la circulation."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Risque de chute\u0003\u0003"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2",
+   "number": "5.2",
+   "title": "Risques liés au travail",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les opérations de chargement et de déchargement sont des activités exigeantes qui doivent être effectuées avec les précautions nécessaires. Il convient donc de prêter une attention particulière aux points suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sécurisation du véhicule à charger ou à décharger",
+      "Choisir l’engin de manutention de déchargement approprié",
+      "Utilisation correcte et sûre des moyens auxiliaires (par exemple, ponts de chargement et tôles de liaison)",
+      "Les postes de travail intérieurs et extérieurs doivent être disposés à ce que la circulation des piétons et des véhicules puisse se faire en toute sécurité (risque d'accident)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-1",
+   "number": "5.2.1",
+   "title": "Sécurisation du véhicule à charger ou à décharger",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors du transport de marchandises, le choix de véhicules est très vaste: semi-remorque, camion, camionnette, voiture, vélo, avion, bateau, wagon. La diversité des moyens de transport utilisés requiert également de vastes connaissances en matière de sécurisation des véhicules durant le déchargement et le chargement. Voici les principaux véhicules et les règles de sécurité qui s'y rapportent:"
+    },
+    {
+     "t": "p",
+     "text": "Sécurisation des véhicules dans le transport routier Les véhicules routiers sont généralement chargés et déchargés par l'arrière ou par le côté. Lors de l'approche de véhicules sur des rampes, les guides de roues peuvent aider à la mise en place du véhicule."
+    },
+    {
+     "t": "p",
+     "text": "Guides de roues lors du chargement et du déchargement"
+    },
+    {
+     "t": "p",
+     "text": "Butoirs de quais"
+    },
+    {
+     "t": "p",
+     "text": "Les rampes permettent d'améliorer le guidage des roues et donc l'alignement des véhicules, évitant ainsi les chocs accidentels. L'équipement du quai, mais aussi le bâtiment lui-même, peuvent ainsi être protégés. Grâce à l'installation de guides de roues, les camions sont plus facilement positionnés près du quai de chargement. Ils sont fixés au sol et peuvent avoir une alternance de bandes jaunes et noires d’avertissement pour une meilleure visibilité. Les butoirs de quai (ou pare-chocs) sont destinés à amortir le choc des camions lors de la mise à quai, afin de protéger à la fois l’infrastructure et le véhicule. Ils peuvent être fixes ou mobiles."
+    },
+    {
+     "t": "p",
+     "text": "Une fois le véhicule à quai, les mesures de sécurité sont prises. Pour éviter que le véhicule ne se déplace, il faut serrer le frein de stationnement (1) et couper le contact avant de commencer le travail."
+    },
+    {
+     "t": "p",
+     "text": "Cette mesure n'est toutefois pas suffisante pour le déchargement avec des chariots élévateurs, car des forces de poussée considérables peuvent se produire. Une sécurité supplémentaire est indispensable. Les cales placées sous les roues (2) ainsi que la fixation du véhicule au quai au moyen d'une chaîne ou d'une sangle (3) sont des moyens courants de sécuriser le véhicule. Grâce à différents équipements de sûreté automatique complémentaire le chargement et le déchargement peuvent aujourd'hui être effectués en toute sécurité:"
+    },
+    {
+     "t": "p",
+     "text": "Les semi-remorques sont sécurisées de la même manière que les autres véhicules (2 et 3). Toutefois, comme elles peuvent non seulement se déplacer, mais aussi se renverser, elles nécessitent des mesures de sécurité supplémentaires. Pour éviter qu'elles ne se renversent, elles sont équipées d'une béquille amovible (1). Toutefois, cela ne suffit pas à lui seul. Une mesure supplémentaire consiste à utiliser une simple pile de palettes (4) comme le support dolly ou un dispositif anti-basculement (4)."
+    },
+    {
+     "t": "p",
+     "text": "Exemple de sécurité anti-basculement supplémentaire (4)"
+    },
+    {
+     "t": "p",
+     "text": "Sécuriser le transport ferroviaire Il n'y a pas que dans le transport routier que le chargement et le déchargement font partie des activités fréquentes. Un grand nombre d'entreprises logistique disposent de leurs propres connexions ferroviaires. Le chargement et le déchargement s'effectuent par wagon de chemin de fer. La sécurisation des wagons doit être effectué par du personnel qualifié. Les wagons sont sécurisés avec un sabot de freinage ou le frein à main ou les deux."
+    },
+    {
+     "t": "p",
+     "text": "Le frein à main se trouve soit sur le côté latéral du wagon ou sur la plateforme du wagon."
+    },
+    {
+     "t": "p",
+     "text": "Frein à main sur le côté latéral"
+    },
+    {
+     "t": "p",
+     "text": "Frein à main sur la plate-forme"
+    },
+    {
+     "t": "p",
+     "text": "Le sabot de freinage est inséré entre le rail et la roue."
+    },
+    {
+     "t": "p",
+     "text": "Sabot de freinage"
+    },
+    {
+     "t": "p",
+     "text": "Sabot de freinage La pression de la roue sur la languette du sabot de freinage empêche le wagon de se déplacer."
+    },
+    {
+     "t": "p",
+     "text": "5.2.2 Choix correct de l’engin de manutention. Les engins de manutention sont des éléments importants dans la logistique. Ils sont utilisés lors du chargement et du déchargement des marchandises, mais aussi pour les préparations des commandes. Les engins de manutention sont répartis dans les catégories suivantes:"
+    },
+    {
+     "t": "p",
+     "text": "Catégories d’engins de manutention ne présentant pas de risque d'accident important Les catégories d'engins de manutention illustrées ci-dessous ne font pas partie des catégories des moyens de transport de marchandise présentant un risque d'accident élevé et peuvent être manœuvrés par de jeunes utilisateurs selon leur ordonnance de formation correspondante. Instruction: l’instruction doit être dispensée conformément aux indications du fabricant, elle doit couvrir l'étendue du mode d'emploi et doit être"
+    },
+    {
+     "t": "p",
+     "text": "complétée par des instructions de sécurité de l'entreprise et de conduite de l’engins de manutention. Elle doit comprendre une partie théorique et une partie pratique. La formation ou l’instruction doit être documentée par écrit. Qualification des formateurs: Les personnes qui dispensent des cours sur les engins de manutention mentionnés dans l'entreprise doivent avoir suivi au préalable un cours sur les engins de manutention à timon auprès d'un centre de formation reconnu par la Suva Durée: non définie. Cela dépend de la complexité de l’engin de manutention."
+    },
+    {
+     "t": "p",
+     "text": "Groupe/ catégorie d'appareils Désignations Caractéristiques et utilisation Tracteur Désignation selon CFST 6518 S1"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Tracteur Un tracteur est un engin de manutention utilisé pour le remorquage. Les chariots tracteurs disposent en général d’un moteur électrique. Ils sont équipés d’un siège conducteur et la plupart du temps il ne transporte pas de charge."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariot élévateur Désignation selon CFST 6518 S2"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Transpalette électrique à timon",
+      "Chariot élévateur électrique à timon où"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Transpalette électrique à timon ne dispose que d'une faible hauteur de levage (levée initiale). Transport de charges palettisées sur de courtes distances."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Gerbeur électrique à timon"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariot élévateur à timon avec conducteur accompagnant. Le mât d'élévation peut atteindre jusqu'à une hauteur de levage d'environ 5,5 m. Transport sur de courtes distances et empilage de charges palettisées. Chargement de marchandises."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Transpalette électrique à timon à conducteur porté debout"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Transpalette électrique à timon avec plate-forme de conduite rabattable. Levée initiale pour le transport de charges palettisées sur courtes et moyennes distances. Chargement et déchargement de marchandises."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chariot élévateur à timon ou gerbeur à timon à conducteur porté debout"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariot à conducteur accompagnant à timon avec plateforme de conduite rabattable. Mât jusqu'à une hauteur d'environ 5,5 m. Transport sur courtes et moyennes distances, ainsi que gerbage de charges palettisées et chargement de marchandises. Appareils de préparation de commandes"
+    },
+    {
+     "t": "p",
+     "text": "Désignation selon CFST 6518"
+    },
+    {
+     "t": "p",
+     "text": "S3"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Préparateur de commandes à petite levée",
+      "Préparateur de commandes horizontal"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les préparateurs de commandes sont utilisés pour la préparation de commandes à faible hauteur du sol (premier et deuxième niveau de rayonnage) Sur une dimension. La plateforme de conduite de l'opérateur peut être élevée jusqu'à une hauteur de 1m selon le type d'appareil."
+    },
+    {
+     "t": "p",
+     "text": "Catégories d'engins de manutention considérées comme “particulièrement dangereux”. Les catégories d'engins de manutention illustrées ci-dessous, présentent un risque d'accident important. En règle générale, les apprentis ne sont pas autorisés à utiliser de tels engins. Ce n'est qu'en vertu de la dérogation prévue par l'ordonnance sur la protection des jeunes (art. 4, al. 4) que les apprentis en formation reconnue par la Suva, comme est le cas pour les logisticiens, qui peuvent se former et utiliser ces engins de manutention. Type de formation / qualification des formateurs: Reconnaissance interne de l’entreprise: formation initiale par un instructeur cariste reconnu et formation complémentaire interne sur la base du manuel d'utilisation de la machine. Reconnaissance interentreprises: formation de base dispensée par un centre de formation reconnu par la Suva et formation complémentaire dispensée au sein de l'entreprise sur la base du manuel d'utilisation de la machine. Durée de la formation de base pour les débutants: quatre jours. La durée de la formation pour les personnes ayant de l'expérience dans le maniement de machines (par exemple, conducteurs de tracteurs, conducteurs d'engins de chantier, conducteurs de camions) est de deux jours. Formation complémentaire pour tous d’autres types de chariot élévateur de 1 jour."
+    },
+    {
+     "t": "p",
+     "text": "Groupe/ catégorie d'appareils Désignations Caractéristiques et utilisation Chariot élévateur à contrepoids Désignation selon CFST 6518 R1"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chariot élévateur à contrepoids électrique ou thermique avec"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(Trois ou quatre roues) Chariot élévateur à fourche pour une utilisation universelle. Hauteur de levage avec mât triple jusqu'à 7 m. Capacité de charge jusqu'à env. 2 t."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chariot élévateur à contrepoids à quatre roues. Propulsion thermique."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariot élévateur à fourche à quatre roues pour une utilisation en extérieur. Avec moteur diesel, essence ou gaz. Hauteur de levage avec mât triple jusqu'à 7 m. Capacité de charge jusqu'à environ 10 tonnes. Chariot élévateur pour charges lourdes jusqu'à 40 tonnes et plus."
+    },
+    {
+     "t": "p",
+     "text": "Chariots élévateur à siège transversal à haute levée Désignation selon CFST 6518 R2"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Gerber à conducteur porté assis",
+      "Chariot élévateur à mât rétractable."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariot élévateur électrique à conducteur porté assis latéral avec bras porteur ou mât rétractable. Hauteur de levage: Chariots à conducteur porté assis latéral. env. 5 m, chariots à mât rétractable env. 12 m. Utilisation: transport et stockage de marchandises en intérieur."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Engin de mise en stock tri-directionnel",
+      "Préparateur de commandes vertical",
+      "Préparateur de commandes à grande levée"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariot élévateur électrique à utiliser pour la préparation de commandes à hauteur moyenne. Hauteur jusqu’à 15 m. Ces chariots élévateurs disposent généralement de filoguidage pour un positionnement précis dans les allées de travail."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chariot élévateur multidirectionnel/qua dri directionnel"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariot élévateur électrique avec bras porteur et mât de levage rétractable. Hauteur de travail jusqu'à 9 m. Grâce à sa, rotation des roues le chariot élévateur multidirectionnel peut se déplacer dans n'importe quelle direction."
+    },
+    {
+     "t": "p",
+     "text": "Chariot latéral Désignation selon CFST 6518 R3"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chariot élévateur latéral"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Engin de transport électrique ou thermique à mât rétractable avec support de pour les charges. Hauteur de levage jusqu'à environ 4 m. Utilisation pour le stockage et le transport de marchandises longues. Principal domaine d'utilisation: les scieries. Chariot télescopique Désignation selon CFST 6518 R4"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chariot élévateur à bras télescopique."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariot élévateur polyvalent thermique pour une utilisation en extérieur. Dispose d'un bras télescopique sur lequel peuvent être montés différents accessoires, notamment des fourches pour le levage de charges."
+    },
+    {
+     "t": "p",
+     "text": "Prescriptions relatives à l'utilisation de chariots de manutention"
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "Dans l'\u0003\"Ordonnance sur la prévention des accidents et des maladies professionnelles (OPA)\" édictée par le Conseil fédéral, les employeurs sont tenus, aux articles 6 et 8, de procéder comme suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ils doivent informer les travailleurs des dangers qui peuvent survenir dans le cadre de leurs activités et des mesures à prendre pour éviter ces dangers. Ils doivent également veiller à ce que ces mesures soient respectées.",
+      "Ils ne peuvent confier des travaux comportant des dangers particuliers qu'à des employés ayant reçu une formation adéquate."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ordonnances concernant la formation"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "L'article 4 de \u0003l’ordonnance sur la protection des jeunes travailleurs stipule que les jeunes ne doivent pas effectuer de travaux dangereux. Sont considérées comme jeunes les personnes de moins de 18 ans. La conduite de chariots de manutention étant classée comme dangereuse, seules les personnes âgées de 18 ans révolus peuvent les conduire."
+    },
+    {
+     "t": "p",
+     "text": "\u0003\u0003"
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "\u0003Loi fédérale sur le travail dans l'industrie, l'artisanat et le commerce (loi sur le travail) Article 29 1 Sont considérés comme jeunes les travailleurs des deux sexes jusqu'à l'âge de 18 ans révolus. 2 L'employeur doit avoir les égards voulus pour la santé des jeunes et veiller au maintien de la moralité. Il doit notamment veiller à ce que les jeunes ne soient pas surmenés et à ce qu'ils soient préservés des mauvaises influences dans l'entreprise. […]"
+    },
+    {
+     "t": "p",
+     "text": "Les logisticiens(nes) en formation professionnelle initiale bénéficient d'une dérogation pour la conduite de chariots élévateurs. Si l'exercice d'un métier comporte également des activités dangereuses, celles-ci doivent être exercées durant la formation (avec des mesures d'accompagnement pour la sécurité au travail et la protection de la santé); c'est pourquoi elles sont autorisées à partir de 15 ans. C'est ainsi que les apprentis(es)en logistique peuvent conduire des chariots élévateurs dès l'âge de 15 ans."
+    },
+    {
+     "t": "p",
+     "text": "Transporter des marchandises en toute sécurité Un trafic intense de chariots élévateurs sur le quai de chargement et de déchargement, un quai mal organisé, des vitesses excessives avec des chariots de manutention, des palettes stockées au mauvais endroit peuvent réduire la visibilité et provoquer des accidents. L'absence ou le non-respect de la signalisation peut également constituer un risque d'accident. La base de la formation de cariste est le manuel du cariste. Les règles pour le transport de marchandises en toute sécurité au sein de l’entreprise y sont décrites en détail. C'est pourquoi seules les causes d'accident les plus fréquentes et les règles de sécurité les plus importantes sont mentionnées ci-après."
+    },
+    {
+     "t": "p",
+     "text": "Statistique des accidents Le nombre élevé d'engins de manutention et de piétons dans un espace restreint, comme est généralement le cas dans les entreprises de logistique et de production, constitue un défi particulier pour la sécurité au travail. Il n'est pas toujours possible de séparer complètement les voies de circulation des engins de manutention des voies de circulation pour les piétons. Dans ce cas, ce sont surtout les personnes qui se trouvent que temporairement dans l'entreprise et qui ne connaissent donc pas les conditions qui sont particulièrement exposées aux accidents. La statistique des accidents en Suisse fait état de plus de 10 000 accidents avec des engins de manutention, avec des coûts consécutifs d'environ 100 millions de francs. Une statistique allemande sur les accidents graves impliquant des engins de manutention montre la fréquence des différentes causes d'accident comme suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Accident par collision 48,7 %",
+      "Accident du conducteur 20,6 %",
+      "Monter et descendre 4,6 %",
+      "Accident avec un accessoire de levage 6,5 %",
+      "Accident de chargement 9,8 %",
+      "Autres 9,8 %"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Regarder toujours dans le sens de la marche"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "\u0003\u0003Un rapport d'accident issu de la pratique Un collaborateur de l'atelier d'emballage transporte des palettes vides avec un chariot élévateur à contrepoids de 6 tonnes. Au même moment, une personne externe à l'entreprise se trouve dans la zone d'emballage sans y être autorisé. Cette personne externe à l’entreprise sort soudainement de derrière un pilier et passe directement devant les roues avant du chariot élévateur. Sans que le cariste ne puisse réagir, le piéton est écrasé par le chariot élévateur et subit des blessures mortelles."
+    },
+    {
+     "t": "p",
+     "text": "Mesures contre les accidents de personnes"
+    },
+    {
+     "t": "p",
+     "text": "Sens de la marche = Direction du regard"
+    },
+    {
+     "t": "p",
+     "text": "Il existe une seule mesure efficace pour éviter de heurter des personnes avec des chariots élévateurs: regarder là où l'on circule. Cela s’applique déjà pour les trajets courts comme au désempilage, et cela vaut d’autant plus pour le transport de charges, où la vue sur les allées de circulation doit toujours être dégagée."
+    },
+    {
+     "t": "p",
+     "text": "5.2.3 Utilisation correcte et en toute sécurité des moyens auxiliaires de liaison. Le choix des moyens auxiliaires à utiliser dépend du type de marchandises à décharger et du type de véhicule de transport utilisé. Des moyens auxiliaires appropriés permettent un déchargement qualitatif et économique avec la plus grande sécurité possible. Pour le déchargement de marchandises palettisées, on peut utiliser:"
+    },
+    {
+     "t": "p",
+     "text": "Les tôles de liaison et ponts de chargement La diversité des hauteurs de camions et des quais rend l'utilisation de pont de chargement ou tôle de liaison inévitable. Ils réduisent le risque d'accident en assurant la liaison entre le quai et le véhicule. Toutes les zones de chargement et de déchargement ne disposent pas encore de rampes fixes et réglables reliant le véhicule à l'entrepôt. Les tôles de liaison amovibles sont encore souvent utilisées. Malheureusement, on utilise encore trop souvent dans ce domaine des équipements inadaptés qui ne disposent pas des conditions de sécurité requises. Les rampes tordues et glissantes représentent un danger. Les ponts de chargement (rampes de chargement) doivent au moins remplir les conditions suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Une capacité de charge suffisante (doit être indiquée);",
+      "Une surface antidérapante;",
+      "Une protection contre le déplacement."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les engins de liaison doivent répondre aux exigences minimales en matière de capacité de charge et de sécurité contre le glissement."
+    },
+    {
+     "t": "p",
+     "text": "Il est préférable de privilégier des modèles accrochés au quai de chargement et pouvant être rabattus."
+    },
+    {
+     "t": "p",
+     "text": "Tôle de liaison"
+    },
+    {
+     "t": "p",
+     "text": "Plateformes élévatrices et rampes ajustables Les plates-formes élévatrices et les rampes ajustables offrent une grande sécurité tant dans la mesure où elles sont utilisées de manière appropriée (respecter les instructions du fabricant). C'est le cas lorsque:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La capacité de charge indiquée n'est pas dépassée.",
+      "Le mode d'emploi est clairement affiché et respecté.",
+      "L'entretien (maintenance) est effectué uniquement par des spécialistes."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-4",
+   "number": "5.2.4",
+   "title": "Ascenseurs et monte-charges",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les monte-charges sont conçus pour une charge maximale déterminée. Cette charge dite utile doit être inscrite de manière bien visible dans le monte-charge. Lors du transport de marchandises avec un chariot élévateur, le poids total doit être calculé avant d'entrer dans le monte-charge. C'est pourquoi les caristes doivent connaître le poids de leur chariot élévateur. Le poids de celui-ci, celui du chargement et le poids du cariste additionnés ne doivent pas dépasser la charge utile indiquée. Si le poids est supérieur, le monte-charge ne doit pas être utilisé pour ce transport. Le cariste a tout intérêt à faire ses calculs avant même d'entrer dans le monte-charge. A plusieurs reprises déjà, des pannes graves ont été causées avec des dommages importants. Les ascenseurs pour personnes et monte-charge pour marchandises ne doivent jamais être utilisés en cas d'incendie. Dans les cages d'ascenseur se produit le redoutable effet de cheminée, c'est-à-dire que les gaz de combustion chauds montent dans la cheminée d’aération."
+    },
+    {
+     "t": "p",
+     "text": "Chariot élévateur + chargement + conducteur = < capacité de charge"
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "AATTTTEENNTTIIOONN En cas d'incendie dans un bâtiment, n'utilisez jamais l'ascenseur - il pourrait devenir un piège mortel."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-5",
+   "number": "5.2.5",
+   "title": "Pénétrer dans les installations de stockage automatisées",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une autre zone dangereuse dans les zones de travail se trouve dans les installations de stockage automatiques. Les logisticiens ne doivent en principe pas rester à l'intérieur des installations de stockage automatiques ou d'autres dispositifs automatiques (p. ex. entrepôt à grande hauteur HRL). Le dépannage doit être effectué uniquement par un personnel de service spécialement formé. Si, pour une raison quelconque, il est nécessaire de pénétrer dans une installation automatique, l'ensemble de l'installation doit être arrêté. Pour cela, il ne suffit pas de couper l'interrupteur principal, mais de le sécuriser de manière fiable contre toute remise en marche, de préférence avec un cadenas. Il ne faut jamais pénétrer dans une installation sur la seule base de propos, par exemple \"L'installation est arrêtée\"! La mise hors service d'une installation doit dans tous les cas être signalée au supérieur compétent ou être effectuée par ce dernier."
+    },
+    {
+     "t": "p",
+     "text": "Interrupteur principal sécurisé avec cadenas"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-6",
+   "number": "5.2.6",
+   "title": "Électricité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les dangers liés au travail doivent également être mentionnés dans la manipulation et travaux avec de l'électricité. Les lignes électriques sous haute tension sont extrêmement dangereuses. Dans le cas d'une ligne de contact des chemins de fer (exemple: spécialisation Transports), dans laquelle circule du courant à une tension de 15 000 volts, le simple fait de s'en approcher représente un danger de mort. Des précautions particulières doivent être prises à proximité des lignes électriques, surtout lors de travaux avec des chariots élévateurs. Les wagons ouverts ne peuvent être chargés que si les lignes sont déconnectées et mises à la terre."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "AATTTTEENNTTIIOONN Il ne faut pas toucher aux lignes électriques déconnectées ou mises à la terre."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-7",
+   "number": "5.2.7",
+   "title": "Signalisation et restriction d'accès",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Afin de limiter au maximum les dangers d’accident liés au travail, il est très important de travailler avec des symboles de sécurité et des restrictions d'accès. Les symboles suivants se sont imposés dans la logistique: Symbole Inscription Explication"
+    },
+    {
+     "t": "p",
+     "text": "Signaux d’avertissement Les signaux d'avertissement sont toujours de forme triangulaire. Dans les entreprises, les dangers imminents sont généralement signalés par des signaux jaunes/noirs. Dans le domaine des voies de circulation, on utilise également des signaux rouges/blancs issus de la circulation routière. Les signaux d'avertissement sont souvent combinés avec des signaux d'interdiction."
+    },
+    {
+     "t": "p",
+     "text": "Signaux d'interdiction En règle générale, les interdictions sont indiquées - comme dans la circulation routière - par des signaux ronds rouges/blancs. Les signaux d'interdiction sont contraignants, ce qui signifie qu'ils doivent absolument être respectés!"
+    },
+    {
+     "t": "p",
+     "text": "Signaux d'obligation Les signaux d'obligation sont ronds et bleus/blancs. Ils imposent un certain comportement en guise de protection contre les dangers imminents, exemple le port de lunettes de protection ou d'un casque. Les signaux d'obligation doivent également être respectés."
+    },
+    {
+     "t": "p",
+     "text": "Signaux de secours Les signaux d’indication ne sont pas toujours uniformes, mais ils sont généralement verts et blancs. Ils indiquent les voies d'évacuation ou les installations et lieux où il est possible d'obtenir de l'aide en cas d'urgence. Dans la pratique, il est également possible de travailler avec des combinaisons de caractères:"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "\u0003\u0003Exemple 1: La zone d'une entreprise présente un risque d'explosion, ce qui est indiqué par le symbole sur le panneau de signalisation jaune/noir. Avec un panneau d'interdiction, les chariots de manutention sont tenus à l'écart de la zone et avec l'indication de dérogation, les chariots de manutention protégés contre les explosions sont autorisés."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "\u0003\u0003Exemple 2: Dans le hall de montage d'une entreprise, des charges lourdes sont transportées à l'aide de grues industrielles. Le symbole sur le panneau jaune/noir attire l'attention sur ce danger et les signaux bleus invitent à porter une protection de la tête et des chaussures de sécurité."
+    }
+   ]
+  }
+ ]
+}

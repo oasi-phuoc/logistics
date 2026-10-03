@@ -1,0 +1,442 @@
+{
+ "code": "208",
+ "title": "At-Sales-Service (Service à la vente)",
+ "domain": "200",
+ "pdf": "M208.pdf",
+ "pages": 12,
+ "words": 2926,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "la qualité de la fonction, de l'apparence, des propriétés ou des caractéristiques des produits, des services et des services complémentaires fournis",
+      "les compétences de livraison en termes de quantité, de date de livraison, d'informations et de flexibilité",
+      "le prix des produits et services achetés",
+      "le risque de défaillance du fournisseur",
+      "la confiance et fiabilité dans la coopération",
+      "la dépendance de l'acheteur vis-à-vis du fournisseur",
+      "Aperçu de la planification du module 207"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "70 % des décisions d'achat sont prises sur le lieu d'achat. Par conséquent, il est essentiel de renforcer la décision d'achat et de déclencher l'impulsion d'achat grâce à des services au point de vente (At-Sales). Dans le secteur des biens de consommation en particulier, le choix d'achat est souvent fait spontanément sur place, en réaction à des stimuli à peine conscients. Afin de réduire les coûts d’approvisionnement, le service client doit se concentrer principalement sur la facilitation du processus d'achat."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 208"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Modul 208"
+    }
+   ]
+  },
+  {
+   "id": "s-8-1",
+   "number": "8.1",
+   "title": "Le comportement d'achat",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Par comportement d'achat, on entend le comportement de l'acheteur ou de l'acheteuse en ce qui concerne l'achat d’un bien ou d’un service. Le comportement d'achat intègre des motivations et des aspects différents. Par exemple, le comportement d'achat d'un consommateur final est très différent de celui d'un acheteur qui achète pour l'entreprise en fonction des ressources et du profit. Mais même les consommateurs finaux ont souvent des motifs d'achat particuliers et des modèles de comportement extrêmement différents."
+    },
+    {
+     "t": "p",
+     "text": "8.1.1 Comment le client est-il incité à acheter? La psychologie de vente étudie le comportement d'achat des consommateurs. Les résultats de ses recherches sont appliqués dans la conception des magasins de vente, par exemple: Présentation à hauteur des yeux Les produits qui se trouvent sur un support situé à hauteur des yeux ont plus tendance à être achetés que ceux pour lesquels les clients doivent tendre les bras ou se baisser. Présentation devant la caisse Les clients sont souvent obligés d’attendre devant les caisses, une occasion idéale pour vendre de petits articles, tels que les sucreries. Les mères avec des enfants constituent un des groupes cibles car la probabilité est élevée que les enfants quémandent l’achat des sucreries pendant qu’ils attendent. Les odeurs La boulangerie du magasin située en plein milieu de la surface de vente en est un exemple. L’odeur du pain sortant tout juste du four incite à acheter non seulement du pain mais également d’autres aliments. Celui qui ne souhaite pas dépenser d’argent inutilement ne devrait pas avoir faim lorsqu’il fait ses courses. En effet, les clients qui ont faim remplissent beaucoup plus abondamment leur caddie que les autres."
+    },
+    {
+     "t": "p",
+     "text": "Aucun produit n’est placé au hasard dans un supermarché. Les experts du marketing calculent exactement, quand, où et comment le client se sert de préférence."
+    }
+   ]
+  },
+  {
+   "id": "s-8-1-2",
+   "number": "8.1.2",
+   "title": "Les timbres de rabais, points, coupons: la collecte",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les spécialistes du marketing exploitent l’instinct de collecte avec des bons de réduction, des points, des coupons. La collecte peut se faire de deux manières différentes. La méthode traditionnelle consiste en une carte de fidélité sur laquelle le client peut coller lui-même les points ou les étiquettes; la carte pleine lui donne ensuite droit à un lot ou à une réduction sur son prochain achat. La collecte des tickets de caisse jusqu’à un certain total d’achat représente une variante de ce type. Selon la nouvelle méthode, les points (ou similaires) sont collectés avec une carte de fidélité sous la forme d’une carte de crédit. Le client n’est plus responsable lui-même de la collecte, le vendeur s’en occupe à sa place. Ainsi, il saisit tous les achats du client électroniquement et enregistre les données sur son compte. Le solde du compte est communiqué à intervalles réguliers au client et son avoir lui est envoyé sous forme de bons ou autres. Pour la première méthode, le client doit noter tout au plus son adresse sur la carte de fidélité alors que pour la deuxième méthode, il renonce à son anonymat et n’a plus d’influence sur les données qui sont collectées le concernant et utilisées le cas échéant. C’est pourquoi on parle souvent de « clients transparents ». Pour protéger les clients, une loi stricte sur la protection des données a été promulguée. Les grossistes garantissent le respect de ces dispositions."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: lors de la collecte numérique des points, le client communique au vendeur des données relatif à son comportement d'achat. Le vendeur utilise ces données pour adapter son assortiment, faire des promotions ciblées, etc."
+    }
+   ]
+  },
+  {
+   "id": "s-8-1-3",
+   "number": "8.1.3",
+   "title": "Nouvelles technologies",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il est également possible d’étudier le comportement de vente des individus avec les dernières technologies, telles que l’imagerie par résonance magnétique (IRM), car les mécanismes se déroulant dans le cerveau humain peuvent être ainsi représentés en images. Les réactions des sujets aux produits, emballages, etc. sont immédiatement visibles. Les résultats des essais sont repris dans les stratégies de vente. Le changement du comportement d’achat des individus est perceptible avec les centres commerciaux. Ces derniers n’ont cessé de s’agrandir tout en se transformant toujours plus en parc d’attractions. De nombreux clients associent l’achat à un loisir des plus divers. D’autres font même de l’achat une aventure: avant d’acheter ils veulent chercher minutieusement et comparer les prix car cela leur fait plaisir."
+    }
+   ]
+  },
+  {
+   "id": "s-8-2",
+   "number": "8.2",
+   "title": "Les situations de vente",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La vente quotidienne, à savoir la vente de produits de consommation courante, ne s’accompagne pas le plus souvent de beaucoup de travail. Les conseils sont accessoires et les sentiments jouent un rôle secondaire. Le client achète car il a besoin du produit ou du service. Il souhaite:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "être servi rapidement;",
+      "un règlement simple de la transaction;",
+      "un service orienté client;",
+      "une bonne qualité à un prix raisonnable;",
+      "une bonne prestation."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Si l’acheteur souhaite toutefois avoir recours à une prestation de service globale ou acheter un produit complexe ou cher, comme une voiture, une vente accompagnée de conseils s’impose. Un grand choix de produits, la complexité de la matière ou de la prestation, tout comme un prix élevé sont autant d’éléments pouvant déconcerter les clients. Une telle acquisition devant être bien réfléchie, le client souhaite généralement des conseils de spécialiste."
+    }
+   ]
+  },
+  {
+   "id": "s-8-3",
+   "number": "8.3",
+   "title": "L’entretien de vente",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Mener à bien un entretien de vente requiert, outre des connaissances spécialisées, du tact et de bonnes connaissances sur les personnes. Souvent le vendeur ne connaît pas le client et doit trouver, dans un laps de temps le plus court possible, quels besoins et motifs d’achat ont amené le client. Si le vendeur ne réussit pas à satisfaire les attentes du client et à lui vendre le bon produit ou service, celui-ci sera insatisfait et quittera probablement le magasin sans avoir rien acheté."
+    },
+    {
+     "t": "p",
+     "text": "Un bon vendeur"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "évalue correctement le motif d’achat du client;",
+      "s’adresse personnellement au client (« vous » et pas « on »);",
+      "oriente la conversation de sorte à mettre toujours l’objet de la vente au centre;",
+      "est en mesure d’indiquer au client l’utilité du produit ou du service;",
+      "est capable de vendre au client le bon produit ou la prestation de service appropriée."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pendant un entretien de conseil, tous les clients ne laissent pas parler le vendeur en continu sans réagir. Les objections neutres mais pas justifiées peuvent être réfutées par des contre-arguments. Si on n’en a pas, on doit l’admettre et indiquer au client que l’on s’informera sur l’objection. Il ne faut en aucun cas dire des contrevérités au client. L'entretien de vente devient plus difficile lorsque les clients n'argumentent pas de manière objective, mais avec provocation."
+    },
+    {
+     "t": "p",
+     "text": "Les comportements suivants sont alors de mise:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "rester calme",
+      "écouter activement",
+      "laisser le client s' exprimer",
+      "garder une intonation neutre",
+      "ne pas chercher à convaincre le client à n’importe quel prix"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: L’expérience montre que l’on peut priver un interlocuteur énervé de ses arguments si on est curieusement d’accord avec lui au lieu de le contredire."
+    }
+   ]
+  },
+  {
+   "id": "s-8-4",
+   "number": "8.4",
+   "title": "Entretiens de vente en face à face",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors d'un entretien en face à face, la communication se fait en personne. On se fait face et on parle face à face."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "L'objectif de l' entretien de vente entre un vendeur et un client potentiel ou existant (acheteur) est la conclusion d'un contrat portant sur un service ou un produit. L'entretien de vente en face à face comprend:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La prospection: approche directe d'un nouveau client potentiel",
+      "La communication: conseiller, informer et influencer les clients selon les objectifs de l'entreprise",
+      "Le service: services fournis par le vendeur, comme un dépannage ou une formation."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la vente personnelle est l'instrument le plus important de la vente. Pour organiser ce processus de manière efficace, il faut un personnel qualifié sur le plan technique et doté d'une personnalité ouverte et communicative."
+    }
+   ]
+  },
+  {
+   "id": "s-8-4-1",
+   "number": "8.4.1",
+   "title": "La vente personnelle",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La vente en face à face s'avère particulièrement utile pour la vente de produits nécessitant des explications et pour la vente de services. On distingue généralement les types de vente personnelle suivants:"
+    }
+   ]
+  },
+  {
+   "id": "s-8-4-2",
+   "number": "8.4.2",
+   "title": "Exemple d'un entretien de vente en face à face",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Vanessa Maliqi a 16 ans. Elle est en deuxième année d'apprentissage et travaille dans une parfumerie. Conseiller les clientes et les clients fait partie de ses tâches quotidiennes. Un exemple d'entretien avec une cliente:"
+    },
+    {
+     "t": "p",
+     "text": "Apprentie Vanessa Maliqi: Vanessa salue la cliente avec amabilité. Elle lui demande si elle peut l'aider à trouver le produit souhaité."
+    },
+    {
+     "t": "p",
+     "text": "La cliente: \"Bonjour, je cherche un parfum féminin longue durée et bon marché pour ma mère à l'occasion de la fête des mères. J'ai vu que sur les testeurs, il y a différentes abréviations comme EdT & EdP. Pouvez-vous m'expliquer la différence, s'il vous plaît\"?"
+    },
+    {
+     "t": "p",
+     "text": "Apprentie Vanessa Maliqi: \"Je vous explique très volontiers les différentes abréviations et significations de celles-ci. L'abréviation EdT signifie \"eau de toilette\". L'eau de toilette est la forme plutôt légère des parfums, avec 6 à 9 pour cent, elle a une teneur en concentré de parfum plus faible. La fragrance est beaucoup plus volatile et n'est pas envahissante. C'est parfait pour les jours d'été, quand on souhaite un produit léger. EdP est l'abréviation de \"eau de parfum\". Ici, la part de concentré de parfum est relativement élevée et se situe entre 10 et 14 %. Il existe également une \"variation intense\" de l'eau de parfum, qui contient jusqu'à 20 % de concentré de parfum. Une véritable eau de parfum peut être encore perceptible après plusieurs jours. Comme la concentration est ici aussi très élevée, il ne faut en utiliser que peu, car le parfum ne disparaît pas rapidement. Puis-je vous demander l'âge approximatif de votre mère?"
+    },
+    {
+     "t": "p",
+     "text": "La cliente: \"Ma mère a 40 ans et ne met du parfum que lors des occasions spéciales, par exemple lorsqu'elle va à l'opéra ou au club de danse le soir”. Que me conseilleriez-vous?"
+    },
+    {
+     "t": "p",
+     "text": "Apprentie Vanessa Maliqi: \"Dans ce cas, je vous conseille une eau de toilette fruitée et légère, de préférence l'Azzaro Mademoiselle. Elle a une odeur florale et fruitée et irait très bien à votre mère\"."
+    },
+    {
+     "t": "p",
+     "text": "La cliente: \"Merci beaucoup pour vos conseils. Pouvez-vous s'il vous plaît m'emballer ce parfum comme cadeau?”"
+    }
+   ]
+  },
+  {
+   "id": "s-8-5",
+   "number": "8.5",
+   "title": "Entretiens de vente par téléphone/conférence-call",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La vente par téléphone, également appelée télévente, peut être pratiquée en inbound ou en outbound (entrante ou sortante). La vente téléphonique entrante est une vente téléphonique passive, durant laquelle le client appelle lui-même et commande des marchandises. En revanche, la vente sortante est considérée comme une vente téléphonique active, durant laquelle le vendeur appelle des clients potentiels et tente de vendre la marchandise par ce biais. La vente par téléphone prend de plus en plus d'importance, car elle permet de décharger le service extérieur, dont les coûts sont élevés. Lors d'un entretien de vente par téléphone ou par téléconférence, il faut tenir compte des éléments suivants:"
+    }
+   ]
+  },
+  {
+   "id": "s-8-6",
+   "number": "8.6",
+   "title": "La promotion des ventes",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Par promotion des ventes, on entend l’ensemble des mesures qui sont adoptées pour augmenter les ventes de produits ou de services. Son but étant une hausse du chiffre d’affaires et du bénéfice. Les actions L’action (vente promotionnelle) représente la mesure la plus fréquente de promotion des ventes. Elle consiste généralement en une baisse du prix, également sous la forme « trois pour le prix de deux ». L’action permet non seulement d’introduire de nouveaux produits mais également de réduire des stocks excédentaires. Les actions promotionnelles servent le plus souvent à écouler des fins de série, à réduire des stocks ou à proposer les produits avec une date de péremption. Les clients achètent alors le produit qu’ils ne connaissent pas, car son prix est intéressant. Démonstrations et dégustations On parle de dégustation lorsque des échantillons de nourriture sont proposés à des acheteurs potentiels. Ce type de promotion des ventes est souvent utilisé pour de nouveaux produits. Un échantillon gratuit, accompagné souvent d’une préparation sur place, éveille la curiosité. S'il est proposé par quelqu’un de sympathique, il suscite également l’envie d’acheter. Les camelots illustrent parfaitement la démonstration de produits. Les produits ne sont pas simplement mis en vente mais ils sont vantés avec beaucoup de cérémonie et toutes sortes de formules. Plus le vendeur est divertissant, plus il écoule de produits."
+    }
+   ]
+  },
+  {
+   "id": "s-8-6-1",
+   "number": "8.6.1",
+   "title": "Vente additionnelle (cross-selling)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une vente additionnelle a abouti si un client n’achète pas qu’un produit comme prévu, mais qu’il en achète un deuxième ayant un lien avec le premier produit. Exemple: un client prend un billet de train à destination de Zurich au guichet des billets. Le guichetier lui demande gentiment s’il a aussi besoin éventuellement d’un billet de tram. Le client réalise qu’un tel billet pourrait lui être utile et prend en complément une carte journalière pour le réseau urbain. En posant cette question, le guichetier a amené le client à effectuer un achat additionnel. Le client considère les ventes additionnelles comme favorables lorsqu’elles ont un lien avec l’achat lui-même et qu’elles n’ont pas l’air envahissantes ou « forcées ». Si, par exemple, on propose comme vente additionnelle des piles de rechange pour un appareil photo numérique ou le bon produit d’entretien pour de nouvelles chaussures, le client reçoit l’offre avec plaisir."
+    }
+   ]
+  },
+  {
+   "id": "s-8-7",
+   "number": "8.7",
+   "title": "Le contrat de vente: droits et obligations",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Par le contrat de vente (CO, art. 184 al. 1), est un contrat par lequel le vendeur s’oblige à livrer la chose vendue à l’acheteur et à lui en transférer la propriété, moyennant un prix que l’acheteur s’engage à lui payer. Il s'agit donc d'un échange au sens d'un \"coup pour coup\":"
+    },
+    {
+     "t": "p",
+     "text": "Droits Obligations Acheteur – Obtenir la chose vendue et en devenir propriétaire;"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "En cas de vice: livraison de remplacement, réduction ou rédhibition.",
+      "Payer le prix de vente dans les délais convenus"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Vendeur – Au paiement du prix de vente. – Transmettre la chose vendue à l’acheteur et de lui céder la propriété"
+    }
+   ]
+  },
+  {
+   "id": "s-8-7-1",
+   "number": "8.7.1",
+   "title": "La conclusion d'un contrat de vente",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un contrat de vente peut être conclu verbalement ou par écrit, mais également de manière tacite. En affaires, on privilégie généralement les contrat écrit. Très souvent, le contrat de vente est précédé d'une offre (appelée \"proposition\" dans le CO, ou \"offre\" dans le langage courant) du vendeur. La commande donne lieu à la conclusion du contrat de vente."
+    }
+   ]
+  },
+  {
+   "id": "s-8-7-2",
+   "number": "8.7.2",
+   "title": "La résiliation du contrat de vente",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les bases légales pour la conclusion et la résiliation d'un contrat de vente sont régies par le code des obligations (CO), art. 184 al. 1."
+    },
+    {
+     "t": "p",
+     "text": "Exécution du contrat L'exécution de la prestation convenue par contrat est le principal motif de résiliation du contrat de vente."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras ici plus d'informations. Résiliation du contrat L'acheteur ou le vendeur ne peut résilier le contrat de vente que si le cas d'application est prévu par la loi. Les cas d'application sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "droit de résiliation du créancier en cas de demeure du débiteur (CO"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "107 et 109)"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "droit de résiliation du vendeur en cas de retard de paiement du créancier (CO 214)/défaut de paiement du créancier (CO 95)",
+      "le droit de conversion de l'acheteur selon CO 205 constitue un droit de résiliation de type particulier"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les possibilités d'exécution Une prestation convenue par contrat peut être impossible ou devenir impossible. La subdivision et les conséquences juridiques de l'impossibilité sont"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "présentées sous le titre \"Impossibilité\"."
+    }
+   ]
+  },
+  {
+   "id": "s-8-8",
+   "number": "8.8",
+   "title": "Les conditions générales de vente (CGV)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En Suisse, les bases légales de la vente de biens ou de services peuvent être modifiées par le biais du contrat et des conditions contractuelles. En règle générale, un commerçant regroupe toutes ses conditions de vente dans les conditions générales de vente (CGV)."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: les conditions générales doivent servir à l'exécution rapide de contrats de masse."
+    },
+    {
+     "t": "p",
+     "text": "8.8.1 Que contiennent les CGV? De nombreuses entreprises exploitent la grande liberté dont elles disposent lors de la conclusion d'un contrat de vente dans leurs conditions générales de vente (CGV). Celles-ci contiennent souvent des règles que les clients n'accepteraient pas si elles figuraient dans le contrat de vente lui-même. Les CGV sont rédigées par une seule partie contractante, tandis qu'il incombe à l'autre partie de vérifier leur validité juridique et d'accepter ou de contester ensuite les conditions. Par le biais d'une clause, les conditions générales de vente deviennent partie intégrante du contrat de vente. Ainsi, les clients acceptent les conditions générales en signant le contrat de vente."
+    }
+   ]
+  },
+  {
+   "id": "s-8-8-2",
+   "number": "8.8.2",
+   "title": "Conditions commerciales déloyales",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le langage courant, les conditions générales sont aussi appelées \"les petits caractères\", ce qui est littéralement le cas pour la plupart d'entre elles. Cela cache une intention: on sait que les petits caractères sont pénibles à lire, et si en plus ils sont volumineux, on s'abstient de les lire. C'est ainsi que les clients acceptent des conditions qui leur sont défavorables, en partie par commodité, en partie parce qu'ils ne les connaissent pas. Depuis des années, les organisations de protection des consommateurs luttent contre le fait que les risques liés à un achat sont répercutés sur les clients dans les conditions générales. L'article 8 de la loi fédérale contre la concurrence déloyale (LCD) régit l'utilisation de conditions commerciales abusives."
+    },
+    {
+     "t": "note",
+     "kind": "law",
+     "label": "Base légale",
+     "text": "Loi fédérale contre la concurrence déloyale (LCD) Article 8"
+    },
+    {
+     "t": "p",
+     "text": "«Agit de façon déloyale celui qui, notamment, utilise des conditions générales de vente qui, en contradiction avec les règles de la bonne foi prévoient, au détriment du consommateur, une disproportion notable et injustifiée entre les droits et les obligations découlant du contrat.»"
+    }
+   ]
+  },
+  {
+   "id": "s-8-8-3",
+   "number": "8.8.3",
+   "title": "Conditions générales de vente: exemples actuels",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Poste Suisse"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "CGV prestations postales pour la clientèle commerciale Les Chemins de fer fédéraux (CFF) CGV pour l'achat et l'utilisation du demi-tarif La Swisscom CGV pour les clients professionnels"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 208"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,387 @@
+{
+ "code": "202",
+ "title": "L'attitude personnelle",
+ "domain": "200",
+ "pdf": "M202.pdf",
+ "pages": 12,
+ "words": 2912,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le client et les revenus qui en découlent sont très importants pour l'entreprise et pour son propre emploi. Afin de pouvoir accueillir le client dans l’intérêt de l’employeur, il est nécessaire de réfléchir à sa propre apparence. La manière dont on se présente influence la façon dont on est perçu de l'extérieur. Voici quelques facteurs importants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La posture",
+      "La communication",
+      "L'hygiène",
+      "Les vêtements"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le logisticien, la logisticienne doit avoir une attitude consciente et adaptée à la situation."
+    },
+    {
+     "t": "p",
+     "text": "La manière dont on se présente à une grande influence sur l'effet que l'on produit sur les autres. C'est pourquoi il faut réfléchir consciemment à son apparence et l'adapter en fonction de la situation. Est-ce possible? Quels sont les facteurs à prendre en compte?"
+    }
+   ]
+  },
+  {
+   "id": "s-2-1",
+   "number": "2.1",
+   "title": "Ma position",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Je transmets mon attitude ou mes convictions en montrant l'exemple de ma morale et de mes valeurs. J'essaie de montrer l'exemple et d'atteindre les valeurs que je considère comme désirables en raison de mon origine ou de mon éducation. Voici quelques valeurs possibles."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chère",
+      "Honnêteté",
+      "Amitié",
+      "Fidélité",
+      "Ordre",
+      "Ponctualité"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: chaque personne fait des expériences différentes qui façonnent ses valeurs et déterminent l'attitude qu'elle adopte vis-à-vis de l'extérieur. Par exemple, si j'ai intégré la ponctualité comme valeur, il est important pour moi d'être à l'heure. Mais mes valeurs personnelles ne sont pas forcément valables pour les autres."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2",
+   "number": "2.2",
+   "title": "Ma communication",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La communication peut se faire de différentes manières. Vis-à-vis du client, j'adapte mon propre langage à la situation et je veille à communiquer honnêtement. J'utilise parfois des mots différents de ceux que j'utilise dans mon langage quotidien. Je ne m'adresse pas au client de la même manière qu'à ma famille ou à mes amis. Je veille à choisir consciemment mes mots (communication verbale) et mon attitude corporelle (communication non verbale) dans l'échange avec le client."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Liste de contrôle \"Ma communication”"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "La communication est traitée de manière plus approfondie dans le module 206."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3",
+   "number": "2.3",
+   "title": "Mes vêtements",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Outre mes propres valeurs et la communication, d'autres facteurs jouent un rôle dans mes relations avec le client: mes vêtements influencent également mon apparence et ma propre image. Je dois donc choisir mes vêtements en connaissance de cause. Il est préférable de porter des vêtements discrets et de veiller à ne pas être trop ou pas assez habillé."
+    },
+    {
+     "t": "p",
+     "text": "Dress code = adapté à la situation Underdressed = pas assez bien habillé pour la situation Overdressed = trop bien habillé pour la situation"
+    },
+    {
+     "t": "p",
+     "text": "Dans ma vie privée, je dois et je peux exprimer mes propres sentiments et passions. Dans le quotidien professionnel, en revanche, je représente l'entreprise pour laquelle je travaille. EnterSite AG attend de ses collaborateurs et collaboratrices qu'ils choisissent des vêtements décents, surtout lorsqu'ils sont en contact avec la clientèle. C'est pourquoi l'entreprise met à la disposition de son personnel des vêtements de travail uniformes dans certains départements. Après le travail, je devrais enlever mes vêtements de travail et mettre des vêtements personnels."
+    }
+   ]
+  },
+  {
+   "id": "s-2-4",
+   "number": "2.4",
+   "title": "Mon hygiène",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le terme d'hygiène est dérivé du nom de la déesse de la santé, Hygeia. Le mot trouve son origine dans la langue grecque et est souvent assimilé à la santé dans le langage courant actuel. L'Organisation mondiale de la santé (OMS) définit la santé comme suit: \"La santé est un état de complet bien-être physique, mental et social, et ne consiste pas seulement en une absence de maladie ou d'infirmité\". L'hygiène s'occupe donc de l'étude de la santé. L'hygiène était déjà relativement développée dans l'Empire romain. On savait déjà que les maladies étaient provoquées et propagées par des micro-organismes (petits êtres vivants comme les bactéries et les virus). Des siècles plus tard, en 1840, on a finalement réussi à prouver que la désinfection permettait d'endiguer la transmission des maladies. Auparavant, les médecins n'avaient pas réalisé qu'ils transmettaient souvent eux-mêmes des infections. Aujourd'hui, nous connaissons l'importance des mesures d'hygiène telles que le nettoyage, la désinfection ou la stérilisation."
+    }
+   ]
+  },
+  {
+   "id": "s-2-4-1",
+   "number": "2.4.1",
+   "title": "L'histoire de l'hygiène",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'hygiène, telle que nous la concevons aujourd'hui, a une longue histoire. Au fil des siècles, l'humanité a été frappée à plusieurs reprises par de terribles épidémies et maladies. Une sélection:"
+    },
+    {
+     "t": "p",
+     "text": "1348 - La première grande vague de peste En 1348, les épidémies de peste sont déjà connues. Mais la vague de peste de cette année-là frappe les gens comme jamais auparavant. Près de 100 millions de personnes sont touchées par la peste en Europe, en Afrique du Nord et au Proche-Orient. Un tiers de la population ne survit pas à la maladie. Le foyer de l'épidémie est situé en Asie centrale."
+    },
+    {
+     "t": "p",
+     "text": "1892 - Epidémie de choléra à Hambourg En 1892, la ville portuaire de Hambourg est frappée par le choléra. L'épidémie de choléra est due à une vague de chaleur et, par conséquent, au faible niveau de l'Elbe. Avec son eau chauffée à 22 degrés Celsius, l'Elbe offre cette année-là aux bactéries et aux virus des conditions parfaites pour se multiplier. Le premier citoyen infecté par le choléra est enregistré le 15 août. Le 16 août, deux personnes ont été contaminées par le choléra et le 17 août, quatre personnes l'ont déjà été. À ce moment-là, l'épidémie aurait peut-être encore pu être évitée. Mais les responsables de la ville ont mal évalué la situation. Jusqu'à la fin de l'épidémie à Hambourg, environ 17 000 personnes infectées sont enregistrées. La moitié d'entre elles ne survivent pas à la maladie. D'autres localités sont touchées par le choléra."
+    },
+    {
+     "t": "p",
+     "text": "1918 - Grippe espagnole En 1918, dernière année de la Première Guerre mondiale, la grippe espagnole sévit et frappe durement les populations. En l'espace de quelques mois, la maladie s'est propagée sur le globe. En 1920 déjà, la grippe espagnole a tué plus de personnes que pendant toute la Première Guerre mondiale (environ 17 millions de personnes). La grippe espagnole cause plus de morts que toute autre maladie avant et après. Bien que l'on parle de la grippe \"espagnole\", son origine ne se situe pas en Espagne. Jusqu'à aujourd'hui, on ne sait pas définitivement où et quoi est l'origine de la grippe. On cite souvent une personne du Kansas, aux États-Unis, comme première infection adverse. Roy Grist, un médecin militaire à Camp Devens, Massachusetts, écrit le 29 septembre 1918 dans une lettre à un autre médecin: “Il ne faut que quelques heures pour que la mort arrive. Et c'est une seule lutte pour l'air jusqu'à ce qu'ils étouffent. C'est terrible\"."
+    },
+    {
+     "t": "p",
+     "text": "1920 - La tuberculose La tuberculose est détectée pour la première fois en 1920. Mais à cette époque, la maladie sévit déjà depuis longtemps et a coûté la vie à de nombreuses personnes. La maladie atteint son triste apogée entre 1870 et 1885 en Autriche. Dans la ville de Vienne, 909 personnes pour 100 000 habitants meurent de tuberculose. La tuberculose se propage ensuite dans toute l'Autriche. En 1885, on compte 390 décès pour 100'000 habitants dans tout le pays. A cette époque, la maladie se déplace d'ouest en est. L'une des raisons de cette propagation est l'industrialisation."
+    },
+    {
+     "t": "p",
+     "text": "1981 - SIDA Au début des années 1980, une nouvelle maladie fait son apparition dans le monde occidental: LE SIDA. Il est rapidement reconnu que le SIDA est une maladie qui se transmet par des actes sexuels et qu'elle est incurable. En Suisse, environ 16 700 personnes vivent aujourd'hui avec le virus du sida. En 2019, 421 nouvelles infections ont été déclarées. Depuis 2008, le nombre de nouvelles infections diminue d'année en année. Cela est notamment dû aux nombreuses campagnes d'information sur la maladie. L'information et le conseil sur le sida sont organisés de manière à atteindre la plus grande partie possible de la population. L'Aide Suisse contre le Sida a été fondée en 1985 et a largement contribué au recul de la maladie."
+    },
+    {
+     "t": "p",
+     "text": "2020 - Pandémie de Covid 19 La première infection officiellement confirmée par le virus Covid-19 a été signalée à l'OMS le 31 décembre 2019 à Wuhan, en Chine. Lors des premières notifications, le virus était désigné par 2019-nCoV, puis il a été appelé Covid-19 ou SARS-CoV-2. Les coronavirus (CoV) produisent de grandes quantités de virus. Chez de nombreuses personnes, une infection se manifeste uniquement par des symptômes de rhume. Mais le virus peut également entraîner des maladies graves. Le 30 janvier 2020, l'OMS a qualifié la pandémie d'urgence de santé publique de portée internationale - il s'agit du niveau d'alerte le plus élevé de l'OMS."
+    }
+   ]
+  },
+  {
+   "id": "s-2-4-2",
+   "number": "2.4.2",
+   "title": "L'hygiène personnelle",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'hygiène a une grande importance dans notre société. De bonnes normes d'hygiène permettent de prévenir ou d'endiguer les maladies et les pandémies, telles qu'elles ont été évoquées au chapitre précédent. Mais l'hygiène personnelle détermine également l'effet que l'on produit sur les autres. Elle a donc une influence sur l'impression que l'on laisse à un client, par exemple."
+    },
+    {
+     "t": "p",
+     "text": "Santé et reconnaissance J'ai une bonne hygiène personnelle, par exemple, si je prends régulièrement une douche, si je me lave les cheveux, si je me brosse les dents et les oreilles et si je me coupe les ongles des mains et des pieds. C'est à moi qu'incombe la responsabilité de prendre soin de moi et je devrais réfléchir à quand et à quelle fréquence je le fais. Je devrais également réfléchir aux aliments que je consomme. Par exemple, il n'est pas conseillé de consommer du café, du Red Bull ou des aliments très odorants contenant beaucoup d'oignons et d'ail avant un rendez-vous important comme un entretien d'embauche. Une apparence non soignée a un fort impact sur l'extérieur. Les personnes non soignées peuvent avoir un effet repoussant sur les autres. Par conséquent, un manque d'hygiène peut empêcher une personne d'accéder à la vie sociale ou de réussir sa carrière professionnelle. Le nettoyage et le lavage de son propre corps ne sont pas les seuls éléments qui influencent la manière dont les autres perçoivent mon hygiène personnelle. L'entretien des"
+    },
+    {
+     "t": "p",
+     "text": "vêtements joue également un rôle important. Même les vêtements préférés doivent être lavés régulièrement. J'essaie ainsi d'éviter que mes vêtements ne dégagent une odeur désagréable. Je réfléchis donc à la question de savoir si mes vêtements sont adaptés à la situation et s'ils sont en bon état de nettoyage."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: il peut aussi se révéler négatif d'utiliser trop de déodorant ou de parfum. Les deux doivent être utilisés avec modération."
+    },
+    {
+     "t": "p",
+     "text": "Bactéries et virus Les micro-organismes tels que les bactéries et les virus sont souvent à l'origine de maladies. Mais il existe aussi de bonnes bactéries sans lesquelles l'homme ne pourrait guère survivre. Elles protègent par exemple le corps contre les agresseurs et digèrent les aliments dans l'intestin. L'homme dispose de mécanismes de défense naturels contre les bactéries et les virus nocifs, ce que l'on appelle le système immunitaire. La situation devient particulièrement critique lorsque le propre système immunitaire est affaibli et que les micro-organismes peuvent facilement se multiplier. Le fait que les rhumes soient plus fréquents en hiver, par exemple, n'est pas dû au froid en soi. La raison en est plutôt que le corps doit se réchauffer et a besoin pour cela de beaucoup d'énergie. Il reste donc moins d'énergie pour le système immunitaire, qui se défend moins bien contre les agents pathogènes."
+    },
+    {
+     "t": "p",
+     "text": "Voies de transmission Dans la vie de tous les jours, on oublie vite à quelle vitesse les micro-organismes tels que les virus ou les bactéries peuvent être transportés: par exemple en touchant une poignée de porte, en serrant la main d'une personne connue ou en lui remettant un objet. C'est pourquoi il est important de se laver régulièrement les mains. L'infection par gouttelettes est une autre voie de transmission. Lorsque les gens parlent, chantent, toussent ou éternuent, il peut se produire une brume au cours de laquelle des gouttelettes peuvent être projetées jusqu'à environ un mètre. Ces gouttelettes sont porteuses de virus et de bactéries. Les épidémies de grippe qui surviennent chaque année se propagent presque exclusivement par ce biais."
+    },
+    {
+     "t": "p",
+     "text": "Mesures pour éviter les transmissions Au plus tard avec l'épidémie de Covid-19 en 2020, la société a appris quelles mesures pouvaient être prises pour limiter la transmission d'agents pathogènes. De nombreux pays ont par exemple décrété le lockdown. L'objectif du lockdown était de contrôler la propagation du virus en limitant la liberté de mouvement des personnes. Pendant la pandémie, il y avait en outre de nombreuses mesures plus simples à suivre. Celles-ci sont également valables en temps normal et protègent contre des maladies telles que la grippe:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Garder une distance suffisante avec ses interlocuteurs",
+      "Tousser ou éternuer dans un mouchoir ou au creux du bras (jamais en direction d'autrui)",
+      "N'utiliser les mouchoirs en papier qu'une seule fois",
+      "Se laver les mains régulièrement"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: se laver les mains régulièrement devrait être une évidence pour tous."
+    }
+   ]
+  },
+  {
+   "id": "s-2-5",
+   "number": "2.5",
+   "title": "La charte d'entreprise",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La charte est une déclaration écrite de l'entreprise sur les principes fondamentaux et les valeurs qu'elle défend en interne et vers l'extérieur. Elle formule un objectif. En interne, la charte doit guider et orienter l'action, de sorte qu'elle constitue un facteur de motivation pour les collaborateurs. Vers l'extérieur, elle indique clairement ce que l'entreprise défend. C'est un pilier de la “Corporate Identity” de l'entreprise. La charte décrit la vision de l'organisation et constitue le cadre des stratégies, des objectifs et de l'action opérationnelle."
+    }
+   ]
+  },
+  {
+   "id": "s-2-5-1",
+   "number": "2.5.1",
+   "title": "Fonction d'une charte d'entreprise",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La première fonction importante d'un modèle est de légitimer les décisions d'aménagement qui orientent ses collaborateurs."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "\"Que représentons-nous en tant qu'entreprise?\" (Vision)",
+      "\"Que voulons-nous accomplir ensemble?\" (Mission)",
+      "\"Quels sont les valeurs et les principes qui doivent guider nos actions?\""
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(Charte)"
+    },
+    {
+     "t": "p",
+     "text": "La deuxième fonction importante de la charte est son impact vers l'extérieur: Elle oriente les clients et les parties prenantes de l'entreprise."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "\"Que représente cette entreprise?\"",
+      "\"Quelle image veut et poursuit notre entreprise?\""
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-5-2",
+   "number": "2.5.2",
+   "title": "La charte d'EnterSite AG",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Principes"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Nous ne voulons en principe être actifs que sur des marchés où nous pouvons fournir des prestations à nos clients mieux que d'autres.",
+      "Nous voulons offrir à nos collaborateurs la possibilité de développer leurs connaissances et leurs compétences en assumant le plus de responsabilités possibles.",
+      "Nous voulons être une entreprise prospère, indépendante et dynamique, de taille et de structure gérables."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Notre programme de prestations"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Nous voulons offrir des services qui répondent à un besoin de nos clients et pour la production desquels nous possédons ou acquérons un grand savoir-faire.",
+      "Nous voulons faire du commerce avec des produits que nous achetons à des tiers et qui sont adaptés à la résolution des problèmes des clients.",
+      "Nos services d'accompagnement doivent être d'un niveau élevé.",
+      "Nous gardons la possibilité d'élargir notre offre actuelle d'articles en fonction de la rentabilité, des perspectives d'avenir, du savoir-faire et des besoins des clients."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les marchés que nous traitons Nous vendons à des clients industriels et privés."
+    },
+    {
+     "t": "p",
+     "text": "Qualité et technologie Notre objectif de qualité \"toujours une idée d'avance\" doit s'imposer dans tous les domaines: dans la qualité des collaborateurs à tous les niveaux, dans la qualité du travail dans tous les domaines ainsi que dans la qualité des produits."
+    },
+    {
+     "t": "p",
+     "text": "Financement et rentabilité Notre objectif premier est d'atteindre un rendement approprié et des structures de bilan équilibrées."
+    },
+    {
+     "t": "p",
+     "text": "Collaborateurs et collaboratrices"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Nous voulons des collaborateurs compétents, motivés et satisfaits.",
+      "Nous offrons à tous les collaborateurs la meilleure chance possible d'épanouir leur personnalité en participant à la réflexion et aux décisions, en les informant largement, en leur déléguant le plus de compétences possibles et en leur laissant la liberté de développer leur propre initiative.",
+      "Notre politique salariale est axée sur la fonction, la performance et les conditions du marché.",
+      "Nous accordons une grande importance aux compétences professionnelles, à l'esprit d'initiative, au sens des responsabilités, à la volonté de collaborer et d'atteindre les objectifs.",
+      "Nous attendons en particulier de nos cadres qu'ils fassent preuve d'intégrité personnelle, qu'ils soient dignes de confiance, qu'ils fassent preuve de leadership, qu'ils soient très performants et qu'ils aient un comportement entrepreneurial global; nous leur accordons une grande liberté de décision."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Guide"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Nous pratiquons un style de gestion axé sur la performance, participatif et adapté à la situation.",
+      "Le principe de la gestion par objectifs Management by Objectives"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(MbO) est appliqué de manière générale. L'accord sur les objectifs entre le supérieur et le collaborateur permet également de mettre en œuvre le style de management participatif. L'identification du collaborateur avec sa tâche lui permet d'agir de manière responsable, orientée vers les objectifs de l'entreprise."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La gestion par objectifs signifie globalement que chacun sait clairement de quoi il est responsable et compétent.",
+      "Les principes de la gestion par exception doivent être mis en œuvre."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ainsi, tout événement commercial s'écartant de la planification, de la budgétisation, des objectifs ou des attentes normales doit être immédiatement signalé au service concerné, généralement le supérieur hiérarchique."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pour toutes les instructions, la voie dite hiérarchique est respectée. Elle peut être ignorée pour l'obtention d'informations. Dans les groupes de projet également, la hiérarchie formelle peut être mise de côté."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Clients et fournisseurs"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le service au client est au cœur des réflexions et des actions de tous nos collaborateurs. Toutes les activités ont finalement pour objectif de satisfaire les besoins de nos clients.",
+      "Nous voulons être justes, mais durs et exigeants envers nos fournisseurs."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Public"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Nous nous engageons pour une économie de marché libre et approuvons un ordre social humain et social libéral, qui encourage l'initiative personnelle.",
+      "Nous voulons collaborer loyalement avec les institutions publiques.",
+      "Nous voulons participer activement aux associations.",
+      "Nous voulons informer le public en permanence et de manière objective sur notre entreprise.",
+      "La participation active des membres de notre entreprise à la politique et à l'armée est généralement jugée positive."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Environnement"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Nous intégrons les aspects écologiques dans nos réflexions et recherchons les meilleures solutions possibles. Cela concerne notamment les domaines de la production, de l'énergie, de l'élimination des déchets, des matières premières et des matériaux d'emballage.",
+      "Nous sommes prêts, dans la mesure du possible, à prendre dans ces domaines des mesures qui vont au-delà des obligations légales, même si cela entraîne des coûts supplémentaires."
+     ]
+    }
+   ]
+  }
+ ]
+}

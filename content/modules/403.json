@@ -1,0 +1,610 @@
+{
+ "code": "403",
+ "title": "Les formes de stockage",
+ "domain": "400",
+ "pdf": "M403.pdf",
+ "pages": 19,
+ "words": 3791,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Fromage (stocké pendant quatre à douze mois)",
+      "Produits carnés",
+      "Vin, bière, spiritueux",
+      "Fruits"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Armoire de maturation de viande"
+    },
+    {
+     "t": "p",
+     "text": "Le goût évolue au cours de l'affinage. Le fromage jeune est généralement doux. Au fur et à mesure de son entreposage, il devient plus corsé, c'est-à-dire que son goût devient plus prononcé. Dans le cas des fromages affinés, le climat de stockage peut jouer un rôle décisif sur la qualité du produit final. Les fromages affinés sont stockés en grotte naturelle ou d’anciens ouvrages militaires et atteignent ainsi une qualité particulièrement excellente. Le fromage n'est pas seulement stocké dans l'entrepôt d'affinage, il est également entretenu de manière intensive. Ainsi, la surface est régulièrement travaillée avec une solution saline. Les fruits exotiques ne supportent souvent pas la longue durée de transport depuis leur pays d'origine s'ils ne sont pas cueillis et transportés avant maturité. C'est pourquoi ils sont mûris dans des installations spéciales avant d'être vendus. Les entrepôts de maturation de bananes des grands distributeurs en sont l'exemple le plus connu."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 402"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le choix des équipements de stockage à utiliser s'effectue selon différents critères de sélection. Le critère le plus important est le type de marchandise à stocker. Toutes les installations ne conviennent pas à chaque type de marchandise. Par exemple, des barres métalliques ne peuvent pas être stockées dans un rayonnage à palettes et les marchandises périssables ne peuvent pas être stockées en bloc. D'autres critères importants sont, entre autres, la facilité d'utilisation, le degré d'automatisation ou le taux de rotation. Les conditions locales sont également un point important à prendre en compte. Chaque installation de stockage a ses avantages et ses inconvénients, qu'il convient de ne pas négliger lors du choix d’équipements de stockage."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1",
+   "number": "3.1",
+   "title": "Stockage au sol",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cas du stockage au sol, toutes les marchandises à stocker sont placées sur le sol. Cette installation de stockage est considérée comme la variante de base pour les marchandises de détail. Les principaux avantages de cette installation sont le peu d'organisation nécessaire et les coûts réduits."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1-1",
+   "number": "3.1.1",
+   "title": "Stockage au sol en bloc à plat",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le Stockage au sol en bloc à plat est composé d'unités de stockage qui ne sont pas empilées et qui reposent directement sur le sol. Des couloirs de travail entre deux rangées garantissent l'accès à chaque unité de stockage. En termes de capacité de stockage, les blocs de stockage plats nécessitent une grande surface de stockage. Les blocs de stockage plats sont préférés pour les marchandises volumineuses ou spéciales ainsi que pour les voitures ou les marchandises en vrac comme le gravier."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1-2",
+   "number": "3.1.2",
+   "title": "Stockage en bloc en piles",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le stockage en bloc en pile, les unités de stockage les plus basses reposent sur le sol, comme dans le stockage en bloc à plat. Les autres produits sont empilés dessus. La condition préalable à l'empilage est de disposer d'un matériel de stockage adapté et insensible à la pression et de moyens de gerbage appropriés. Cette forme de stockage est utilisée pour de grandes quantités du même article, par exemple pour les marchandises en promotion, les harasses vides ou les palettes vides. Pour cette forme de stockage, il faut tenir compte de la charge au sol par mètre carré (m 2) et de moyens d'empilage correspondants. Cette forme de stockage est utilisée pour de grandes quantités du même article, par exemple pour les marchandises en promotion, les harasses vides ou les palettes vides. Pour cette forme de stockage, il faut tenir compte de la charge au sol par mètre carré."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1-3",
+   "number": "3.1.3",
+   "title": "Empilage de marchandises",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'empilement de marchandises de nature différente est autorisé si le chargement est solide et si les conditions extérieures (température, humidité, etc…) permettent un empilement sûr. En outre, la hauteur de la pile doit être respectée et celle-ci doit être contrôlée régulièrement. Pour les marchandises en sacs, il faut en outre veiller à ce que les sacs ne soient pas endommagés et à ce que la pile soit stable."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1-4",
+   "number": "3.1.4",
+   "title": "Stockage en lignes ou en rangées",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour le stockage en lignes (l'une derrière l'autre), il est possible d’accéder à l'unité de stockage suivante de la ligne. Pour le stockage en rangées (côte à côte), l'accès à chaque unité de stockage est possible. Une allée de travail doit être prévue entre chaque rangée. Les unités de stockage peuvent être disposées longitudinalement ou transversalement. Il faut vérifier régulièrement que les piles ne soient pas inclinées. Les piles inclinées doivent être immédiatement démontées et reconditionnées."
+    },
+    {
+     "t": "p",
+     "text": "Stock en bloc en lignes"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Résolu de manière ludique | Dispo"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "R emarque: le stockage au sol convient pour le stockage économique de marchandises. Il convient aux marchandises qui peuvent être stockées en blocs ou en rangées et dont l'accès ne doit pas être garanti à chaque unité individuelle."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1-5",
+   "number": "3.1.5",
+   "title": "Stockage au sol des bouteilles sous pression",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour le stockage de gaz, on utilise des bouteilles sous pression en acier. Les bouteilles doivent être stockées de manière qu'elles ne puissent pas se renverser. En règle générale, elles sont sécurisées par une chaîne. Une sécurisation correcte est importante non seulement lors du stockage, mais aussi pendant le transport à l'intérieur de l'entreprise."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Liste de contrôle bouteilles de gaz"
+    }
+   ]
+  },
+  {
+   "id": "s-3-1-6",
+   "number": "3.1.6",
+   "title": "Stockage des produits longs et des panneaux",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage de produits longs est souvent plus complexe et demande souvent des précautions particulières. Les faisceaux de tubes ou de barres sont généralement stockés horizontalement, les pièces individuelles debout, dans des râteliers. Le stockage dans des râteliers permet de séparer proprement les différents articles les uns des autres. La recherche dans le stock est possible sans problème. Il ne faut toutefois pas sous-estimer les forces d'appui latérales lors du \"prélèvement\" des panneaux stockés verticalement. Le type de stockage au sol des marchandises longues dépend fortement de leur nature, c'est pourquoi il n'est pas possible de donner des recommandations générales. En surveillant bien les marchandises, les logisticiens s'assurent que les marchandises stockées ne se déforment pas."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Transport de bois et de panneaux en plastique"
+    }
+   ]
+  },
+  {
+   "id": "s-3-2",
+   "number": "3.2",
+   "title": "Rayonnage compartimenté",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le rayonnage compartimenté (également appelé rayonnage à tablettes ou rayonnage à plateaux) convient à toutes les marchandises de détail qui ne sont pas stockées sur des palettes. Les compartiments de stockage du rayonnage à compartimenté sont équipés d'une étagère sur laquelle les marchandises sont déposées. Contrairement au rayonnage à palettes, aucun support de charge n'est donc nécessaire pour le stockage. Les rayonnages compartimentés servent au stockage de pièces individuelles ou de petites quantités ainsi que de marchandises de faibles volumes ou poids. Pour le stockage de petites pièces, les rayonnages à compartimentés peuvent être équipés de tiroirs et de différents bacs. Grâce à ces équipements supplémentaires, il est possible de stocker un grand nombre de marchandises différentes. Ces rayonnages conviennent également parfaitement à la préparation manuelle des commandes de marchandises stockées en petits volumes."
+    },
+    {
+     "t": "p",
+     "text": "Stockage dans des bacs"
+    },
+    {
+     "t": "p",
+     "text": "Rayonnage industriel"
+    },
+    {
+     "t": "p",
+     "text": "Rayonnage à tiroirs ( © SSI Schäfer)"
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-1",
+   "number": "3.2.1",
+   "title": "Rayonnages compartimentés à étages",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour une utilisation optimale de l'espace, les installations de rayonnages à compartiments sur plusieurs niveaux sont appropriées. L' analyse ABC permet de déterminer l'ordre de stockage: les \"articles à rotation rapide\" sont placés de manière à permettre les temps de trajet les plus courts. Les \"articles à rotation lente\" sont stockés dans la partie arrière des étages du haut."
+    },
+    {
+     "t": "p",
+     "text": "Rayonnages compartimentés à étages (© SSI Schäfer)"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Rayonnages compartimentés (a-z-solutions.eu)"
+    }
+   ]
+  },
+  {
+   "id": "s-3-3",
+   "number": "3.3",
+   "title": "Rayonnage à palettes",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On trouve des rayonnages à palettes dans presque tous les entrepôts. Ils sont constitués de montants et de traverses sur lesquels les marchandises sont stockées sur des supports de charge (palettes). Comme les marchandises sont stockées sur des supports de charge, les rayonnages à palettes n'ont généralement pas de sécurité à l’arrière contre le basculement. Les palettes reposent sur les supports, également appelés traverses ou lisses. Les rayonnages à palettes peuvent être simples ou doubles. Les rayonnages simples sont généralement placés contre auquel un mur et fixés à celui-ci. Les rayonnages doubles sont accessibles de deux côtés. Versions: Les rayonnages à palettes sont disponibles dans les versions les plus diverses. Les modèles normaux sont conçus pour une charge par traverse de 1600 à 1800 kg. Les rayonnages dits \"lourds\" sont plus massifs et peuvent supporter jusqu'à 4500 kg. Il existe des rayonnages à palettes pour l'intérieur et l'extérieur. Les rayonnages installés à l'extérieur doivent être conçus de manière à ne pas rouiller, c'est pourquoi ils sont généralement galvanisés."
+    },
+    {
+     "t": "p",
+     "text": "Traverses ou lisses Les supports sont fabriqués à partir de profilés en tôle. Ils sont verrouillés dans les cadres de montants à l'aide de goupilles de sécurité pour éviter qu'ils ne soient soulevés par inadvertance par les fourches des chariots élévateurs. La charge par traverse (charge sur une traverse entre deux cadres de montants) doit toujours être indiquée. Lors d’accident, les montants sont souvent endommagés par des manœuvres imprudentes avec le chariot élévateur. Les montants endommagés ont une capacité de charge fortement réduite et doivent donc être remplacés."
+    },
+    {
+     "t": "p",
+     "text": "Accessoires pour rayonnages à palettes L'accessoire le plus important pour les rayonnages à palettes est sans doute la protection antichoc. La fonction de la protection antichoc est de protéger les échelles ou les montants des dommages causés par un chariot de manutention. Si le montant est endommagé, la capacité de charge des rayonnages à palettes peut être réduite et risquer qu'ils s'effondrent."
+    },
+    {
+     "t": "p",
+     "text": "Protection contre les chocs d’allée"
+    },
+    {
+     "t": "p",
+     "text": "Protection contre les chocs"
+    },
+    {
+     "t": "p",
+     "text": "Butée arrière (© SSI Schäfer)"
+    },
+    {
+     "t": "p",
+     "text": "Les butées arrière empêchent les palettes d'être poussées au-delà du montant et de tomber, entrainant la chute de toutes les palettes sur la traverse."
+    },
+    {
+     "t": "p",
+     "text": "Partout où des personnes peuvent se trouver derrière des rayonnages à palettes, il faut non seulement installer une butée arrière, mais aussi une grille qui empêche la chute de marchandises. Il en va de même pour les voies piétonnes qui passent sous un rayonnage. Dans ce cas, les grilles doivent être placées sur le rayon le plus bas."
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt de palettes avec grille de protection contre les chutes de marchandises Les fabricants proposent une multitude de supports qui permettent également de stocker des marchandises non palettisées dans des rayonnages à palettes. Rayonnage à palettes pour marchandises non palettisées (© SSI Schäfer)"
+    }
+   ]
+  },
+  {
+   "id": "s-3-4",
+   "number": "3.4",
+   "title": "Rayonnage drive-in",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le rayonnage drive-in est une alternative au stockage en bloc. Il se compose de plusieurs canaux juxtaposés, formés au moyen de rayonnages continus qui réceptionnent les palettes. Les canaux sont \"remplis\" d'un côté par les marchandises stockées sur palettes. La procédure correspond à la structure d'un bloc de stockage. La différence avec le stockage en bloc réside dans le fait que les marchandises stockées ne sont pas empilées les unes sur les autres, mais reposent sur les profilés latéraux. Il est donc possible de stocker des marchandises sensibles à la pression."
+    },
+    {
+     "t": "p",
+     "text": "Rayonnage drive-in"
+    },
+    {
+     "t": "p",
+     "text": "Lorsqu'un rayonnage à une entrée est rempli, seules les marchandises situées à l'avant sont encore accessibles. Ce type de stockage ne convient donc qu'aux marchandises pour lesquelles l'accès à une palette individuelle concrète n'est pas nécessaire, comme c'est le cas pour le stockage en bloc. Les rayonnages à accumulation conviennent au stockage de grandes quantités de marchandises non empilables. Le premier entré, premier sorti (FIFO) n'est évidemment pas possible."
+    }
+   ]
+  },
+  {
+   "id": "s-3-5",
+   "number": "3.5",
+   "title": "Rayonnage drive-in à double entrée",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Rayonnage à double entrée (© SSI Schäfer) Le rayonnage à double entrée a une construction similaire à celle d'un rayonnage drive-in. La différence réside dans le fait que le rayonnage traversant est accessible des deux côtés. Les marchandises sont stockées d'un côté et retirées de l'autre. Cela permet de garantir le First-In, First-Out (FIFO)."
+    }
+   ]
+  },
+  {
+   "id": "s-3-6",
+   "number": "3.6",
+   "title": "Rayonnage dynamique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans un entrepôt à rayonnages dynamiques, les marchandises sont stockées de manière dynamique. Elles ne restent donc pas à leur place, mais se déplacent d'un côté à l'autre du rayonnage. Pour ce faire, les marchandises sont placées sur un plan de stockage incliné, équipé de rouleaux rotatifs. L'entrepôt est rempli d'un côté et les marchandises sont prélevées de l'autre côté du rayonnage. Normalement, les marchandises se déplacent automatiquement du point de chargement au point de déchargement sous l'effet de la gravité. Rayonnage dynamique, chargement à droite, prélèvement à gauche"
+    }
+   ]
+  },
+  {
+   "id": "s-3-6-1",
+   "number": "3.6.1",
+   "title": "Rayonnage à accumulation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La structure du rayonnage à accumulation est similaire à celle du rayonnage dynamique. Toutefois, le niveau de stockage est incliné en direction de la sortie. Ce type d'entrepôt fonctionne selon le principe du dernier entré, premier sorti (LIFO ): les marchandises stockées sont poussées vers l'arrière par l'arrivée de nouvelles marchandises. Les rayonnages à à accumulation conviennent surtout aux marchandises peu sensibles aux chocs et sans date de péremption."
+    },
+    {
+     "t": "p",
+     "text": "Etagère à accumulation (© SSI Schäfer)"
+    }
+   ]
+  },
+  {
+   "id": "s-3-7",
+   "number": "3.7",
+   "title": "Rayonnage en porte-à-faux",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le rayonnage en porte-à-faux aussi nommé cantilever est la forme de stockage la plus courante pour les produits longs tels que les planches, les barres ou les tubes. Le rayonnage cantilever dispose d'un montant central d’où partent des bras latéraux comme les branches d’un arbre. L'un des avantages des rayonnages cantilever est la facilité d'accès aux marchandises stockées, car aucune traverse ne bloque l'accès."
+    },
+    {
+     "t": "p",
+     "text": "Rayonnage cantilever"
+    }
+   ]
+  },
+  {
+   "id": "s-3-7-1",
+   "number": "3.7.1",
+   "title": "Rayonnage de stockage horizontal pour marchandises longues (empileur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "automatique) Une alternative beaucoup plus coûteuse au rayonnage cantilever est le stockage dynamique horizontal de marchandises longues. Les marchandises longues sont placées dans des cassettes qui sont superposées de manière mobile à l'arrière de l’empil eur automatique. La cassette souhaitée peut être déstockée automatiquement. Les marchandises nécessaires sont prélevées de la cassette, qui est ensuite à nouveau stockée automatiquement."
+    },
+    {
+     "t": "p",
+     "text": "Rayonnage de stockage vertical"
+    }
+   ]
+  },
+  {
+   "id": "s-3-8",
+   "number": "3.8",
+   "title": "Étagère en nid d'abeille",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les rayonnages en nids d’abeille conviennent pour le stockage de petites et moyennes quantités de marchandises longues. Pour les grandes quantités (par exemple les profilés en acier), il faut des rayonnages en nid d'abeille. Les compartiments de stockage du rayonnage en nid d'abeille ressemblent à de petits tunnels dans lesquels les marchandises longues sont poussées. La profondeur est calculée de manière à ce que les produits longs puissent être stockés sur toute leur longueur (dans le commerce de l'acier, généralement sur une longueur de 6 mètres ). Une"
+    },
+    {
+     "t": "p",
+     "text": "Casier en nid d'abeille de bouteilles de vin"
+    },
+    {
+     "t": "p",
+     "text": "plate-forme de travail mobile se trouve à l'avant du rayonnage en nid d'abeilles (ou entre deux rayonnages) et permet de se diriger vers les différents emplacements de stockage."
+    },
+    {
+     "t": "p",
+     "text": "La marchandise longue souhaitée est prélevée à la main ou, pour les marchandises lourdes, à l'aide de pinces, depuis le rayonnage sur la plate-forme de travail. Si nécessaire, les produits longs peuvent être coupés à la bonne longueur sur la plate-forme de travail directement. Les parties restantes peuvent être remises à leur place de stockage immédiatement après la découpe. Contrairement au rayonnage en porte-à-faux, les profilés déjà coupés ne sont pas facilement reconnaissables dans le rayonnage en nid d'abeille."
+    }
+   ]
+  },
+  {
+   "id": "s-3-9",
+   "number": "3.9",
+   "title": "Rayonnage mobile",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les rayonnages mobiles sont utilisés là où l'espace de stockage doit être réduit. Plusieurs rangées de rayonnages peuvent être coulissées les unes dans les autres sans espace (sans allées de travail fixe), ce qui garantit une utilisation parfaite de l'espace. L'allée de service ne s'ouvre qu'aux endroits où l'on doit accéder aux marchandises stockées. Les rayonnages à compartiments, les rayonnages à palettes et les rayonnages en porte à faux peuvent être conçus comme des rayonnages mobiles. La mobilité des rayonnages est assurée par une structure inférieure mobile sur des rails de guidage. Les rayonnages mobiles peuvent donc être déplacés dans une seule direction. Pour déplacer les petits rayonnages, la force humaine suffit. Les rayonnages mobiles plus grands sont entraînés par un moteur électrique."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: les rayonnages mobiles permettent de gagner beaucoup de place, mais le temps d'accès est élevé. Les rayonnages mobiles conviennent pour des quantités moyennes de marchandises avec une faible rotation des stocks."
+    }
+   ]
+  },
+  {
+   "id": "s-3-9-1",
+   "number": "3.9.1",
+   "title": "Rayonnage mobiles à compartiments",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Rayonnage mobile compartimentés"
+    },
+    {
+     "t": "p",
+     "text": "Les rayonnages mobiles à compartiments sont utilisés presque exclusivement pour les archives. Les rayonnages mobiles à compartiments doivent contenir un grand nombre d'articles avec une rotation de stock extrêmement faible. C'est pourquoi l'utilisation optimale de l'espace est la première priorité."
+    }
+   ]
+  },
+  {
+   "id": "s-3-9-2",
+   "number": "3.9.2",
+   "title": "Rayonnage mobile à palette",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les rayonnages mobiles à palettes ne conviennent également que pour le stockage de marchandises à faible rotation. Leur utilisation est judicieuse lorsque l'espace de stockage est limité ou que le volume doit être restreint. L'utilisation de rayonnages mobiles peut par exemple être judicieuse dans les chambres froides, car chaque mètre cube d'espace de stockage économisé réduit les coûts énergétiques liés à la réfrigération."
+    },
+    {
+     "t": "p",
+     "text": "Rayonnage mobile à palettes (© SSI Schäfer)"
+    }
+   ]
+  },
+  {
+   "id": "s-3-10",
+   "number": "3.10",
+   "title": "Rayonnages rotatifs",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-3-10-1",
+   "number": "3.10.1",
+   "title": "Rayonnages rotatifs verticaux",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les rayonnages rotatifs verticaux ne se rencontrent pas uniquement dans les entrepôts, mais partout où il faut stocker de nombreux articles différents dans un espace limité. Ils sont appelés \" Paternoster \" dans le langage courant. Les compartiments, dans lesquels se trouvent les marchandises à stocker, sont montés de manière mobile entre deux brins de chaîne circulant verticalement et entraînés par un moteur électrique. Le système de rayonnage est généralement entièrement recouvert et peut être fermé à clé. Les pièces stockées sont ainsi protégées contre le vol, pour cette raison, les rayonnages rotatifs verticaux sont donc souvent utilisés pour le stockage de marchandises de valeur."
+    },
+    {
+     "t": "p",
+     "text": "Rayonnage rotatif vertical L’entrée et la sortie de stock se font à hauteur de prélèvement, ce qui garantit une méthode de travail ergonomique. Le compartiment de stockage souhaité est sélectionné à l'aide d'un clavier. Le rayonnage rotatif tourne jusqu'à ce que le compartiment choisi se trouve devant l'ouverture. La plupart du temps, les rayonnages rotatifs verticaux sont utilisés pour de petites quantités de marchandises de valeur. Il est rare que de telles constructions soient utilisées pour des marchandises longues ou plus lourdes. L'inconvénient est qu'il ne peut pas être utilisé par plusieurs personnes en même temps."
+    }
+   ]
+  },
+  {
+   "id": "s-3-10-2",
+   "number": "3.10.2",
+   "title": "Rayonnages rotatifs horizontaux",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Rayonnage rotatif horizontal"
+    },
+    {
+     "t": "p",
+     "text": "Le rayonnage rotatif horizontal se compose de rayonnages à compartiments suspendus sur des roulements. Les rayonnages sont guidés en haut et en bas par des rails. Les chariots sont reliés par une chaîne sans fin entraînée par un moteur. La tension appliquée sur le système empêche tout basculement des casiers. Le système fonctionne, comme le rayonnage rotatif vertical, selon la méthode \"la marchandise va à homme\". L'opérateur n'a donc pas besoin de se déplacer lui-même vers la marchandise, il lui suffit d'appuyer sur un bouton pour faire venir le compartiment de stockage souhaité."
+    }
+   ]
+  },
+  {
+   "id": "s-3-11",
+   "number": "3.11",
+   "title": "Stockage suspendu",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-3-11-1",
+   "number": "3.11.1",
+   "title": "Stockage statique de marchandises suspendues",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchandises sont suspendues à des cintres ou crochets, comme dans une armoire. Dans le cadre des vêtements, ils sont généralement protégés sous une housse en plastique. Le stockage sur plusieurs niveaux est un moyen permettant de gagner de la place. Comme dans le cas des rayonnages à plusieurs niveaux, l'entrepôt est accessible via des plateformes intermédiaires. Il est possible d'accéder à deux niveaux à partir d'une plateforme intermédiaire."
+    }
+   ]
+  },
+  {
+   "id": "s-3-11-2",
+   "number": "3.11.2",
+   "title": "Stockage dynamique de marchandises suspendues",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage dynamique pour articles suspendus est un convoyeur continu à circulation horizontale. Par exemple, les textiles, suspendus à des cintres et protégés sous des housses en plastique, sont accrochés à la ligne de convoyage. La ligne de convoyage est constituée de rails dans lesquels circule une chaîne sans fin avec des entraîneurs, dans laquelle des chariots peuvent être insérés et sortis, comme dans un téléphérique. Au lieu de vêtements, il est possible de transporter des conteneurs (par exemple avec des accessoires). Les entrepôts modernes de marchandises suspendues sont gérés par ordinateur; l'emplacement de stockage souhaité est saisi dans le système. L’installation se met en mouvement et s'arrête lorsque l'article souhaité se trouve à l'emplacement de préparation des commandes. On trouve ce type d'entrepôt dans l'industrie textile, dans les boucheries industrielles, chez les grands distributeurs ou comme vestiaires dans les grands lieux d'événements."
+    },
+    {
+     "t": "p",
+     "text": "Le stockage dynamique de marchandises suspendues peut également être combiné avec des bacs"
+    }
+   ]
+  },
+  {
+   "id": "s-3-12",
+   "number": "3.12",
+   "title": "Installations modernes",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-3-12-1",
+   "number": "3.12.1",
+   "title": "Navette dans l'entrepôt",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une navette (également appelée navette automatisée ou navette satellite) est un véhicule utilisé pour la desserte automatique des entrepôts. La navette permet d'entreposer, de transférer et de retirer des unités de chargement. Elle fonctionne de manière totalement autonome, soit avec une batterie intégrée, soit via une connexion électrique qui garantit sa capacité d'utilisation. Les navettes sont surtout adaptées aux petites pièces et aux conteneurs qui doivent être stockés et déstockés efficacement. Le taux d’exploitation du volume peut être optimisé grâce à l'utilisation de navettes. Les navettes peuvent également être utilisées dans les entrepôts frigorifiques jusqu'à plus de"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "30 degrés Celsius."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-12-2",
+   "number": "3.12.2",
+   "title": "Robots de prélèvement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les robots de prélèvement sont entièrement automatiques, appelés en français \"robots de prélèvement des commandes\", se chargent de manière autonome, selon leur fonction, d'une tâche partielle ou du déroulement complet de la préparation des commandes; que ce soit par exemple pour la"
+    },
+    {
+     "t": "p",
+     "text": "mise à disposition de rayonnages entiers ou pour la distribution de paquets. Ces robots existent dans les versions les plus diverses. Les systèmes de picking robotisés mobiles se divisent généralement en deux catégories: les robots collaboratifs (ou \"cobots\") et les Autonome Mobile Roboter (AMR). Les cobots accompagnent les collaborateurs lors de leur passage dans l'entrepôt en préparant des articles pour les commandes des clients. Les AMR fonctionnent comme des robots d'entrepôt autonomes qui parcourent les allées de manière indépendante, récupèrent les articles et les ramènent à un poste de préparation de commandes."
+    }
+   ]
+  },
+  {
+   "id": "s-3-12-3",
+   "number": "3.12.3",
+   "title": "Entrepôts à hauts rayonnages (à grande hauteur)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On parle d'entrepôts à hauts rayonnages (grande hauteur) pour les entrepôts d'une hauteur de 15 mètres à environ 45 mètres. La capacité d'un entrepôt à hauts rayonnages va de quelques milliers d'emplacements pour palettes à plusieurs centaines de milliers. Ce type d'entrepôt offre une grande optimisation de l'espace, mais implique également des coûts d'investissement élevés. Les entrepôts à hauts rayonnages sont généralement gérés de manière entièrement automatisée par un système de gestion d'entrepôt. Les marchandises sont stockées et déstockées par des transstockeurs autonomes ou à conducteurs. Dans les petits entrepôts, ces appareils peuvent souvent être commandés manuellement pour préparer les commandes directement dans les rayonnages (statique, lorsque l'homme va à la marchandise) ou dynamique lorsque la zone de préparation des commandes se trouve à proximité des rayonnages (dynamique, la marchandise va vers l'homme)."
+    }
+   ]
+  },
+  {
+   "id": "s-3-12-4",
+   "number": "3.12.4",
+   "title": "Autostore",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Autostore est une technologie de stockage originaire de Norvège, spécialement conçue pour être utilisée dans les entrepôts de petites pièces. Si l'espace vient à manquer alors que la capacité de stockage augmente, le système offre la possibilité d'adapter l'entrepôt de manière optimale aux conditions de l'entreprise, même sur les surfaces les plus petites, et de multiplier ainsi la capacité."
+    },
+    {
+     "t": "p",
+     "text": "Fonctionnement Autostore est un entrepôt automatique pour petites pièces à l’intérieur duquel les conteneurs sont directement empilés les uns sur les autres dans une construction en aluminium, ce qui permet de se passer des systèmes de rayonnage classiques. Les bacs sont déplacés par un robot et peuvent ainsi être positionnés de manière optimale en fonction du flux de consommation. Les produits à rotation rapide sont stockés dans la partie supérieure, les produits à rotation lente dans la partie inférieure. Bien qu'Autostore corresponde à un système de stockage statique, le robot piloté garantit à tout moment le tri ou le déplacement des articles."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras ici plus d'informations sur Autostore."
+    },
+    {
+     "t": "note",
+     "kind": "good",
+     "label": "Bonne pratique",
+     "text": "Les avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Utilisation optimale des dimensions existantes de l'espace",
+      "Le système fermé offre une protection contre les influences extérieures"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(vol, poussière)."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Un taux de rotation élevé",
+      "Grâce à la connexion au système de gestion des stocks, les conteneurs peuvent être pré-ordonnés et donc placés de manière optimale.",
+      "Utilisation possible 24 heures sur 24",
+      "Extensible à l'infini"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "bad",
+     "label": "À éviter",
+     "text": "Les inconvénients:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Autostore n'est conçu que pour les petites pièces et est donc limité en volume et en poids."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La tendance à l'automatisation, qui s'accompagne d'un besoin croissant de flexibilité, met les prestataires logistiques au défi d'adapter leurs capacités de manière optimale. Le système offre ici une solution optimale en ce sens qu'il ne nécessite pas d'agrandir l'espace existant ou d'augmenter le personnel tout en proposant un stockage économique des marchandises."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 403"
+     ]
+    }
+   ]
+  }
+ ]
+}

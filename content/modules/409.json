@@ -1,0 +1,868 @@
+{
+ "code": "409",
+ "title": "Les engins de manutention",
+ "domain": "400",
+ "pdf": "M409.pdf",
+ "pages": 26,
+ "words": 5519,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "100 Module 409_Les Engins de manutention Il est essentiel d'acheter le bon chariot de manutention. Pour pouvoir choisir le bon modèle, il faut disposer d'un grand savoir-faire. Un chariot de manutention coûte rapidement très cher, il est donc crucial d’éviter un mauvais investissement. C'est pourquoi, lors de l'achat, on dépend également du soutien des fabricants de ces véhicules. Pour choisir le bon modèle, il est nécessaire de savoir à quelle activité il sera des - tiné. Il faut clairement définir quelles marchandises seront transportées en quelle quantité et quelle distance devra être parcourue. La variété de modèles et d'ac - cessoires sur le marché peut parfois sembler écrasante. En ce qui concerne les chariots de manutention, l'automatisation ne connaît guè - re de limites non plus. Aperçu de la planification du module 409"
+    },
+    {
+     "t": "p",
+     "text": "101 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique du module 409 Dans le module 407, certaines choses ont déjà été expliquées sur ce que l'on appelle les moyens de transport, par exemple l'arborescence suivante des moy - ens de transport: Le transport d'objets en tenant compte de l'économie ( la question de la rentabi - lité ) et de l'écologie ( la question de l'environnement ) est l'une des grandes tâches centrales de la logistique de transport. Le terme «sol»apparaît également dans l'arborescence. MOYENS DE TRANSPORT Type de mouvement Convoyeur discontinu Convoyeur continu Implantation dans le local Implantation dans le local direction du déplacement au sol suspendu au sol suspendu direction du déplacement horizontal vertical horizontal vertical horizontal horizontal horizontal horizontal"
+    },
+    {
+     "t": "p",
+     "text": "102"
+    }
+   ]
+  },
+  {
+   "id": "s-9-1",
+   "number": "9.1",
+   "title": "Définition des engins de manutention au sol",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le terme «engins de manutention au sol»est composé des mots «engin de manu - tention»et «au sol». Ensemble, ces termes signifient: Ce module traite de tous les véhicules qui peuvent se déplacer sur le sol ( au sol ). Un engin de manutention est classé en fonction de son mouvement ( horizontal ). Ce n'est pas la hauteur de levage qui est déterminante, mais le sens de déplace - ment - même un chariot élévateur à contrepoids avec une hauteur de levage de 12 mètres appartient ainsi à la catégorie des engins de manutention au sol. De nos jours, il existe un grand choix de chariots de manutention différents."
+    }
+   ]
+  },
+  {
+   "id": "s-9-2",
+   "number": "9.2",
+   "title": "Engins de manutention au sol",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le choix d’engin de manutention au sol est vaste. Voici une sélection des varian - tes les plus connues."
+    },
+    {
+     "t": "p",
+     "text": "Transpalette électrique à timon Chariot élévateur élec-trique à timon ou Gerbeur Tracteur à conducteur porté debout Chariot élévateur télescopique Préparateur de comman - des vertical Préparateur de comman - des à petite levée Engin de manutention = véhicules et au sol = qui touche le sol pour se déplacer"
+    },
+    {
+     "t": "p",
+     "text": "103 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Chariot élévateur à contrepoids Élevateur à mât rétractable Gerbeur électrique à conducteur porté Transtockeur Engin de mise en stock Mât rétractable multidi - rectionnel Mât rétractable latéral Chaque type représenté a ses caractéristiques particulières et un domaine d'acti - vité spécifique pour lequel il est adapté. Grâce à ces différentes caractéristiques, les engins de manutention peuvent encore être répartis en catégories:"
+    },
+    {
+     "t": "p",
+     "text": "104 Catégorie Type Engins à timon – Transpalette électrique"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Gerbeur électrique"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Véhicules de préparation des com - mandes"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Préparateur de commandes à gran - de levée",
+      "Préparateur de commandes à petite levée"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Tracteur – Tracteur Chariot élévateur – Chariot élévateur à contrepoids"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chariot à mât rétractable",
+      "Chariot élévateur télescopique",
+      "Mât rétractable latéral",
+      "Mât rétractable multidirectionnel",
+      "Engin de mise en stock",
+      "Gerbeur"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariots élévateurs en porte-à-faux – Chariot télescopique"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chariot élévateur à contrepoids",
+      "Engin de mise en stock"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Chariots élévateurs à bras porteurs – Chariot à mât rétractable"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Gerbeur",
+      "Mât rétractable multidirectionnel"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Voici une brève description des principales caractéristiques et des domaines d'ap - plication des chariots de manutention présentée ci-dessus."
+    },
+    {
+     "t": "p",
+     "text": "105 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-1",
+   "number": "9.2.1",
+   "title": "Transpalette électrique à timon",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le transpalette électrique dispose d'une levée de transport et est utilisé principa - lement pour le chargement et le déchargement de véhicules. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Maniabilité",
+      "Économique",
+      "Seulement pour le transport de marchan - dises"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-2",
+   "number": "9.2.2",
+   "title": "Chariot élévateur électrique à timon ou Gerbeurs électriques à",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "timon ( S2 ) Contrairement au transpalette électrique, le gerbeur électrique n'a pas «seule - ment»la possibilité de transporter des marchandises, mais peut aussi les empiler les unes sur les autres ou même stocker au premier niveau de rayonnagen. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Maniabilité",
+      "Hauteur de levage",
+      "Hauteur de levage limitée"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-3",
+   "number": "9.2.3",
+   "title": "Tracteurs ( S1 )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le tracteur peut être considéré comme une exception dans cette énumération. Comme son nom l'indique, il a la possibilité de «tracter»de grandes quantités de marchandises. Les marchandises sont préparées dans différents chariots roulants et amenées à la destination souhaitée par le tracteur. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Vitesse",
+      "Simplicité d'utilisation",
+      "Maniabilité",
+      "Déplacement de cha - riot ou char seule - ment"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "106"
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-4",
+   "number": "9.2.4",
+   "title": "Chariot élévateur télescopique ( R4 )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La particularité du chariot élévateur télescopique réside dans sa construction. Le bras télescopique massif a été déplacé vers l’arrière. Grâce à son positionnement en arrière du point d’appui, il sert de contrepoids. C'est uniquement grâce à ce type de construction que le chariot télescopique a la possibilité de soulever des marchandises. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Capacité de charge",
+      "Hauteur de levage",
+      "Coûts d'acquisition",
+      "Maniabilité"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-5",
+   "number": "9.2.5",
+   "title": "Préparateur de commandes vertical",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le préparateur de commandes vertical est un chariot de manutention à deux di - mensions. Bien qu'il permette de circuler dans la dimension verticale, le véhicule est au sol, donc lié au sol. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Travail dans des allées étroites",
+      "Se déplace verticale - ment et horizontale - ment",
+      "Coûts d'acquisition",
+      "Vitesse"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-6",
+   "number": "9.2.6",
+   "title": "Préparateur de commandes à petite levée",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme son nom l'indique, le préparateur de commandes à petite levée est utilisé pour la préparation de commandes. Il se déplace horizontalement et peut dépla - cer l'homme et le support de charge vers l'emplacement de prélèvement souhaité. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Vitesse",
+      "Maniabilité",
+      "Pas de hauteur de levage",
+      "Préparation verticale des commandes n'est pas possible"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "107 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-7",
+   "number": "9.2.7",
+   "title": "Chariot élévateur à contrepoids ( R1 )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le chariot élévateur à contrepoids est l'un des véhicules les plus connus des en - gins de manutention. Il est disponible en différents modèles et tailles. Sa capacité de charge est déterminée par sa taille et son poids. Le chariot élévateur à cont - repoids peut être acheté dans différents types d'entraînement et être utilisé en conséquence à l'intérieur et à l'extérieur. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Capacité de charge",
+      "Variantes",
+      "Outils portés",
+      "Vertical et horizontal",
+      "Coûts d'acquisition",
+      "Maniabilité"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-8",
+   "number": "9.2.8",
+   "title": "Chariot élévateur à mât rétractable ( R2 )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le chariot à mât rétractable est également un véhicule bien connu parmi les cha - riots de manutention. Son nom indique la caractéristique spéciale de la fonction de déplacement du mât. Contrairement au chariot à contrepoids, dont le poids propre modifie la capacité de charge, le mât rétractable permet au chariot de re - culer la charge entre la base des roues. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Capacité de charge",
+      "Différentes variantes",
+      "Maniabilité",
+      "Vertical et horizontal",
+      "Coûts d'acquisition",
+      "Maniabilité",
+      "Surface plane néces - saire",
+      "Vue vers l'avant limité"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "108"
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-9",
+   "number": "9.2.9",
+   "title": "Gerbeur électrique à conducteur porté assis",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le gerbeur électrique à conducteur porté assis est reconnaissable à la caractéris - tique particulière du siège positionné latéralement par rapport au sens de la mar - che. Contrairement au mât rétractable, le gerbeur électrique à conducteur porté assis n'a pas le mât qui s’avance. Ce véhicule convient au secteur de l'expédition par exemple. La particularité de cet engin réside dans le fait qu’il peut prendre deux palettes à la fois, une sur les fourches de levée supérieures et une sur la le - vée initiale. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Maniabilité",
+      "Vertical et horizontal",
+      "Pas de mât mobile",
+      "Pas de capacité de charge élevée",
+      "Vue vers l'avant li - mitée",
+      "Surface plane néces - saire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-10",
+   "number": "9.2.10",
+   "title": "Transstockeur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le terme de transstockeur désigne tous les appareils utilisés pour la desserte des rayonnages de moyennes à grande hauteurs. Un transstockeur peut prendre des formes très différentes selon le type de marchandises stockées. La machine ne se retourne pas à l'intérieur de l'allée de travail, celle-ci peut donc avoir une largeur minimale. Un transstockeur peut être guidé de manière manuelle, semi-automa - tique ou automatique. Les appareils sont généralement guidés par un rail situé au sol et au plafond à l'intérieur de l'allée. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Opération minimale",
+      "Vertical et horizontal",
+      "Utilisation maximale de l'espace",
+      "Degré d'automatisati - on",
+      "Coûts d'acquisition",
+      "Pas de grandes distan - ces à parcourir"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "109 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-11",
+   "number": "9.2.11",
+   "title": "Engin de mise en stock tri-directionnel",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les engins de mise en stock ont, comme le transstockeur, l'avantage de pouvoir travailler dans des allées très étroites ( environ 1500-1800 mm ). Un retournement à l'intérieur de l'allée n’est pas possible. Différents modèles sont utilisés: d'une part, ceux dans lesquels le conducteur est porté en hauteur et, d'autre part, ceux dans lesquels le chariot est commandé depuis la cabine au sol. Si l'avantage de l'allée étroite est mis à profit, le véhicule est généralement équipé de fourche pivotante ou aussi appelé tri directionnel. Il est possible de stocker et de déstocker à des hauteurs élevées, ce qui augmente considérablement la capacité de stockage. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Opération minimale",
+      "Vertical et horizontal",
+      "Utilisation de l'espace",
+      "Coûts d'acquisition",
+      "Pas de grandes distan - ces à parcourir",
+      "Surface plane nécessaire"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-12",
+   "number": "9.2.12",
+   "title": "Chariot élévateur multidirectionnel",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le chariot élévateur multidirectionnel a la particularité de pouvoir changer de sens de marche sur place. Il peut donc non seulement avancer ou reculer à partir de sa position d'arrêt, mais aussi tourner ses roues vers la gauche ou la droite et modifier ainsi son sens de marche. Il est également possible d'orienter un sens de marche en diagonale à partir de l'arrêt. Ainsi, le mât rétractable multidirectionnel, en tant que véhicule imposant et massif, peut atteindre une maniabilité excepti - onnelle. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sens de la marche sélectionnable",
+      "Grande capacité de charge",
+      "Vertical et horizontal",
+      "Maniabilité",
+      "Coûts d'acquisition",
+      "Appareil massif",
+      "Surface plane néces - saire"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "110"
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-13",
+   "number": "9.2.13",
+   "title": "Le chariot élévateur latéral ( R3 )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le chariot élévateur latéral est un engin de manutention adapté aux marchandi - ses longues. Contrairement au chariot à siège transversal, le mât rétractable laté - ral a la cabine dans le sens de la marche et le mât de levage coulissant est disposé perpendiculairement au sens de la marche. Cela permet de prendre et de trans - porter des marchandises longues. Les marchandises longues peuvent être prises par le côté et être déposées pour le transport sur un pont de chargement. Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Utilisation à l'intérieur et à l'extérieur",
+      "Marchandise longue",
+      "Vitesse de déplace - ment élevée",
+      "Coûts d'acquisition",
+      "Rayon de braquage peu élevé",
+      "Hauteur de levage limitée",
+      "Convient uniquement aux marchandises longues"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "111 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-9-3",
+   "number": "9.3",
+   "title": "Les chariots de manutention sur le marché",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme dans le secteur automobile, il existe une grande concurrence entre les fabricants de chariots de manutention. Les différentes marques ont leurs spéci - alités. Le besoin de l'acheteur limite en conséquence le choix entre les différents fournisseurs. Il s'agit de choisir la meilleure offre avec le meilleur partenaire en fonction de ses propres besoins. Il est avantageux de pouvoir rassembler le plus grand nombre possible d'appareils du même fournisseur dans le cadre d'une lo - gistique étendue."
+    }
+   ]
+  },
+  {
+   "id": "s-9-3-1",
+   "number": "9.3.1",
+   "title": "Fabricants de chariots de manutention",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le graphique suivant présente les plus grands fabricants de chariots de manuten - tion en 2013 ( en fonction du chiffre d'affaires ): Fabricant Pays d'origine Chiffre d'affaires en milli - ards de dollars US par an 2013 Toyota Industries Japon 7.71 Kion Group Allemagne 6.11 Jungheinrich Allemagne 3.16 Hyster-Yale Materials ÉTATS-UNIS 2.67 Crown Equipment Corp. ÉTATS-UNIS 2.4 Mitsubishi Nichiyi Japon 1.96 UniCarriers Americas Japon 1.69 Anhui Forklift Truck Chine 1.09 Hangcha Group Chine 1.0 Komatsu Japon 0.9"
+    },
+    {
+     "t": "p",
+     "text": "112 Deux marques connues en Suisse, Linde et Still, sont gérées par le groupe alle - mand Kion. En comparaison avec les chiffres de 2013, voici les statistiques actuel - les de 2020: Fabricant Pays d'origine Chiffre d'affaires en milli - ards de dollars US par an 2020 Toyota Industries Japon 12.7 Kion Group Allemagne 6.9 Jungheinrich Allemagne 4.6 Mitsubishi Nichiyi Japon 3.8 Crown Equipment Corp. ÉTATS-UNIS 3.6 Hyster-Yale Materials ÉTATS-UNIS 2.8 Anhui Forklift Truck Chine 1.9 Hangcha Group Chine 1.3 Manitou France 1.3 Doosan Industrial Vehicle Corée du Sud 1.0 Source: https://de.statista.com/statistik/daten/studie/239137/umfrage/groesste-hersteller-von-flurfoerderzeugen-weltweit-nach-umsatz/"
+    }
+   ]
+  },
+  {
+   "id": "s-9-3-2",
+   "number": "9.3.2",
+   "title": "Types d'entraînement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les fabricants et les clients de chariots de manutention ne sont pas seulement préoccupés par la concurrence, mais aussi par la question du mode de propulsion actuel ou futur. Les modes de propulsion actuels sont le diesel, le gaz, l'électricité et l'hybride. Certains modèles à essence sont également présents, mais dans une proportion minime."
+    },
+    {
+     "t": "p",
+     "text": "Diesel Le chariot élévateur diesel est particulièrement adapté à l'extérieur. Les gaz d'échappement empêchent son utilisation à l'intérieur d'un bâtiment. Le grand avantage de cette motorisation est sa puissance. Le chariot élévateur diesel est considéré comme le modèle le plus résistant. Une capacité de charge de 100 ton - nes est possible."
+    },
+    {
+     "t": "p",
+     "text": "Gaz Les chariots de manutention fonctionnant au gaz sont plutôt rares. Cependant, ils ont aussi leurs avantages. Les chariots de manutention à gaz peuvent être utilisés aussi bien à l'extérieur qu'à l'intérieur. La condition est une bonne ventilation. Ils combinent ainsi les domaines d'utilisation du moteur diesel ( extérieur ) et du mo - teur électrique ( intérieur )."
+    },
+    {
+     "t": "p",
+     "text": "113 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Électricité Les chariots de manutention à propulsion électrique sont les plus utilisés. Ils sont très silencieux et ne produisent pas de gaz d'échappement. Des temps de char - ge de batterie plus longs et une capacité de charge plus faible peuvent jouer en défaveur de la propulsion électrique. Comme dans le secteur automobile, les chariots électriques les plus modernes peuvent être équipés d'un système de ré - cupération d'énergie."
+    },
+    {
+     "t": "p",
+     "text": "Hybride Les chariots de manutention dotée d'un entraînement diesel-électrique ( hybride ) peuvent être entraînés par un générateur fonctionnant au diesel ( ou au gaz ) ou, en alternative, par un moteur électrique. Les véhicules hybrides combinent les avanta-ges des véhicules à moteur diesel ( ou à gaz ) et des véhicules à moteur électrique. En conséquence, les modèles hybrides sont utilisés à l'intérieur et à l'extérieur."
+    }
+   ]
+  },
+  {
+   "id": "s-9-3-3",
+   "number": "9.3.3",
+   "title": "Types d'entraînement, la comparaison",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les tableaux suivants peuvent vous aider à choisir le bon type d'entraînement pour un chariot de manutention: Moteur à combustion ( diesel, essence ou gaz ) Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les moteurs à combustion sont plus rapidement opérationnels",
+      "Les grandes pentes peuvent être surmontées plus facilement",
+      "Ils ont un avantage dans le charge - ment et le déchargement",
+      "Grande capacité de charge grâce à un poids propre élevé",
+      "Peu coûteux à l'achat",
+      "Niveau de bruit élevé",
+      "Des émissions polluantes élevées",
+      "Produisent une odeur désagréable",
+      "Frais d'entretien élevés en raison de l'usure"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Moteur électrique Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Respectueux de l'environnement",
+      "Faible usure",
+      "Maniabilité",
+      "Faible consommation de carburant",
+      "Chargement de la batterie",
+      "Frais généraux occasionnés"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "( Inclure le chargement )"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Coûts d'acquisition",
+      "Moins de puissance"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "114 Hybride Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Respectueux de l'environnement",
+      "Faible usure",
+      "Maniabilité",
+      "Faible consommation de carburant",
+      "Coûts d'acquisition",
+      "Frais d'entretien élevées"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-9-4",
+   "number": "9.4",
+   "title": "Parties de l’engin de manutention",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le choix est encore plus grand que la diversité des différents modèles d’engins de manutention lorsqu'il s'agit des différentes pièces des chariots."
+    }
+   ]
+  },
+  {
+   "id": "s-9-4-1",
+   "number": "9.4.1",
+   "title": "Mât de levage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le mât d'un chariot élévateur sert à soulever hydrauliquement les fourches avec la charge. En ce qui concerne la hauteur de levage, on distingue les types de mâts suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Mât de levage simple ( Simplex )",
+      "Mât de levage double ( Duplex )",
+      "Mât de levage triple ( Triplex )",
+      "Mât de levage quadruple ( Quadruplex )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les mâts simples ne sont presque plus dispo - nibles dans le commerce. Les chariots éléva - teurs modernes sont au moins équipés d'un mât double ( duplex ). Les mâts triples sont déjà standard. Les mâts quadruples ( Quadruplex ) sont plutôt rares. Dans le cas des mâts multiples, plusieurs profilés de mât sont emboîtés les uns dans les autres. Cela rend le mât plus épais et plus lourd. Le type de mât dépend de l'utilisation prévue. Dans les brochures, on voit souvent l’expression »mât offrant une bonne visibilité ». Ceux-ci permettent au cariste d’avoir une vue dégagée vers l’avant. Les chaînes de le - vage ou les cylindres hydrauliques sont donc installés sur le côté."
+    },
+    {
+     "t": "p",
+     "text": "115 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-9-4-2",
+   "number": "9.4.2",
+   "title": "Types de courses",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le mât à levée normale ( sans levée libre ) Lorsque les fourches du mât à levée normale sont montées, le mât se déploie en même temps que la fourche monte. Les chariots à levée normale peuvent être utilisés partout où la hauteur du local n'est pas limitée. Les mâts à levée normale sont rares et ne se rencontrent que sur les anciens modèles de chariots."
+    },
+    {
+     "t": "p",
+     "text": "Le mât à levée libre de transport ( partielle ) Les mâts à levée libre partielle peuvent lever les fourches jusqu’à 400 mm ( 40 cm ) sans que le mât ne se déploie."
+    },
+    {
+     "t": "p",
+     "text": "Le mât à levée libre ( complète ) Les chariots élévateurs modernes disposent généralement d'une levée libre com - plète. Dans les locaux bas ou lors du chargement de camions et de wagons, la fourche doit pouvoir être levée sans que les profilés du mât ne sortent. En cas de hauteur de pièce limitée, il est préférable de n’acheter que des chariots à levée li - bre complète. Mât sans levée libre: le profilé de mât monte avec la fourche. Mât à levée libre partielle: la fourche peut être levée jusqu'à 40 cm sans que le profilé de mât ne se déploie. Mât à levée libre: la fourche peut être soulevée jusqu'à la hauteur de construction sans que le profilé de mât intérieur ne se déploie."
+    },
+    {
+     "t": "p",
+     "text": "116"
+    }
+   ]
+  },
+  {
+   "id": "s-9-4-3",
+   "number": "9.4.3",
+   "title": "Fourches",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les chariots élévateurs à contrepoids sont équipés d'un mât inclinable. Les chariots à mât rétractable disposent généralement d'un mât installé de ma - nière rigide. C'est pourquoi ils sont sou - vent équipés de fourches inclinables. Cette inclinaison sert d'une part à sécu - riser la charge lors du transport et d'au - tre part nécessaire lors du gerbage pour déposer la charge avec délicatesse."
+    }
+   ]
+  },
+  {
+   "id": "s-9-4-4",
+   "number": "9.4.4",
+   "title": "Rallonges de fourches",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La longueur standard des fourches pour la prise en charge d’Euro-palettes est de 800 à 1200 mm selon la capacité de chargement du chariot élévateur. Plus la capacité de chargement du chariot est faible, plus les fourches sont courtes. Des rallonges de fourches existent pour transporter des charges de plus grandes di - mensions. Les rallonges pour les petites capacités de chargement se composent d’un profilé en U qui peut être installé sur les fourches forgées et fixé avec une cheville. Si la capacité de chargement est plus importante, la rallonge est un pro - filé creux entièrement fermé."
+    }
+   ]
+  },
+  {
+   "id": "s-9-4-5",
+   "number": "9.4.5",
+   "title": "Les fourches rétractables",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les fourches rétractables sont des rallon - ges de fourches spéciales qui peuvent être avancées hydrauliquement. Leur utilisation est judicieuse lorsque les ca - mions ne peuvent être chargés que d'un seul côté ou que les marchandises doi - vent être mises en rayon dans des ray - onnages doubles accessibles d’un seul côté. La prise de charges lourdes peut être com - pensé par l'inclinaison des fourches. Remarque les rallonges de fourches et les fourches rétractables posent le problème du dé - placement vers l’avant du centre de gravité de la charge. Le cariste doit être in - formé de la charge maximale autorisée lorsque la fourche coulisse vers l’avant. Un diagramme avec la capacité de charge doit être disponible sur l’engin."
+    },
+    {
+     "t": "p",
+     "text": "117 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-9-4-6",
+   "number": "9.4.6",
+   "title": "Fourches relevables",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour circuler sur la voie publique, les fourches doivent être relevées ou munies d’une barre de protection. Les fourches relevables sont recommandées pour les chariots pouvant emprunter la voie publique et se déplaçant régulièrement sur les espaces de circulation publics. On voit souvent des chariots ayant les fourches rele-vées dans les gares lorsqu’ils doivent circuler sur les quais entre les piétons. Si un chariot élévateur n’est amené qu’occasionnellement à emprunter la voie publique, la protection des bras de fourches avec une barre de protection est suffisante. Fourches relevables Les fourches qui ne peuvent pas être relevées doivent être munies d'une barre de protection."
+    },
+    {
+     "t": "p",
+     "text": "118"
+    }
+   ]
+  },
+  {
+   "id": "s-9-5",
+   "number": "9.5",
+   "title": "Outils portés",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il existe un grand choix de chariots de manutention, différentes variantes de mâts et de types de levage ainsi que différentes fourches. De plus, un chariot élévateur peut être équipé de divers accessoires:"
+    },
+    {
+     "t": "p",
+     "text": "Grille de protection de charge Les grilles de protection sont montées au-dessus du tablier des fourches et protègent le cariste de la chute d’éléments du chargement. Une grande prudence s’impose lors de la mise en rayonnage. Si la charge est poussée trop loin, il y a un risque que les supports de charges qui se trouvent au-dessus de la surface d'empilage soient décrochés avec les grilles de protection de la charge."
+    },
+    {
+     "t": "p",
+     "text": "Ripage latéral Le ripage latéral de charge permet au cariste de positionner latéralement des chargements au centimètre près. La plu - part des chariots modernes est aujourd’hui équipée du ri - page latéral de charge intégré. Le cariste expérimenté veille à ce que le ripage latéral de charge soit toujours en position médiane «neutre»afin de disposer d’une marge de manœu - vre suffisante de chaque côté."
+    },
+    {
+     "t": "p",
+     "text": "Ecartement des bras de fourches L 'appareil de réglage des fourches est utilisé lorsque la largeur des fourches doit souvent être adaptée au chargement. Le réglage est hydraulique et se comman - de depuis le siège du conducteur. Une version spéciale de cet accessoire est la fourche double, qui peut être écartée pour prendre deux palettes. L 'appareil de réglage ne peut pas être utilisé pour prélever des marchandises non palettisées. L 'écarteur de bras de fourches se commande depuis le siège du cariste."
+    },
+    {
+     "t": "p",
+     "text": "119 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Têtes rotatives Les têtes rotatives sont utilisées pour vider des bacs ou pour faire pivoter des palettes. Elles sont souvent utilisées avec d’autres outils portés comme des pinces de serrage. Lors du vidage de liquides ou de produits en vrac à grain fin, il faut faire attention aux forces qui apparaissent sur le côté. Si la tête rotative est équipée de fourches normales, il faut utiliser uniquement des bacs avec des sabots à four - ches fermés."
+    },
+    {
+     "t": "p",
+     "text": "Pinces de serrage Pour les marchandises qui ne sont pas stockées sur des sup - ports de charge, différents types de pinces peuvent être utilisés comme accessoire. Les pinces sont souvent utilisées en combinaison avec des têtes rotatives. Pince à balles Les charges qui ne sont pas sensibles à la pression et qui sont stockées en bloc en pile sans être palettisées convien - nent à la saisie avec des pinces à balles. Selon leur utilisati - on, les pinces disposent de surfaces de prise plus ou moins grandes. L ’une des utilisations typiques est la manutention de balles de papier ou de cellulose. Les cuisinières, les fours ou les machines à laver sont également transportés de cet - te manière."
+    },
+    {
+     "t": "p",
+     "text": "Pince à bobines L 'utilisation de pinces à bobines est courante dans l'indust - rie du papier. Contrairement aux pinces à balles, les surfaces de prise sont arrondies, c’est-à-dire ajustées à la forme des bobines. Les pinces à bobines peuvent être équipées d'un ou de deux grappins. Elles sont souvent combinées avec des têtes rotatives. Les pinces à bobines sont généralement montées sur de gros chariots élévateurs, car les bobines de papier pèsent généralement plusieurs tonnes."
+    },
+    {
+     "t": "p",
+     "text": "120 Pinces à pierres Les pinces à pierres permettent, tout comme les pinces à balles, de lever des charges en forme de parallélépipèdes ( rectangles ) par pincement. Les chariots élévateurs équipés de pinces à pierres sont utilisés dans les carrières et dans les entreprises de transformation de la pierre. Les mâchoires de la pince sont munies, sur la partie interne, de structures pour renforcer l’effet de pincement. Elles sont actionnées hydrauliquement."
+    },
+    {
+     "t": "p",
+     "text": "Grappin pour bois rond Le grappin pour bois rond est utilisé dans l'industrie du bois pour la manutention de grumes ou de troncs d'arbres entiers. Cet accessoire est utilisé sur les parcs à bois avec des chariots élévateurs lourds. Eperon Les éperons sont utilisés pour le transport de rouleaux de moquette. Leur longueur peut aller jusqu'à 4 m. Pour cet accessoire, il faut particulièrement tenir compte de la dis - tance du centre de gravité de la charge. Si un rouleau de moquette de 4 mètres est transporté, le centre de gravité se situe à 2 mètres. Les éperons exigent une conduite particu - lièrement prudente ( virages et attention aux piétons )."
+    },
+    {
+     "t": "p",
+     "text": "Potence La potence peut être utilisée lorsque la charge à transpor - ter ne peut être saisie que par le haut et que les bras de fourches ne peuvent pas passer en dessous. Elle peut servir au montage de pièces de machines, au transport d’armatu - res pour le béton ou de charges longues. Le bras de grue peut être fixé soit directement sur le porte-équipements, soit être pris en charge par les bras dans les sabots à four - ches. L ’utilisation de potences, notamment des potences télescopiques, pose également le problème du déplace - ment du centre de gravité de la charge. Généralement, les potences télescopiques hydrauliques ne doivent donc pas être déployées ou escamotées une fois chargées."
+    },
+    {
+     "t": "p",
+     "text": "121 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Compresseur de charge Le compresseur de charge permet de stabiliser les chargements non sécurisés. Le couvercle est flottant et abaissé par système hydraulique sur la charge à sécuri - ser, la force de serrage étant adaptée au produit transporté. La surface de contact est généralement munie d’un revêtement en caoutchouc profilé qui compense les petites différences de hauteur. L 'un des principaux domaines d'application est l'industrie des boissons qui utilise ce système qui empêche les caisses de bouteilles empilées sur des palettes de tomber. Des car - tons empilés sans être fixés ou des tas de déchets peuvent également être sécurisés pour le transport à l’intérieur de l’entreprise. Un cadre peut remplacer la plaque de serrage. Si les charges doivent être transportées de cette façon sur une assez longue distance, une soupape dans le système hydraulique veille à ce que la force de serrage reste cons - tante. Cette liste n'est pas exhaustive."
+    }
+   ]
+  },
+  {
+   "id": "s-9-6",
+   "number": "9.6",
+   "title": "Systèmes de transport sans conducteur ( FTS ou AGV )",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les systèmes de transport sans conducteur ( FTS, Fahrerloses Transport System ) ou ( AGV, Automated Guided Vehicles ) sont utilisés au sein des entreprises de lo - gistique où l’on déplace de grandes quantités de marchandises sur des itinérai - res identiques. Ces systèmes sont souvent employés pour faire la liaison entre l’entrepôt et la production. Pour des raisons de sécurité, les anciens véhicules sont dotés à l’avant d’un arceau souple servant de protection contre les collisions."
+    }
+   ]
+  },
+  {
+   "id": "s-9-6-1",
+   "number": "9.6.1",
+   "title": "Guidage de véhicules par induction ou guidage optique",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Avec le guidage par induction, les véhicules suivent un câble noyé dans le sol et alimenté par un générateur de fréquence. Le véhicule analyse cette fréquence et suit ainsi le câble. Si le véhicule doit emprunter des itinéraires présentant des bifurcations, les véhicules peuvent être programmés en correspondan - ce ( marche à guidage virtuel ). L ’alternative au guidage par induction est le guidage op - tique. Avec ce système, une piste de guidage réfléchissante est mise en place sur le sol et balayée par des capteurs."
+    },
+    {
+     "t": "p",
+     "text": "122"
+    }
+   ]
+  },
+  {
+   "id": "s-9-6-2",
+   "number": "9.6.2",
+   "title": "Systèmes intelligents",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La dernière génération de FTS dispose de systèmes «intelligents» et ne sont plus tributaires de guidages prédéfinis. Lors de «parcours d'apprentissage», l'ordina - teur de bord est programmé pour un itinéraire précis. Les véhicules disposent de différents dispositifs pour éviter les collisions avec des obstacles. Il peut s'agir de capteurs à ultrasons ou de lasers ba - layant la zone environnante. Aux croise - ments ou aux jonctions, les véhicules de - mandent la validation de la course auprès d’un poste de commande central."
+    }
+   ]
+  },
+  {
+   "id": "s-9-7",
+   "number": "9.7",
+   "title": "Transstockeurs automatiques et semi-automatiques",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-9-7-1",
+   "number": "9.7.1",
+   "title": "Systèmes manuels ou semi-automatiques",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les transstockeurs manuels ou semi-automatiques ( également appelés appareils de desserte des rayonnages ) sont généralement des dispositifs sur rails et com - mandés par des personnes. Ces appareils sont utilisés dans les installations de rayonnages en hauteur. Ils se composent d'un mât vertical, guidé par des rails en haut et en bas, qui se déplace dans l'allée entre les rayonnages. Une plate-forme mobile verticale permet de se diriger vers les emplacements de stockage pour prélever les marchandises. Les systèmes semi-automatiques conviennent à la préparation de commandes statique. Le conducteur dirige lui-même les empla - cements de préparation de commandes ou «guide»le système vers la destination souhaitée en entrant le numéro d’emplacement."
+    },
+    {
+     "t": "p",
+     "text": "Préparation de commandes «homme va à la marchandise» avec le transstockeur dans une installation de rayonnages compartimentés Préparation des commandes avec le transsto - ckeur dans le rayonnage à palettes"
+    },
+    {
+     "t": "p",
+     "text": "123 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-9-7-2",
+   "number": "9.7.2",
+   "title": "Systèmes automatiques",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Contrairement aux transstockeurs manuels, les installations automatiques se dé - placent sans conducteur. Commandés par un ordinateur qui reçoit les ordres du système de gestion des stocks, ils stockent et prélèvent des palettes ou des con - teneurs. Les installations modernes fonctionnent en double jeu: elles constituent des unités à partir d’ordres de stockage et de prélèvement. Lorsque le transsto - ckeur reçoit un ordre d'entrée en stock de l’ordinateur central, il prend la charge et la stocke à l’emplacement indiqué. L ’ordre de sortie de stock suivant est exé - cuté sans retour au point de départ. Chaque allée de l’entrepôt auto - matique à rayonnages à grande hauteur est équipée de son propre transstockeur. Cette solution relativement oné-reuse garantit une grande ef - ficacité et une grande sécurité d’approvisionnement. La partie de l’entrée d’un entrepôt automatique. Au centre: le contrôle de profil ne laissant passer aucun chargement dépassant les dimensions définies."
+    },
+    {
+     "t": "p",
+     "text": "124"
+    }
+   ]
+  },
+  {
+   "id": "s-9-8",
+   "number": "9.8",
+   "title": "Autostore",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De nombreux développements et processus modernes en matière de logistique trouvent leur origine en Asie. Ce sont souvent les fabricants de l'industrie automo - bile qui sont à l'origine de ces évolutions grâce à un travail de pionnier. Ce n'est pas le cas d'Autostore. Le terme Autostore désigne une technologie de stockage robotisée développée par l'entreprise Autostore. L 'entreprise a été fondée en 1996 en Norvège et avait pour objectif d'automatiser l'entrepôt sous forme de cube et de pouvoir ainsi garantir un traitement des commandes condensé et optimisé. L 'entreprise Autostore est aujourd'hui présente dans plus de 45 pays. Le produit est à chaque fois planifié et mis en œuvre individuellement dans les secteurs les plus divers tels que l'alimentation, la pharmacie, la production, etc… Des «par - tenaires»sont chargés de la vente, du développement, de l'installation et de la maintenance chez le client. En conséquence, il existe sur le marché de nombreux fournisseurs du produit Autostore."
+    }
+   ]
+  },
+  {
+   "id": "s-9-8-1",
+   "number": "9.8.1",
+   "title": "Comment fonctionne un Autostore",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme toute chose, une installation Autostore se compose en principe d'un matériel et d'un logiciel. Ces deux éléments garantissent l'interaction nécessaire au bon fonctionnement d'Autostore. Le matériel se compose en outre: de gril - les-robots-caisses ( conteneurs, boîtes, récipients ):"
+    },
+    {
+     "t": "p",
+     "text": "Grille La grille est la «structure»qui peut être remplie avec les caisses. La grille est dé - finie en collaboration avec le client. Le bâtiment, la hauteur et la profondeur de l'espace disponible sont exploités de manière aussi optimale que possible. Le taux d'utilisation de l'espace souhaité peut ainsi être atteint. La construction d'une gril - le est moins complexe qu'il n'y paraît et se fait selon une «technique Lego». L 'es - sentiel est que la planification soit correctement réalisée."
+    },
+    {
+     "t": "p",
+     "text": "Robot Les robots sont guidés par des rails sur la grille. L 'ordre et le trajet vers la destina - tion sont envoyés au robot via le logiciel. La grille se compose d'un axe X et d'un axe Y. Une fois que le robot est arrivé à destination, il commence à désempiler en profondeur pour atteindre l'endroit souhaité. Les caisses qui doivent être en - levées pour cela sont stockés à un autre endroit. Il existe différents modèles de robots, qui se distinguent par leur consommation d'énergie, leur taille, etc…"
+    },
+    {
+     "t": "p",
+     "text": "125 1ère édition 2025 Module 409_Les Engins de manutention Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Caisses ( conteneur, boîte, récipient ) Les caisses sont des conteneurs ou des boîtes et sont empilés les uns sur les au - tres et les uns à côté des autres. Le conteneur correspond à un emplacement de stockage et est étiqueté une seule fois. Grâce à ce marquage et à l'article attribué, le système sait clairement ce qui est stocké dans le bac. Un conteneur peut éga - lement être chargé de plusieurs compartiments et de différents articles. Les bacs sont disponibles en différentes tailles."
+    }
+   ]
+  },
+  {
+   "id": "s-9-8-2",
+   "number": "9.8.2",
+   "title": "Les avantages",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour le logisticien, il est évident qu'un stockage empilé comme celui d'Autostore présente le grand avantage d'une utilisation maximale de l'espace. En outre, Au - tostore a une vitesse élevée est donc très efficace. Autostore fonctionne 24 heures sur 24 et ne nécessite aucune relève de vacances. Par ailleurs, le logiciel est capab - le, sur la base des produits vendus, de stocker les bacs à l'endroit optimal. Ainsi, Autostore profite des phases de calme pour s'optimiser et stocker à nouveau les produits dits «à rotation rapide» dans les positions supérieures. En contrepartie, il replace les «articles à faible rotation» dans les rangées inférieures."
+    }
+   ]
+  }
+ ]
+}
