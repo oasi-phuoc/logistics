@@ -1,102 +1,12 @@
 import Link from "next/link";
 import { getModuleByCode, module100Series } from "../data";
 
+export function generateStaticParams() { return module100Series.map((module) => ({ moduleId: module.code })); }
+
 export default function TheoryModulePage({ params }: { params: { moduleId: string } }) {
   const module = getModuleByCode(params.moduleId);
-
-  if (!module) {
-    return (
-      <main className="min-h-screen bg-slate-950 px-6 py-10 text-slate-50">
-        <div className="mx-auto max-w-3xl rounded-2xl border border-red-800 bg-red-950/20 p-8 text-center">
-          <h1 className="text-2xl font-bold text-white">Module introuvable</h1>
-          <p className="mt-3 text-slate-300">Ce sous-module n'existe pas dans la série 100.</p>
-          <Link
-            href="/theory"
-            className="mt-6 inline-block rounded-full border border-cyan-400/40 bg-cyan-500/10 px-4 py-2 text-sm font-medium text-cyan-300"
-          >
-            Retour à la théorie
-          </Link>
-        </div>
-      </main>
-    );
-  }
-
-  return (
-    <main className="min-h-screen bg-slate-950 px-6 py-10 text-slate-50">
-      <div className="mx-auto max-w-5xl">
-        <header className="mb-8 flex flex-col gap-4 md:flex-row md:items-center md:justify-between">
-          <div>
-            <p className="text-sm uppercase tracking-[0.25em] text-cyan-400">Module {module.code}</p>
-            <h1 className="mt-2 text-3xl font-bold text-white">{module.title}</h1>
-          </div>
-          <div className="flex flex-wrap gap-2">
-            <Link
-              href="/theory"
-              className="rounded-full border border-slate-600 bg-slate-800 px-4 py-2 text-sm text-slate-200 hover:bg-slate-700"
-            >
-              ← Retour aux modules
-            </Link>
-            <Link
-              href={`/theory-falc?module=${module.code}`}
-              className="rounded-full border border-emerald-400/40 bg-emerald-500/10 px-4 py-2 text-sm font-medium text-emerald-300 transition hover:bg-emerald-500/20"
-            >
-              Passer en mode FALC
-            </Link>
-          </div>
-        </header>
-
-        <section className="mb-8 rounded-2xl border border-slate-800 bg-slate-900 p-6">
-          <p className="text-lg leading-8 text-slate-300">{module.summary}</p>
-          <ul className="mt-5 space-y-3 text-sm text-slate-300">
-            {module.points.map((point) => (
-              <li key={point} className="flex gap-3">
-                <span className="mt-2 h-2 w-2 rounded-full bg-cyan-400" />
-                <span>{point}</span>
-              </li>
-            ))}
-          </ul>
-        </section>
-
-        <div className="space-y-8">
-          {module.theory.map((section) => (
-            <section key={section.heading} className="rounded-2xl border border-slate-800 bg-slate-900 p-6">
-              <h2 className="text-2xl font-semibold text-white">{section.heading}</h2>
-              <div className="mt-4 space-y-4 text-slate-300">
-                {section.paragraphs.map((paragraph) => (
-                  <p key={paragraph} className="leading-8">{paragraph}</p>
-                ))}
-              </div>
-
-              {section.bullets && (
-                <ul className="mt-5 space-y-3 text-sm text-slate-300">
-                  {section.bullets.map((item) => (
-                    <li key={item} className="flex gap-3">
-                      <span className="mt-2 h-2 w-2 rounded-full bg-cyan-400" />
-                      <span>{item}</span>
-                    </li>
-                  ))}
-                </ul>
-              )}
-            </section>
-          ))}
-        </div>
-
-        <div className="mt-10 flex flex-wrap gap-3">
-          {module100Series.map((item) => (
-            <Link
-              key={item.code}
-              href={`/theory/${item.code}`}
-              className={`rounded-full border px-3 py-2 text-sm ${
-                item.code === module.code
-                  ? "border-cyan-400 bg-cyan-500/10 text-cyan-200"
-                  : "border-slate-700 bg-slate-800 text-slate-300"
-              }`}
-            >
-              Module {item.code}
-            </Link>
-          ))}
-        </div>
-      </div>
-    </main>
-  );
+  if (!module) return <main className="min-h-screen bg-[#f7f8f6] px-5 py-16 text-center"><h1 className="text-2xl font-bold">Module introuvable</h1><Link href="/theory" className="mt-5 inline-block text-sm font-semibold text-teal-700">← Retour aux cours</Link></main>;
+  const index = module100Series.findIndex((item) => item.code === module.code);
+  const next = module100Series[index + 1];
+  return <main className="min-h-screen bg-[#f7f8f6] text-slate-900"><header className="border-b border-slate-200 bg-white"><div className="mx-auto flex max-w-6xl items-center justify-between px-5 py-5"><Link href="/" className="text-lg font-bold">Logi<span className="text-teal-700">Cours</span></Link><Link href="/theory" className="text-sm font-medium text-slate-600 hover:text-teal-700">Tous les modules</Link></div></header><div className="mx-auto grid max-w-6xl gap-10 px-5 py-10 lg:grid-cols-[1fr_260px] lg:py-14"><article className="max-w-3xl"><div className="flex flex-wrap items-center gap-3 text-xs font-bold uppercase tracking-[.16em] text-teal-700"><span>Module 100</span><span className="text-slate-300">/</span><span>M{module.code}</span></div><h1 className="mt-4 text-4xl font-bold leading-tight tracking-tight">{module.title}</h1><p className="mt-5 text-xl leading-8 text-slate-600">{module.summary}</p><div className="mt-8 rounded-2xl border border-teal-100 bg-teal-50 p-6"><p className="text-xs font-bold uppercase tracking-wider text-teal-700">Objectifs de ce module</p><ul className="mt-4 flex flex-col gap-3">{module.points.map((point) => <li key={point} className="flex gap-3 text-sm leading-6 text-teal-950"><span className="mt-2 size-1.5 shrink-0 rounded-full bg-teal-600" />{point}</li>)}</ul></div><div className="mt-12 flex flex-col gap-10">{module.theory.map((section, sectionIndex) => <section id={`section-${sectionIndex + 1}`} key={section.heading} className="scroll-mt-8"><p className="text-xs font-bold uppercase tracking-wider text-slate-400">Partie {sectionIndex + 1}</p><h2 className="mt-2 text-2xl font-bold">{section.heading}</h2><div className="mt-5 flex flex-col gap-4 text-[17px] leading-8 text-slate-700">{section.paragraphs.map((paragraph) => <p key={paragraph}>{paragraph}</p>)}</div>{section.bullets && <ul className="mt-5 flex flex-col gap-3 rounded-xl border-l-4 border-amber-400 bg-amber-50 px-5 py-4 text-sm leading-7 text-amber-950">{section.bullets.map((item) => <li key={item}>{item}</li>)}</ul>}</section>)}</div><div className="mt-12 flex flex-wrap justify-between gap-3 border-t border-slate-200 pt-6"><Link href="/theory" className="rounded-lg border border-slate-300 bg-white px-4 py-3 text-sm font-semibold text-slate-700">← Tous les modules</Link>{next && <Link href={`/theory/${next.code}`} className="rounded-lg bg-teal-700 px-4 py-3 text-sm font-semibold text-white hover:bg-teal-800">Module suivant →</Link>}</div></article><aside className="hidden lg:block"><div className="sticky top-8 rounded-2xl border border-slate-200 bg-white p-5"><p className="text-xs font-bold uppercase tracking-wider text-slate-400">Dans ce module</p><nav className="mt-4 flex flex-col gap-3 border-l border-slate-200 pl-4">{module.theory.map((section, i) => <a key={section.heading} href={`#section-${i + 1}`} className="text-sm leading-5 text-slate-600 hover:text-teal-700">{section.heading}</a>)}</nav><div className="mt-7 border-t border-slate-100 pt-5"><p className="text-xs text-slate-500">Source documentaire</p><p className="mt-1 text-sm font-semibold">Entersite M{module.code}</p><p className="mt-1 text-xs text-slate-500">PDF conservé dans docs/</p></div></div></aside></div></main>;
 }
