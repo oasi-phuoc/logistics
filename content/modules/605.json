@@ -1,0 +1,322 @@
+{
+ "code": "605",
+ "title": "Mode d'envoi postal",
+ "domain": "600",
+ "pdf": "M605.pdf",
+ "pages": 12,
+ "words": 2343,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Obligations de l'acheteur et du vendeur selon les INCOTERMS 2020 Tout moyen de transport Fret maritime et transport fluvial Tout moyen de transport EXW FCA FAS FOB CFR CIF CPT CIP DAP DPU DDP Emballage"
+    },
+    {
+     "t": "p",
+     "text": "Frais de chargement"
+    },
+    {
+     "t": "p",
+     "text": "Transport vers le site d'exportation"
+    },
+    {
+     "t": "p",
+     "text": "Droits d'exportation, taxes et dédouanement"
+    },
+    {
+     "t": "p",
+     "text": "Coûts du terminal lieu d'origine"
+    },
+    {
+     "t": "p",
+     "text": "Chargement sur le transport"
+    },
+    {
+     "t": "p",
+     "text": "Frais de transport"
+    },
+    {
+     "t": "p",
+     "text": "Assurance"
+    },
+    {
+     "t": "p",
+     "text": "Frais de terminal destination"
+    },
+    {
+     "t": "p",
+     "text": "Transport et destination"
+    },
+    {
+     "t": "p",
+     "text": "Droits d'importation, taxes et dédouanement"
+    },
+    {
+     "t": "p",
+     "text": "Les petites marchandises sont transportées, triées et distribuées par des prestataires de services de documents, express et colis (DEC). En Suisse, le plus grand prestataire de services DEC est la Poste Suisse SA. Ce chapitre traite des offres du \"géant jaune\"."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1",
+   "number": "5.1",
+   "title": "Adressage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'adressage correct est la base d'un déroulement sans faille, depuis le dépôt jusqu’à la distribution d'un envoi postal. L'adressage a connu quelques adaptations au fil du temps. Lorsque les villes n'existaient pas encore et qu'une majorité d'habitants vivaient à la campagne dans des fermes, de telles adresses suffisaient:"
+    },
+    {
+     "t": "p",
+     "text": "Savoir qui habite dans quelle ferme était une question de mémoire des facteurs. La transmission de ce savoir se limitait à un petit nombre de personnes qui, pendant des années, distribuaient quotidiennement le courrier en suivant la même tournée. Aujourd’hui, à l'ère du numérique, l'adressage des lettres et des colis doit répondre à des critères précis pour que les machines de tri puissent traiter sans erreur et sans faille jusqu'à 18 millions de lettres par jour. Les points essentiels d'un adressage correct pour les lettres sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Structure alignée à gauche",
+      "Trois à six lignes au maximum, pas de lignes vides",
+      "Nom complet de l'entreprise, nom et prénom",
+      "Nom complet de la rue et numéro correct",
+      "Si destinataire possède une case postale: Case postale + N°",
+      "Numéro postal d’acheminement (NPA) correct et nom complet de la localité",
+      "Pas de soulignement ou d’espace entre les lettres"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L'étiquette d’adresse peut être placée à gauche ou à droite. Si elle est placée à droite, il y a plus de place pour les coordonnées de l'expéditeur ou pour des impressions publicitaires."
+    },
+    {
+     "t": "p",
+     "text": "Pour les colis également, il faut tenir compte des champs et des espaces prédéfinis afin que tout puisse être saisi de manière normalisée."
+    },
+    {
+     "t": "p",
+     "text": "Exemple 1: Enveloppe (Source: Poste suisse)"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "Astuce",
+     "text": "Comment adresser correctement mon colis? 1.Écriture: Ecris des adresses dactylographiées, sans police décorative. Choisis une taille de police de 3 mm minimum, 4 mm maximum (police de 12 à 16 points). Utilise une imprimante laser ou à jet d'encre. 2.Adresse du destinataire: Une adresse de destinataire correcte se compose d'une désignation du destinataire (personne et/ou entreprise), d'une rue et d'un numéro ou d'une case postale et d'un numéro de case postale, d'un numéro postal d’acheminement (NPA) et d'une localité. 3.L'adresse de l'expéditeur: L'adresse de l'expéditeur doit de préférence être écrite verticalement. L'adresse de l'expéditeur doit être placée à gauche de l'adresse du destinataire (distance entre le bloc de l'expéditeur et celui du destinataire: au moins 10 mm). 4.Le code-barres de l'envoi: Chaque colis est muni d'un code-barres d'expédition. Celui-ci contient des informations sur l'expéditeur ainsi que le numéro d'envoi et sert à identifier l'envoi. 5.Codes-barres des prestations de base et complémentaires: Des étiquettes sont nécessaires pour certaines prestations de base et pour toutes les prestations supplémentaires, comme exemple PostPac Priority ou Signature. Elles sont apposées à droite du code-barres de l'envoi. Remarque: Etiqueter correctement une lettre ou un colis devrait être une évidence pour tous, afin de simplifier le travail de la Poste et d'éviter ainsi de futures hausses de prix."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2",
+   "number": "5.2",
+   "title": "Mode d'envoi des lettres et des colis",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De nos jours, le client peut choisir parmi une multitude de services de base et de services supplémentaires."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-1",
+   "number": "5.2.1",
+   "title": "Prestations de base et complémentaires pour les lettres",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Courrier A Livré au destinataire du lundi au samedi, le lendemain du jour de dépôt. Courrier B Est plus économique que le courrier A. Un envoi en courrier B est livré au destinataire du lundi au vendredi, au plus tard le troisième jour ouvrable après le jour de dépôt. Lettre recommandée (R) Le destinataire reçoit l'envoi recommandé uniquement contre signature. Cela permet d'apporter une preuve juridiquement valable de la distribution. L'envoi est assuré jusqu'à 500 francs au maximum en cas de perte ou d'endommagement. Livré du lundi au vendredi, le lendemain du jour de dépôt. En main propre (RMP) Le facteur livre le colis contre signature uniquement à la personne mentionnée dans l'adresse Remboursement sans titre (BLN) Le facteur remet l'envoi uniquement contre signature et paiement du montant du remboursement. Ce montant est crédité sur le compte postal de l'expéditeur."
+    },
+    {
+     "t": "p",
+     "text": "Swiss-Express Lune Les envois déposés sont distribués avant 9 heures du lundi au samedi, le lendemain du jour de dépôt. SameDay Coursier Les offres du Swiss-Express SameDay coûtent plus cher, mais les envois sont livrés le jour même, du lundi au vendredi."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-2",
+   "number": "5.2.2",
+   "title": "Prestations de base et complémentaires pour les colis",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "PostPac Priority (PRI) Livré au destinataire du lundi au vendredi, le lendemain du jour de dépôt. PostPac Economy Est plus économique que PostPac Priority. L'envoi est livré au destinataire du lundi au vendredi, le deuxième jour ouvrable après le jour de dépôt. Envois encombrants (SP) Les envois volumineux ou non emballés sont considérés comme des marchandises encombrantes et sont traitées manuellement dans les centres de tri."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Voir aussi: Objets encombrants Poste Signature (SI) Les envois sont remis au destinataire uniquement contre signature. La Poste répond des dommages résultant d'une détérioration ou d'une perte jusqu'à 1'500 francs. Remboursement sans titre (BLN) Le facteur remet l'envoi uniquement contre signature et paiement du montant du remboursement. Ce montant est crédité sur le compte postal de l'expéditeur. En main propre (RMP) Le facteur livre le colis contre signature uniquement à la personne mentionnée dans l'adresse. Assurance (AS) Comme pour le colis Signature, Il est remis uniquement contre signature. Le paquet est toutefois assuré jusqu'à concurrence de 5'000 francs pour les dommages ou la perte. Il ne se distingue pas visuellement d’un colis signature pour une question de discrétion. Fragile (FRA) Le colis au contenu fragile est traité avec un soin particulier et est assuré pour les dommages résultant d'une détérioration ou d'une perte jusqu'à 5'000 francs. Il est traité manuellement dans les centres de tri. Swiss-Express Lune Les envois déposés sont distribués avant 9 heures du lundi au samedi, le lendemain du jour de dépôt. SameDay Coursier Les offres du Swiss-Express SameDay coûtent plus cher, mais les envois sont livrés le jour même, du lundi au vendredi."
+    },
+    {
+     "t": "p",
+     "text": "Ces listes ne sont pas exhaustives. Les différentes prestations de base et complémentaires peuvent en partie être combinées."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: Lors de l'envoi d'une lettre ou d'un colis, il est possible de choisir parmi une multitude de prestations de base et de prestations complémentaires. D'autres prestations complémentaires avec les frais correspondants se trouvent ici (lettres) et ici (colis). D'autres offres de fournisseurs CEP (Courrier Express Parcel) ou DEC (Document Express Colis) se trouvent ici."
+    }
+   ]
+  },
+  {
+   "id": "s-5-3",
+   "number": "5.3",
+   "title": "Envoi à l'étranger",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chaque jour, la Poste achemine des milliers d'envois à l'étranger en passant la frontière suisse. Qu'il s'agisse de petites marchandises isolées ou d'une livraison en grande quantité, tous les colis sont contrôlés par les autorités douanières du pays d'origine et du pays de destination. Pour que les envois puissent être traités et transmis rapidement par les autorités douanières, les documents et formulaires demandés doivent être complètement et correctement remplis. Cette vidéo répond aux questions les plus fréquentes sur les documents d'accompagnement pour l'expédition internationale de marchandises:"
+    },
+    {
+     "t": "p",
+     "text": "Les lettres et les colis sont préparés à différents endroits pour être envoyés à l'étranger. Les colis supérieurs à 2 kg sont envoyés à Urdorf ou à l'aéroport de Zurich pour l'exportation. De là, ils sont transportés à l'étranger par camion (Urdorf) ou par avion (Zurich Aéroport). Les documents et petites marchandises jusqu'à 2 kg arrivent au centre de courrier de ZH-Mülligen (hub)"
+    },
+    {
+     "t": "p",
+     "text": "pour l'exportation, d'où elles partent pour l'étranger (les colis jusqu'à 2 kg sont considérés comme des documents dans l'expédition postale internationale). La Poste n'est pas la seule à être active sur le marché, d'autres prestataires internationaux de services CEP (Courrier Express Parcel) sont également présents et expédient chaque jour des millions d'envois à travers le monde."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras ici plus d'informations de la Poste sur les envois étrangers de lettres ou de colis."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4",
+   "number": "5.4",
+   "title": "Traitement dans les centres de tri de lettres et de colis",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les envois déposés sont d'abord triés dans les centres de tri de lettres ou de colis."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-1",
+   "number": "5.4.1",
+   "title": "Traitement des lettres",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chacun des trois grands centres courrier de Suisse a sa zone de desserte pour l'oblitération et le premier tri (tri pour l’expédition). Les conteneurs de courrier sont vidés par le personnel de la poste et préparés pour l'oblitération."
+    },
+    {
+     "t": "p",
+     "text": "L'installation oblitère les envois de lettres et reconnaît en une fraction de seconde la rue et le numéro postal. Si l'installation ne reconnaît pas l'adresse, une photo de la lettre est prise par l’installation de tri. Cette image de l'envoi est transmise à Coire, où un collaborateur/collaboratrice de la Poste saisit manuellement la destination dans le système. Un code barre est imprimé au bas de l'envoi dans la zone de codage. Ce code constitue l'ordre pour le second tri (tri pour la distribution) Le tri est effectué suivant le Centre de distribution (lieu où sont basés les facteurs), le secteur de distribution (N° de tournée), la rue, et le numéro. Le logiciel tient également compte de l'ordre des boîtes aux lettres. Ce tri s'appelle le tri séquencé. Le jour suivant, le facteur reçoit un conteneur à lettres (BB) qui est déjà classé dans l’ordre du parcours de distribution et des boîtes aux lettres."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-2",
+   "number": "5.4.2",
+   "title": "Traitement des colis",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour les colis, une séparation est effectuée au dépôt. Les colis sont transportés dans des conteneurs roulants (RollBox RX) selon leur catégorie Priority ou Economy d’autres séparations existent pour les encombrants et les Express. Comme pour les lettres, les colis sont déchargés et traités dans les différents centres de tri de colis selon la zone de desserte (tri pour l’expédition, en fonction du numéro postal). Lors du second tri (tri pour la distribution) les colis sont acheminés vers les centres de distribution par train ou par camion, ils sont ensuite répartis dans les différents secteurs de distribution."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-3",
+   "number": "5.4.3",
+   "title": "Santé lors du traitement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'exosquelette Comme décrit dans le module 405, les blessures dorsales font partie des blessures les plus fréquentes chez les logisticiens. L'exosquelette peut aider à les éviter. Il s'agit d'une structure extérieure destinée à soutenir le corps humain. L'objectif est de ménager le corps humain et de permettre un travail ergonomique à l'aide d'un robot portable. Une utilisation correcte permet de réduire considérablement les jours de maladie et d'accident des collaborateurs. L'exosquelette fait son entrée dans de nombreuses entreprises suisses. La Poste suisse teste également différents modèles d'exosquelettes dans des centres de tri de colis."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Vous trouverez ici plus d'informations sur la manière dont la Poste Suisse utilise l'exosquelette."
+    },
+    {
+     "t": "p",
+     "text": "Dans la mesure du possible, évitez de porter des charges lourdes. Utilisez des moyens auxiliaires tels que des chariots élévateurs, des chariots à plate-forme, des tables élévatrices à ciseaux, des élévateurs à ventouses, des sangles de transport ou des diables (également appelés diables à sacs)."
+    },
+    {
+     "t": "p",
+     "text": "La SUVA s'occupe depuis longtemps de la formation du \"levage\" correct afin d'éviter autant que possible les arrêts de travail."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Voici les principales règles de sécurité et les conseils de la SUVA."
+    }
+   ]
+  },
+  {
+   "id": "s-5-5",
+   "number": "5.5",
+   "title": "Distribution",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans les zones urbaines, la distribution des lettres, des colis et du courrier express peut être effectuée séparément, tandis qu'à la campagne, ces tâches sont souvent assurées par le même coursier. La réorganisation de la Poste a permis de fusionner PostMail (lettres) et PostLogistics (colis). La nouvelle unité \"Logistics Services\" prévoit un mélange des genres. Selon la rentabilité, l'offre de prestations et les conditions locales, la distribution se fait à pied, à vélo, en tricycle électrique (DXP, DXP cargo, VR- bike), en voiture ou en camionnette. Le service public exige une desserte de base en prestations postales sur l'ensemble du territoire. Les tournées de distribution peuvent donc être très différentes. En milieu urbain, un facteur distribue plus de 2 000 lettres par jour. A la campagne, le nombre d'envois est nettement inférieur, mais il n'est pas rare que les distances parcourues dépassent 50 km. Pour la distribution, le coursier a besoin d'un scanner manuel (smartphone). Celui-ci reconnaît les codes-barres et charge toutes les données des clients (p. ex, toutes les personnes d'un même ménage). Si un nouveau client emménage dans un logement de la tournée, le facteur saisit ces données dans le système de gestion des adresses de La Poste (AMP). Les données AMP sont mises à jour quotidiennement par tous les facteurs en Suisse. Ces données servent au tri séquencé et avec des adresses correctes, les erreurs de livraison sont réduites."
+    },
+    {
+     "t": "p",
+     "text": "Preuve d'identité La remise d'envois à des personnes que nous ne connaissons pas personnellement ou par exemple lors d'une livraison d'un envoi \"RMP - en"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "mains propres\" ( voir chapitre 5.2.2), nécessite une vérification de l'identité. L'identification incontestable d'une personne n'est possible qu'à l'aide d'un document délivré officiellement, qui contient une photo et la signature du titulaire. Les documents d'identification officiels les plus courants sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Carte d'identité",
+      "Passeport",
+      "Permis de conduire suisse pour véhicules à moteur",
+      "Livret pour étrangers",
+      "Carte d'identité de la Poste"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-1",
+   "number": "5.5.1",
+   "title": "PickPost",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Poste propose l'envoi et la réception flexibles de colis et de lettres recommandées dans plus de 2 500 points PickPost. Un point PickPost peut se situer par exemple dans des gares, des magasins ou une station-service. Une fois inscrit à PickPost, les clients privés peuvent décider eux-mêmes de l'endroit où ils souhaitent retirer leurs envois. Il n'y a pas de frais supplémentaires pour l'expéditeur et le destinataire. Ils font adresser leur envoi à l'adresse du point PickPost. L'avis du client est déclenché par le coursier via un scanner (smartphone). Le destinataire de l'envoi reçoit un SMS ou un e-mail l'informant qu'il peut y retirer son envoi."
+    }
+   ]
+  },
+  {
+   "id": "s-5-5-2",
+   "number": "5.5.2",
+   "title": "Distributeurs automatiques My Post 24",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "My Post 24 est un service à la disposition des clients 24 heures sur 24 (7jours/7). L'automate, en tant que point de service, répond au besoin de flexibilité en termes de lieu et de temps, tout en étant simple d'utilisation et sûr. Les envois peuvent être retirés ou déposés. En outre, le client peut également indiquer une adresse de livraison alternative ou demander une deuxième livraison gratuite. Les prestataires privés de services CEP (Courrier Express Parcel) proposent des produits et des services similaires, qui peuvent être consultés sur leur site Internet."
+    }
+   ]
+  }
+ ]
+}

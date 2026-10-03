@@ -1,0 +1,43 @@
+{
+ "code": "617",
+ "title": "Module 617",
+ "domain": "600",
+ "pdf": "M617-4_dist.pdf",
+ "pages": 2,
+ "words": 336,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "361 1ère édition 2025 Module 617_Préparation à la distribution Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique 4 – Procédure en cas de dommages aux véhicules/remorques 17.6 Introduction C’est lundi matin. Après avoir minutieusement contrôlé ton véhicule de distribution conformément aux règles, tu remar - ques soudainement qu’un feu arrière est défectueux et une bosse sur la remorque est apparue. Face à cette situation, que fais-tu? Pars-tu quand même? Non – ce serait une erreur! Tu es légalement tenu/-e de circuler avec un véhicule fiable du point de vue de l’exploitation et de la circulation. Signale les dommages à ton supérieur, documente les dommages dans le formu - laire correspondant ( par exemple, à la Poste, sur le formulaire DRS ) et demande un véhicule de remplacement. Dès que tu l’as vérifié et repris avec succès, c’est parti pour la tournée. 17.6.1 Procédure correcte en cas de sinistre: Informe immédiatement tes supérieurs et documente le sinistre de manière dé - taillée – de préférence avec des photos et une description exacte. Assure-toi que toutes les informations nécessaires sont présentes, par exemple:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Lieu du sinistre",
+      "Numéro du véhicule ou de la remorque",
+      "Date et heure",
+      "Nature et étendue du dommage"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "17.6.2 Informations requises pour un procès-verbal de dommage: 1. Où se trouve le dommage? Conseil: prendre des photos. 2. De quel type de dommage s’agit-il? 3. Pour quel véhicule le dommage se trouve-t-il? Conseil: photographier la pla - que d’immatriculation. 4. Quand ai-je découvert le dommage? Date/heure. Remarque Le dommage ne peut être transmis correctement à l’assurance et au service de réparation que si les informations sont complètes. Dans la pratique, cela s’effec - tue le plus souvent via un procès-verbal de dommage."
+    },
+    {
+     "t": "p",
+     "text": "362 5. Qui a constaté le dommage Cela permet de remplir rapidement et intégralement le procès-verbal de dom - mage – voir l’exemple ci-dessous. Ainsi, le service de réparation et l’assurance peuvent être informés rapidement du dommage."
+    },
+    {
+     "t": "p",
+     "text": "Exemple de procès-verbal de dommage ( La Poste Suisse )"
+    }
+   ]
+  }
+ ]
+}

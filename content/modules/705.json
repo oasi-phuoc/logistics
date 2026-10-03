@@ -1,0 +1,469 @@
+{
+ "code": "705",
+ "title": "La rentabilité de l'entrepôt",
+ "domain": "700",
+ "pdf": "M705_st.pdf",
+ "pages": 14,
+ "words": 3299,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "215 1ère édition 2025 Module 705_La rentabilité de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Module 705_La rentabilité de l'entrepôt Situation initiative Pour qu'un entrepôt soit rentable, il faut en tirer un maximum de profit en ter - mes de coûts. Les coûts d'approvisionnement ne sont pas les seuls à être déter - minants. Les coûts se composent d'une multitude d'autres facteurs. Les différents indicateurs de stockage que vous avez appris à connaître dans le module 704 sont par exemple des facteurs importants: durée de stockage, taux de rotation, etc… Un autre facteur important est le taux de frais de stockage. Celui-ci comprend les frais de personnel, d'infrastructure, de location, d'assurance, etc… La durée de stockage dépend d'une part de la consommation et d'autre part des stocks res - pectifs. Les stocks doivent à leur tour être définis individuellement et de manière judicieuse. Pour ce faire, nous disposons en logistique de différentes formules qui peuvent être appliquées. Des erreurs dans le calcul des stocks peuvent entraîner des retards de livraison pour nos clients ou un entrepôt surchargé, ce qui a une influence négative sur les coûts. Gérer un entrepôt de manière rentable est donc une tâche extrêmement exigean - te, qui nécessite de bonnes connaissances et parfois aussi la clairvoyance néces - saire pour faire face aux imprévus."
+    },
+    {
+     "t": "p",
+     "text": "216 Connaissance théorique du module 705 Afin de travailler de manière rentable dans l'entrepôt d'EnterSite SA, les marchan - dises doivent être gérées de manière à générer le moins de coûts possible. Com - me décrit dans le module 702, il existe différents types de coûts. Ceux-ci sont traités de manière approfondie dans ce module."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1",
+   "number": "5.1",
+   "title": "Aperçu des types de coûts",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les différents types de coûts constituent la structure des coûts qui varie d'une entreprise à l'autre. Pour les personnes responsables d'EnterSite SA, il est import - ant de connaître la structure des coûts. En effet, ce n'est qu'en connaissant la structure des coûts qu'il est possible de procéder à des améliorations si celles-ci s'avèrent nécessaires."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1-1",
+   "number": "5.1.1",
+   "title": "Coûts totaux",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans l’entreprise EnterSite SA, les coûts sont répartis en coûts fixes et variables ( voir module 702 ) additionnés ces deux types de coûts constituent les coûts totaux ). Aperçu de la structure des coûts"
+    },
+    {
+     "t": "p",
+     "text": "217 1ère édition 2025 Module 705_La rentabilité de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL A première vue, les coûts totaux ne permettent pas de déterminer si une entre - prise est performante ou non. Toutefois, il est possible d’évaluer les coûts totaux en les comparant avec une période précédente ( par exemple mois, trimestre, année... ) ceci permet d’obtenir une tendance positive ou négative."
+    }
+   ]
+  },
+  {
+   "id": "s-5-1-2",
+   "number": "5.1.2",
+   "title": "Taux de couverture des coûts",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le taux de couverture des coûts consiste à comparer les coûts totaux par rapport au chiffre d'affaires. Si cette valeur est supérieure à 100%, cela signifie que le chiff - re d’affaires issu de la vente des marchandises ne parvient pas à couvrir les coûts de l'entreprise. L 'entreprise enregistre alors des pertes économiques. Si la valeur est inférieure à 100%, cela signifie que les coûts de l'entreprise sont couverts par le chiffre d’affaires. L'entreprise enregistre alors des gains économiques. Taux de couverture des coûts = Coûts Totaux Chiffre d’affaires"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2",
+   "number": "5.2",
+   "title": "Coûts de stockage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les coûts liés au stockage se composent de différents coûts qui ont tous un rap - port avec l’activité de gestion des stocks. Les coûts fixes sont permanents et in - dépendants du volume de l’activité. Les coûts variables quant à eux dépendent et changent proportionnellement en fonction de la progression ou la diminution de l’activité. Un exemple d'EnterSite SA 1er trimestre 2ème trimestre Chiffre d'affaires CHF 48'440.– CHF 46'550.– Coûts fixes CHF 8'550.– CHF 8'550.– Coûts variables CHF 26'475.– CHF 22'900.– Résultat CHF 13'415.– CHF 15'100.– L ’acheteur d’EnterSite SA a bénéficié de meilleurs prix d’achat auprès des four - nisseurs dans le deuxième trimestre. En conséquence, les coûts variables ont diminué. Bien que le chiffre d’affaires issu des ventes ait chuté au deuxième tri - mestre, le résultat est plus élevé."
+    },
+    {
+     "t": "p",
+     "text": "Remarque la structure des coûts d'EnterSite SA comprend les coûts totaux qui se compo - sent des coûts fixes et des coûts variables. Si l'entreprise travaille de manière rentable, le taux de couverture des coûts est inférieur à 100%."
+    },
+    {
+     "t": "p",
+     "text": "218"
+    },
+    {
+     "t": "p",
+     "text": "Composants des coûts de stockage Coûts fixes Coûts variables Amortissements Marchandises Personnel Vol, vieillissement, dépréciation Intérêts Goulets d'étranglement Loyers Energie Entretien Assurances Systèmes de gestion des stocks"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-1",
+   "number": "5.2.1",
+   "title": "Amortissements",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L 'amortissement est un terme utilisé en comptabilité. Par amortissement, on en - tend la somme par laquelle la valeur d'un bien ( par exemple un bâtiment, un équipement… ) diminue au fil des ans en raison de son usure. Il existe différentes durées d'utilisation en fonction du bien. Les durées d'utilisation indiquées ci-des - sous sont des valeurs approximatives:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Bâtiment: 25 ans",
+      "Rayonnage haut: 15 ans",
+      "Rayonnages à palettes: 10 ans",
+      "Installations de transport: 10 ans",
+      "Chariots élévateurs: 5 ans"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque une diminution des coûts que ce soit des coûts fixes ou des coûts variables per - met d'augmenter le résultat. Si la société EnterSite SA réalise un bénéfice, elle travaille de manière rentable."
+    },
+    {
+     "t": "p",
+     "text": "219 1ère édition 2025 Module 705_La rentabilité de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-2",
+   "number": "5.2.2",
+   "title": "Personnel",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le thème des coûts de personnel a été traité de manière approfondie dans le module 703."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-3",
+   "number": "5.2.3",
+   "title": "Intérêts",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le capital est de l'argent utilisé pour réaliser des investissements, il est nécessaire pour financer l’exploitation de l’activité de l’entreprise EnterSite SA. Si des capitaux étrangers sont utilisés à cet effet ( hypothèque, prêt, etc… ), le bailleur de fonds ( par ex. une banque ) attend une rémunération relative au capital apporté. Les intérêts des capitaux étrangers dépendent du taux directeur de la Banque Nati-onale Suisse ( BNS ). Les banques commerciales empruntent de l'argent à la Banque Nationale Suisse ( BNS ) et paient un intérêt en contrepartie. La banque commerciale quant à elle fixe l'intérêt pour le capital que la société EnterSite SA lui emprunte. Cet intérêt est basé sur un taux d'intérêt calculé ( fictif ) qui sert à calculer le coût réel du capital investi. En règle générale, le taux d'intérêt théorique est calculé sur la base des taux d'intérêt actuels du marché et du risque spécifique de l'entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-4",
+   "number": "5.2.4",
+   "title": "Loyers",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Par loyer, on entend les frais déterminés par un contrat qui doivent être fournis pour l'utilisation d'une chose déterminée ( bâtiment, entrepôts, etc… )."
+    },
+    {
+     "t": "p",
+     "text": "Exemple EnterSite SA achète un nouveau chariot élévateur à contrepoids au prix de Fr. 18'000.-. Dans le bilan, le chariot élévateur est inscrit pour une valeur de Fr. 18'000.-. L 'année suivante, le chariot élévateur est toujours en service mais son utilisation quotidienne lui fait perdre de la valeur. 18'000.- ( coût du chariot élévateur )/5 ans ( durée d'utilisation ) = 3'600.- ( amor-tissement par an ) Le chariot élévateur perd Fr.3’600.- de valeur par année. La deuxième année, le chariot élévateur est inscrit au bilan pour une valeur de Fr.18'000 - Fr. 3'600.- = Fr. 14'400.-"
+    },
+    {
+     "t": "p",
+     "text": "220"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-5",
+   "number": "5.2.5",
+   "title": "Entretien",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour réaliser son activité, chaque entreprise a besoin de moyens d'exploitation. Chez EnterSite SA, les moyens d'exploitation sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Bâtiment.",
+      "Moyen de transport.",
+      "Machines.",
+      "Outils.",
+      "Équipement tel que rayonnages de stockage, etc…"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Afin de permettre aux moyens d'exploitation d'avoir une durée de vie aussi lon - gue que possible, il est nécessaire de les entretenir régulièrement ( maintenance ). Les coûts de la maintenance sont comptabilisés en tant que coûts d'entretien ou maintenance. Pour l'entretien, on peut se baser sur les valeurs suivantes relatives à l'investissement:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Bâtiments 1,2%",
+      "Installations de transport 2,5%",
+      "Matériel de manutention 8%"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-6",
+   "number": "5.2.6",
+   "title": "Assurances",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De nos jours, une entreprise peut s'assurer contre toutes sortes de choses. Enter - Site SA est ainsi assurée contre les dommages corporels, matériels et pécuniaires. Pour les assurances, on peut estimer pour l'entrepôt entre 0,1% et 0,5% de l’inves - tissement."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-7",
+   "number": "5.2.7",
+   "title": "Systèmes de gestion des stocks",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les systèmes de planification des ressources d'entreprise ( Enterprise Resource Planning - ERP ) ou de gestion des stocks engendrent des coûts car ces systèmes doivent être entretenus et régulièrement mis à jour. Les systèmes entraînent éga - lement des frais de licence récurrents qui sont en parties répercutés sur l'entrepôt."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-8",
+   "number": "5.2.8",
+   "title": "Marchandises",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les stocks sont des coûts variables car les quantités fluctuent selon l’activité. Au bilan de l’entreprise, les stocks de marchandises font partis de ce que l'on appel - le les actifs circulants. Les marchandises doivent être achetées, tant qu’elles sont stockées, cela génère du capital immobilisé. Lorsque les marchandises sont uti - lisées dans la production ou vendues aux clients cela génère une création de va - leur. La gestion des stocks est donc très importante pour l'optimisation des coûts chez EnterSite SA et sera traitée plus en détails aux chapitres 5.3 et 5.4."
+    },
+    {
+     "t": "p",
+     "text": "221 1ère édition 2025 Module 705_La rentabilité de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-9",
+   "number": "5.2.9",
+   "title": "Vol, vieillissement, dépréciation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chez EnterSite SA, les stocks sont contrôlés au moins une fois par an. Cependant, il ne s'agit pas seulement de compter le nombre de pièces. On vérifie également si le produit répond encore aux exigences actuelles. Il arrive régulièrement que les produits perdent en qualité pour des raisons d’une durée trop longue de stockage ou des conditions de stockage inadaptées. Ces coûts sont variables et doivent être pris en compte."
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-10",
+   "number": "5.2.10",
+   "title": "Goulets d'étranglement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si, par exemple, la place vient à manquer dans l'entrepôt, EnterSite SA cherche des alternatives pour stocker les marchandises pendant une courte période. Ces alternatives peuvent être: la location d’espaces de stockage ou la gestion tem - porairement de certains articles par des tiers. Ci-dessous, un aperçu des prix de prestataires de services logistiques ( valeurs indicatives sans engagement ): Service Preis in CHF Espace de stockage d'environ 6 m de haut par m2 80.00 – 200.00 Stockage d'une palette ( chargée à 120 - 140 cm de hauteur ) par an Exigences normales 85.00 – 95.00 Exigences accrues ( par ex. en matière de sécurité ) 110.00 – 120.00 Stockage en entrepôt frigorifique 140.00 – 150.00 Stockage en congélateur 155.00 – 170.00 Entrée des marchandises Par palette 5.00 – 10.00 Préparation des commandes Par article 0.60 – 1.00 Toute la gamme 5.00 – 7.00"
+    },
+    {
+     "t": "p",
+     "text": "222"
+    }
+   ]
+  },
+  {
+   "id": "s-5-2-11",
+   "number": "5.2.11",
+   "title": "Energie",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une entreprise a besoin d'énergie pour fonctionner car elle utilise du gaz, de l’électricité, de l'eau… Pour les coûts d’énergie dans un entrepôt, on prend en compte une valeur indicative approximative de 0,5% à 1,0% par rapport à l’inves - tissement."
+    }
+   ]
+  },
+  {
+   "id": "s-5-3",
+   "number": "5.3",
+   "title": "Niveaux de stocks",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les stocks évoluent en permanence en raison de la demande. Afin de garantir la disponibilité des marchandises, les stocks sont surveillés et optimisés en per - manence. Pour que les stocks puissent être réapprovisionnés, il est nécessaire de passer une commande auprès d’un fournisseur ou de la production interne de l'entreprise. Le stock point de commande dépend de la consommation prévue durant le délai de livraison et du délai de livraison."
+    }
+   ]
+  },
+  {
+   "id": "s-5-3-1",
+   "number": "5.3.1",
+   "title": "Stock minimum",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stock minimum, également appelé stock de couverture correspond à la quan - tité de produits nécessaires pour répondre à la demande pendant la période d’approvisionnement. Pour le fixer, on prend en compte la consommation moy - enne et le délai d’approvisionnement. Pour les produits qui sont d'une grande im - portance pour l'entreprise, le stock minimum est fixé à un niveau plus élevé afin d’éviter des ruptures de stock, en revanche celui-ci augmente la valeur du stock. Un exemple d'EnterSite SA Quel est le coût total d'un chariot élévateur à mât rétractable chez EnterSite SA qui a coûté Fr. 36'000? L 'amortissement s'effectue sur 5 ans. Le taux d'intérêt calculé est de 8%. Les frais d'entretien doivent être calculés à 6%, l'énergie à 950 francs par an et les assurances à 0,5%. Énergie = CHF 950.– Assurances = CHF 36'000.– x 0.5 / 100 CHF 180.– Entretien = CHF 36'000.– x 6 / 100 CHF 2'160.– Coût de fonctionnement = CHF 3'290.–"
+    },
+    {
+     "t": "p",
+     "text": "Amortissement = CHF 36'000.– / 5 Jahre CHF 7'200.– Intérêt = CHF 36'000.– / 2 x 8 / 100 CHF 1'440.– Coût du capital = Fr. 950.- CHF 8'640.–"
+    },
+    {
+     "t": "p",
+     "text": "223 1ère édition 2025 Module 705_La rentabilité de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-5-3-2",
+   "number": "5.3.2",
+   "title": "Stock sécurité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stock sécurité peut être défini librement en fonction de la stratégie de stocka - ge adoptée par l’entreprise. Le niveau de celui-ci ne devrait être utilisé que dans le cas exceptionnel comme par exemple une consommation plus élevée qu’hab - ituellement ou lors d’une rupture de la chaîne d’approvisionnement ( retards de livraison, erreurs de livraison ). La constitution d’un tel stock coût très cher, il con - vient donc de définir un stock sécurité uniquement pour les articles d’une haute importance stratégique pour l’entreprise. Remarque Le principe de base en matière de stocks est le suivant: aussi peu que possible, mais aussi élevé que nécessaire."
+    }
+   ]
+  },
+  {
+   "id": "s-5-3-3",
+   "number": "5.3.3",
+   "title": "Stock maximum",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le niveau du stock maximum fixe la quantité maximale qui permet d'éviter des coûts inutilement élevés. Le stock maximum est généralement atteint lorsque la quantité commandée est arrivée. Stock maximum Niveau de la cote d’alerte + quantité optimale de commande"
+    },
+    {
+     "t": "p",
+     "text": "224"
+    }
+   ]
+  },
+  {
+   "id": "s-5-3-4",
+   "number": "5.3.4",
+   "title": "Point de commande ( cote d’alerte )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le point de commande est le niveau de stock lorsque celui-ci est atteint ou dépas - sé, une nouvelle commande est déclenchée. Le niveau du point de commande dépend du délai d’approvisionnement et de la consommation moyenne. Plus le délai d'approvisionnement est élevé, plus le point de commande doit être élevé. Le point de commande correspond au stock minimum s’il n’y a pas de stock sé - curité sur l’article. Dans le cas où un stock de sécurité aurait été défini pour un article, celui-ci doit également être pris en compte, dans ce cas précis le point de commande correspond au stock minimum + le stock de sécurité. Un exemple d'EnterSite SA: Évolution des stocks de l'article «SwissEnterSite Cartrige Brother TN2320 Toner Black EnterSite SA vend en moyenne 10 pièces par jour de l'article «SwissEnterSite Cartrige Brother TN2320 Toner Black». Le stock sécurité a été fixé à 40 pièces. La quantité optimale de commande est de 70 pièces. Le délai de livraison est de 4 jours. Le 31 août, le stock était de 90 pièces. Point de commande = ( 10 pièces x 4 jours ) + 40 pièces = 80 pièces Stock maximum = 40 pièces + 70 pièces = 1 10 pièces Le niveau du point de commande est atteint le 1er et le 8 septembre, la société EnterSite SA va déclencher une commande à ces dates. Le 5 et le 12 septembre, le stock sécurité est atteint. De plus, la livraison arrive à ces dates. Le stock est reconstitué jusqu'au stock maximum. Point de commande ( délai d'approvisionnement ( nombre de jours ) x consommation journalière ) + stock de sécurité"
+    },
+    {
+     "t": "p",
+     "text": "225 1ère édition 2025 Module 705_La rentabilité de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-5-3-5",
+   "number": "5.3.5",
+   "title": "Stock moyen",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le niveau du stock moyen indique la quantité moyenne du stock durant une péri - ode. La manière dont le stock moyen peut être calculé est expliquée en détail dans le module 704."
+    }
+   ]
+  },
+  {
+   "id": "s-5-4",
+   "number": "5.4",
+   "title": "Minimisation des coûts de stockage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une possibilité d’augmenter les bénéfices d'EnterSite SA est de réduire les coûts de stockage en appliquant différentes mesures. L 'une d'entre elles consiste à dé - terminer le niveau de stock optimal. Mais ce n'est pas si simple, car il faut d'une part minimiser la valeur du stock et d'autre part maximiser la quantité du stock afin de garantir une grande disponibilité de livraison. La gestion des stocks entraîne souvent un conflit d'objectifs:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Beaucoup de capital immobilisé",
+      "Une augmentation des coûts dans l'entrepôt",
+      "Un risque de vieillissement ou de perte de valeur"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "En revanche, un stock trop faible peut entraîner:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Une pénurie d'approvisionnement",
+      "Des pertes de clients",
+      "Des pertes de productions et de ventes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-1",
+   "number": "5.4.1",
+   "title": "Taux d’intérêt de stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le capital immobilisé en stock coûte à l’entreprise. Pour déterminer le taux d’in - térêt de stockage à appliquer au capital immobilisé, Il faut disposer des données suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le taux d'intérêt du marché",
+      "La rotation des stocks",
+      "La durée moyenne de stockage"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour calculer le coût du capital immobilisé, le taux d'intérêt est multiplié par le stock moyen ainsi que par le prix de revient. Remarque Avec un taux d'intérêt de stockage élevé, les coûts de stockage internes d'EnterSite SA augmentent."
+    },
+    {
+     "t": "p",
+     "text": "Un exemple d'EnterSite SA EnterSite SA aimerait savoir à combien s'élève le coût du capital immobilisé de l'article «SwissEnterSite Cartridge HP 125A CB541A CM1312 Toner CYAN». L 'année dernière, 60 pièces de cet article ont été vendues. Le stock moyen était de 20 pièces. Le taux d'intérêt usuel sur le marché est de 2,5%. Rotation des stocks = Consommation par période Niveau de stock moyen par période = 60 pièces = 3 fois 20 pièces Durée moyenne de stockage = 360 jours Rotation des stocks = 360 jours = 120 jours 3 Taux d'intérêt de stockage = Taux d'intérêt du marché x durée moyenne de stockage 360 jours = 2,5% x 120 jours = 0,84% 360 jours Le taux d'intérêt applicable à l'article «SwissEnterSite Cartridge HP 125A CB541A CM1312 Toner CYAN» est de 0,84%. Le prix de revient de l’article est de 71 francs. Coût capital immobilisé = Taux d'intérêt du stock x stock moyen x prix de revient = 0,84% x 20 pièces x CHF 71.– = CHF 1'192.80 Remarque Une faible rotation des stocks augmente le taux d'intérêt des stocks. Cela peut conduire à des taux d'intérêt de stockage élevés lorsque les marchandises sont très peu utilisées."
+    },
+    {
+     "t": "p",
+     "text": "227 1ère édition 2025 Module 705_La rentabilité de l'entrepôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-5-4-2",
+   "number": "5.4.2",
+   "title": "Taux des coûts de stockage ( possession des stocks )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "EnterSite SA doit connaitre le taux des coûts de stockage pour déterminer la quantité optimale de commande ( module 31 1 ). La quantité optimale de com - mande est à son tour nécessaire pour utiliser l'entrepôt de manière optimale. Pour calculer le taux des coûts de stockage, on a besoin des coûts de stockage, de la valeur moyenne du stock ainsi que le taux d’intérêt du marché. Pour rappel, les coûts de stockage se composent de différents coûts qui sont nécessaires afin d’assurer une gestion sans faille de l'entrepôt ( chapitre 1.2 ). Pour obtenir la valeur moyenne du stock, on multiplie le stock moyen ( chapitre 1.3 ) par le prix de revient unitaire. Dans le but d’obtenir le taux des coûts de stockage, on effectue une comparaison entre les coûts liés au stockage et la valeur moyenne du stock puis on ajoute le taux d'intérêt usuel du marché. Pour diminuer le taux des coûts de stockage, EnterSite SA doit réduire ses coûts. Pour ce faire, EnterSite SA agit en priorité ses coûts variables et si cela ne suffit pas, elle tente d’économiser sur ses coûts fixes."
+    },
+    {
+     "t": "p",
+     "text": "228 Remarque Une évolution négative est une augmentation du taux des coûts de stockage qui est générée par une mauvaise gestion des stocks ou des coûts de stockage trop élevé. Ceci entraîne des coûts plus élevés pour EnterSite SA. Autres possibilités de minimiser les coûts de stockage Si tous les collaborateurs d'EnterSite SA respectent les règles suivantes, il est éga - lement possible de réduire les coûts de stockage:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Utilisation respectueuse des consommables tels que le papier à photocopie, le matériel d'emballage, etc…",
+      "Manipulation soigneuse et entretien régulier des moyens de transport, des machines et des outils.",
+      "Respect des consignes de sécurité afin d'éviter les accidents du travail"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "En outre, les mesures suivantes aident à minimiser les coûts de stockage:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Déterminer les indicateurs de gestion des stock Module 704",
+      "Optimiser le niveau des stocks"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Un exemple d'EnterSite SA Les coûts totaux de stockage s'élèvent à 25’000 francs en 2022 chez EnterSite SA. En revanche, la valeur moyenne du stock ( stock moyen x prix de revient ) est de 335’000 francs. Le taux d'intérêt usuel du marché est de 2,5 %. Taux des coûts de stockage = Coûts de stockage x 100 + intérêts calculés Stock moyen 25'000 x 100 + 7.45% + 2,5% = 9,95% 335'000"
+    }
+   ]
+  }
+ ]
+}

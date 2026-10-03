@@ -1,0 +1,189 @@
+{
+ "code": "610",
+ "title": "Le transport combiné",
+ "domain": "600",
+ "pdf": "M610.pdf",
+ "pages": 9,
+ "words": 1291,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le transport combiné est rapide, flexible et respectueux de l'environnement. Le trafic combiné englobe plusieurs modes de transport. Les véhicules, semi-remorques, caisses mobiles ou conteneurs peuvent être facilement transbordés d’un moyen de transport à un autre."
+    },
+    {
+     "t": "p",
+     "text": "Le transport combiné fait interagir plusieurs modes de transport. Les véhicules, les semi-remorques, les caisses mobiles ou les conteneurs peuvent être transbordés d'un mode de transport à l'autre sans grand effort. Partout où des marchandises passent d'un mode de transport à un autre, il y a ce qu'on appelle des interfaces. C'est à ces interfaces que les marchandises sont transférées d'un moyen de transport à un autre. Les interfaces typiques dans la logistique sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Gares de marchandises (rail/route)",
+      "Terminaux à conteneurs (rail/route)",
+      "Centres de tri de courrier et de colis (rail/route)",
+      "Installations portuaires (eau/rail/route)",
+      "Aéroports (air/route/rail)"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Des entrepôts de transbordement ( module 402) sont construits aux interfaces. Ceux-ci ne servent pas uniquement au transbordement; les marchandises sont également reconditionnées, triées, stockées temporairement, souvent contrôlées et dédouanées. Remarque: la combinaison de différents modes de transport permet de profiter de leurs avantages respectifs et de contourner leurs inconvénients. L'objectif est donc de trouver la combinaison optimale. Un exemple tiré de la pratique Trois modes de transport se rencontrent à l'aéroport de Zurich."
+    }
+   ]
+  },
+  {
+   "id": "s-10-1",
+   "number": "10.1",
+   "title": "La chaussée roulante (ROLA, Rollende Landstrasse)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le terme \" chaussée roulante \" désigne le ferroutage accompagné. Le camion roule sur un wagon à plancher bas du chemin de fer à un terminal de ferroutage. Le chauffeur du camion s'installe dans la voiture d'accompagnement avec possibilité de couchage, qui est transportée dans la composition du train. Il peut s'y reposer pendant tout le trajet de transit. A la gare de destination, il reprend son véhicule et reprend la route. La première chaussée roulante a traversé la Suisse dès 1968 et l'entreprise Hupac, l'exploitant actuel, ne cesse de développer le réseau de transport. Sur le réseau Hupac, 100 trains circulent chaque jour entre les grands espaces économiques européens. En 2011, le volume de trafic s'est élevé à 724'000 envois routiers."
+    }
+   ]
+  },
+  {
+   "id": "s-10-1-1",
+   "number": "10.1.1",
+   "title": "Trafic de ferroutage non accompagné",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les camions semi-remorques laissent la remorque (ou semi-remorque) dans le terminal de ferroutage et effectuent d'autres tâches avec le véhicule tracteur. La semi-remorque est chargée et voyage avec le train jusqu'à sa destination finale. Là, elle peut être prise en charge par un véhicule tracteur et conduite au lieu de déchargement. Cette variante implique qu'un chauffeur avec un véhicule tracteur soit disponible à destination pour prendre en charge la cargaison."
+    }
+   ]
+  },
+  {
+   "id": "s-10-2",
+   "number": "10.2",
+   "title": "Conteneur ISO",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Grâce à leurs dimensions normalisées, les conteneurs ISO s'adaptent aux différents moyens de transport. Cela permet d'éviter des opérations de transbordement longues et coûteuses dans la chaîne logistique. Les marchandises chargées dans le conteneur par l'expéditeur ne sont déchargées qu'au lieu de destination. Outre le transbordement rationnel, le transport de marchandises par conteneurs offre également une plus grande sécurité: les conteneurs peuvent être fermés et scellés."
+    },
+    {
+     "t": "p",
+     "text": "Le premier grand conteneur a été transporté par camion et par bateau en Amérique dès 1956. C'est pourquoi le conteneur ISO actuel est également conçu en pieds: 1 pied mesure 30,48 cm de long. La majeure partie du trafic mondial de marchandises s'effectue par conteneurs. Les grands conteneurs ISO les plus courants ont une longueur de 40 ou 20 pieds. Les conteneurs de 40 pieds sont également appelés grands conteneurs ou conteneurs maritimes. Grâce à la normalisation, ils peuvent être utilisés dans le monde entier sur des véhicules routiers, des wagons de chemin de fer et des bateaux. Les conteneurs ISO sont disponibles dans les versions les plus diverses."
+    },
+    {
+     "t": "p",
+     "text": "Données techniques des conteneurs ISO Longueur en pied Longueur extéri-eure Largeur extéri-eure Hauteur extéri-eure Volume Longueur intérieure Largeur intérieure Poids à vide Charge utile Total 20 6.058 m 2.438 m 2.591 m 33.2 m3 5.898 m 2.352 m 2250 kg 21 750 kg 24 000 kg 40 12.192 m 2.438 m 2.591 m 67.7 m3 12.032 m 2.352 m 3780 kg 26 700 kg 30 480 kg"
+    },
+    {
+     "t": "p",
+     "text": "Il existe une multitude de conteneurs ISO pour répondre au mieux aux besoins des clients. Le type de conteneur le plus utilisé est le conteneur fermé. Comme les conteneurs sont empilés sur le pont supérieur des navires maritimes, ils doivent être étanches et les marchandises qu'ils contiennent doivent être suffisamment protégées contre l'humidité."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "A retenir: les conteneurs ISO sont devenus incontournables dans un monde globalisé!"
+    },
+    {
+     "t": "p",
+     "text": "Autres types de conteneurs"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "avec porte frontale",
+      "avec porte latérale",
+      "conteneur frigorifique",
+      "avec parois amovibles",
+      "conteneur High-Cube",
+      "conteneur à toit ouvert",
+      "conteneur-citerne"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-10-3",
+   "number": "10.3",
+   "title": "Autres systèmes d'échange",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-10-3-1",
+   "number": "10.3.1",
+   "title": "Système de transport de conteneurs roulants (ACTS)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le conteneur a fait ses preuves de manière remarquable dans le transport combiné. Le transbordement d'unités de transport grandes et lourdes pose un problème. Les équipements de transbordement (grues, chariots élévateurs) sont relativement chers. Leur acquisition n'est rentable que pour des volumes de transbordement élevés. C'est pourquoi la société Abroll-Container-Transport-Service AG (ACTS) a été créée en 1988. Contrairement aux conteneurs ISO normaux, un conteneur ACTS est équipé de roulettes sur un côté et d'un crochet sur l'autre. Les conteneurs ACTS peuvent être déposés partout au niveau du sol par des camions équipés spécialement à cet effet. Les conteneurs ACTS peuvent non seulement être déposés, mais aussi basculés. Les conteneurs roulants sont principalement utilisés pour le transport de ballots de papier, de gravats ou de déchets."
+    },
+    {
+     "t": "p",
+     "text": "ACTS en pratique: un châssis pivotant monté sur le wagon ferroviaire supporte les roulettes du conteneur montées sur sa face inférieure. Dès que le conteneur repose sur toute sa longueur, le châssis pivotant est tourné dans le sens de la longueur du wagon et verrouillé. Le wagon est prêt à partir. Une fois arrivé à destination, le conteneur est pivoté vers l'extérieur avec le châssis pivotant et tiré sur le camion en attente. Le conteneur peut être déposé au niveau du sol et repris par le camion."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-2",
+   "number": "10.3.2",
+   "title": "Caisses et conteneurs interchangeables",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les caisses mobiles et les conteneurs interchangeables sont conçus et normalisés de la même manière que les conteneurs ISO. Contrairement aux conteneurs, les caisses mobiles reposent sur des supports rabattables pendant le chargement. Les caisses mobiles et les conteneurs interchangeables dans la pratique: le camion passe sous la caisse mobile, quand il est en place, le châssis du camion est soulevé à l'aide des suspensions pneumatiques, jusqu'à ce que les béquilles puissent être rabattues. Lors du chargement sur le train, les caisses mobiles sont soulevées du camion à l'aide d'une grue et déposées sur le wagon."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-3",
+   "number": "10.3.3",
+   "title": "Cargo Domino",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le système Cargo Domino fonctionne lui aussi avec des caisses mobiles et des conteneurs interchangeables. Il s'agit d'un complément aux systèmes connus dans le transport combiné et se base également sur une combinaison rail/route. On utilise des caisses mobiles qui s'adaptent aussi bien aux camions qu'aux wagons ferroviaire. Les conteneurs sont équipés d'un profilé transversal. Contrairement aux conteneurs ACTS, il n'est pas nécessaire de tourner la caisse mobile lors du chargement sur le wagon. Le camion se place sur le côté du wagon, puis la caisse mobile est poussée sur le wagon perpendiculairement au sens de la marche."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-4",
+   "number": "10.3.4",
+   "title": "Combinaison route - rail",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entreprises de transport suisses proposent aujourd'hui le transport de marchandises de détail dans toutes les régions du pays. Pour ce faire, les grandes entreprises combinent habilement les deux modes de transport que sont la route et le rail. Par le rail, les entreprises livrent les différents centres régionaux pendant la nuit. Dans les centres régionaux, un transbordement sur les camions est effectué pour procéder ensuite à la distribution détaillée. Parallèlement, des palettes sont à nouveau collectées et chargées le soir sur les wagons pour l'expédition vers différents centres régionaux."
+    }
+   ]
+  },
+  {
+   "id": "s-10-3-5",
+   "number": "10.3.5",
+   "title": "Cargo Sous Terrain",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cargo Sous Terrain est un système innovant qui vise à offrir une solution globale à l'aide de différents modes de transport. Grâce à un système de tunnels souterrains, les routes seront désengorgées. Les véhicules reliant les villes entre elles, se déplaceront à une vitesse constante (de 30 km/h). Le premier tronçon (Härkingen-Niederbipp à Zurich) devrait être ouvert en 2031."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras plus d'informations sur Cargo Sous Terrain ici."
+    }
+   ]
+  }
+ ]
+}

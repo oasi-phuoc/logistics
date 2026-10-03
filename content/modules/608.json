@@ -1,0 +1,366 @@
+{
+ "code": "608",
+ "title": "Le transport aérien",
+ "domain": "600",
+ "pdf": "M608.pdf",
+ "pages": 14,
+ "words": 2048,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Exemple: N° de danger 33* N°ONU 1203**"
+    },
+    {
+     "t": "p",
+     "text": "* Le n° de danger 33 signifie 3 = liquides ou vapeurs inflammables ou spontanément inflammables. La double mention 33 indique une dangerosité particulière. **N°ONU 1203 = essence"
+    },
+    {
+     "t": "p",
+     "text": "7.4 Un regard sur l'avenir D'autres grands projets sont prévus dans le domaine du transport ferroviaire en Suisse et en Europe afin d'accélérer le transfert du trafic de marchandises de la route vers le rail. Avec Cargo Sous Terrain (CST), des possibilités s'offriront à l'avenir pour transférer une partie du trafic de marchandises de la route et"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "du rail vers le sous-sol. Le CST est décrit plus en détail dans le module 610. De nouvelles possibilités s'ouvrent également dans le domaine du transport de personnes. Alors que sur la route, les voitures électriques et à conduite autonome sont de plus en plus à l'ordre du jour, des entreprises innovantes testent des systèmes de tubes rapides (par exemple avec l'Hyperloop) qui pourraient concurrencer les trains à grande vitesse dans le transport ferroviaire, dans un avenir plus ou moins lointain."
+    },
+    {
+     "t": "p",
+     "text": "Le mode de transport aérien est coûteux mais rapide. Il est particulièrement adapté au transport international de marchandises légères, coûteuses et rapidement périssables."
+    }
+   ]
+  },
+  {
+   "id": "s-8-1",
+   "number": "8.1",
+   "title": "Importance du fret aérien",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le transport aérien est un élément important du commerce international. Son principal avantage est sa grande vitesse, inégalée par les modes de transport terrestres. Le fret aérien représente pour la Suisse l'accès à des débouchés mondiaux. La place économique suisse profite d'une bonne desserte aérienne. Avec l'importance croissante des marchés d'outre-mer d'Asie et d'Amérique du Nord, le fret aérien est d'une portée considérable pour le développement économique et contribue de manière décisive à garantir la prospérité et les emplois. 312 milliards de francs: c'est la valeur des produits exportés par l'industrie suisse en 2019. Sur ce total, des marchandises d'une valeur de 157 milliards de francs ont transité par les aéroports suisses et ont été transportées par fret aérien. Avec une part d'exportation d'environ 50%, le fret aérien (mesuré à la valeur des envois) représente le principal vecteur de transport pour la Suisse. La crise du Corona en 2020 a clairement montré pourquoi la Suisse a besoin d'une infrastructure aérienne performante. Lorsque des fermetures de frontières ont eu lieu, des vols dits de rapatriement ont permis de rapatrier des citoyens suisses de l'étranger vers la Suisse. Par ailleurs, le transport aérien permet également d'assurer l'approvisionnement en marchandises nécessaires de toute urgence."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le transport aérien est le mode de transport le plus rapide à l'échelle mondiale."
+    },
+    {
+     "t": "p",
+     "text": "Comparaison du fret aérien et du fret maritime dans le transport intercontinental par mode de transport en 2019, sans l'or et les métaux précieux (source: étude sur la logistique du fret aérien en Suisse 2020)"
+    }
+   ]
+  },
+  {
+   "id": "s-8-2",
+   "number": "8.2",
+   "title": "Domaines d'application du fret aérien",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le transport aérien est particulièrement adapté aux marchandises suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "animaux vivants, fleurs, fruits exotiques, journaux, films",
+      "la mode et les marchandises saisonnières",
+      "pièces de rechange urgentes",
+      "médicaments et produits médicaux",
+      "les expéditions à délai précis",
+      "courrier aérien",
+      "marchandises de grande valeur, sensibles au transport ou sujettes au vol",
+      "matériel de secours en cas de catastrophe",
+      "les documents",
+      "organes humains et dépouilles mortes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-8-3",
+   "number": "8.3",
+   "title": "Trafic de remplacement aérien",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Afin d'optimiser l'utilisation des capacités de fret aérien, les marchandises sont transportées par camion à travers les pays. Il arrive ainsi que des marchandises en provenance du Luxembourg soient d'abord acheminées vers Zurich et que d'autres marchandises quittent la Suisse par camion pour être ensuite acheminées par avion vers l'Asie, par exemple depuis Francfort. Cette tendance est renforcée par la concurrence qui existe entre les différents prestataires de fret aérien."
+    },
+    {
+     "t": "p",
+     "text": "Photo: Livraison d'un envoi de fret aérien par camion en provenance de l'étranger. La semi-remorque est équipée d'un plancher à rouleaux."
+    }
+   ]
+  },
+  {
+   "id": "s-8-4",
+   "number": "8.4",
+   "title": "Aéroports en Suisse",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En Suisse, les trois aéroports nationaux de Zurich, Bâle et Genève servent à l'expédition des envois de fret aérien."
+    },
+    {
+     "t": "p",
+     "text": "Source: Étude sur la logistique du fret aérien en Suisse 2020"
+    }
+   ]
+  },
+  {
+   "id": "s-8-4-1",
+   "number": "8.4.1",
+   "title": "Aéroport de Zurich",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'aéroport de Zurich est le plus grand aéroport national suisse et traite 70% du marché suisse du fret aérien. Il a la fonction de hub (hub = plaque tournante/aéroport de correspondance). Les passagers et le fret des aéroports plus petits sont transportés à Zurich, où ils prennent des vols intercontinentaux. Avec une part de marché d'environ 65%, l'entreprise Swiss World Cargo est le principal fournisseur du marché suisse du fret aérien. La plus grande partie du fret aérien est chargée dans des avions de passagers. Avec une part de 70%, le fret de transfert est très important à l'aéroport de Zurich. Chaque jour, plus de 1 200 tonnes de fret aérien sont transbordées par quelque 1 400 collaborateurs. La manutention du fret est assurée par les deux entreprises de manutention Cargologic et Dnata. Environ 120 entreprises de transport sont présentes dans les environs de l'aéroport. L'aéroport de Zurich offre des"
+    },
+    {
+     "t": "p",
+     "text": "possibilités de traitement pour toutes les marchandises pouvant être transportées par fret aérien. Toutes les installations et infrastructures spéciales sont disponibles. Tous les services nécessaires à l'enregistrement sont présents sur place."
+    }
+   ]
+  },
+  {
+   "id": "s-8-4-2",
+   "number": "8.4.2",
+   "title": "Genève Aéroport",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'aéroport de Genève est une plaque tournante d'importance régionale et nationale pour l'économie. Au cours des dix dernières années, le trafic de marchandises entre l'aéroport de Genève et le reste du monde n'a cessé d'augmenter. Les caractéristiques particulières de l'aéroport de Genève sont sa situation géographique entre la Suisse et la France et le transport de produits à haute valeur ajoutée, tels que les produits chimiques ou les montres."
+    }
+   ]
+  },
+  {
+   "id": "s-8-4-3",
+   "number": "8.4.3",
+   "title": "EuroAirport Bâle-Mulhouse",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'aéroport de Bâle-Mulhouse est le seul aéroport binational au monde qui répond également aux besoins d'une région tri nationale. Sa situation est unique: il n'est qu'à 5 km de l'Allemagne et se trouve directement à la frontière entre la Suisse et la France. Il est donc possible d'importer et d'exporter des marchandises pour la Suisse et l'UE. Grâce aux bonnes liaisons routières avec les autoroutes en Suisse, en France et en Allemagne, les marchandises peuvent être acheminées rapidement et de manière fiable vers et depuis les clients. Un nouveau bâtiment moderne garantit des processus de livraison et de transbordement efficaces, notamment pour l'industrie pharmaceutique."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la Suisse compte trois aéroports nationaux: Zurich, Genève et Bâle."
+    }
+   ]
+  },
+  {
+   "id": "s-8-5",
+   "number": "8.5",
+   "title": "Unités de fret aérien, moyens de transport et avions",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-8-5-1",
+   "number": "8.5.1",
+   "title": "Unités de fret aérien",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "<Programme d’unitisation BULK> ou BUP comme étant « un programme d’ unitisation du vrac, palette constituée par l´expéditeur/le destinataire. Le BUP est l’équivalent du principe des container ISO pour le maritime. Il définit les différents types de conteneur ou supports utilisé lors du transport aérien."
+    },
+    {
+     "t": "p",
+     "text": "Support de charge plaque aluminium avec filet sur chariot de transport"
+    },
+    {
+     "t": "p",
+     "text": "Unité de transport sur chariot de transport"
+    },
+    {
+     "t": "p",
+     "text": "Les ULD (Unit Load Devices) sont des conteneurs ou des plaques de fret aérien utilisés pour le chargement des bagages, du fret et du courrier à bord des avions. Leur utilisation permet de réduire le nombre d'unités à charger. Les ULD permettent ainsi aux entreprises de manutention d'économiser du personnel au sol, du temps et des efforts."
+    },
+    {
+     "t": "p",
+     "text": "Conteneur de fret aérien ULD"
+    }
+   ]
+  },
+  {
+   "id": "s-8-5-2",
+   "number": "8.5.2",
+   "title": "Moyens de transport",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les ULD sont transportés de et vers l'avion sur des remorques de transport avec un tracteur ou directement avec un chariot porte-conteneurs. Pour le chargement et le déchargement des avions, on utilise des plateformes élévatrices mobiles avec des convoyeurs à rouleaux."
+    },
+    {
+     "t": "p",
+     "text": "Remorque de transport avec tracteur"
+    },
+    {
+     "t": "p",
+     "text": "Chariot porte-conteneurs"
+    },
+    {
+     "t": "p",
+     "text": "Plate-forme élévatrice pour le chargement et le déchargement des avions"
+    }
+   ]
+  },
+  {
+   "id": "s-8-5-3",
+   "number": "8.5.3",
+   "title": "Avions",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les avions-cargos sont beaucoup moins nombreux que les avions de passagers. Ils se font également moins remarquer, car ils sont généralement à l'écart dans les aéroports."
+    },
+    {
+     "t": "p",
+     "text": "Avion-cargo Airbus A330-200F de TURKISH CARGO avant son départ de Zurich"
+    },
+    {
+     "t": "p",
+     "text": "Fret dans les avions passagers (Belly freight) Outre les passagers et leurs bagages, les avions de ligne peuvent également transporter du fret. Les soutes sont aménagées de manière à pouvoir charger des conteneurs et des plaques complètes. Le fret est rangé sous la cabine des passagers, dans une zone sous le plancher. Les experts sont unanimes: l'entretien d'un réseau aérien long-courrier n'est rentable que si du fret peut être transporté en plus des passagers."
+    },
+    {
+     "t": "p",
+     "text": "La soute d'un Airbus vide"
+    },
+    {
+     "t": "p",
+     "text": "La soute chargée et sécurisée au sol"
+    }
+   ]
+  },
+  {
+   "id": "s-8-6",
+   "number": "8.6",
+   "title": "Dédouanement et contrôles",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Toutes les marchandises importées ou exportées par la Suisse passent par la douane. Dans les aéroports, les autorités douanières sont présentes et décident quelles livraisons doivent faire l'objet d'un contrôle plus approfondi et s'assurent que les taxes et redevances prescrites par la loi soient perçues. A l'avenir, les marchandises pourront être déclarées à la douane suisse de manière entièrement numérique. Les informations sur les marchandises et les moyens de transport seront alors transmis numériquement. Dans le trafic aérien, le numéro AirWayBill peut être utilisé à cet effet. Le Service vétérinaire de frontière a une mission spéciale: il effectue des contrôles pour éviter l'introduction d'épizooties en Suisse ou dans l'UE. Il contribue à la protection des consommateurs contre l'importation de denrées alimentaires produites de manière non hygiénique et à la préservation des espèces animales menacées. Le Service phytosanitaire fédéral veille lui aussi à empêcher l'introduction de maladies végétales et de ravageurs dangereux et effectue à cet effet les contrôles nécessaires sur les produits végétaux."
+    }
+   ]
+  },
+  {
+   "id": "s-8-7",
+   "number": "8.7",
+   "title": "Forces dynamiques dans le transport aérien",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors du décollage et de l'atterrissage, d'importantes forces s'exercent sur les marchandises. Les contraintes suivantes s'appliquent au mode de transport aérien:"
+    },
+    {
+     "t": "p",
+     "text": "Lors du transbordement, les contraintes peuvent atteindre 1,0 g. Les secousses de chargement et de déchargement peuvent encore augmenter cette valeur."
+    }
+   ]
+  },
+  {
+   "id": "s-8-8",
+   "number": "8.8",
+   "title": "Expédition",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-8-8-1",
+   "number": "8.8.1",
+   "title": "Emballage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchandises doivent déjà être emballées par l'expéditeur conformément à la réglementation. En règle générale, il s'agit des exigences générales en matière d'emballage. Il existe néanmoins quelques cas"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "spéciaux, par ex. les marchandises dangereuses, qui sont décrites ici."
+    }
+   ]
+  },
+  {
+   "id": "s-8-8-2",
+   "number": "8.8.2",
+   "title": "Chargement sur une unité de transport de fret aérien ou dans un",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "conteneur de fret aérien Le chargement des marchandises emballées sur des plaques de fret ou dans des conteneurs de fret aérien, appelés Unit Load Devices (ULD), est effectué conformément aux directives de l'International Air Transport Association (IATA). L'IATA est une association de compagnies aériennes internationales dont l'objectif est d'uniformiser toutes les étapes de traitement dans le domaine de l'aviation. Le chargement s'effectue selon des principes similaires à ceux du transport routier, mais le professionnel responsable est tenu de suivre une formation IATA Cargo avant de pouvoir effectuer ce travail. Création de l'unité de transport aérienne avant la fermeture avec le plastique et la fixation avec le filet."
+    }
+   ]
+  },
+  {
+   "id": "s-8-8-3",
+   "number": "8.8.3",
+   "title": "Matières dangereuses",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les \"Dangerous Goods Regulations\" (DGR) indiquent quelles marchandises dangereuses peuvent être expédiées par voie aérienne et quelle est la quantité nette à ne pas dépasser par colis. L'emballage des marchandises doit en plus être réalisé selon des directives particulières. Certaines matières ne peuvent pas être expédiées ensemble dans un même colis. En revanche, certaines marchandises ne peuvent être expédiées que par avion-cargo (Cargo Aircraft Only) et non par avion de ligne - les quantités maximales de marchandises dangereuses sont généralement différentes pour les deux types d'avion. Les colis doivent également être marqués avec des pictogrammes de danger et d'autres marquages. L'expéditeur doit remplir une déclaration de l'expéditeur (Shipper's Declaration). Les informations qui y figurent ont un numéro similaire au numéro ONU, la quantité nette, la classe de danger, le groupe d'emballage et l'instruction d'emballage. Dans certains cas, un numéro d'urgence 24h/24 de l'expéditeur doit être indiqué sur la déclaration de l'expéditeur. Pour répondre à toutes ces exigences, il existe des entreprises spécialisées dans le fret aérien qui prennent en charge l'ensemble du traitement de ces envois."
+    }
+   ]
+  },
+  {
+   "id": "s-8-8-4",
+   "number": "8.8.4",
+   "title": "La lettre de transport aérien: Air Waybill",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comme pour tout transport, le fret aérien fait l'objet d'un contrat entre l'expéditeur (shipper) et la compagnie aérienne (carrier) transporteur documenté par la lettre de transport aérienne. Comme de nombreux termes techniques du langage aéronautique, ce document est appelé AWB en anglais. On trouve plusieurs orthographes pour ce mot écrit en toutes lettres. Selon le dictionnaire, il s'agit de l'Air Waybill. Il n'existe pas de lettre de transport aérienne unique. La présentation de l'AWB varie en fonction de la compagnie aérienne (carrier) et de la destination. Contrairement au Bill of Lading dans le transport maritime, la lettre de transport aérienne n'est pas négociable. Elle ne peut donc pas être vendue ou mise en gage pendant que la marchandise est en cours de transport."
+    },
+    {
+     "t": "p",
+     "text": "La lettre de transport aérien..."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "est la confirmation de réception de la compagnie aérienne pour la prise en charge des marchandises;",
+      "contient les instructions de l'expéditeur pour la manipulation, l'acheminement et la livraison des marchandises transportées;",
+      "sert de justificatif d'assurance;",
+      "détermine le niveau de responsabilité de la compagnie aérienne en cas de perte ou d'endommagement des marchandises transportées;",
+      "peut servir de déclaration en douane;",
+      "sert de base à la facturation des coûts de fret."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras ici des liens complémentaires sur le fret aérien: Etude sur la logistique du fret aérien en Suisse 2020 et fournisseurs (Cargo Logic)."
+    }
+   ]
+  }
+ ]
+}

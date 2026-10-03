@@ -1,0 +1,321 @@
+{
+ "code": "704",
+ "title": "Les indicateurs logistiques ( KPI'S )",
+ "domain": "700",
+ "pdf": "M704_st.pdf",
+ "pages": 13,
+ "words": 2605,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "202 Module 704_Indicateurs logistiques ( KPI'S ) Module initiale Dans la logistique, les indicateurs ( KPI'S ) sont un outil important pour mes - urer la performance. Les processus logistiques sont surveillés et analysés à l'aide de ratios. Les indicateurs donnent à EnterSite SA une vue d'ensemb - le des différents processus de la logistique. Grâce aux chiffres clés, nous ob - tenons également des points de départ possibles pour savoir si des mesu - res correctives doivent être prises dans certains processus. Afin d'obtenir des indications sur la situation économique, il est recommandé d'examiner en détail surtout les chiffres clés de qualité et de productivité dans la logistique. Le mo - dule suivant traite précisément de ces indicateurs importants pour la logistique. Nous vous souhaitons beaucoup de plaisir à parcourir le module les indicateurs logistiques."
+    },
+    {
+     "t": "p",
+     "text": "203 1ère édition 2025 Module 704_Indicateurs logistiques ( KPI'S ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique du module 704 Les indicateurs ( KPI's ) permettent à EnterSite SA de stocker les marchandises à moindre coût. Dans la logistique, il est possible de déterminer des indicateurs ( KPI's ) pour l'ensemble des activités de l'entreprise, pour des groupes d'articles individuels et jusqu'à des articles individuels."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1",
+   "number": "4.1",
+   "title": "Le stock moyen",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stock moyen est une donnée de base importante pour le calcul d'autres indica - teurs, tels que la rotation des stocks, le taux d'intérêt des stocks, le taux de frais de stockage, etc… Le stock moyen peut être calculé de différentes manières:"
+    },
+    {
+     "t": "p",
+     "text": "Stock moyen = ( stock initial ( de début d'année ) + stock de fin d'année ) 2 Stock moyen = ( stock initial ( de début d'année ) + stock de fin de chaque trimestre ) 5 Stock moyen = ( stock initial ( de début d'année ) + stock de fin de chaque mois )"
+    },
+    {
+     "t": "p",
+     "text": "204 Testons maintenant les formules à l'aide de l'article «matériel de vissage pour A1C - C530AS». Les stocks suivants ont été comptabilisés l'année dernière:"
+    },
+    {
+     "t": "p",
+     "text": "Cette formule permet d'obtenir un résultat fiable sur une courte période d'obser - vation. En revanche, l'application comme dans l'exemple sur une année entière n'est pertinente que si les fluctuations d'effectifs sont faibles. Exemple de formule 1 Date Stock Solde initial ( 1 er janvier ) 2000 31 janvier 300 28 février 750 31 mars 900 30 avirl 110 0 31 mai 200 30 juin 850 31 juillet 700 31 août 1700 30 septembre 1400 31 octobre 600 30 novembre 800 31 décembre 1500 Stock moyen = ( 2000 + 1500 ) = 1'750 pièces"
+    },
+    {
+     "t": "p",
+     "text": "205 1ère édition 2025 Module 704_Indicateurs logistiques ( KPI'S ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Avec cette formule, le résultat est plus précis, mais il reste très sensible aux varia - tions d'effectifs correspondantes. Exemple de formule 2 Date Stock Solde initial ( 1 er janvier ) 2000 31 janvier 300 28 février 750 31 mars 900 30 avirl 110 0 31 mai 200 30 juin 850 31 juillet 700 31 août 1700 30 septembre 1400 31 octobre 600 30 novembre 800 31 décembre 1500 Stock moyen = ( 2000 + 900 + 850 + 1400 + 1500 ) = 1'330 pièces5"
+    },
+    {
+     "t": "p",
+     "text": "206"
+    },
+    {
+     "t": "p",
+     "text": "La valeur calculée sur le stock initial et tous les stocks finaux mensuels est la réa - lité la plus proche. Elle est préférable aux autres variantes pour les calculs sur de longues périodes. Exemple de formule 3 Date Stock Solde initial ( 1 er janvier ) 2000 31 janvier 300 28 février 750 31 mars 900 30 avirl 110 0 31 mai 200 30 juin 850 31 juillet 700 31 août 1700 30 septembre 1400 31 octobre 600 30 novembre 800 31 décembre 1500 Stock Moyen = ( 2000 + 300 + 750 + 900 + 1 100 + 200 + 850 + 700 + 1700 + 1400 + 600 + 800 + 1500 ) = 984,6 pièces 13 Remarque Plus le nombre de stocks pris en compte dans le calcul du niveau de stock moy - en est élevé, plus le résultat final sera précis."
+    },
+    {
+     "t": "p",
+     "text": "207 1ère édition 2025 Module 704_Indicateurs logistiques ( KPI'S ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-4-2",
+   "number": "4.2",
+   "title": "La rotation des stocks",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour déterminer l'efficacité d'une entreprise de stockage, il est possible de calcu - ler la rotation des stocks ( taux de rotation des stocks ). Le taux de rotation indique le nombre de fois où le stock moyen a été renouvelé sur une période donnée, c'est-à-dire qu'il a été entièrement consommé et reconstitué. En plus du stock moyen, nous avons besoin de l' utilisation des marchandises pour le calcul. Par utilisation des marchandises, on entend la quantité r des biens consommés par période ( mois, trimestre, année, etc… ). On peut calculer la rotation des stocks pour:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les articles individuels",
+      "Les groupes d'articles",
+      "Tout l'entrepôt"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La rotation des stocks = Utilisation des marchandises ( consommation par période ) ) Stock moyen Exemple EnterSite SA a consommé 14'000 pièces de l'article «Q3960AR SwissEnterSite Cartridge HP 2550 Toner BLACK». Le stock moyen était de 2'000 pièces pour la période de comparaison. La rotatino des stocks = 14'000 Stück = 7 fois 2'000 Stück"
+    },
+    {
+     "t": "p",
+     "text": "Le taux de rotation est indiqué sous la forme d’un facteur. Dans le magasin, on fait la distinction entre les rotations rapides et les rotations lentes."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les marchandises à rotation rapide: marchandises à forte rotation de stock",
+      "Les marchandises à faible rotation: marchandises à faible rotation de stock"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "208 Le taux de rotation des stocks idéal varie considérablement d'un secteur à l'autre. Pour le secteur alimentaire, le taux de rotation est en principe le plus élevé. Des valeurs comprises entre un facteur 12 et 15 sont courantes. En général, une valeur d'un facteur 1 ou en dessous, est considérée comme faible et il convient de véri - fier si le stockage en vaut encore la peine. Il existe toutefois de bonnes raisons de stocker de tels articles, par exemple lorsqu'il s'agit de pièces de rechange import - antes ou de biens qui sont stockés pour la maturation. Pour de telles marchandi - ses, le calcul du taux de rotation n'est pas pertinent. En principe, on peut résumer, pour tous secteurs confondus, que l'augmentation de la rotation des stocks pré - sente des avantages importans:"
+    },
+    {
+     "t": "p",
+     "text": "Les avantages:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La réduction des coûts"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L ’immobilisation du capital, intérêts, places de stockage, etc…"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La réduction du risque de stockage"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Un grand nombre de marchandises en stock qui ne peuvent pas être vendues"
+    },
+    {
+     "t": "p",
+     "text": "La rotation des stocks peut être augmentée par les mesures suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Commander de plus petites quantités, mais plus souvent.",
+      "Données d'inventaire actuelles ( par exemple, inventaire permanent ).",
+      "Fixer des niveaux de stocks maximums.",
+      "Appliquer si possible le principe du juste-à-temps.",
+      "Retirer de l'assortiment les articles qui ne fonctionnent pas"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-4-2-1",
+   "number": "4.2.1",
+   "title": "La durée de stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La durée de stockage peut être calculée à partir du taux de rotation des stocks. La durée moyenne de stockage indique donc le laps de temps moyen entre l'entrée et la sortie des marchandises en stock. Plus la rotation des stocks est élevée, plus la durée de stockage est courte, ou plus la durée de stockage est élevée, plus la rotation des stocks est faible. La durée de stockage = 360 jours ( ou période choisie ) La rotation des stocks"
+    },
+    {
+     "t": "p",
+     "text": "209 1ère édition 2025 Module 704_Indicateurs logistiques ( KPI'S ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-4-3",
+   "number": "4.3",
+   "title": "La couverture des stocks",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La couverture des stocks indique le nombre de jours pendant lesquels un stock suffit pour approvisionner les clients ou la production en cas de consommation moyenne ou planifiée de matériaux par jour. Il convient de faire la distinction ent - re le stock physique dans l'entrepôt et le stock disponible. Couverture des stocks = Niveau de stock Besoin journalier Exemple Dans l'exemple précédent, un facteur de rotation des stocks de 7 a été calculé pour l'article «Q3960AR SwissEnterSite Cartridge HP 2550 Toner BLACK». La durée moyenne de stockage = 360 jours = 51,4 jours 7 Remarque la comparaison de la rotation des stocks ou de la durée de stockage, par ex - emple avec l'année précédente ou avec d'autres entreprises du même secteur, peut donner des informations sur la rentabilité de l'entreprise.. Stock disponible Stock en magasin ( stock physique )"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "les réservations ( clients ou fabrication )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "+ entrées prévues Exemple Chez EnterSite SA, nous avons actuellement 1'300 pièces de l'article «Q3960AR SwissEnterSite Cartridge HP 2550 Toner BLACK» en stock. La consommation moyenne est de 150 pièces. Durée de couverture des stocks en jours = 1'300 pièces = 8,6 jours"
+    },
+    {
+     "t": "p",
+     "text": "210"
+    }
+   ]
+  },
+  {
+   "id": "s-4-4",
+   "number": "4.4",
+   "title": "La capacité de livraison",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En tant que consommateur, nous sommes habitués à choisir le produit idéal par - mi une quantité presque infinie de produits. Non seulement le choix a évolué au fil du temps, mais les délais de livraison sont également de plus en plus courts. Aujourd'hui, lorsque nous commandons un produit sur internet, il n'est pas rare qu'il soit livré le lendemain. Cela exige des entreprises une grande disponibilité de livraison. Or, maintenir un haut niveau de livraison est extrêmement complexe et exige une grande flexibilité. Le choix d'un fournisseur ne dépend pas uniquement du produit ou du prix, mais également de la capacité d'une entreprise à livrer le produit concerné dans les dé - lais souhaités. Les fournisseurs qui livrent toujours en retard ou, dans le pire des cas, ne livrent pas du tout, peuvent tôt ou tard perdre leurs clients au profit d'entreprises plus fiables en termes de capacité de livraison. Au contraire, les stocks pour une disponibilité élevée coûtent également de l'ar - gent. Une disponibilité de livraison de l'ensemble de l'assortiment ( 100 % ) n'est donc pas forcément souhaitable. Il s'agit plutôt d'évaluer pour quels articles un degré élevé de disponibilité de livraison est rentable et pour lesquels il ne l'est pas. Dans ce cas, l'analyse ABC module 31 1 est un instrument approprié. Au lieu d'augmenter les stocks pour l'ensemble de l'assortiment, seuls les stocks des ar - ticles A sont augmentést."
+    },
+    {
+     "t": "p",
+     "text": "211 1ère édition 2025 Module 704_Indicateurs logistiques ( KPI'S ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Taux de service = Nombre de demandes satisfaites x 100 Nombre de demandes totales Le terme «demandes»n'est pas uniforme dans la pratique. Une demande peut être considérée comme:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Une commande",
+      "Un poste ou une ligne d’un article.",
+      "Un article ( pièce )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le temps ou la période pour laquelle le degré de préparation à la livraison est calculé est également déterminant. S'agit-il d'un instantané ou d'un relevé sur plusieurs semaines ou mois? De même, sa pertinence pour l'évaluation de la per - formance d'une gestion des articles n'est pas évidente. Pour analyser le degré de préparation à la livraison, il convient donc d'intégrer des réflexions sur les consé - quences de l'incapacité de livraison ou, le cas échéant, sur le préjudice subi en termes d'image. Remarque le principe «aussi peu que possible, autant que nécessaire» s'applique donc aussi à la disponibilité de livraison. Un exemple d'EnterSite SA L 'exemple de l'article «Q3960AR SwissEnterSite Cartridge HP 2550 Toner BLACK» pour le mois de mars montre un taux de service moyen de 98,4%. Dans le secteur des solutions bureautiques, auquel appartient EnterSite SA, il s'agit d'une valeur réaliste et acceptable. Si tu analyses le tableau, tu constates qu'il y a toujours des ruptures de stock vers la fin de la semaine. Cela pourrait s'expliquer par le fait que la consommation augmente toujours en fin de semai - ne et que les livraisons n'ont pas été suffisamment adaptées à cette situation. Dans notre exemple, le degré de préparation à la livraison pourrait probab - lement être augmenté sans grand effort. Dans la pratique, il s'est avéré qu'un taux de service de 98% peut être atteint avec un effort raisonnable. Pour attein - dre 100%, l'effort serait toutefois disproportionné."
+    },
+    {
+     "t": "p",
+     "text": "212"
+    }
+   ]
+  },
+  {
+   "id": "s-4-5",
+   "number": "4.5",
+   "title": "Les erreurs de livraison",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On entend par «erreur de livraison» toute livraison qui présente des irrégularités. Les raisons d'une erreur de livraison sont nombreuses: une livraison à un mauvais destinataire, un mauvais article ou une mauvaise quantité, des articles endom - magés ou défectueux. Si l'on calcule le pourcentage d'erreurs de livraison sur l'en - semble des livraisons pendant une période donnée, on obtient le taux d'erreurs de livraison."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-1",
+   "number": "4.5.1",
+   "title": "Éviter les erreurs en tant que fournisseur",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En attribuant clairement des numéros d'articles univoques et en effectuant des contrôles optiques minutieux, le fournisseur peut éviter les livraisons erronées. Pour éviter les erreurs de livraison en tant que fournisseur, il est également avan - tageux de disposer de documents précis ( documents de préparation, documents de livraison ) avec des désignations claires et/ou d'autres indications."
+    },
+    {
+     "t": "p",
+     "text": "213 1ère édition 2025 Module 704_Indicateurs logistiques ( KPI'S ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-2",
+   "number": "4.5.2",
+   "title": "Éviter les erreurs en tant que destinataire",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En tant que destinataire, je peux prévenir les erreurs de livraison en identifiant les marchandises à la livraison ( Identification globale module 304 ):"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les marchandises sur le camion sont-elles pour nous?",
+      "Est-ce que j'attends ces marchandises?",
+      "La commande est-elle enregistrée dans le système?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Après l'identification globale, il s'agit, en tant que destinataire, de contrôler les marchandises de manière professionnelle et, si nécessaire, d'intervenir en consé - quence module 307 et module 308."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-3",
+   "number": "4.5.3",
+   "title": "Différence de quantité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le jargon technique, les différences de quantité sont appelées livraisons excédentaires ou incomplètes. Toutefois, un écart de quantité n'est pas toujours considéré comme une erreur de livraison. Dans un souci de rentabilité, des accords peuvent être conclus entre les entrepri - ses pour qu'une quantité commandée soit livrée en moins ou en plus. La quantité intermédiaire est appelée tolérance dans le jargon."
+    },
+    {
+     "t": "p",
+     "text": "Le contrôle de la quantité Qu'il existe ou non un accord de livraison incomplète ou excédentaire avec le fournisseur, le comptage correct de la livraison reçue est essentiel. Le contrôle de la quantité, qui fait partie du contrôle détaillé à l'entrée des marchandises, doit être effectué en temps réel afin de constater le plus rapidement possible les éven - tuels écarts de quantité. Une différence négative ( quantité manquante ) entre le stock comptable selon le bon de livraison et la quantité réellement disponible, constitue une perte pour le destinataire."
+    },
+    {
+     "t": "p",
+     "text": "Les dommages dus au transport Les dommages causés par des influences extérieures pendant le transport entrent également dans la catégorie des erreurs de livraison. Très souvent, ce sont des dommages mécaniques ( pression, chute, choc ) qui influencent la qualité des mar - chandises. Les dommages de transport doivent également être reconnus à temps et consignés sous forme d'un état des lieux écrit ( procès-verbal de dommage ), si possible avec des photos, et signalés au service concerné ( module 307 )."
+    },
+    {
+     "t": "p",
+     "text": "214"
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-4",
+   "number": "4.5.4",
+   "title": "L ’erreur de livraison",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le taux d'erreur de livraison est calculé de la même manière que le taux de service"
+    },
+    {
+     "t": "p",
+     "text": "Taux d'erreur de livraison = Nombre de livraisons défectueuses x 100 Nombre de livraisons totales Comme pour le taux de service, différentes interprétations sont possibles pour le taux d'erreur de livraison, ce qui conduit à des résultats différents. Ainsi, le taux d’erreur de livraison peut être calculé comme suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Par position",
+      "Par fournisseur ( ou client )",
+      "Globalement sur une période donnée"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La qualité d'un fournisseur peut être déterminée à partir de l'indicateur du taux d'erreur de livraison. Des accords de qualité permettent d'augmenter la qualité ou de réduire le taux d'erreur de livraison. Il n'est pas rare que ces accords de qualité contiennent des pénalités. La plupart du temps, une somme d'argent est fixée à titre de sanction contractuelle, ce qui permet d'éviter des procédures judiciaires coûteuses. Example EnterSite SA a livré 550 commandes le mois dernier. Parmi celles-ci, 22 compor - taient des erreurs. Taux d'erreur de livraison = 22 x 100 = 4%"
+    }
+   ]
+  }
+ ]
+}

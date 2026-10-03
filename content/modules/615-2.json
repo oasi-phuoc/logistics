@@ -1,0 +1,155 @@
+{
+ "code": "615-2",
+ "title": "Module 615-2",
+ "domain": "600",
+ "pdf": "M615-2_dist.pdf",
+ "pages": 5,
+ "words": 1055,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "297 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique 2 – Préparation des envois dans les points de dépôt"
+    }
+   ]
+  },
+  {
+   "id": "s-15-7",
+   "number": "15.7",
+   "title": "Notions de base",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour commencer, deux termes centraux:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Préparation des envois: Les envois doivent être préparés avant d’arriver au centre de tri. Cela signifie par exemple que tous les colis express sont triés dans le même rollbox.",
+      "Les points de dépôt sont des endroits où des envois peuvent être déposés, comme les guichets des clients commerciaux, les filiales de la Poste, les points service, les boîtes aux lettres publiques ou les automates"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-15-8",
+   "number": "15.8",
+   "title": "Préparation des envois de lettres et de colis",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tu travailles au guichet des clients commerciaux, où tu es responsable de la préparation des envois. Ta tâche consiste à préparer les envois de manière à ce qu’ils puissent être traités rapidement et efficacement au centre de tri. La prépa - ration des envois s’effectue dans des points de dépôt régionaux, par exemple au guichet des clients commerciaux. Préparation des envois de lettres Lors de la préparation, il existe des différences entre lettres et colis. Les lettres sont triées selon les critères suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pour oblitérer et vérifier l’affranchissement ( avec timbres-poste, Timbre-poste"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "SMS, IFS sans indication de date, PP sans marque PP )."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pas à oblitérer ( PP avec marque PP, IFS avec indication de date, lettres ob - litérées, ECR avec DMC, WebStamp, cécogrammes ).",
+      "Selon l’offre de prestations ( Courrier A / Courrier B / Envois en nombre du Cour - rier B2 )",
+      "Selon le type de traitement ( traitement automatique / manuel ).",
+      "Selon le format ( FN – format normal ( = jusqu’à B5: 17,6 x 25,0 cm ) / GF – grand format ( jusqu’à B4: 25,0 x 35,3 cm ) / gros objets ou MIX )."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "298 Le format peut être vérifié avec des gabarits:"
+    },
+    {
+     "t": "p",
+     "text": "Tous les envois qui passent par le gabarit bleu ( format jusqu’à B5 ) ou le gabarit jaune ( format jusqu’à B4 ) peuvent être traités mécaniquement."
+    },
+    {
+     "t": "p",
+     "text": "La préparation des envois n’a toutefois pas lieu de la même manière dans tous les points de dépôt. Elle dépend du nombre de lettres à préparer et du temps dispo - nible pour cela."
+    },
+    {
+     "t": "p",
+     "text": "Les différences dans la préparation des envois résultent concrètement des fac - teurs suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la quantité des lettres à préparer,",
+      "la plage horaire disponible jusqu’à l’évacuation des lettres du point de dépôt pour pouvoir être traitées à temps au centre de tri,",
+      "ainsi que la part de lettres qui doivent encore être oblitérées par rapport à cel - les qui sont déjà prêtes pour la suite du traitement."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Après cette séparation des lettres, celles-ci sont déposées dans des conteneurs à lettres. Afin que l’on puisse voir clairement quel type de lettres se trouve dans le conteneur correspondant, celui-ci est muni d’une étiquette correspondante. Lorsque le temps le permet, les envois sont oblitérés et séparés directement lors de la préparation des envois. C’est notamment le cas dans les grands offices de dépôt afin de décharger les centres courrier. Si cela n’est pas possible, les lettres sont transmises au centre courrier sans être oblitérées ou séparées. Le timbrage et la séparation y sont alors effectués à l’aide d’installations automatiques Préparation des envois de colis Les colis sont triés selon deux critères et chargés dans un rollbox commun avec des envois de la même catégorie:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Offre de prestations ( Priority, Economy, Express )",
+      "Type de traitement ( p. ex. envois encombrants, envois de vin )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "299 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-15-9",
+   "number": "15.9",
+   "title": "La séparation par 7",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour préparer les lettres pour le processus de tri, on utilise souvent la séparation par 7. Si les lettres sont déjà triées au point de dépôt selon ce principe et livrées ainsi au centre de tri, cela permet de gagner beaucoup de temps. L’illustration ci-dessous montre comment fonctionne exactement la séparation p ar 7."
+    },
+    {
+     "t": "p",
+     "text": "300"
+    }
+   ]
+  },
+  {
+   "id": "s-15-10",
+   "number": "15.10",
+   "title": "Préparation des envois: une petite étape avec un grand",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "impact Nous avons examiné comment se déroule la préparation des envois aux points de dépôt. Mais pourquoi est-elle si décisive? La préparation des envois a des répercussions directes sur l’ensemble du pro - cessus de distribution. Si les envois sont livrés au centre de tri de manière propre et correctement préparée, le traitement se déroule sans accroc et on gagne du temps. Les envois parviennent ainsi à la clientèle dans les délais. Imagine toutefois qu’une erreur se pro - duise lors du dépôt: un colis express est placé par erreur dans un rollbox iden - tifié par un label Economy. Au centre de tri, ce rollbox ne sera traité que plus tard et le colis express arrivera trop tard. Conséquence: une clientèle mécontente et déçue qui ne reçoit pas la prestation pour laquelle elle a payé. C’est pourquoi, dès la préparation des envois, il convient d’être attentif et con - centré afin de garantir une qualité élevée!"
+    }
+   ]
+  },
+  {
+   "id": "s-15-1",
+   "number": "15.1",
+   "title": "1 Quand ça fait de drôles de bruits",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Poste n’accepte pas les envois qui sont endommagés ou insuffisamment em - ballés dès le dépôt. Le client doit reconditionner ces envois. Il peut néanmoins arriver qu’un dommage ne soit découvert que plus tard. Si, lors de la préparation, tu as entre les mains un envoi qui semble endommagé ou qui fait un drôle de bruit, mets-le de côté et informe ta ou ton responsable de conduite. Cela permet d’éviter à temps des dommages importants ou des salis - sures, par exemple dues à des fuites de liquides."
+    },
+    {
+     "t": "p",
+     "text": "301 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Remarque les envois sont préparés aux points de dépôt afin de pouvoir être traités effi - cacement au centre de tri. La préparation des envois se déroule de manière similaire pour les lettres et les colis, mais diffère sur certains détails. Les lett-res sont triées, dans le cadre de la séparation par 7, par oblitération, offre de prestations, format et mode de traitement. Les colis sont regroupés par offre de prestations et type de traitement et chargés dans le même rollbox. Il est important que tu travailles avec un soin particulier lors de la préparation des envois, car elle influence l’ensemble du processus de distribution ultérieur. Les envois endommagés doivent être identifiés le plus tôt possible et signalés immédiatement à ta ou ton responsable de conduite."
+    }
+   ]
+  }
+ ]
+}

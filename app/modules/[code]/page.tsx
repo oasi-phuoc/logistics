@@ -1,8 +1,9 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
-import { getAllModules, getModule, readingMinutes, type Block } from "@/lib/content";
+import { getAllModules, getModule, readingMinutes } from "@/lib/content";
 import { SiteHeader } from "@/components/site-header";
+import { ModuleReader } from "@/components/module-reader";
 
 export function generateStaticParams() {
   return getAllModules().map((m) => ({ code: m.code }));
@@ -11,34 +12,6 @@ export function generateStaticParams() {
 export function generateMetadata({ params }: { params: { code: string } }): Metadata {
   const m = getModule(params.code);
   return { title: m ? `Module ${m.code} — ${m.title} | LogiCours` : "Module introuvable" };
-}
-
-const NOTE_STYLES: Record<string, string> = {
-  note: "border-teal-200 bg-teal-50 text-teal-900",
-  ref: "border-slate-200 bg-slate-50 text-slate-800",
-  tip: "border-sky-200 bg-sky-50 text-sky-900",
-  law: "border-violet-200 bg-violet-50 text-violet-900",
-  warn: "border-amber-300 bg-amber-50 text-amber-900",
-  good: "border-emerald-200 bg-emerald-50 text-emerald-900",
-  bad: "border-rose-200 bg-rose-50 text-rose-900",
-};
-
-function renderBlock(b: Block, i: number) {
-  if (b.t === "p") return <p key={i}>{b.text}</p>;
-  if (b.t === "ul")
-    return (
-      <ul key={i} className="list-disc pl-6 marker:text-teal-600">
-        {b.items.map((it, j) => (
-          <li key={j} className="mt-1">{it}</li>
-        ))}
-      </ul>
-    );
-  return (
-    <aside key={i} className={`rounded-lg border-l-4 px-4 py-3 text-[0.95rem] ${NOTE_STYLES[b.kind] ?? NOTE_STYLES.note}`}>
-      <p className="text-xs font-bold uppercase tracking-wider opacity-70">{b.label}</p>
-      <p className="mt-1">{b.text}</p>
-    </aside>
-  );
 }
 
 export default function ModulePage({ params }: { params: { code: string } }) {
@@ -84,23 +57,7 @@ export default function ModulePage({ params }: { params: { code: string } }) {
             </a>
           </p>
 
-          <div className="mt-8 flex flex-col gap-10">
-            {mod.sections.map((s) => {
-              const Heading = s.level === 1 ? "h2" : s.level === 2 ? "h3" : "h4";
-              const size = s.level === 1 ? "text-2xl" : s.level === 2 ? "text-xl" : "text-base";
-              return (
-                <section key={s.id} id={s.id} className="scroll-mt-6">
-                  <Heading className={`${size} font-bold tracking-tight`}>
-                    {s.number && <span className="mr-2 text-teal-700">{s.number}</span>}
-                    {s.title}
-                  </Heading>
-                  <div className="mt-3 flex max-w-[70ch] flex-col gap-3 leading-7 text-slate-700">
-                    {s.blocks.map(renderBlock)}
-                  </div>
-                </section>
-              );
-            })}
-          </div>
+          <ModuleReader sections={mod.sections} />
 
           <nav aria-label="Navigation entre modules" className="mt-14 flex justify-between gap-4 border-t border-slate-200 pt-6 text-sm">
             {prev ? (

@@ -1,0 +1,208 @@
+{
+ "code": "805",
+ "title": "Word Microsoft 365",
+ "domain": "800",
+ "pdf": "M805.pdf",
+ "pages": 9,
+ "words": 1590,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans l'environnement professionnel moderne comme dans le domaine privé, le traitement de texte joue un rôle décisif. D'une simple lettre à une documentation illustrée en passant par une lettre plus volumineuse: Dans pratiquement toutes les professions, le traitement de texte fait partie intégrante de la formation de base et fait partie des bases techniques du travail."
+    },
+    {
+     "t": "p",
+     "text": "Dans l'environnement professionnel moderne comme dans le domaine privé, pour les lettres simples comme pour les documentations illustrées de grande envergure, le traitement de texte joue un rôle décisif. Dans pratiquement toutes les professions, il fait partie intégrante de la formation de base. 5.1. L’écran de travail"
+    },
+    {
+     "t": "p",
+     "text": "5.2. Écrire un texte 5.2.1. Texte courant Afficher tout Activez toujours le bouton Afficher tout (ctrl+) pour afficher les caractères non imprimables Saisir un texte Saisissez le texte \"au kilomètre\" sans vous soucier des retours à la ligne. Lorsque le point d'insertion arrive à la fin d'une ligne, Word le ramène automatiquement au début de la ligne suivante. N'utilisez la touche Mise à la ligne (Enter) que si vous devez changer de paragraphe. La touche Shift (Maj)+Enter permet de forcer le texte à la ligne tout en restant dans le paragraphe. Enregistrer Ruban Règles Point d’insertion Groupe Barre de défilement Modes d’affichage Zoom Barre d’état Ouvrir la boîte de dialogue"
+    },
+    {
+     "t": "p",
+     "text": "La touche Shift (Maj) permet de saisir le caractère en majuscule. Effacer des caractères, des mots ou des paragraphes Appuyez sur la touche delete pour supprimer le caractère suivant et sur la touche pour effacer le caractère précédent. Pour effacer un mot, sélectionnez le mot avec un double clic sur le mot et un paragraphe avec un triple clic dans le paragraphe puis appuyez sur la touche delete. Transformer des majuscules en minuscules et inversement Pour transformer des majuscules en minuscule et inversement, utilisez l'outil Modifier la casse de l'onglet Accueil."
+    },
+    {
+     "t": "p",
+     "text": "Annuler ou rétablir Pour annuler ou rétablir une opération cliquer sur la flèche annuler ou la flèche rétablir dans l'onglet Accueil. Insérer un saut de page Pour passer à la suivante, cliquez sur Ctrl + Enter."
+    },
+    {
+     "t": "p",
+     "text": "5.2.2. Insérer la date et l’heure du système"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Positionnez le point d’insertion à l’endroit où doit être insérer la date.",
+      "Dans l’onglet Insertion, cliquez sur le bouton"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Word propose dans la liste Formats disponibles, la date, le jour et l’heure actuel sous différents formats."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Si besoin, ouvrez la liste langue puis sélectionnez la langue dans laquelle vous souhaitez voir apparaitre les formats de date et d’heures.",
+      "Cliquez sur le format de votre choix dans la liste Formats disponibles.",
+      "Cochez l’option Mettre à jour automatiquement si vous souhaitez que cette date soit mise à jour automatiquement.",
+      "Cliquez sur le bouton OK."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "5.2.3. Insérer des symboles dans le texte Cette technique vous permet d’insérer des caractères qui n’apparaissent pas sur votre clavier."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Positionnez le point d’insertion à l’endroit où doit apparaitre le symbole.",
+      "Dans l’onglet Insertion, cliquez sur le bouton Symbole."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Si un des symboles proposés vous convient, cliquez dessus pour l’insérer sinon, cliquez sur autres symboles."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dans la liste Police, sélectionnez la police qui contient le symbole à insérer, par exemple:"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Texte normal, pour insérer un caractère classique comme un symbole monétaire ou un caractère d’une langue étrangère. Symbol, pour insérer des caractères grecs ou mathématiques Webdings, Wingdings, Wingdings 2, Wingdings 3; pour insérer un symbole graphique. Puis sélectionnez le symbole, vous pouvez aussi sélectionnez son code de caractère si vous le connaissez."
+    },
+    {
+     "t": "p",
+     "text": "5.3. Paragraphe Pour mettre en forme un paragraphe, il suffit de positionner le curseur n’importe où dans le paragraphe. Dans l’onglet Accueil sélectionnez le groupe Paragraphe pour:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Modifier l’alignement des paragraphes.",
+      "Modifier l’interligne.",
+      "Modifier l’espacement entre les paragraphes.",
+      "Augmenter ou diminuer le retrait du paragraphe."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "5.4. Tabulateurs La pose de taquets de tabulation permet d’aligner de façon précise le texte lorsque vous utilisez la touche, Voici les différents types de taquet: Aligner à gauche Centré Aligner à droite Aligner sur la séparation des décimales"
+    },
+    {
+     "t": "p",
+     "text": "Cliquez plusieurs fois sur le bouton situé à gauche de la règle pour faire apparaitre le type de taquet désiré. Cliquez sur dans la règle, sous la marque de graduation correspondant à la future position du taquet, la marque apparait dans la règle. Alignez ensuite le texte sur le taquet à l’aide de la touche. Vous pouvez aussi poser les taquets à l’aide de la boite de dialogue qui se trouve dans le groupe Paragraphe puis en sélectionnant le bouton Tabulation."
+    },
+    {
+     "t": "p",
+     "text": "5.5. Bordure et trame Vous pouvez entourer un paragraphe avec un cadre. Le cadre se compose de lignes à gauche, à droite, en haut et en bas. Toutes les combinaisons sont possibles, ligne à gauche et à droite uniquement, etc. Les lignes peuvent être tracées avec une ombre. Le paragraphe peut également être coloré, il s’agit alors de trame de fond."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez-le ou les paragraphes y compris la marque de paragraphe.",
+      "Dans l’onglet Accueil, ouvrez la liste associée à l’outil du groupe Paragraphe puis cliquez sur l’option Bordure et trame.",
+      "Pour encadrer les paragraphes, cliquez sur l’option Encadrement ou Ombre visible dans la"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Zone Type."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les options Style, Couleur, et largeur permettent de personnaliser les lignes."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "5.6. Puces et Numérotation. Les puces et numérotation se trouvent à gauche de la première ligne d’un paragraphe. Sélectionnez les paragraphes concernés. Dans l’onglet Accueil, ouvrez la liste associée à l’outil pour placer une puce devant chaque paragraphe, ou la liste associée à l’outil pour numéroter les paragraphes sélectionnés."
+    },
+    {
+     "t": "p",
+     "text": "Pour supprimer Les puces ou la numérotation, sélectionnez les paragraphes concernés puis cliquez sur l’outil Puces ou Numérotation et enfin cliquez sur Aucune dans la Bibliothèque. 5.6.1. Liste à plusieurs niveaux Sélectionnez les paragraphes devant constituer la liste puis dans l’onglet Accueil ouvrez la liste associée à l’outil Liste à plusieurs niveaux et sélectionnez dans la bibliothèque la liste désirée."
+    },
+    {
+     "t": "p",
+     "text": "Pour modifier le niveau, placer le point d’insertion entre la Numérotation et le début du paragraphe puis cliquez sur l’outil Augmenter ou diminuer le retrait."
+    },
+    {
+     "t": "p",
+     "text": "Si vous deviez par la suite créer une table des matières, sélectionnez alors les niveaux Titre 1, Titre 2, etc. 5.7. Styles de présentation Les styles sont des caractères et/ou des formats de paragraphe prédéfinis. Un style contient des caractéristiques de mise en valeur de caractères, de paragraphes. Créer un style permet de mémoriser ces mises en forme afin de les appliquer à n’importe quel texte."
+    },
+    {
+     "t": "p",
+     "text": "5.7.1. Appliquer un style Cliquez dans le paragraphe concerné, puis dans l’onglet Accueil, et ensuite, dans le groupe Styles cliquez dans le style à appliquer. Utilisez les styles Titre. Titre 1, Titre 2…si vous voulez créer une table des matières. 5.8. Construire une table des matières La table des matières d’un document inclut les textes auxquels vous avez appliqué un style prédéfini. Si n’est pas déjà fait, appliquez les styles de type Titre 1, Titre 2… aux paragraphes à ajouter à la table des matières en utilisant la galerie du groupe Styles dans l’onglet Accueil. Positionnez le point d’insertion à l’endroit où la table des matières doit être insérée. Dans l’onglet Références, cliquez sur le bouton Tables des matières visible dans le groupe Table des matières."
+    },
+    {
+     "t": "p",
+     "text": "Puis,cliquez sur la table des matières prédéfinies de votre choix."
+    },
+    {
+     "t": "p",
+     "text": "5.8.1. Mettre à jour la Table des matières Cette fonction est utile pour mettre à jour la table des matières après avoir fait des modifications dans le texte. En cliquant dans la table des matières, le bouton suivant apparait. 5.9. Insérer un en-tête ou un pied de page Les en-têtes et les pieds de page sont des textes qui apparaissent respectivement dans la marge du haut et dans la marge du bas du document. Les en-têtes et les pieds de page prédéfinis s’appliquent à toutes les pages du document. 5.9.1. Insérer un en-tête ou pied de page prédéfini"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur l’onglet Insertion.",
+      "Cliquez sur le bouton En-tête ou le bouton Pied de page visible dans le groupe En-tête et pied de page.",
+      "Si besoin faites défiler la liste vers le bas puis cliquez sur l’en-tête ou le pied de page prédéfini de votre choix. (L’en-tête ou le pied de page s’insère dans chacune des pages du document).",
+      "Au besoin, complétez ou modifiez le contenu de l’en-tête ou du pied de page."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "5.9.2. Créer un en-tête ou un pied de page différent pour la première page. Cette fonctionnalité permet de masquer les informations de l’En-tête et du Pied de page de la première page du document."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dans l’onglet Insertion, cliquez sur le bouton En-tête ou le bouton"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pied de page visible dans le groupe En-tête et Pied de page puis"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur l’option Modifier l’en-tête ou Modifier le pied de page.",
+      "Dans l’onglet En-tête et pied de page, cochez l’option Première page différente du groupe Options."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "5.9.3. Fermez l’en-tête et le pied de page. Cliquez sur le bouton Fermer l’en-tête et le pied de page du groupe Fermeture de l’onglet En-tête et pied de page ou faites un double clic dans le document en dehors de la zone d’en-tête ou de pied de page."
+    },
+    {
+     "t": "p",
+     "text": "5.10. Numéroter les pages d’un document Word met à disposition une liste de styles de numérotation prédéfinie. Vous aurez la possibilité d’insérer les numéros des pages dans les zones d’en-têtes ou de pieds de page. Dans l’onglet Insertion, cliquez sur le bouton puis pointez l’option Haut de page ou Bas de page en fonction de la position souhaitée. 5.11. Imprimer 5.11.1. Aperçu avant impression"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur l’onglet Fichier puis sur l’option Imprimer",
+      "L’image réduite du document tel que Word l’imprimera s’affiche dans la partie droite du document.",
+      "Sélectionnez manuellement Les Paramètres et l’imprimante."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour quitter le mode Impression cliquez sur l’icône en haut à gauche de la page."
+    }
+   ]
+  }
+ ]
+}

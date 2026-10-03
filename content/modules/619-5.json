@@ -1,0 +1,125 @@
+{
+ "code": "619-5",
+ "title": "Module 619-5",
+ "domain": "600",
+ "pdf": "M619-5_dist.pdf",
+ "pages": 7,
+ "words": 1758,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "398 Connaissance théorique 5 – Calculer les économies réalisées grâce à la conduite EcoDrive"
+    }
+   ]
+  },
+  {
+   "id": "s-19-7",
+   "number": "19.7",
+   "title": "Calculer les économies de frais énergétiques réalisées",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "avec la conduite EcoDrive Le mode de conduite EcoDrive permet de réduire la consommation énergétique, l’usure ( p. ex. pneus, freins ) et les dommages ( en évitant les accidents grâce à l’anticipation ). Comment peut-on calculer ces économies? Imagine, du as gagné une BMW M5 lors d'un concours. Après un certain temps, ton por - te-monnaie est à sec. Les coûts de car - burant font exploser ton budget. Con - duire selon les règles d'EcoDrive t'aide à réduire massivement les frais de car - burant. Comment peux-tu calculer cette économie? Pour cela, tu dois prendre en compte certains facteurs, comme la con - sommation de carburant, ton kilométra - ge annuel et le prix de l'essence. Voici un exemple concret qui t'aide à effectuer ce calcul: Supposons que la BMW M5 consomme en moyenne 10 litres de carburant pour 100 kilomètres. Tu parcours 15'000 kilomètres par an et le prix moyen de l’es - sence s’élève à CHF 1.80 le litre. En outre, tu ne respectes pas les différentes règles EcoDrive. Ce calcul te permet de mieux évaluer les coûts liés à ton véhicule privé et le montant que tu peux possiblement économiser."
+    },
+    {
+     "t": "p",
+     "text": "399 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Étape 1: calcule la consommation d'essence annuelle Il faut d’abord calculer la consommation d’essence annuelle. Pour cela, utilise la formule suivante: Consommation d'essen - ce pour 100 kilomètres x Kilomètres parcourus = Consommation annu - elle d'essence100 Appliquons les valeurs: 15'000 kilomètres x 10 litres = 1'500 litres d'essence consommés par an100 Étape 2: Calcule les coûts d'essence annuels Calcule maintenant les coûts d'essence annuels avec la formule suivante: Consommation d'essen - ce annuelle x Prix moyen au litre de l'essence = Coûts annuels pour l'essence Appliquons les valeurs: 1'500 litres d'essence consommés par an x Prix moyen CHF 1.80 le litre = CHF 2'700 de coûts an - nuels pour l'essence Calculer le potentiel d’économie Si tu respectes les règles EcoDrive lors de la conduite, tu économises 10% ou plus ( selon le style de conduite ) par an. CHF 2'700 de coûts d'es - sence par an x 10% d'économie = CHF 270.– par an 100 Youpi, ton budget suffira à nouveau et tu pourras continuer à apprécier ta machi - ne. Calculer les possibilités d’épargne pour les entreprises de distribution Imagine les effets que pourraient avoir des économies sur l’ensemble du parc de véhicules d’une entreprise de logistique comme la société de distribution LOGO. La société LOGO exploite une flotte de 1'000 véhicules qui parcourent chaque année 30'000 kilomètres. Ces véhicules consomment en moyenne 8 litres d’essen - ce pour 100 kilomètres parcourus. Le prix moyen de l’essence est de CHF 1.80 le litre. Il va de soi qu’il est également possible d’économiser du carburant en utilisant des véhicules électriques, car l’électricité vient remplacer l’essence ou le diesel. Module 619_Économiser de l’argent"
+    },
+    {
+     "t": "p",
+     "text": "400 Le calcul est le même que pour l’exemple avec la BMW: Étape 1: Calcul du kilométrage total de la flotte Nombre de véhicules x Kilomètres par véhicule = Kilomètrage total Appliquons les valeurs: 1'000 véhicules x 30'000 kilomètres par véhicule = 30'000'000 de kilomèt - res au total Étape 2: calcul de la consommation d’essence par véhicule Nombres de litres consommés pour 100 kilomètres x Nombre de kilomètres par véhicule par an = Consommation dês - sence par véhicule Appliquons les valeurs: 8 litres de consommati - on pour 100 kilomètres x 3'000 kilomètres par véhicule par an = 2'400 litres d'essence consommés par véhi - cule Étape 3: Consommation globale pour tous les véhicules Consommation d'essen - ce par véhicule x Nombre de véhicules = Consommation globale pour tous les véhicules Appliquons les valeurs: 2'400 litres de consom - mation d'essence x 1'000 véhicules = 2'400'000 litres con - sommés au total pour tous les véhicules Étape 4: calcul des coûts totaux pour la consommation d’essence Consommation totale pour tous les véhicules x Prix de l'essence par litre = Coûts totaux pour la consommation d'es - sence Appliquons les valeurs: 2'400'000 litres de con - sommation d'essence x Prix de l'essence CHF 1.80 par litre = CHF 4'320'000 coûts totaux pour la consom - mation d'essence"
+    },
+    {
+     "t": "p",
+     "text": "401 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Calculer les économies possibles L ’ensemble de la flotte de 1'000 véhicules consomme donc 2'400'000 litres d’es - sence par an, ce qui représente des coûts totaux de CHF 4'320'000.–. Si tu tiens compte des règles EcoDrive dans cet exemple, tu peux économiser jus - qu’à CHF 432'000.– par an. CHF 4'320'000 de coûts annuels pour l'essence x 10% = CHF 432'000 franc éco - nomisés par an 100 Cela signifie que LOGO pourrait économiser CHF 432'000.– par an en appliquant les règles EcoDrive. Ces économies sont considérables et peuvent apporter une contribution importante à la réduction des coûts d’exploitation."
+    }
+   ]
+  },
+  {
+   "id": "s-19-7-1",
+   "number": "19.7.1",
+   "title": "Calculer les économies de coûts d’usure réalisées avec la condui -",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "te EcoDrive Calculer les possibilités d'épargne pour les entreprises de distribution La société LOGO exploite une flotte de 500 véhicules à trois roues en plus de ses 1'000 véhicules à quatre roues. Chacun de ces véhicules à trois roues parcourt 5'000 kilomètres par an. Avec la conduite EcoDrive, les pneus ne doivent être ch - angés que tous les trois mois. En cas de conduite agressive/plus rapide, l’usure des pneus est jusqu’à 30% plus élevée ( www.nationalgeographic.fr ). Les coûts par pneu s’élèvent à environ CHF 30.–. Quel est le potentiel d’économie en CHF pour ces véhicules à trois roues si toutes les factrices et facteurs respec - tent les règles EcoDrive? Étape 1: calcul des frais de pneus actuels pour la flotte de trois-roues Nombre de véhicules x Kilomètres par véhicule = Kilométrage total Nombre de véhicules à trois roues x Nombre de pneus par véhicule x Nombre de change - ments de pneus par an x prix des pneus = Somme actuelle des frais de pneus par an Appliquons les valeurs: 500 véhicules x 3 pneus par véhicule x 4 changements de pneus par an x prix des pneus CHF 30.– = CHF 180'000.– de frais de pneus par an Module 619_Économiser de l’argent"
+    },
+    {
+     "t": "p",
+     "text": "402 Étape 2: calcul des frais de pneus avec EcoDrive pour la flotte de trois-roues Si l’ensemble du personnel de distribution respecte systématiquement les règles EcoDrive lors de la conduite, l’usure des pneus est réduite de 30%, ce qui permet de retarder le changement de pneus. Les coûts de remplacement des pneus peuvent ainsi être réduits de 30%. Total des frais de pneus actuels sans conduite EcoDrive par an"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "30% d'économie = Total des frais de pneus avec EcoDrive"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Appliquons les valeurs: CHF 180'000.– des frais de pneus actuels - 30% d'économie = CHF 126'000.– des frais de pneus Étape 3: calcul du potentiel d’économie en CHF au niveau des frais de pneus de la flotte de trois-roues Total des frais de pneus actuels par an - Total des frais de pneus avec EcoDrive = Potentiel d'économie Appliquons les valeurs: CHF 180'000.– des frais de pneus actuels - CHF 126'000.– des frais de pneus avec EcoDrive = CHF 54'000.– potentiel d'économie"
+    }
+   ]
+  },
+  {
+   "id": "s-19-7-2",
+   "number": "19.7.2",
+   "title": "Économies de coûts découlant de la réduction des accidents",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "grâce à EcoDrive Selon Michelin, des études montrent qu’une conduite prévoyante permet de ré - duire le taux d’accident de jusqu’à 15%. La conduite EcoDrive aide à éviter les accidents de la manière suivante:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Grâce à une conduite prévoyante et à une distance de sécurité suffisante, les conducteurs peuvent identifier les dangers suffisamment tôt et y réagir à temps.",
+      "Cela permet d’éviter les freinages inattendus et les télescopages.",
+      "Une attention accrue portée à la circulation routière, associée à une conduite prévoyante, minimise le risque d’accident dû à la distraction.",
+      "La sécurité est en outre renforcée par une pression optimale des pneus et par la conduite dans des rapports élevés."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "403 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Calculer les économies de coûts découlant de la réduction des accidents grâce à EcoDrive Avec son parc de 1'000 véhicules à quatre routes et 500 véhicules à trois roues, la société LOGO déplore chaque année près de 1'500 sinistres dus à des accidents. Les coûts s’élèvent à environ CHF 1'400.– par sinistre. Avec la conduite EcoDrive, le nombre d’accidents pourrait être réduit de 15%."
+    },
+    {
+     "t": "p",
+     "text": "Quel est le potentiel d’économies en CHF si toutes les factrices et facteurs respec - tent les règles EcoDrive? Étape 1: calcul des frais d’accident actuels pour l’ensemble de la flotte Nombre de véhicules x Coûts moyens des acci - dents par véhicule = Coûts totaux des acci - dents Appliquons les valeurs: 1'500 véhicules x CHF 1'400.– = CHF 2'100'000.– de frais d'accident par an Étape 2: calcul des frais d’accident réduits grâce à EcoDrive Si l’ensemble du personnel de distribution respecte systématiquement les règles EcoDrive lors de la conduite, les accidents sont évités et les coûts réduits de 15 %. Total des frais d'acci - dent par an actuelle - ment"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "pourcentage de réduc - tion ="
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Total des frais d'ac - cident par an avec EcoDrive Appliquons les valeurs: CHF 2'100'000.– des frais d'accident actuel - lement"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "15% ="
+     ]
+    },
+    {
+     "t": "p",
+     "text": "CHF 1'785'000.– des frais d'accident par an avec EcoDrive Merke En résumé, tu peux réduire considérablement le risque d’accident grâce à une conduite prévoyante, une attention accrue, une vitesse adaptée, une distance suffisante et une identification précoce des dangers. Module 619_Économiser de l’argent"
+    },
+    {
+     "t": "p",
+     "text": "404 Étape 3: calcul du potentiel d’économie en CHF au niveau des frais d’acci - dent pour l’ensemble de la flotte Total des frais d'acci - dent par an acutelle - ment - Total des frais d'ac-cident par an avec EcoDrive = Potentiel d'économie Appliquons les valeurs: CHF 2'100'000.– - CHF 1'785'000.– = CHF 315'000.– Poten - tiel d'économie Remarque Les économies réalisées grâce à EcoDrive ne doivent pas être sous-estimées. Que ce soit dans le domaine privé ou dans des grandes entreprises de logis - tique, l’application des règles EcoDrive peut entraîner des économies financiè - res considérables et une contribution positive à l’environnement. Il vaut donc la peine d’intégrer ces règles dans la conduite quotidienne ainsi que de contrôler et d’améliorer régulièrement son propre comportement de conduite. Cela permet d’économiser des coûts énergétiques, des frais d’entretien (chan - gements moins fréquents des pneus ou des plaquettes de frein) et des coûts liés aux accidents. Les grandes entreprises de distribution en Suisse comme DHL ou la Poste peuvent ainsi réduire rapidement leurs coûts d’exploitation de plus d’un million de francs par an."
+    }
+   ]
+  }
+ ]
+}

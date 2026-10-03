@@ -1,0 +1,279 @@
+{
+ "code": "801",
+ "title": "Identification des marchandises",
+ "domain": "800",
+ "pdf": "M801.pdf",
+ "pages": 15,
+ "words": 2323,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Logisticienne / Logisticien 800_ICT Manuel des compétences logistiques EnterSite AG attend de sa chaîne d'approvisionnement qu'elle utilise le code-barres EAN-13 comme désignation du produit. Lorsque cela n'est pas possible pour des raisons de place, le code-barres EAN-8 doit être utilisé. Les marchandises ou les matières premières, les produits semi-finis et les produits finis doivent être identifiés le plus clairement possible par la désignation du produit ainsi que par d'autres informations complémentaires. Pour les unités de transport livrées, le Serial Shipping Container Coder (SSCC) a été défini comme standard avec les fournisseurs. D’autres innovations comme l’utilisation de la RFID sont considérées comme un objectif stratégique à moyen terme."
+    },
+    {
+     "t": "p",
+     "text": "Chez les grands distributeurs, tous les articles sont munis du GTIN (Global Trade Item Number). La saisie au moyen du GTIN facilite le travail lors de l'encaissement. A la caisse, l'article est passé devant un lecteur laser (scanner). Celui-ci décode le numéro de l'article à partir des barres noires et des espaces clairs. Il contient toutes les informations nécessaires sur le produit (désignation de l'article, prix). Les informations proviennent de l'ordinateur central. Un numéro n'a aucune valeur sans l'accès à la liste dans le système central. Grâce à cette méthode, la saisie manuelle à la caisse n'est plus nécessaire et le client reçoit un ticket de caisse détaillé. Les changements de prix (par exemple les prix promotionnels) ne doivent plus être indiqués sur tous les articles - une indication de prix en rayon suffit."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1",
+   "number": "1.1",
+   "title": "Code de conteneur d'expédition en série (SSCC)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le Serial Shipping Container Code (SSCC) est une série de numéros pour l'étiquetage des palettes. Le SSCC permet de représenter 128 caractères au total. Il est structuré de manière alphanumérique et peut donc contenir des chiffres et des lettres. Les unités de transport ne sont pas désignées uniquement par le code à barres lues par le scanner. Les données contenues dans le code doivent également être imprimées de manière lisible sur l'étiquette. Les unités de marchandises identifiées par le SSCC peuvent être suivies tout au long de leur trajet (Track and Trace). La condition pour un suivi sans faille est la lecture régulière à toutes les interfaces sur le trajet de transport. En Allemagne, le SSCC est également appelé NVE (numéro d'unité d'expédition)."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2",
+   "number": "1.2",
+   "title": "GTIN-8, GTIN-13, ISBN",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-1-2-1",
+   "number": "1.2.1",
+   "title": "Global Trade Item Number (GTIN)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le code à barres (également appelé code-barres, ou simplement \"traits\") se trouve sur chaque produit disponible dans les magasins. Il s'agit d'un code-barres de type GTIN (Global Trade Item Number). Le code est unidimensionnel (1-D). Il sert en principe à identifier les articles à la caisse (par lecture avec un rayon laser) et à lire et afficher le prix correspondant dans le système de caisse (base de données du magasin concerné). Le système de code est conçu de telle façon à ce que chaque numéro ne soit attribué qu'une seule fois dans le monde. Si deux produits différents avaient le même numéro, le système de caisse ne serait pas en mesure de les distinguer. Les bureaux d'enregistrement des numéros veillent à ce qu'un numéro ne soit pas attribué deux fois. Le bureau d'enregistrement pour les produits avec des codes (GTIN en Suisse est \"GS1 Suisse\"). Pour les livres avec des numéros ISBN, c'est l'\"Agence ISBN Suisse\"."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: GTIN signifie (Global Trade Item Number)\". Le chiffre 13 indique les positions des chiffres. Le GTIN-13 est le standard le plus répandu en Europe. Il existe toutefois d'autres systèmes de chiffres et de codes-barres. Le code UPC (Universal Product Code), courant aux États-Unis, est compatible avec le système GTIN. Comme le code-barres du produit ne comporte que 12 chiffres, on ajoute un 0 (zéro) à l'avant, ce qui donne un GTIN-13."
+    }
+   ]
+  },
+  {
+   "id": "s-1-3",
+   "number": "1.3",
+   "title": "Structure du code-barres du produit GTIN-13, GTIN-8, ISBN",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les numéros GTIN sont généralement composés de 13 chiffres. Il existe toutefois des numéros courts, par exemple le GTIN-8. Les premiers chiffres indiquent le pays ou le groupe de produits:"
+    },
+    {
+     "t": "p",
+     "text": "400 - 440 = Allemagne 76 = Suisse et Liechtenstein 90 - 91 = Autriche 00-13 = États-Unis 977 = Périodiques (monde entier) 978 - 979 = Livres (monde entier)"
+    },
+    {
+     "t": "p",
+     "text": "Le tout dernier chiffre est le chiffre de contrôle:"
+    },
+    {
+     "t": "p",
+     "text": "1.3.1 Quelle est la différence entre l'ISBN et le GTIN-13? ISBN signifie \"numéro international normalisé du livre\". Ce code était auparavant composé de 10 chiffres (appelé ISBN-10), mais il a été intégré au système GTIN-13 en 2007, c'est-à-dire complété par le \"préfixe\" 978 (ou 979)."
+    },
+    {
+     "t": "p",
+     "text": "978 = Livre 3 = Code pays / langue 7657 = Maison d'édition 1111 = Chiffre utilisé par la maison d'édition 4 = Chiffre de vérification Exemple de cet ISBN comme GTIN-"
+    },
+    {
+     "t": "p",
+     "text": "Le GTIN-13 qui en est dérivé se présente exactement de la même manière, mais sans tirets: 9783765711114."
+    }
+   ]
+  },
+  {
+   "id": "s-1-4",
+   "number": "1.4",
+   "title": "GTIN-128",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-1-4-1",
+   "number": "1.4.1",
+   "title": "Structure du code-barres de transport GTIN-128 (GS1-128)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'dentification des unités de commande, de livraison et de transport au moyen d’un code à barres est nécessaire pour les systèmes modernes de suivi et de contrôle des marchandises avec scannage de l'entrée et de la sortie des marchandises ainsi que pour les systèmes d'assurance qualité. Outre son utilisation sur une étiquette de transport (étiquette de palette), le GTIN-128 (GS1-128) est de plus en plus répandu dans les secteurs de produits où la sécurité joue un rôle important (par ex. santé, chimie, alimentation). Le code-barres GTIN-128 (GS1-128) est donc utilisé sur les palettes, les cartons, les emballages de livraison standard, les présentoirs, etc. En le complétant par le SSCC, il est possible de suivre tout le trajet de transport (Track and Trace). Le Serial Shipping Container Code est utilisé comme numéro de référence unique, partout dans le monde, pour l'identification d'une unité de transport. Dans la logistique, le tracking (suivi) et le tracing (traçabilité) permettent de savoir où se trouvent les marchandises à un moment donné."
+    }
+   ]
+  },
+  {
+   "id": "s-1-5",
+   "number": "1.5",
+   "title": "Code QR",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "\"QR\" est l'abréviation de \"Quick Response\", ce qui signifie en français \"réponse rapide\". L'entreprise japonaise Denso Wave a développé le code QR bidimensionnel en 1994. Il a été développé pour le marquage de sous-ensembles et de composants destinés à la logistique dans la production automobile du groupe Toyota. Par ailleurs, la société Denso Wave a également développé des systèmes d'identification et des appareils pour la saisie mobile de données. Le code QR se compose d'une matrice carrée de points blancs et noirs qui représentent les données codées de manière binaire. Dans trois des quatre coins du carré se trouve un repère qui indique l'orientation. Les données du Exemple de code-barres GS1-128 avec SSCC Exemple de code-barres GS1-128 avec GTIN-13 et numéro de lot"
+    },
+    {
+     "t": "p",
+     "text": "code QR sont protégées par un code correcteur d'erreurs, ce qui permet de tolérer la perte de jusqu'à 30 % du code. Les téléphones portables disposent d'un appareil photo intégré et d'un logiciel qui permettent d'interpréter les codes QR. Ce processus, appelé \"mobile tagging\", est extrêmement populaire au Japon. Il se répand également en Europe depuis 2007."
+    },
+    {
+     "t": "p",
+     "text": "Le code QR est aujourd'hui utilisé dans de nombreux domaines, par exemple dans les expositions, les musées, les sentiers de découverte ou les monuments (voir photo)."
+    }
+   ]
+  },
+  {
+   "id": "s-1-5-1",
+   "number": "1.5.1",
+   "title": "Un exemple d'application dans la logistique de stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le code QR est utilisé comme étiquette d'article pour les produits avec date de péremption et numéros de lot ou de lot (en anglais: \"Lot Number\"). L'étiquette porte en outre le code-barres GTIN-128. Dans les entreprises certifiées, un produit doit pouvoir être clairement attribué à l'aide de son numéro de lot, même après la livraison et la vente au client. Grâce à cette attribution à un lot, il est possible de rappeler de manière ciblée un aliment du marché lorsqu'un défaut de production est constaté. Seules les unités de l'aliment dont les numéros correspondent aux lots incriminés doivent être rappelées."
+    }
+   ]
+  },
+  {
+   "id": "s-1-6",
+   "number": "1.6",
+   "title": "Code Data Matrix",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le code Data Matrix est aujourd'hui l'un des types de codes 2D les plus connus. Il est utilisé pour des inscriptions directes permanentes, par exemple dans la production au moyen du laser (p. ex. circuits imprimés), dans la construction automobile au moyen de l'estampage par aiguille, pour les appareils d'analyse et les instruments (chimie, médecine) ainsi que, de plus en plus, comme image de code imprimée dans la gestion des documents (tickets, adressage lors de l'envoi postal). Le code Data Matrix est normalisé par l'ISO (Organisation internationale de normalisation) (ISO/IEC 16022: 2000). Le code Data Matrix permet de coder"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "jusqu'à 3'116 chiffres ou 2'335 caractères ASCII. Le ASCII (American e Standard Code for Information Interchange) contient 128 caractères. Dans une surface carrée ou rectangulaire, les informations sont codées de manière très compacte dans le code Data Matrix sous forme de motifs de points. Deux lignes continues forment un angle droit (arête gauche et inférieure du code Datamatrix) et permettent de reconnaître la position du code. Les points sont des cases noires ou blanches qui se rejoignent. Rien que cette taille uniforme des symboles et l'espacement fixe des symboles rendent la lecture de l'image et le décodage de l'information nettement plus sûrs et l'étendue du code nettement plus compacte. Comme le code Data Matrix offre en outre un procédé de correction des erreurs, il supplante dans de nombreuses applications le code-barres, qui ne prend généralement en charge que la détection d'une seule erreur."
+    }
+   ]
+  },
+  {
+   "id": "s-1-6-1",
+   "number": "1.6.1",
+   "title": "Un exemple d'application dans la logistique de distribution",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'adresse sur un magazine est saisie à l'aide du code Data Matrix. Pour la lecture, le code 2D utilise une caméra numérique. L'image du code doit être reconnue dans la fenêtre de la caméra. Ainsi, le code Data Matrix peut être reproduit automatiquement sans mouvement de l'appareil ou de l'optique. La caméra saisit l'information en deux dimensions et le logiciel évalue l'image. Le code QR peut contenir jusqu'à 4000 caractères et est principalement utilisé pour les magazines. Comme le code Data Matrix est plus petit et moins encombrant que le code QR, il s'est imposé dans l'industrie."
+    },
+    {
+     "t": "p",
+     "text": "Le code Data Matrix est utilisé pour l’affranchissement des envois en nombre et aide à identifier, contrôler et suivre les envois."
+    },
+    {
+     "t": "p",
+     "text": "Retour de courrier indistribuable (Poste)"
+    }
+   ]
+  },
+  {
+   "id": "s-1-7",
+   "number": "1.7",
+   "title": "Placement des codes",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-1-7-1",
+   "number": "1.7.1",
+   "title": "Chargements de palettes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les palettes sont identifiées au moins sur deux côtés, au-dessus du coin. Les étiquettes sont placées de telle manière à ce que le symbole le plus bas se trouve à 45 cm (tolérance ± 5 cm) du sol (surface d'appui de la palette). La distance par rapport au bord extérieur ne doit pas être inférieure à 5 cm."
+    },
+    {
+     "t": "p",
+     "text": "Marquer les cartons sur au moins deux côtés. Appliquer le marquage en bas à droite. Les distances par rapport aux bords 34 mm vers la droite (tolérance: +0 /-23 mm) et 32 mm vers le bas doivent être respectées. Marquage d'un carton avec une étiquette de recouvrement."
+    },
+    {
+     "t": "p",
+     "text": "Les marchandises longues à partir d'un diamètre de 20 mm ou d'une arête de section minimale de 30 mm peuvent être étiquetées avec une étiquette autocollante. Si ces sections ne sont pas atteintes, le marquage doit se faire avec une étiquette volante. Si le marquage est appliqué radialement sur des objets cylindriques, la longueur du symbole du code-barres ne doit pas dépasser un sixième de la circonférence."
+    }
+   ]
+  },
+  {
+   "id": "s-1-8",
+   "number": "1.8",
+   "title": "Identification par radiofréquence (RFID)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "RFID est l'abréviation de Radio Frequency Identification, en français \"identification de fréquence radio\". Le secteur de la logistique devrait profiter massivement de l'utilisation de la RFID - on parle même d'une possible révolution dans la logistique. Le commerce en particulier a déjà reconnu cet avantage pour la logistique et utilise la technologie RFID pour suivre les palettes et les cartons tout au long de la chaîne de livraison. L'objectif principal est d'éviter les ruptures de stock dans l'entrepôt, d'améliorer le contrôle des erreurs et de réduire les coûts de personnel. La RFID permet d'identifier et de localiser automatiquement les objets."
+    },
+    {
+     "t": "p",
+     "text": "Un système RFID se compose en principe de deux composants:"
+    }
+   ]
+  },
+  {
+   "id": "s-1-8-1",
+   "number": "1.8.1",
+   "title": "Transpondeur / une étiquette RFID (synonymes: label, puce RFID, radio-",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "étiquette) L’étiquette L'étiquette RFID est composée d'une puce et d'une antenne. Elle est fixée à l'objet à identifier, soit à l'extérieur, soit à l'intérieur, et fonctionne souvent comme une étiquette adhésive."
+    },
+    {
+     "t": "p",
+     "text": "Transpondeur RFID/Tag (ou: étiquette intelligente, puce RFID, étiquette RFID, étiquette-radio)"
+    },
+    {
+     "t": "p",
+     "text": "L'appareil de lecture et d'écriture se charge de la lecture ou de la modification des données. La lecture peut s'effectuer sans contact visuel et sans contact physique, selon la gamme de fréquences, la puissance d'émission et les influences environnementales, le processus peut être passif ou actif. La distance avec le lecteur peut varier de quelques centimètres à plus d'un kilomètre."
+    },
+    {
+     "t": "p",
+     "text": "Le lecteur"
+    }
+   ]
+  },
+  {
+   "id": "s-1-8-2",
+   "number": "1.8.2",
+   "title": "Exemples d'application de la technologie RFID",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'exemple d'application le plus simple de la technologie RFID est largement connu: la protection contre le vol dans les grands magasins. D'autres applications sont par exemple le contrôle d'accès dans les bâtiments ou aux remontées mécaniques, l'enregistrement des marchandises (fabrication, transport, stockage), l'identification des vêtements dans les blanchisseries, l'enregistrement des livres dans les bibliothèques ou l'identification des animaux domestiques. Une vision d'avenir est l'utilisation de la RFID pour toute la gestion des marchandises dans les supermarchés et les grands magasins, y compris la facturation à la caisse. Il est également prévu d'identifier les personnes à l'aide de la RFID. Pour ce faire, les transpondeurs seraient intégrés dans les passeports ou implantés sous la peau comme carte d'identité d'urgence à des fins médicales. Les citoyens, les juristes et les autorités craignent toutefois des abus, car les données peuvent être lues à l'insu des personnes concernées."
+    },
+    {
+     "t": "p",
+     "text": "RFID – Identification par radio"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "UUnn eexxeemmppllee ddee llaa vviiee qquuoottiiddiieennnnee:: CCoommmmeenntt llaa RRFFIIDD aa ppeerrmmiiss dd''éévviitteerr uunn eennllèèvveemmeenntt dd''eennffaanntt Dans l'État américain de Caroline du Nord, la technologie RFID a permis d'éviter un enlèvement d'enfant. Le système a déclenché une alarme lorsqu'un bébé a été retiré du service de puériculture au septième étage d'un hôpital. Le personnel a alors informé le service de sécurité, qui a empêché l'enlèvement. L'alarme, appelée Code Pink, se déclenche à chaque fois qu'une puce RFID, attachée aux bébés à un bras ou une cheville, passe devant une station de lecture située aux sorties, qui reçoit le code de signalisation de la puce et le compare à une base de données."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "UUnn eexxeemmppllee ddee llaa vviiee qquuoottiiddiieennnnee:: LLee cchhrroonnoommééttrraaggee ddeess éévvéénneemmeennttss ssppoorrttiiffss Les transpondeurs RFID sont utilisés pour le chronométrage de nombreux événements sportifs, y compris le marathon de Boston et les compétitions Ironman. Fixée au vélo ou à la chaussure, la puce permet un chronométrage précis et entièrement automatique. De plus en plus d'organisateurs proposent désormais des temps intermédiaires en direct pour informer les participants ou les fans. Les informations sont transmises en temps réel sur Internet, sur les téléphones portables ou sur les panneaux d'affichage."
+    }
+   ]
+  }
+ ]
+}

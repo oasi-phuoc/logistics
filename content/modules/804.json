@@ -1,0 +1,171 @@
+{
+ "code": "804",
+ "title": "Bases de l’informatique et droit d’auteur",
+ "domain": "800",
+ "pdf": "M804.pdf",
+ "pages": 10,
+ "words": 2587,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sans connaissances de base en informatique, on est perdu dans le monde actuel. EnterSite AG est leader du marché dans le domaine des applications Total Office Solutions. Pour expliquer ou vendre du matériel ou des logiciels aux clients, il est impératif de connaître parfaitement le secteur. La vie dans ce marché très concurrentiel “n'est pas un long fleuve tranquille”. EnterSite AG offre les meilleures conditions d’emploi aux personnes les plus qualifiées."
+    },
+    {
+     "t": "p",
+     "text": "4.1. Démarrage et arrêt de l'ordinateur. Après la mise sous tension, un microprogramme s'exécute (booting). Pour commencer, les périphériques connectés sont vérifiés, puis l'ordinateur charge les parties du système d'exploitation dans la mémoire principale et affiche ensuite la fenêtre de connexion ou l'interface utilisateur. Attendez toujours la fin du processus de démarrage avant d'insérer des supports de stockage externe qui contiennent des données personnelles tels que clés USB, disque SSD. 4.1.1. Connectez-vous Dans les entreprises, les écoles et autres institutions, vous travaillez dans un environnement en réseau. Dans ce dernier il y a des domaines dans lesquelles vous pouvez accéder avec votre propre compte d'utilisateur et vous avez accès à des données partagées. Pour connecter votre ordinateur à un domaine, vous disposez d'un nom d'utilisateur et d'un mot de passe. Selon votre matériel, vous pouvez vous connecter avec un code PIN, d'un code image, par reconnaissance d'empreintes digitales ou de l'iris. Cela permet de sécuriser vos droits d'accès et d'empêcher d'autres utilisateurs de consulter vos fichiers. En règle générale, les utilisateurs ont des droits d'accès limités. Seuls l'administrateur du compte dispose des droits illimités. Lorsque vous aurez enclenché votre ordinateur, une fenêtre apparait, vous devrez alors saisir: Le nom d'utilisateur et le mot de passe que vous aura attribué l'administrateur du compte."
+    },
+    {
+     "t": "p",
+     "text": "4.2. L'interface du bureau Après avoir saisi votre nom d'utilisateur et votre mot de passe ainsi que cliqué sur le bouton Enter, l'interface du bureau apparait. Le bureau est l'endroit par lequel vous allez commander vos actions."
+    },
+    {
+     "t": "p",
+     "text": "4.2.1. Corbeille L'icône de la corbeille sera différente si elle est vide ou si elle contient des fichiers"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Visualiser les fichiers: Ouvrez la corbeille avec un double-clic.",
+      "Récupérer un fichier: Sélectionnez le fichier à récupérer puis activez l'option Restaurer.",
+      "Supprimer les fichiers: Sélectionnez le fichier dans la corbeille puis cliquez sur le bouton Delete."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "4.2.2. Accès aux dossiers/fichiers Double-cliquez sur l'icône du dossier sélectionnez pour accéder au contenu."
+    },
+    {
+     "t": "p",
+     "text": "Arrière-plan du bureau Corbeil Raccourcis pour accéder aux applications Accès au dossier et fichiers Écran/menu de démarrage Explorateur des fichiers Accès à Word Accès à Google Chrome Outil capture d'écran Recherche Barre des tâches Afficher les icônes cachées Clavier tactile Changer la langue du clavier Accès Internet Haut-parleur Statut de la batterie Date et heure"
+    },
+    {
+     "t": "p",
+     "text": "4.2. L'interface du bureau Après avoir saisi votre nom d'utilisateur et votre mot de passe ainsi que cliqué sur le bouton Enter, l'interface du bureau apparait. Le bureau est l'endroit par lequel vous allez commander vos actions."
+    },
+    {
+     "t": "p",
+     "text": "4.2.1. Corbeille L'icône de la corbeille sera différente si elle est vide ou si elle contient des fichiers"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Visualiser les fichiers: Ouvrez la corbeille avec un double-clic.",
+      "Récupérer un fichier: Sélectionnez le fichier à récupérer puis activez l'option Restaurer.",
+      "Supprimer les fichiers: Sélectionnez le fichier dans la corbeille puis cliquez sur le bouton Delete."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "4.2.2. Accès aux dossiers/fichiers Double-cliquez sur l'icône du dossier sélectionnez pour accéder au contenu."
+    },
+    {
+     "t": "p",
+     "text": "Arrière-plan du bureau Corbeil Raccourcis pour accéder aux applications Accès au dossier et fichiers Écran/menu de démarrage Explorateur des fichiers Accès à Word Accès à Google Chrome Outil capture d'écran Recherche Barre des tâches Afficher les icônes cachées Clavier tactile Changer la langue du clavier Accès Internet Haut-parleur Statut de la batterie Date et heure 4.2.3. Arrière-plan du bureau"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Affichez le menu contextuel du Bureau (clic droit de la souris)",
+      "Sélectionnez l'option Personnaliser.",
+      "Activez la catégorie"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Arrière-Plan Dans la liste sélectionnez une des options suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Remplir: rogne l'image afin d'occuper tout l’espace du bureau.",
+      "Ajuster: agrandit l'image en conservant ses proportions d'origine.",
+      "Étirer: agrandit l'image à la taille du bureau.",
+      "Vignette: répète l'image de façon à remplir l'arrière-plan du bureau",
+      "Centrer: cadre l'image au centre du bureau.",
+      "Étendre: agrandit l'image à la taille du bureau en conservant ses"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "proportions. Vous pouvez choisir l'image de l'arrière-plan en cliquant sur: À droite de 4.2.4. Raccourcis pour accéder aux applications Un raccourci représente un objet tel un fichier, un dossier, un programme. Il peut être ajouté au Bureau afin que cet objet soit directement disponible lorsque vous affichez le Bureau. Recherchez l'unité ou le dossier contenant le dossier ou le fichier pour lequel vous souhaitez créer un raccourci."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Affichez le menu contextuel du fichier, du dossier ou du programme.",
+      "Activez l'option Afficher plus d'options puis activez Envoyer vers.",
+      "Cliquez sur Bureau (créer un raccourci)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La petite flèche en bas à gauche de l'icône indique qu'il s'agit d'un raccourci. 4.2.5. Écran/menu de démarrage Le menu démarrer est l'élément le plus important pour accéder pour lancer une application. Cliquez sur le bouton puis activez le bouton La liste des applications est maintenant visible. 4.2.6. Recherche Le bouton Recherche, visible dans la barre des tâches, permet d'effectuer des recherches de fichiers, d'applications, de sites web."
+    },
+    {
+     "t": "p",
+     "text": "4.2.7. Explorateurs de fichier Vous pouvez accéder à l'explorateur de fichiers en cliquant sur le bouton Pour chaque utilisateur de l'ordinateur, Windows 11 crée un dossier personnel unique dans lequel l'utilisateur peut stocker tous ses fichiers (courrier, feuilles de calcul, photos, musique, etc.). Windows 11 a prévu dans ce dossier personnel, les sous-dossiers: Contacts, Bureau, Documents, Téléchargement, Favoris, Liens, Musique, Images, Parties enregistrées, Recherches, OneDrive, Vidéos. Les dossiers personnels enregistrés sur cet ordinateur sont stockés dans le dossier Utilisateurs, lui-même étant au niveau de la racine du disque C: Par défaut, vous ne disposez pas des autorisations requises pour accéder au dossier personnel des autres utilisateurs. Windows 11 a également prévu un dossier Public pour les fichiers que vous souhaitez partager avec les autres utilisateurs de l'ordinateur. 4.2.8. Accès à Word, accès à Google Chrome. Les boutons Word et Google Chrome dans la barre des tâches ont été activés depuis leur application dans le menu démarrer. 4.2.9. Activez une application dans la barre des tâches. Pour activer une application dans la barre des tâches, procédez selon le point 5.2.5. Affichez le menu contextuel (bouton de droite de la souris) de l'application. Puis cliquez sur Épingler à la barre des tâches."
+    },
+    {
+     "t": "p",
+     "text": "4.2.10. Outil Capture d'écran Cette application permet de réaliser des captures d'écran ou d'une partie de l'écran. Vous pouvez également y accéder avec le raccourci-clavier Windows+Shit+S. 4.2.11. Barre des tâches Pour accéder aux paramètres de la barre des tâches, affichez son menu contextuel puis activez l'option Paramètres de la barre des tâches. La fenêtre des Paramètres de Personnalisation s'ouvre et vous pouvez procéder aux modifications désirées. 4.2.12. Clavier tactile Sur un environnement tactile, il est souvent possible d'ajouter un clavier matériel. Cependant certains environnements peuvent rester totalement tactiles sans souris et sans clavier. Vous pouvez activer le clavier tactile depuis atteignable avec le menu contextuel de la barre des tâches. 4.2.13. Changer la langue du clavier Si vous changer de clavier matériel, vous pouvez changer la langue du clavier en cliquant sur 4.2.14. Accès Internet Vous pouvez accéder aux paramètres de Internet et Wifi en cliquant sur l'icône 4.2.15. Haut-parleur Cette icône visualise si le haut-parleur est enclenché ou déclenché. 4.2.16. Statut de la batterie Cette icône visualise le niveau de la batterie. 4.2.17. Date et heure En bas à droite de l'écran la date du jour et l'heure sont visibles. 4.3. Paramétrer les nombres et les dates selon le pays. Le paramétrage des nombres et des dates du pays se fait depuis le panneau de configuration (en général seulement accessible avec le compte administrateur)."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Activez le bouton",
+      "Tapez Panneau de configuration dans le champ de recherche."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Puis activant le bouton vous accédez au choix du format du pays"
+    },
+    {
+     "t": "p",
+     "text": "En cliquant sur le bouton vous pouvez paramétrer le format des nombres, du symbole monétaire, de l'heure et de la date. 4.4. Créer/nommer un dossier."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ouvrez l'Explorateur de fichiers dans la barre des tâches",
+      "Activez le dossier dans lequel vous souhaitez créer vos dossiers et sous-dossiers, en règle générale utiliser le dossier"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour créer un dossier, activez l'outil Nouveau dans la barre d'outils puis Dossier. (Ou Ctrl+Shift+N) Vous pouvez Nommer votre dossier puis Enter. Vous pouvez renommer votre dossier en cliquant sur celui-ci. En ouvrant votre dossier vous pouvez de la même façon créer un sous-dossier. Avec la combinaison des boutons Ctrl+C ou Ctrl+V, vous pouvez copier votre dossier et le coller à un endroit que vous aurez sélectionné. 4.5. Ouvrir / fermer ou activer une nouvelle session. Si plusieurs personnes ont accès au même ordinateur, lorsque vous travaillez dans votre session, un autre utilisateur peut accéder à ses propres données sans que vous soyez obligé de fermer les fichiers sur lesquels vous êtes en train de travailler: il suffit d'ouvrir sa session. Activez le bouton puis l'icône de l'utilisateur situé en bas de la fenêtre Cette fenêtre à droite apparait."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pour ouvrir une nouvelle session et fermer la session en cours, activez l'option Se déconnecter, activez ensuite le compte utilisateur souhaité.",
+      "Pour ouvrir une nouvelle session sans fermer la session en cours, activez le nom de l'utilisateur pour lequel vous souhaitez ouvrir ou activer la session (si la session est déjà ouverte, elle est en \"attente\" en arrière-plan).",
+      "Pour fermer la session, cliquer sur Se déconnecter."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le fait de fermer une session a pour but de fermer tous les fichiers et applications ouverts par cet utilisateur. Enregistrez, si besoin est, toutes les modifications apportées aux fichiers ouverts. 4.6. Arrêter, mettre en veille ou redémarrer l'ordinateur. Vous pouvez sélectionner l'arrêt, la mise en veille ou le redémarrage de l'ordinateur en activant le bouton puis l'icône Marche/Arrêt. En mode Mettre en veille, le PC reste allumé mais consomme peu d'énergie. Les applications restent ouvertes afin que vous puissiez reprendre, là où vous en étiez, dès que le PC quitte le mode veille. 4.7. Quitter l'application en cas de panne. Si un programme ne répond plus, que l'ordinateur semble bloqué, vous devez quitter le programme via le gestionnaire des tâches. Lancez le gestionnaire des tâches avec la combinaison des touches Ctrl+Alt+delete. Puis sur Gestionnaire des tâches. Sélectionnez alors l'application que vous désirez quitter et cliquer sur le bouton Il se peut que vous deviez cliquer plusieurs fois sur le bouton 4.8. Droit d’auteur et licences 4.8.1. Droits d’auteur sur les logiciels Version Bêta La version bêta d’un logiciel est une préversion. Elle n’est pas commercialisée car elle n’est pas encore stable et peut comporter quelques beugs que des « bêta testeurs » sont chargés de détecter. Il est parfois déconseillé d’installer une telle version pour éviter des problèmes sur son ordinateur. Ceci est également soumis au droit d’auteur. Freeware Le freeware est un logiciel sous copyright mais disponible gratuitement. Partage de fichiers (Files sharing) Tant l’Upload (téléversement) que le download (téléchargement) de contenus comme des textes, des images ou de la musique sont des actes relevant du droit d’auteur pour lesquels il faut soit l’accord du titulaire des droits, soit une autorisation légale. Le téléchargement ou le streaming (la lecture en continu) pour l’usage privé à partir de sources légales sont licites. Cela est également vrai lorsque vous utilisez des sources illégales. Bien que cela ne soit pas expressément dit dans la loi, ce principe semble incontesté aujourd’hui. Cependant, le téléchargement par émission (Upload) d’œuvres ne fait pas partie de l’usage privé autorisé. Vous n’êtes autorisé à mettre à disposition sur internet que les œuvres dont vous détenez les droits ou qui ne sont plus protégées. Logiciel libre et open source Pour que le logiciel libre soit vraiment gratuit, il faut que le développeur publie le programme sans restriction, ce qui est normalement accompli en donnant le code source (par exemple: linux). Les utilisateurs peuvent copier le logiciel comme ils le souhaitent, le modifier, le transmettre sous une forme modifiée et l’utiliser sans restriction."
+    },
+    {
+     "t": "p",
+     "text": "Shareware Un shareware est un logiciel en version complète mais en libre circulation par son auteur afin de permettre au public de le tester sans contrepartie financière. Étant donné que la plupart des utilisateurs ne paient pas le logiciel après la période d’essais, certains programmes shareware bloquent donc l’accès après la période d’essai ou désactive certaine fonctionnalité. Copie pirate La piraterie est la copie illicite d’œuvres telle que la musique, les films ou les logiciels. Il est questions de piraterie (ou de piratage) lorsque des films, de la musique, des livres, des images sont utilisés sans licence. Cela constitue une violation du droit d’auteur et droits de voisins. 4.8.2. Copyright En suisse, le droit d’auteur est régi par des arrêtés fédéraux contenant des accords internationaux pour la protection des artistes interprètes ou exécutants, des créateurs et des auteurs. Exemple Copyright:"
+    },
+    {
+     "t": "p",
+     "text": "Copies Privées La loi sur le droit d'auteur autorise l'utilisation d'œuvres publiées pour un usage personnel, c'est-à-dire: la copie dans la sphère personnelle et dans le cercle de parents ou d'amis, l'utilisation d'œuvres par les enseignants dans le cadre de leurs cours, la copie interne de copies d'œuvres dans les entreprises, les administrations publiques, les instituts, les commissions. 4.8.3. Qu’est-ce qu’une licence de logiciel? Le terme \"acheter\" un logiciel est souvent source de malentendus. En fait, vous n'acquérez qu'une licence pour utiliser le logiciel. Les conditions sont fixées. Toutes les informations contractuelles nécessaires se trouvent dans le \"Contrat de licence de l'utilisateur final\", que vous devez accepter lors de l'achat ou de l'installation du logiciel. Elle explique les dispositions relatives au droit d'auteur et vous indique dans quelle mesure vous pouvez utiliser le logiciel. Duplicata à utiliser sur l'ordinateur portable, tablette, smartphone L'utilisateur principal de l'ordinateur sur lequel le produit logiciel est installé a le droit d'installer une deuxième copie sur un ordinateur mobile (notebook), tablette, ou smartphone pour son usage exclusif. Exemple: licence antivirus, il est possible d’acheter une licence pour plusieurs appareils et ayant aussi une durée de validité. ID du produit L'identifiant du produit est une garantie de l'authenticité du logiciel. Si vous rencontrez des problèmes avec votre logiciel et que vous demandez de l'aide au fabricant, il se peut que l'on vous demande de préparer l'ID de licence. Vous pouvez le trouver, par exemple, dans une application Office sous Fichier, Compte, À propos... Lisez également les conditions de licence du logiciel."
+    },
+    {
+     "t": "p",
+     "text": "4.8.4. Plagiat Récemment, les discussions se sont multipliées sur la manière de traiter les éventuelles violations du droit d'auteur par les fournisseurs de services Internet, en particulier les fournisseurs de moteurs de recherche. Le plagiat est compris comme le vol de la propriété intellectuelle. Il s'agit d'une infraction punissable. Toutefois, comme l'internet offre des possibilités presque infinies, la poursuite des contrevenants prend beaucoup de temps et n'aboutit que dans un nombre relativement restreint de cas. En outre, selon les pays, les lois sont parfois insuffisantes pour poursuivre systématiquement l'infraction. En Suisse, la situation juridique n'est pas claire. Les cas qui ont été sanctionnés sont essentiellement des cas où quelqu'un a distribué une copie plagiée à partir d'un ordinateur situé en Suisse. L'obtention de copies plagiées est plus susceptible d'être sanctionnée, ou pas encore. Dans le cas des services de streaming, la situation peut également être qualifiée de peu problématique, puisque les serveurs de streaming se trouvent généralement à l'étranger et que le téléchargement en Suisse n'est pas, ou plutôt peu, puni. Pour l'avenir, il est certainement conseillé de suivre les changements juridiques. L'organisation BSA (Business Software Alliance), qui représente des créateurs bien connus comme Microsoft dans le monde entier, par exemple, qui mène depuis plusieurs années une campagne vigoureuse pour renforcer les barrières juridiques."
+    }
+   ]
+  }
+ ]
+}

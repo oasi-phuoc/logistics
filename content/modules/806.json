@@ -1,0 +1,290 @@
+{
+ "code": "806",
+ "title": "Excel Microsoft 365",
+ "domain": "800",
+ "pdf": "M806.pdf",
+ "pages": 10,
+ "words": 1997,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur l’onglet Fichier puis sur l’option Imprimer",
+      "L’image réduite du document tel que Word l’imprimera s’affiche dans la partie droite du document.",
+      "Sélectionnez manuellement Les Paramètres et l’imprimante."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour quitter le mode Impression cliquez sur l’icône en haut à gauche de la page."
+    },
+    {
+     "t": "p",
+     "text": "Excel est une application puissante pour la création de tableaux et l'analyse de données. Vous inscrivez des chiffres et des textes dans des feuilles de calcul qui sont divisées en colonnes et en lignes. Vous utilisez des formules pour les calculs et vous laissez l'ordinateur faire le travail. Vous devez toutefois faire preuve de connaissance mathématique nécessaire. Excel sait faire beaucoup de choses, mais pas encore lire dans vos pensées."
+    },
+    {
+     "t": "p",
+     "text": "Les fichiers créés dans Excel Microsoft 365 sont appelés des classeurs. Pour créer un nouveau classeur vierge, cliquer sur Nouveau classeur; pour créer un nouveau classeur basé sur un modèle, cliquer sur le lien Autres modèles puis sur la vignette d'un des modèles proposés; ouvrez un classeur récemment utilisé en cliquant sur son nom dans la liste Récent, ou encore cliquez sur le lien Ouvrir pour ouvrir un classeur existant. 6.1. L'écran de travail s'affiche"
+    },
+    {
+     "t": "p",
+     "text": "6.2. Saisir des données Dans les cellules. Il est possible de saisir du texte, des chiffres, des valeurs de date et heure, des formules et des fonctions. Excel reconnait les chiffres ainsi que l’heure et la date, avec lesquels il est possible de faire des calculs. Le format texte est par défaut aligné à gauche de la cellule alors que les chiffres sont automatiquement alignés à droite de la cellule. Normalement, les paramètres régionaux Suisse reconnaissent le point comme séparateur de décimales. Valeur décimale 112.75 Point Date 22.09.2024Point Heure 17:45 Double point Grande valeur 1.23458E+14Avec exponentiel Sélection multiple Il est possible de sélectionner des zones et/ou des cellules non contiguës. Appuyer sur la touche lors de la sélection."
+    },
+    {
+     "t": "p",
+     "text": "Nom Prénom Genre Martin Paul Masculin Etienne Georgette Féminin Blanc Josianne Féminin Rossel Luc Masculin Longchamp Géraldine Féminin Wernli Pierre Masculin Crausaz Florence Féminin 6.2.1. Formater un nombre Par défaut, les cellules sont formatées avec le format Standard. Cliquer dans la cellule et/ou les zones à formater. Avec le menu contextuel sélectionnez Format de la cellule. En fonction de vos choix:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez le nombre de décimales",
+      "Cochez la case Utiliser le séparateur de milliers."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "1'234.51 Avec deux décimales 1'235 Avec Zéro décimale -1'234.51 Avec deux décimales et le signe -"
+    },
+    {
+     "t": "p",
+     "text": "6.3. Calculs simples 6.3.1. Découvrir le principe des formules de calcul Les formules de calcul effectuent des calculs sur les valeurs contenues dans une feuille de calcul Une formule commence par le signe (=). Une formule peut contenir les éléments suivants: Les opérateurs mathématiques + Pour l’addition / Pour la division"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pour la soustraction * Pour la multiplication"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "% Pour le calcul du pourcentage Ex: =5% donne le résultat de 0.05 ^ Pour l’élévation de la puissance Ex: =2^3 donne le résultat de 8 Les opérateurs de comparaison, le résultat est une valeur logique: VRAI ou FAUX = Égal à Ex: =30=40 donne le résultat FAUX <> Différent de < Inférieur à Ex: =28<35 donne le résultat VRAI > Supérieur à <= Inférieur ou égal à >= Supérieur ou égal à Un opérateur de concaténation de texte Ex: cellule A1 = Ouest et cellule A2 =Est, le résultat dans la cellule A3 =\"Ouest\"&\" et \"Nord\", est Ouest et Nord Les opérateurs de référence: B1:C4 représente les cellules de B1 à C4; B1;C4 représente la cellule B1 et la cellule C4 Des fonctions de calcul Ce sont des formules pré-écrites qui permettent d'effectuer des opérations de calcul Ex: la fonction MOYENNE calcule la moyenne d'un ensemble de cellules 6.3.2. Créer une formule de calcul simple Il s’agit d’élaborer un calcul intégrant des références de cellules, des opérateurs de calcul et/ou des constantes. Cliquez dans la cellule où vous souhaitez afficher le résultat de la formule. Saisissez le signe =. Construisez la formule: dans le cas ci-dessous; cliquez dans la cellule B2, faites la multiplication puis cliquez dans la cellule C2. Appuyez sur la touche Enter pour valider la formule de calcul."
+    },
+    {
+     "t": "p",
+     "text": "6.3.3. Utiliser les fonctions statistiques simples Activez la cellule où vous souhaitez afficher le résultat statistique."
+    },
+    {
+     "t": "p",
+     "text": "Ouvrez la liste de l’outil du groupe Edition de l’onglet Accueil."
+    },
+    {
+     "t": "p",
+     "text": "Somme Calcul la somme des cellules sélectionnées Moyenne Calcul la moyenne des cellules sélectionnées Nb Calcul le nombre de cellules contenant des valeurs numériques Max Extrait la valeur maximale des cellules sélectionnées Min Extrait la valeur minimale des cellules sélectionnées"
+    },
+    {
+     "t": "p",
+     "text": "Cliquez sur la fonction désirée. Excel affiche la fonction correspondant à vote choix et sélectionne un groupe de cellules adjacentes. Appuyez sur la touche Enter pour valider la formule de calcul. Remarques: Si vous utilisez plusieurs opérateurs, définissez les priorités afin de regrouper des valeurs en utilisant des parenthèses. 2*3+4=6+4=10 2*(3+4)=2*7=14 6.3.4. Rendre absolue une référence de cellule dans une formule Cette technique permet de fixer la référence d’une cellule dans une formule de façon à ce que cette référence ne se modifie pas lors de la recopie de la formule. Commencez à saisir la formule et arrêtez-vous lorsque la cellule concernée par la référence absolue est sélectionnée. Appuyez sur la touche F4, La référence de la cellule présente maintenant des caractères $ devant la lettre de la colonne et le numéro de la ligne. si vous appuyez sur la touche F4 une seconde fois, seule la référence de la ligne devient absolue; si vous appuyez sur la touche F4 une troisième fois, c’est alors la référence de la colonne qui devient absolue."
+    },
+    {
+     "t": "p",
+     "text": "Au besoin, terminez la saisie de la formule et validez."
+    },
+    {
+     "t": "p",
+     "text": "6.4. Calcul avec fonctions"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez la cellule qui doit contenir la fonction.",
+      "Cliquez sur = et tapez la ou les premières lettres de la fonction.",
+      "Une liste apparait, sélectionnez la fonction puis",
+      "Double cliquez sur le bouton pour ouvrir la boite de dialogue.",
+      "Saisissez les arguments de la fonction."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Fonctions Explication =ARRONDI La fonction ARRONDI, arrondi un nombre à un nombre spécifié de chiffres. Par exemple, si la cellule A1 contient la valeur 23,7825 et que vous voulez l’arrondir à deux décimales, vous pouvez utiliser la formule suivante: =ARRONDI (A1, 2), Le résultat de cette fonction est 23,78. =ARRONDI.INF Arrondi aux décimales inférieures: -3 à mille francs; 2 au centime près; 0 à l'unité. Pour le calcul du nombre de paquets sur une palette =ARRONDI.SUP Arrondi aux décimales supérieures: -2 à cent francs; 2 aux centimes près; 0 à l'unité. Pour le calcul du nombre de palettes =ARRONDI.AU.MULTIPLE Pour arrondir à 5 centimes par exemple Attention cette formule ne rend pas visible les valeurs négatives Pour arrondir à 5 centimes Utiliser la formule: =Arrondi (nombre x 20;0)/20 cette façon de calculer permet de rendre visible les valeurs négatives =RANG Pour mettre en ordre les valeurs d’une plage de données Par exemple du premier au dernier dans un concours =GRANDE.VALEUR Pour extraire la ne valeur; par expl. la 3e plus grande valeur =PETITE.VALEUR Pour extraire la ne valeur; par expl. la 3e plus petite valeur =NB.SI; NB.SI.ENS Calcule le nombre si=texte dans la cellule; par expl. si madame ou monsieur… =SI Vérifie une condition et renvoie à une valeur si VRAIE ou si FAUSSE =SOMME.SI; SOMME.SI.ENS Calcul la somme si=texte dans la cellule; par expl \"Roues; Tables; etc.\" =NBVAL Détermine le nombre de cellules qui ne sont pas vides =NB Détermine le nombre de cellules contenant des nombres =VPM Calcul le montant mensuel d'un remboursement à taux constant =RECHERCHV/RECHERCHX"
+    },
+    {
+     "t": "p",
+     "text": "=SIERREUR Recherche une valeur dans la première colonne d'un tableau puis renvoie une valeur dans un tableau \"matrice\" =SIERREUR (RECHERCHE V(valeur;valeur;VRAI ou FAUX;); \"\") À utiliser si la valeur #N/A apparait =GAUCHE/DROITE Extrait le-s caractère-s à l'extrême gauche/droite d'une cellule =ANNEE; =MOIS; =JOUR Pour extraire l'année, le mois ou le jour d'une date =B1&\" \"&B2 ou =CONCATENER() Pour lier le contenu de la cellule B1 avec celui de la cellule B2 Mettre un espace entre les \" \""
+    },
+    {
+     "t": "p",
+     "text": "Dans données, convertir Convertir: pour séparer un texte expl.: une cellule contient 1400 Yverdon-les-Bains, après convertir, 1400 est dans une cellule et Yverdon-les-Bains dans une autre. Heures Pour calculer au-delà de 24 heures, utiliser le format personnalisé et formater avec des crochets: [hh]:mm Utiliser calendrier 1904 dans options si heures négatives 6.4.1. Appliquez le format Pourcentage"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez les cellules ou les caractères concernés.",
+      "Cliquez sur %."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(Les nombres concernés sont multipliés par 100 afin d'être convertis en pourcentage, donc ne pas multiplier la division par 100 dans la cellule). 6.4.2. Augmenter et diminuer le nombre de décimales"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez les cellules concernées.",
+      "Augmentez le nombre de décimales en cliquant sur.",
+      "Diminuez le nombre de décimales en cliquant sur."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.4.3. Appliquez le format Comptabilité"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez les cellules ou les caractères concernés.",
+      "Activez l'onglet Accueil et cliquez sur la flèche à droite de la boite de dialogue.",
+      "La fenêtre Format de cellule apparait.",
+      "Cliquez dans la Catégorie Comptabilité",
+      "Dans Symbole, sélectionnez le symbole monétaire désiré."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.5. Afficher les formules à la place des résultats Utilisez le raccourci-clavier \". (Les formules contenus dans la feuille de calcul apparaissent)."
+    },
+    {
+     "t": "p",
+     "text": "Pour masquer les formules et afficher à nouveau les résultats, utilisez le même raccourci-clavier. 6.6. Créer un graphique 6.6.1. Types de graphiques Les principaux types de graphiques sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Histogramme ou courbe: pour illustrer des données avec une évolution dans le temps.",
+      "Secteurs: pour représenter des valeurs en % d'une seule série.",
+      "Barres: pour illustrer des données comparées."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.6.2. Créer un graphique recommandé"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez les données à représenter sous forme de graphique.",
+      "Si les cellules concernées sont adjacentes, sélectionnez-les par un cliqué-glissé.",
+      "Si les cellules concernées ne sont pas adjacentes, sélectionnez-les par un cliqué-glissé en utilisant la touche",
+      "Activez l'onglet Insertion.",
+      "Dans le groupe Graphique, activez le bouton Graphiques recommandés pour permettre à Excel de vous suggérer quelques graphiques particulièrement adaptés aux données sélectionnées.",
+      "Cliquez dans le volet de gauche sur l'un des graphiques recommandés par Excel."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.6.3. Changer l'emplacement d'un graphique Dès que le graphique est créé, il est préférable de le déplacer sur une nouvelle feuille. Lorsque le graphique est créé, l'onglet Création de graphique apparait."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur le bouton Déplacer le graphique.",
+      "Cochez Nouvelle feuille.",
+      "Nommez la feuille.",
+      "Cliquez sur le bouton OK."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.6.4. Choisir le graphique à créer"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Après avoir effectué la sélection de vos données, activez l'onglet"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Insertion."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dans le groupe Graphiques, ouvrez la liste de l'outil correspondant au type de graphique à créer et cliquez sur un des modèles proposés.",
+      "Déplacez le graphique sur une autre feuille."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.7. Créer un publipostage ou mailing Le publipostage ou mailing permet l’envoi en nombre de documents à des destinataires répertoriés dans un fichier de données. Cette technique sous-entend l’utilisation de deux fichiers:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Un document de base qui contient le texte fixe et les champs qui serviront de liens avec le fichier de données.",
+      "Un fichier de données qui contient les informations variables."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Un fichier de données est composé de champs et d’enregistrements. Exemple: Nom Prénom Adresse CP Antoine Vincent Rue des Alpes 10 2500 Bienne Dupont Pierre Av. Mont-Repos 1004 Lausanne Toutes les informations sur Antoine et Dupont constituent les enregistrements. Chaque type d’information (Nom, Prénom…) est un champ."
+    },
+    {
+     "t": "p",
+     "text": "Procédure"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Créer une source de données (dans Excel)",
+      "Créer le document de base (Dans Word)",
+      "Ouvrir la source de donnés dans le document de base.",
+      "Exécuter le publipostage."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.7.1. Créer une source de données comme pour l’exemple ci-dessus. 6.7.2. Créer le document de base"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ouvrir un document Word.",
+      "Taper votre texte (lettre)",
+      "Cliquez sur l’onglet"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.7.3. Sélectionner les destinataires"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dans l’onglet Publipostage, cliquez sur le bouton Sélection des destinataires puis choisir l’option Utiliser une liste existante.",
+      "Puis sélectionnez le fichier sur lequel se trouve les données."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.7.4. Insérer des champs"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Veillez à ce que l’onglet Publipostage soit sélectionné",
+      "Positionnez le point d’insertion à l’endroit où doit être inséré le champ.",
+      "Pour insérer le champ cliquez sur le nom du champ à insérer."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le bouton aperçu des résultats permet de vérifier comment les enregistrements sont insérés. Le bouton terminer permet de regrouper toutes les lettes en un seul document."
+    },
+    {
+     "t": "p",
+     "text": "Bienne, le xx décembre 202x"
+    },
+    {
+     "t": "p",
+     "text": "Monsieur Prénom Nom Adresse CP Ville"
+    }
+   ]
+  }
+ ]
+}

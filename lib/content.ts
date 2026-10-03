@@ -30,6 +30,10 @@ export const DOMAINS = [
   { code: "300", title: "Approvisionnement", description: "Commande, réception, contrôle des livraisons, emballages et concepts d'approvisionnement." },
   { code: "400", title: "Entreposage", description: "Rôle et formes de stockage, sécurité, principes, organisation, engins et convoyeurs." },
   { code: "500", title: "Production & flux", description: "Production, organisation, flux de matériel, planification et assurance qualité." },
+  { code: "600", title: "Transport & distribution", description: "Transport, distribution, réglementation et organisation des opérations." },
+  { code: "700", title: "Gestion & pilotage", description: "Gestion des activités, indicateurs, coûts et amélioration des résultats." },
+  { code: "800", title: "Systèmes & qualité", description: "Systèmes d'information, qualité, sécurité et performance logistique." },
+  { code: "900", title: "Professionnalisation", description: "Compétences professionnelles, projets et mise en pratique." },
 ] as const;
 
 const MODULES_DIR = path.join(process.cwd(), "content", "modules");

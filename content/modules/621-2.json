@@ -1,0 +1,204 @@
+{
+ "code": "621-2",
+ "title": "Module 621-2",
+ "domain": "600",
+ "pdf": "M621-2_dist.pdf",
+ "pages": 6,
+ "words": 1263,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "446 Connaissance théorique 2 – Réexpéditions et retours"
+    }
+   ]
+  },
+  {
+   "id": "s-21-7",
+   "number": "21.7",
+   "title": "Réexpéditions",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-21-7-1",
+   "number": "21.7.1",
+   "title": "Motifs de réexpédition",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les clients peuvent déposer une demande de réexpédition, en ligne ou au guichet postal. C’est ce qu’ils font par exemp - le lorsqu’ils déménagent, sont temporairement absents ou souhaitent recevoir tout leur courrier dans une case postale. Dans la section suivante, nous te montrons quels sont les différents types de demandes de réexpédition."
+    },
+    {
+     "t": "p",
+     "text": "Changement d'adresse avec réexpédition ( ordre bleu ) Avec cet ordre, les lettres et les colis envoyés à l’ancienne adresse sont automa - tiquement réexpédiés à la nouvelle adresse – pour 6, 12 ou 18 mois. Mais il est également possible de communiquer uniquement la nouvelle adresse. Dans ce cas, les envois à l’ancienne adresse ne sont pas réexpédiés, mais directe - ment renvoyés à l’expéditeur. Cette variante est gratuite."
+    },
+    {
+     "t": "p",
+     "text": "Demande de réexpédition temporaire ( ordre rouge ) Si une personne est temporairement absente, par exemple en vacances ou à l’hôpital, elle peut déposer une demande de réexpédition. Elle indique la durée de validité de la réexpédition ( 1 an maximum ). Le client peut choisir si des colis doivent toujours être livrés à son domicile ou réexpédiés moyennant des frais."
+    },
+    {
+     "t": "p",
+     "text": "447 1ère édition 2025 Module 621_Retours ( partie 1 ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Demande de garder le courrier à la filliale de la Poste ( ordre verde ) Si le client est absent pendant quelques jours ou semaines, par exemple en va - cances, il peut faire garder son courrier. Cela peut durer 6 mois au maximum. Durant cette période, les lettres et les colis ne sont pas distribués, mais recueillis et stockés."
+    },
+    {
+     "t": "p",
+     "text": "A l’échéance de l’ordre, le client peut choisir:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Distribution au domicile ( du lundi ou vendredi )",
+      "Distribution le samedi – uniquement contre supplément; les envois avec code à barres ( p. ex. lettres recommandées ) sont également livrés.",
+      "Retrait à une filiale de la Poste – du lundi au samedi. ( Valable pour les lettres, éventuellement aussi pour les colis, en fonction de la filiale. )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ordre Case postale « Standard » ( remplacement de la boîte aux lettres ) Avec l’ordre « Case postale Standard », toutes les lettres adressées au ménage ne sont plus distribuées dans la boîte aux lettres, mais dans la case postale du lieu choisi. Ce service est gratuit."
+    },
+    {
+     "t": "p",
+     "text": "448 21.7.2 Comment procéder en cas de réexpédition? Si tu dois réexpédier un envoi de lettre isolé, procède comme suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Écris la nouvelle adresse à la main sur l’enveloppe ou utilise une étiquette de réexpédition jaune préimprimée.",
+      "Veille à ce qu’aucune information importante ne soit recouverte. L ’étiquette ne doit pas dépasser dans la zone d’affranchissement ou de codage ( voir chapit-re 21.8.1 ).",
+      "Si une étiquette de réexpédition est déjà collée ou si une adresse est im - primée, celle-ci doit être recouverte ou barrée – mais de manière à ce qu’on puisse encore la lire.",
+      "En cas de réexpédition, les lettres sont toujours envoyées en Courrier A."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L’enveloppe de réexpédition permet notam - ment de réexpédier les envois de lettres qui ne peuvent pas être traités mécaniquement ou lorsque plusieurs envois sont adressés au même destinataire. Comme l’enveloppe est distribuée fermée, elle ne doit pas contenir d’envois de la poste aux lettres avec code à barres. En déposant une demande de réexpédition, le client peut décider si des colis doi - vent également être réexpédiés, ce qui est toutefois payant. Si un client a déménagé et continue de recevoir régulièrement des envois à son ancienne adresse, un autocollant supplémentaire peut être apposé avec la menti - on « Veuillez communiquer la bonne adresse à l’expéditeur ». Réexpédition limitée"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les envois PromoPost ne sont que partiellement réexpédiés: les envois pub - licitaires officiels ( PromoPost ) sont réexpédiés avec la demande de réexpédi - tion rouge, mais pas avec la demande bleue. PromoPost commercial n’est en principe pas réexpédié.",
+      "Les actes de poursuite ne peuvent être réexpédiés qu’au sein du même arron - dissement de poursuite, mais pas à une adresse militaire ou une adresse poste restante.",
+      "Les actes judiciaires ne doivent pas non plus être réexpédiés à une adresse poste restante."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ne pas réexpédier à l'étranger:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Envois militaires",
+      "Actes de poursuite",
+      "Actes judiciaires",
+      "Colis"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "449 1ère édition 2025 Module 621_Retours ( partie 1 ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Ces envois doivent être retournés au lieu de dépôt/à l’expéditeur avec la mention « Destinataire momentanément à l’étranger jusqu’au ( date ), réexpédition non au - torisée »."
+    }
+   ]
+  },
+  {
+   "id": "s-21-8",
+   "number": "21.8",
+   "title": "Renvois",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Parfois, les envois ne peuvent pas être distribués – par ex - emple parce que le destinataire a déménagé sans nouvelle adresse, n’est pas connu, est décédé ou que l’adresse est in - complète ou erronée. Si les recherches pour trouver le destinataire demeurent infructueuses, l’envoi est considéré comme non distribuable et est retourné à l’expéditeur. Selon la raison pour laquelle la distribution n’a pas été possible, une étiquette appropriée est apposée sur l’envoi."
+    },
+    {
+     "t": "p",
+     "text": "Étiquettes pour le renvoi gratuit aux motifs suivants"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Destinataire introuvable à l'adresse indiquée ( inconnu/parti )",
+      "Raison sociale n'existe plus",
+      "Déménagé. Délai de réexpédition expiré.",
+      "Décédé"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque avant que des envois dans des boîtes aux lettres/cases postales qui ne sont plus vidées ne soient retournés, un ordre payant « Garder le courrier » est saisi et le des - tinataire en est informé. Les envois sont ensuite stockés pendant 30 jours et, en l’absence de réaction du destinataire, ils sont retournés avec l’autocollant « La boî-te aux lettres n’est plus vidée. Étiquette pour les renvois payants aux motifs suivants"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Lorsque le client ne veut pas accepter un en - voi ( envoi refusé ).",
+      "Lorsque le client ne retire pas un envoi durant le délai de garde prévu."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "450"
+    }
+   ]
+  },
+  {
+   "id": "s-21-8-1",
+   "number": "21.8.1",
+   "title": "Apposer correctement l’étiquette sur les lettres",
+   "level": 3,
+   "blocks": []
+  },
+  {
+   "id": "s-21-8-2",
+   "number": "21.8.2",
+   "title": "Acheminement des envois",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lettres Principe"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les envois de la poste aux lettres réexpédiés sont toujours acheminés dans le canal du Courrier A.",
+      "Les renvois de la poste aux lettres sont acheminés dans le canal des retours"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "( Courrier B ). Exception: lettres avec code à barres ( canal A )."
+    },
+    {
+     "t": "p",
+     "text": "451 1ère édition 2025Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Notes Colis Principe"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les colis réexpédiés sont toujours réacheminés conformément à l’offre de prestations indiquée sur le colis. Cela signifie que les colis PRI sont réexpédiés dans le canal PRI et les colis ECO dans le canal ECO.",
+      "Les renvois de colis sont envoyés au centre de tri. Les éventuels codes à barres de produits et de prestations complémentaires doivent être barrés ( exception:"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "« SI » ne doit pas être barré ). Lorsque toutes les recherches demeurent vaines, les envois sont considérés comme non distribuables. L ’envoi est retourné à l’ex-péditeur."
+    },
+    {
+     "t": "p",
+     "text": "Remarque Il est important que les envois non distribuables soient traités correctement. Même de petites erreurs peuvent avoir de grandes conséquences, par exemp - le des clients insatisfaits, des charges supplémentaires et des coûts plus élevés pour l’entreprise. Les raisons d’envois non distribuables sont souvent des ad - resses erronées ou inconnues, un refus d’acceptation par le destinataire ou un envoi qui n’a pas été retiré à temps. Les renvois sont retournés à l’expéditeur s’ils ne peuvent pas être distribués au destinataire et si le destinataire ne peut pas être identifié ou si celui-ci ne veut pas recevoir les envois (p. ex. commandes de boutique en ligne)."
+    },
+    {
+     "t": "p",
+     "text": "Les réexpéditions sont envoyées à une nouvelle adresse lorsque le destinataire a déménagé et l’a signalé ou qu’il souhaite que tout son courrier soit distribué dans une case postale. Les erreurs de distribution sont des envois livrés à la mauvaise adresse."
+    }
+   ]
+  }
+ ]
+}

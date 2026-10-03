@@ -1,0 +1,166 @@
+{
+ "code": "809",
+ "title": "Poste de contrôle",
+ "domain": "800",
+ "pdf": "M809_st.pdf",
+ "pages": 5,
+ "words": 1008,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "230 Module 809_Poste de contrôle Dans la gestion d'entreprise, la surveillance, le contrôle et l'analyse de la logis - tique occupent une place de plus en plus importante. Chez EnterSite SA, le poste de travail est conçu de façon à ce que les collaborateurs puissent effectuer leurs tâches de contrôle dans la meilleure qualité possible pendant toute la durée de leur temps de travail. Aidez-nous à concrétiser de nouvelles idées et à les mettre en œuvre."
+    },
+    {
+     "t": "p",
+     "text": "231 1ère édition 2025 Module 809_Poste de contrôle Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique du module 809"
+    }
+   ]
+  },
+  {
+   "id": "s-9-1",
+   "number": "9.1",
+   "title": "Intralogistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le terme intralogistique vient d'Allemagne et est souvent utilisé par les fabricants dans le domaine des chariots de manutention et/ou des systèmes de stockage. L 'intralogistique désigne la logistique qui se déroule au sein de l'entreprise. L 'int - ralogistique a pour mission de contrôler, d'exécuter et d'organiser le flux de maté - riel au sein de l'entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-9-1-1",
+   "number": "9.1.1",
+   "title": "Rôles de l'intralogistique",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les tâches internes qui relèvent du domaine d'activité de l'intralogistique sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Réception et sortie des marchandises",
+      "Systèmes de stockage",
+      "Systèmes de transport",
+      "Logiciel de préparation des commandes et systèmes de tri",
+      "Télématique, capteurs et robotique",
+      "Logiciels pour les domaines concernés",
+      "Systèmes complets dans la logistique"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque L 'intralogistique comprend le même domaine d'activité que le flux de matériel interne à l'entreprise ou que la micro-logistique. L 'intralogistique a pour objec - tif de mettre en évidence une délimitation entre le flux de matériel interne et externe à l'entreprise. Remarque L 'intralogistique doit permettre d'harmoniser le plus grand nombre possible de domaines et de conditions."
+    },
+    {
+     "t": "p",
+     "text": "232"
+    }
+   ]
+  },
+  {
+   "id": "s-9-2",
+   "number": "9.2",
+   "title": "Le poste de contrôle",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le poste de contrôle a pris de l'importance dans la logistique au cours des derniè - res années. Dans l'intralogistique, le travail avec les capteurs et la robotique s'est développé très rapidement. Dans l'intralogistique, le poste de contrôle, égale - ment appelé panneau de commande, est un point central d'un système de gesti - on d'entrepôt et assiste les collaborateurs responsables dans la gestion globale de l'entrepôt et de l'exploitation."
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-1",
+   "number": "9.2.1",
+   "title": "Objectifs du poste de contrôle",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le poste de contrôle vise à regrouper les principaux indicateurs de l'intralogis - tique. Dans l'intralogistique, il existe un grand nombre de chiffres clés différents qui doivent être saisis, évalués et analysés de manière récurrente. Cette tâche est souvent attribuée au poste de contrôle. L 'analyse permet de répondre aux ques - tions suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quelle est la quantité de commandes dans le commissionnement?",
+      "Quel est le nombre de «commandes urgentes»dans la préparation des com - mandes?",
+      "Quels transports de marchandises sont utilisés et à quelle fréquence, et les - quels sont actuellement actifs?",
+      "De quelle capacité en personnel l'entreprise dispose-t-elle et a-t-elle besoin pour l'expédition?",
+      "De quelle capacité en personnel l'entreprise dispose-t-elle et a-t-elle besoin pour la préparation des commandes?",
+      "Quelles sont les livraisons entrantes encore ouvertes à la réception des mar - chandises?",
+      "Quel est le «taux de prélèvement»des préparateurs de commandes?",
+      "Quel est le volume de commandes prévu pour aujourd'hui?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "233 1ère édition 2025 Module 809_Poste de contrôle Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Le poste de contrôle n'a pas pour seule fonction de rassembler les chiffres clés. Grâce à lui, il est possible de représenter graphiquement les processus intralo - gistiques. La représentation des processus permet à EnterSite SA de réagir ra - pidement et de manière ciblée aux perturbations internes et aux événements imprévus. Un flux de matériel interne sans faille peut ainsi être garanti. La repré - sentation des processus permet de répondre aux questions suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quels sont les perturbations connues au niveau de la manutention?",
+      "Quels sont les dysfonctionnements connus du logiciel?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Comme le poste de contrôle regroupe généralement toutes les informations de tous les secteurs partiels de la logistique, son niveau technique a un impact im - portant sur l'efficacité avec laquelle les processus logistiques sont exécutés dans l'entreprise."
+    },
+    {
+     "t": "p",
+     "text": "9.2.2. Rôle du poste de contrôle Bien entendu, le poste de contrôle a lui aussi, différents visages dans la pratique. L 'infrastructure existante détermine comment et ce que le poste de contrôle doit traiter dans l'entreprise. Les rôles du poste de contrôle d'une entreprise de logis - tique pourraient être les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Visualisation des processus",
+      "Planification des processus",
+      "Optimisation",
+      "Comparaison entre les prévisions et la réalité",
+      "Mise en évidence des limites de performance",
+      "Contrôle de gestion",
+      "Affichage de l'état du système"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Sur la base des informations actuelles des sous-secteurs de l'entrepôt, le/la colla - borateur/trice responsable peut intervenir si nécessaire et augmenter ou modifier les ressources ou prendre d'autres mesures organisationnelles. En règle générale, ces mesures ne sont pas directement pilotées par le poste de contrôle. Le poste de contrôle est responsable de l'évaluation et de la préparation ainsi que de la représentation graphique. La particularité du poste de contrôle est que les collaborateurs de celui-ci sont souvent habilités à associer les recommandations du poste de contrôle à leurs ex - périences personnelles. Ce sont les collaborateurs qui décident en fin de comp - te des mesures à prendre, et non le poste de contrôle."
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-3",
+   "number": "9.2.3",
+   "title": "Exigences envers les collaborateurs du poste de contrôle",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les collaborateurs du poste de contrôle sont souvent la clé de voûte de l'intra - logistique. Il s'agit donc de collaborateurs disposant d'une formation initiale et continue solide en logistique et d'une expérience pratique. De bonnes compéten - ces informatiques, notamment la connaissance d' Excel, sont indispensables. Une pensée analytique, orientée vers les processus et prévoyante, doit être présente afin de pouvoir reconnaître les relations complexes. Le poste de contrôle, en tant que pivot de l'intralogistique, est bien sûr aussi présent lorsque l'on travaille dans l'entreprise. C'est pourquoi le travail en équipe n'est pas exceptionnel dans cette fonction."
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-4",
+   "number": "9.2.4",
+   "title": "Conclusion",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un poste de contrôle logistique est un instrument de contrôle opérationnel de l’exploitation utilisé dans les systèmes d'intralogistique. Le poste de contrôle lo - gistique soutient et optimise la planification et le contrôle des processus logis - tiques ( processus opérationnels ). Un poste de contrôle logistique visualise et surveille en permanence les processus logistiques, identifie les écarts entre les objectifs et la réalité et donne aux utilisateurs des recommandations d'action en fonction des processus."
+    }
+   ]
+  }
+ ]
+}

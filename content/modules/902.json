@@ -1,0 +1,202 @@
+{
+ "code": "902",
+ "title": "Les études de cas",
+ "domain": "900",
+ "pdf": "M902_st.pdf",
+ "pages": 10,
+ "words": 1807,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "236 Module 902_Les études de cas Ce module constitue la fin de la formation de logisticien/-cienne. Tous les thèmes déjà traités sont mis en réseau. L 'étude de cas vous donne l'occasion de démont - rer vos compétences. Bonne chance!"
+    },
+    {
+     "t": "p",
+     "text": "237 1ère édition 2025 Module 902_Les études de cas Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique du module 902 2.1 Qu'est-ce qu'une étude de cas? Les études de cas sont utilisées dans la recherche et dans l'éducation. Dans la recherche, l'étude de cas est une étude approfondie d’un sujet particulier. Dans l'éducation, l'étude de cas est une méthode didactique parmi tant d’autres. Ici, nous utilisons l'étude de cas comme méthode didactique pour faire le lien avec tous les modules déjà traités. Pour que tu puisses résoudre les études de cas, tu as besoin des connaissances de base de tous les départements d'EnterSite SA."
+    }
+   ]
+  },
+  {
+   "id": "s-2-1-1",
+   "number": "2.1.1",
+   "title": "Étude de cas EASY",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il est recommandé de commencer par résoudre l'étude de cas EASY. Sa struc - ture et sa solution sont comparables à celles des études de cas plus importantes. Cependant, le contenu et la présentation de la tâche sont toutefois moins compli - qués."
+    }
+   ]
+  },
+  {
+   "id": "s-2-1-2",
+   "number": "2.1.2",
+   "title": "Étude de cas MEDIUM",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans l'étude de cas MEDIUM, la complexité est accrue. Les instructions contien - nent moins de faits et la complexité des tâches implique une réflexion en réseau."
+    }
+   ]
+  },
+  {
+   "id": "s-2-1-3",
+   "number": "2.1.3",
+   "title": "Étude de cas DIFFICULT",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si tu as résolu les études de cas précédentes, tu peux effectuer l'étude de cas DIF - FICULT. Cette étude de cas sollicite et encourage le modèle d'apprentissage 4C."
+    },
+    {
+     "t": "p",
+     "text": "C = Communication C = Collaboration C = Créativité C = Pensée critique"
+    },
+    {
+     "t": "p",
+     "text": "Dans cette étude de cas, il y a plusieurs façons de procéder. Tu peux appliquer tes connaissances techniques et examiner différentes solutions possibles. Présente ensuite la variante que tu as choisie en la justifiant."
+    },
+    {
+     "t": "p",
+     "text": "238"
+    }
+   ]
+  },
+  {
+   "id": "s-2-2",
+   "number": "2.2",
+   "title": "Procédure de résolution d'une étude de cas",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si tu exécutes une étude de cas, il est recommandé d'adopter une approche or - donnée et judicieuse. Tu trouveras différentes possibilités dans la littérature. Nous te recommandons de procéder de la manière suivante:"
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-1",
+   "number": "2.2.1",
+   "title": "Analyse de l'entreprise et de sa situation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chaque étude de cas à ses défis. Pour obtenir une vue d'ensemble, il est recom - mandé de lire le cas en entier à tête reposée. S'il y a des incertitudes ou des points peu clairs, relis le cas une deuxième ou une troisième fois. Pour bien comprendre les faits, un bref résumé peut être utile. Lors de ton analyse, il est utile de distin - guer les informations importantes des moins importantes. Des marqueurs peu - vent ici aider à la différenciation. Si tu résous le cas en équipe, tu peux comparer tes réflexions avec celles de tes collègues. Une analyse SWOT offre la possibilité d'analyser une entreprise. L 'abréviation «SWOT» vient de l'anglais et signifie Strengths, Weaknesses, Opportunities, Threats. SWOT-Analyse S = Strengths ( Forces ) Essayer d'utiliser les forces internes de l'entreprise pour permettre des opportunités W = Weaknesses ( Faiblesses ) Essayer de réduire les faiblesses internes afin d'éviter que les risques ne se concrétisent. O = Opportunities ( Opportunités ) Essayer de transformer les opportunités externes pour augmenter l es points forts. T = Threats ( Risques / Menaces ) Essayer de maitriser les risques externes afin de diminuer les faiblesses."
+    },
+    {
+     "t": "p",
+     "text": "239 1ère édition 2025 Module 902_Les études de cas Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Une autre possibilité est d'utiliser un diagramme de causes et d'effets. Tu trouver - as celui-ci dans le Glossaire."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-2",
+   "number": "2.2.2",
+   "title": "Identification et analyse des problèmes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Décris la situation avec tes propres mots. Quel est le problème à résoudre? À quel - le question dois-tu être en mesure de fournir une réponse? Il est possible que tu sois confronté à des problèmes connus et inconnus, ceci notamment dans des études de cas plus importantes ( par ex. DIFFICULT ). Dès que plusieurs problèmes sont connus, ils doivent être classés dans un ordre. Quel problème veux-tu abor - der en premier? As-tu besoin de réponses pour pouvoir résoudre les problèmes suivants? Aborde les problèmes dans un ordre chronologique."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-3",
+   "number": "2.2.3",
+   "title": "Conception de variantes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "IDans l'esprit du modèle d'apprentissage 4C, il s'agit maintenant de trouver des solutions créatives. Il est fort possible que tu aies des incertitudes à ce sujet. C'est précisément dans cette phase que tu dois pouvoir proposer et élaborer le plus grand nombre possible de variantes. Ne juge pas le contenu – chaque variante est une bonne variante. Un exemple d'EnterSite SA Strengths = Forces Weaknesses = Faiblesses L ’entreprise possède une large gam - me de produits et services En raison de la large gamme de pro - duits et de services, les processus in - ternes deviennent complexes. ( Par ex., il devient de plus en plus difficile de facturer aux clients des prestations supplémentaires telles que des entre - tiens de conseil ). Opportunities = Opportunités Threats = Risques Acquisition de nouveaux clients car EnterSite SA propose une large gam - me de produits et services. Les processus ne sont souvent pas clairement définis, le risque est que cela peut engendrer des coûts sup - plémentaires. De ce fait, EnterSite SA peut devenir plus cher que la concur - rence."
+    },
+    {
+     "t": "p",
+     "text": "240 Selon la devise: Tous les chemins mènent à Rome. Elaborer des variantes: Essaie d'élaborer plusieurs variantes au cours de cette phase. Tu peux y parvenir en utilisant une technique de créativité appropriée. Que dirais-tu de créer une carte mentale ou un encadré morphologique, de faire un brainstorming en groupe ou de travailler avec la variante 6-3-5? Toutes les idées sont les bienvenues et essaie de ne pas les évaluer immédiatement. Tu as besoin d'explications sur ces techniques? Elles sont expliquées dans le Glossaire. Essaie de décrire les différentes variantes de manière aussi détaillée que possible afin de t'en faire une idée précise."
+    },
+    {
+     "t": "p",
+     "text": "241 1ère édition 2025 Module 902_Les études de cas Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-4",
+   "number": "2.2.4",
+   "title": "Choix d'une variante",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une fois que toutes les variantes ont été définies, l'évaluation commence. Quelle est le chemin qui mène au but? Discutez, argumentez, cette phase doit prendre du temps car tous les avantages et inconvénients possibles doivent être évalués. Des résistances peuvent surgir au cours de cette phase. Cherche la variante avec les meilleurs arguments."
+    },
+    {
+     "t": "p",
+     "text": "Choix d'une variante: il existe des méthodes appropriées pour comparer les différentes variantes entre elles. Que penseriez-vous d'une matrice multicritè - re ( Glossaire )? Les différentes variantes y sont comparées à l'aide d'un schéma d'évaluation. Mais attention: une analyse est toujours subjective ( l'être humain a des préjugés et prend ses décisions de la même manière ). Exemple d'encadré morphologique de la société EnterSite SA Expression Variante 1 Variante 2 Variante 3 Processus internes Continuer de pro - poser une grande variété de presta - tions. Décrire des pro - cessus clairs qui permettent de facturer facilement les prestations au client. Réduire les pro - cessus interdépar-tementaux en travaillant avec des centres de profit. Gamme de pro - duits Continuer de proposer une large gamme de pro - duits. Continuer de proposer une large gamme de produits, mais ne garder que les articles A dans son propre stock. Pour les articles B et C, augmenter la fré - quence de livraison et s'assurer que le fournisseur a les articles en stock. Appliquer le LEAN production, prend - re des décisions «Make or Buy». Services Pas de change - ment. Simplifier la bou - tique en ligne. Créer un nouvel helpdesk / une nouvelle hotline."
+    },
+    {
+     "t": "p",
+     "text": "242"
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-5",
+   "number": "2.2.5",
+   "title": "Mise en œuvre",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une fois que tu as choisi une variante, il s'agit de la mettre en œuvre. Lors de l'im - plémentation, c'est-à-dire la mise en œuvre de la variante choisie, il s'agit de «tenir bon». Pour pouvoir travailler de manière structurée, il est important d'établir un plan d'action et un calendrier aussi précis que possible. Le plan d'action indique les activités à réaliser et les ressources à engager. Le calendrier indique quand ces actions doivent être réalisées et combien de temps elles doivent durer. Plus l'étu - de de cas et le nombre de personnes impliquées sont importants, plus le plan d'action et le calendrier sont importants. Exemple d’une matrice multicritère de la société EnterSite SA Avantages Pondération Attribution des points Total pts. V1 Atrribution des points 2 Total pts. V2 Variante 1 Total des points 5 150 4 120 Variante 1 Attribution des points 4 80 4 80 Variante 2 Total des points 5 50 3 30 Variante 2 30 3 90 6 180 Avantages pour le client 30 5 150 4 120 Fidélisation de la clientèle 20 4 80 4 80 Acquisition de cli - ents 10 5 50 3 30 Clarté des coûts / aperçu 30 3 90 6 180 Augmentation des bénéfices 10 2 20 6 60 Total 100 390 pts 470 pts La variante 2 obtient plus de points est choisie. Tu as déjà abordé la matrice multicritère dans le module 302"
+    },
+    {
+     "t": "p",
+     "text": "243 1ère édition 2025 Module 902_Les études de cas Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-2-3",
+   "number": "2.3",
+   "title": "Plan d'action et calendrier de l'étude de cas",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un plan d'action et un calendrier précis sont essentiels pour une mise en œuv - re réussie. La planification est plus simple si la tâche ne concerne que toi. Si des collègues sont également impliqués et qu'il y a plusieurs sous-tâches, la planifica - tion est plus complexe."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-1",
+   "number": "2.3.1",
+   "title": "Plan d'action et calendrier de l'étude de cas",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Deux propositions de planification de l'étude de cas sont présentées ci-dessous. Utilise ces propositions ou élabore ton propre plan. Planifie seul ou en groupe: les activités, les ressources et le moment où ces activités doivent être effectuées. Inscris le n° de la semaine calendaire ( SC ) correspondante et adapte les dates aux jours de la semaine. Les ressources I-IV peuvent être remplacées par les noms des membres du groupe. Définis ensuite les activités et attribues-les à la bonne res - source et au bon jour de la semaine. Définis non seulement le jour de la semaine, mais aussi, si possible, l'heure exacte ( pour que cela soit plus précis ). Si l'activité a été réalisée avec succès, tu peux cocher la case de contrôle."
+    },
+    {
+     "t": "p",
+     "text": "244 SC n° XX Lundi 16 oc-tobre 2023 Mardi 17.10.2023 Mercredi, 18.10.2023 Jeudi 19.10.2023 Vendredi, 20.10.2023 Samedi 21 octobre 2023 Dimanche, 22.10.2023 Ressource I Action prévue 16.00 – 17.00 Conférence d'équipe 17.00 – 18.00 Élaborer une mise en page Envoyer un croquis 1 1.00 – 13.00 RG élaborer Ressource I Ressource II Action prévue 16.00 – 17.00 Conférence d'équipe Ressource II Ressource III Action prévue 16.00 – 17.00 Conférence d'équipe Ressource III Ressource IV Action prévue 16.00 – 17.00 Conférence d'équipe Ressource IV"
+    },
+    {
+     "t": "p",
+     "text": "245 1ère édition 2025 Module 902_Les études de cas Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL SC n° XX Lundi 23 oc-tobre 2023 Mardi 24 oc-tobre 2023 Mercredi, 25.10.2023 Jeudi, 26.10.2023 Vendredi, 27.10.2023 Samedi, 28.10.2023 Dimanche, 29.10.2023 Ressource I Action prévue Ressource I Ressource II Action prévue Ressource II Ressource III Action prévue Ressource III Ressource IV Action prévue Ressource IV"
+    }
+   ]
+  }
+ ]
+}

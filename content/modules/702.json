@@ -1,0 +1,279 @@
+{
+ "code": "702",
+ "title": "Coûts de stockage",
+ "domain": "700",
+ "pdf": "M702.pdf",
+ "pages": 8,
+ "words": 1473,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Erreurs de réception ou de stockage.",
+      "Les différences de livraison non identifiées.",
+      "Les pertes liées à la substance (retrait, décomposition, évaporation).",
+      "Expiration des dates de péremption.",
+      "Erreurs de préparation de commande",
+      "Casse",
+      "Vol."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les stocks comptables (valeur théorique) peuvent également être erronés. Les causes possibles sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Des saisies incorrectes d’entrées ou de sorties. Des mouvements de stock n'ont pas été enregistrés.",
+      "Des mouvements de stock ont été saisis deux fois.",
+      "Saisie incorrecte de l’article Aperçu de la planification du module 701"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "\"Les coûts de stockage peuvent être énormes!\" - Oui, cette affirmation est vraie. C'est pourquoi l'une des tâches des logisticiens est d'avoir une vue d'ensemble des coûts de stockage et de les optimiser. Pour ce faire, tous les coûts générés par un stockage sont rassemblés et classés en cinq catégories. Le montant des coûts de stockage dépend de nombreux facteurs. C'est pourquoi il est difficile de faire des comparaisons entre différentes entreprises. Il n'est toutefois pas rare que les coûts de stockage représentent environ 20 % des coûts totaux. Pour avoir une vue d'ensemble des coûts de stockage et les optimiser, il faut un grand savoir-faire dans tous les départements qui contribuent à la logistique. Lorsque les coûts de stockage sont réduits, il faut veiller à ce que cette réduction ne se fasse pas au détriment de la qualité."
+    },
+    {
+     "t": "p",
+     "text": "Dans le module 102, les notions de logistique et de gestion de la chaîne d'approvisionnement ont été expliquées. Le fait que ces deux termes recouvrent des notions différentes se reflète également dans les coûts de stockage. Ce qui est attribué au stockage et quel type de coûts est différent selon les entreprises. EnterSite AG répartit les coûts de stockage dans les catégories suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Coûts pour les locaux de stockage.",
+      "Coûts de personnel.",
+      "Stock de marchandises.",
+      "Coûts pour le matériel de manutention et des moyens auxiliaires.",
+      "Coûts des consommables."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour avoir une vue d'ensemble des coûts de stockage, il faut une interaction entre différents départements. La responsabilité ne peut pas être attribuée uniquement au département Finance et Controlling (FICO). Il faut une communication entre les différents départements; c'est la seule façon de maintenir les coûts de stockage aussi bas que possible. L'objectif est de travailler de manière rentable. Cela signifie que:"
+    },
+    {
+     "t": "p",
+     "text": "Les produits nécessaires doivent être mis à disposition à un coût aussi bas que possible."
+    }
+   ]
+  },
+  {
+   "id": "s-2-1",
+   "number": "2.1",
+   "title": "Coûts fixes et variables",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les catégories susmentionnées, qui génèrent des coûts dans le stockage, sont encore subdivisées en coûts fixes et variables."
+    }
+   ]
+  },
+  {
+   "id": "s-2-1-1",
+   "number": "2.1.1",
+   "title": "Coûts fixes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les coûts fixes sont des coûts invariables dont le montant est indépendant de la quantité d’articles stockés. Contrairement aux coûts variables, les coûts fixes n'augmentent ni ne diminuent en fonction de la quantité d’articles stockés."
+    },
+    {
+     "t": "p",
+     "text": "UUnn eexxeemmppllee ddee llaa ssoocciiééttéé EEnntteerrSSiittee AAGG EnterSite AG a produit et stocké en 2019 l'article ST10-TB135BK, Swiss EnterSite Cartridge Brother Toner BLACK en quantité de 80 pièces. Dans ce contexte, les frais fixes pour la location, les salaires et l'amortissement des machines se sont élevés à 480 francs au total. En 2020, le nombre de pièces produites et stockées a pu être augmenté à 120 unités en raison de la forte demande. Les coûts fixes restent cependant constants et sont calculés cette année encore à hauteur de 480 francs."
+    },
+    {
+     "t": "p",
+     "text": "RReemmaarrqquuee:: Bien sûr, les coûts fixes, par exemple les loyers, peuvent aussi augmenter et diminuer. Mais comme ces fluctuations ne sont pas liées à la quantité produite et stockée, elles font tout de même partie des coûts fixes."
+    }
+   ]
+  },
+  {
+   "id": "s-2-1-2",
+   "number": "2.1.2",
+   "title": "Coûts variables",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les coûts variables sont le contraire des coûts fixes. Les coûts fixes sont calculés indépendamment de la quantité produite et stockée. Les coûts variables sont calculés en fonction de la quantité produite et stockée. Les coûts variables peuvent également être appelés charges variables. Les matières premières, l'électricité, l'eau, etc. sont des exemples de coûts variables chez EnterSite AG."
+    },
+    {
+     "t": "p",
+     "text": "La quantité de matières premières dépend de la quantité nécessaire à la production. Si l'article ST10-TN135BK est vendu à 80 unités en 2019 et à 120 unités en 2020, le besoin en matières premières est également plus élevé. Ce besoin plus élevé entraîne à son tour une augmentation des coûts. Le niveau de stock de produits finis influence également les coûts."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2",
+   "number": "2.2",
+   "title": "Coûts des locaux de stockage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De grandes surfaces sont nécessaires pour les zones telles que la réception et la sortie des marchandises, la préparation des commandes et les locaux de stockage. Ces surfaces doivent être fermées, semi-ouvertes ou ouvertes en fonction de leur utilisation et des marchandises stockées. En conséquence, la surface et le type de marchandises influencent les coûts des locaux de stockage. Concrètement, les facteurs sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Électricité.",
+      "Loyer.",
+      "Intérêts.",
+      "Amortissements.",
+      "Frais d'entretien.",
+      "Chauffage, électricité et eau.",
+      "Frais de nettoyage.",
+      "Frais d'assurance. UUnn eexxeemmppllee ttiirréé ddee llaa ssoocciiééttéé EEnntteerrSSiittee AAGG"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "EnterSite AG possède une succursale directement à la gare centrale de Bâle. Par rapport au siège principal de Rupperswil, ce site génère des coûts nettement plus élevés. La proximité des transports publics, le raccordement à une autoroute, etc…. sont des critères qui influencent de manière déterminante les coûts de la surface."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3",
+   "number": "2.3",
+   "title": "Frais de personnel",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans la logistique, les coûts de personnel sont l'un des principaux facteurs de coûts. Ils se composent comme suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Salaires et rémunérations pour le personnel de l'entrepôt.",
+      "Prestations sociales pour le personnel de l'entrepôt (assurances sociales).",
+      "Prestations spéciales (formations continues, frais, gratifications, etc.).",
+      "Frais d'administration (gestion du personnel)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ces facteurs exercent une influence déterminante sur les coûts. Les coûts de personnel sont traités de manière approfondie dans le module 703."
+    },
+    {
+     "t": "p",
+     "text": "Salaire minimum mensuel (brut) dans les professions d’importance systématique"
+    }
+   ]
+  },
+  {
+   "id": "s-2-4",
+   "number": "2.4",
+   "title": "Niveau des stocks",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il n'y a pas que chez EnterSite AG que le contrôle des stocks et donc des coûts est une tâche principale des logisticiennes et logisticiens. Le principe est le suivant:"
+    },
+    {
+     "t": "p",
+     "text": "\"Aussi peu que possible, autant que nécessaire\"."
+    },
+    {
+     "t": "p",
+     "text": "En fait, ce principe est très simple, et pourtant très important et difficile à mettre en œuvre. Maintenir le niveau des stocks aussi bas que possible dans l’objectif de réduire les coûts tout en garantissant la disponibilité des produits pour les clients est une \"arête\" extrêmement étroite. Les coûts suivants sont générés par les stocks:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Intérêts du capital investi dans les stocks. (capital dormant)",
+      "Détérioration, vieillissement technique ou perte.",
+      "Mise au rebut dus à des influences mécaniques. (chute, choc, pression)",
+      "Vol.",
+      "Primes d'assurance."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-4-1",
+   "number": "2.4.1",
+   "title": "Engagement du capital",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le capital est immobilisé dans les produits stockés (= immobilisation du capital). Le capital immobilisé ne peut donc pas être utilisé ailleurs. Le montant du capital immobilisé est déterminé par le stock et le prix d'achat de l'article."
+    },
+    {
+     "t": "p",
+     "text": "UUnn eexxeemmppllee ddee EEnntteerrSSiittee AAGG L'article ST10-TN135BK a un stock minimum de 4 pièces, le prix d'achat est fixé à 65 francs. Si le stock minimum de cet article est pris en compte, une valeur de stock de: 4 pièces x 65 francs = 260 francs est générée. La somme de 260 francs correspond au capital immobilisé dans le stock."
+    },
+    {
+     "t": "p",
+     "text": "Si la valeur ne semble pas encore très élevée dans l'exemple ci-dessus, ce calcul peut être appliqué à l'ensemble de l'assortiment. On constate ainsi que la valeur des marchandises génère souvent des sommes très importantes dans la logistique. Pour que cette somme puisse être payée, les entreprises ont souvent besoin d'un prêt d'une banque. Il y a quelques années, le capital emprunté était encore facturé avec un intérêt considérable. La facture pouvait donc se présenter ainsi:"
+    },
+    {
+     "t": "p",
+     "text": "Capital lié = 100'000 francs Taux d'intérêt = 2 % Intérêt annuel = 2'000 francs Intérêt par jour = 5,50 francs (CHF 2'000/365)"
+    },
+    {
+     "t": "p",
+     "text": "Toutefois, en 2022, le taux directeur de la Banque Nationale Suisse (BNS) était à un niveau historiquement bas. On s'attendais même à un taux d'intérêt négatif. Cela signifie qu'il vaut la peine d'avoir des dettes. Avec la hausse de l'inflation, on peut toutefois s'attendre à ce que les taux d'intérêt augmentent à nouveau et que le capital immobilisé redevienne un facteur de coûts pour les entreprises."
+    }
+   ]
+  },
+  {
+   "id": "s-2-5",
+   "number": "2.5",
+   "title": "Coûts pour le matériel de manutention et des moyens auxiliaires",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'achat et l'entretien des moyens de manutention ainsi que la maintenance de l'informatique sont d'autres facteurs de coûts importants. Ces coûts sont influencés par les caractéristiques du produit ainsi que par le degré d'automatisation de la logistique. Concrètement, les coûts sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Achat des moyens de manutention.",
+      "Achat et mise en service de l'informatique nécessaire.",
+      "Amortissement de la perte de valeur des moyens de manutention.",
+      "Coûts de maintenance, de service, de location ou de leasing.",
+      "Coûts de réparation.",
+      "Coûts d'exploitation (pétrole, gaz, diesel, eau et électricité).",
+      "Primes d'assurance pour les moyens de manutention."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Dans la logistique actuelle, il est difficile de maintenir ces coûts fixes à un bas niveau. L'informatique et les moyens de manutention sont présents non seulement dans les grandes entreprises de logistique, mais aussi dans les PME."
+    }
+   ]
+  },
+  {
+   "id": "s-2-6",
+   "number": "2.6",
+   "title": "Coûts des consommables",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Comparés aux facteurs de coûts susmentionnés dans la logistique, les coûts des consommables sont nettement moins importants. Concrètement, les coûts sont les suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Matériaux d'emballage",
+      "Fournitures de bureau (par exemple, papier à photocopie, matériel d'écriture, cartouches d'imprimante, etc.). Remarque: Par souci d'économie et de protection de l'environnement, les consommables doivent être utilisés avec parcimonie."
+     ]
+    }
+   ]
+  }
+ ]
+}

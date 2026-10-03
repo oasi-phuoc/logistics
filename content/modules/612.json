@@ -1,0 +1,674 @@
+{
+ "code": "612",
+ "title": "La planification des transports",
+ "domain": "600",
+ "pdf": "M612_st.pdf",
+ "pages": 23,
+ "words": 4146,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "178 Module 612_Planification des transports Certes sous la pression du temps, mais tout de même dans les délais, la producti - on a terminé la commande urgente pour un client important. La collaboration entre la planification de la production, la gestion du matériel, les achats et la pro - duction fonctionne parfaitement. La marchandise quitte l'entreprise pour le client au bon moment. C'est alors que cela se produit: le transporteur doit effectuer un freinage d’ur - gence. Sous l'effet des forces générées par le freinage, toute la marchandise est projetée vers l'avant et hors de la remorque. Heureusement, le chauffeur n'est pas blessé, mais la livraison est irrécupérable. En plus du dommage matériel subi, le client ne reçoit pas la marchandise dont il a désespérément besoint."
+    },
+    {
+     "t": "p",
+     "text": "Ce dommage aurait-il pu être évité? Acquérez dans le module suivant les compétences nécessaires pour pouvoir répondre à cette question. La planification des transports va de la simple planifi - cation d'itinéraires à la planification complexe de flux de marchandises internatio - naux avec différents modes de transport ( ferroviaire, routier, maritime et aérien ). Lorsque les distances de transport sont très longues, il peut même arriver que l'on change de zone climatique. Il faut en tenir compte pour les marchandises sensib - les à la chaleur ou au froid."
+    },
+    {
+     "t": "p",
+     "text": "179 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Lors de la planification de l'itinéraire ou du transport, certains facteurs importants doivent être pris en compte pour que les marchandises arrivent chez le client dans l'état souhaité."
+    },
+    {
+     "t": "p",
+     "text": "Remarque Une commande n'est terminée que lorsque les marchandises commandées sont arrivées sans dommage chez le client."
+    },
+    {
+     "t": "p",
+     "text": "180 Connaissance théorique du module 612"
+    }
+   ]
+  },
+  {
+   "id": "s-12-1",
+   "number": "12.1",
+   "title": "La planification des transports en mutation",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L 'objectif de la logistique de transport est de livrer les marchandises dans le flux de distribution de la manière la plus économique, la plus rapide et la plus sûre possible. Des exigences se posent, entre autres, en ce qui concerne:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les objectifs écologiques.",
+      "Les exigences de délai des clients.",
+      "La pénurie croissante de personnel qualifié ( chauffeurs ) dans le transport rou - tier de marchandises.",
+      "La pression sur les coûts, l'augmentation des prix de l'énergie ( le transport peut représenter plus de 30% des coûts logistiques dans l'industrie ).",
+      "Des exigences en matière de sécurité.",
+      "Des dispositions légales."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Il existe en Suisse environ 5'000 entreprises dans le secteur des transports. La plus grande partie des prestations de transport est réalisée par la route."
+    }
+   ]
+  },
+  {
+   "id": "s-12-2",
+   "number": "12.2",
+   "title": "Le principe de la planification d'une tournée",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour la distribution de détail, les marchandises doivent être chargées selon un plan de tournée. Le principe de la planification des tournées est relativement sim - ple. L 'itinéraire est déterminé sur la base des lieux de déchargement. L 'organisati - on d'une tournée relève de la spécialité des disponents."
+    }
+   ]
+  },
+  {
+   "id": "s-12-2-1",
+   "number": "12.2.1",
+   "title": "LIFO - Last In, First Out ( Dernier entré, premier sorti )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les différentes unités de chargement sont chargées sur le véhicule selon le princi - pe LIFO ( Last In, First Out ). Ainsi, les marchandises qui doivent être déchargées en premier sont chargées en dernier – et inversement. Si ce principe est respecté, le chauffeur du camion peut répartir son chargement de manière rationnelle."
+    },
+    {
+     "t": "p",
+     "text": "181 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Estavayer est le premier point de déchargement de la tournée, c'est pourquoi les marchandises destinées à Estavayer sont chargées en dernier. Genève est la der-nière destination de la tournée, c'est pourquoi ces marchandises sont chargées en premier. Dernier entré, premier sorti"
+    },
+    {
+     "t": "p",
+     "text": "182 La planification des tournées n'est généralement pas aussi simple que dans l'ex - emple présenté. Une planification efficace suppose les activités et les connaissan - ces suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Planification exacte de l'itinéraire avec connaissance des restrictions ( état des routes, chantiers, déviations ).",
+      "Véhicules utilisés",
+      "Priorités et souhaits des clients ( urgence de la livraison, créneau horaire pour la livraison )",
+      "Moyens de manutention disponibles ( p. ex. chariot élévateur ) pour le déchar - gement des marchandises ).",
+      "Affectation des chauffeurs ( p. ex. temps de travail et de repos )"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-12-2-2",
+   "number": "12.2.2",
+   "title": "Organisation des transports",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le mot «disposition» vient du latin et signifie «ordre», «affectation», «gestion». Dans le secteur des transports, la disposition est le service chargé de l'organisati - on des transports. C'est au sein de la disposition que sont prises les décisions qui seront intégrées dans le service de transport sous forme d'ordres."
+    },
+    {
+     "t": "p",
+     "text": "183 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL La disposition peut compter sur des applications modernes pour la planification et la surveillance du transport. Les outils de surveillance les plus modernes per - mettent de visualiser le transport sans faille tout au long de la chaîne logistique. Systèmes télématiques ( combinaison des télécommunications et de l'informa - tique ) pour la localisation et le suivi des envois. Différentes données sont collectées ici et utilisées à d'autres endroits. Exemples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Emplacement du véhicule.",
+      "Heure d'arrivée.",
+      "Situation du trafic sur le trajet.",
+      "État d'avancement de la tâche.",
+      "Temps de conduite et de travail restant.",
+      "Type et durée de la prochaine interruption de la période de conduite.",
+      "Traitement des tâches et achèvement de la tâche après l'arrivée chez le client"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "184"
+    }
+   ]
+  },
+  {
+   "id": "s-12-2-3",
+   "number": "12.2.3",
+   "title": "Planification du personnel et des véhicules dans le cadre de",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "la disposition Différentes dispositions légales et conditions générales doivent être prises en compte dans la disposition. Ci-dessous, un aperçu des principaux domaines légaux: Abréviation Loi Exemples LTr Loi sur le travail La loi sur le travail réglemente entre au - tres les horaires de travail généraux, les pauses et les temps de repos. LCR Loi sur la circulation rou-tière La loi sur la circulation routière «régit» la circulation sur les routes publiques. OSR Ordonnance sur la signalisation routière L'Ordonnance sur la signalisation rou - tière et l'Ordonnance sur les règles de la circulation routière contiennent la réglementation de la signalisation et de l'application des règles de la circulation. RPLP Redevance poids lourds liée aux presta - tions Cette ordonnance sur le trafic des poids lourds lié aux prestations con-tient le traitement de l'obligation de déclarer et de la saisie de la RPLP ( module 606 ). OTR Ordonnance sur la durée du travail et du repos L 'ordonnance sur la durée du travail et du repos contient en particulier la régle - mentation de la durée du travail et du repos des chauffeurs professionnels. ADR / SDR Réglementation sur le transport de marchan - dises dangereuses en Suisse La législation sur les marchandises dan - gereuses repose sur une réglementation internationale relative à la sécurité des marchandises dangereuses lors de leur transport par route ( ADR )."
+    },
+    {
+     "t": "p",
+     "text": "185 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-12-2-4",
+   "number": "12.2.4",
+   "title": "Planification des tournées",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les commandes des clients constituent la base de l'établissement des plans de tournées. Les indications suivantes sont impératives: Expéditeur – Adresse exacte"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Date et heure de la collecte",
+      "Mesures particulières pour le chargement"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Destinataire – Adresse exacte"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Date et heure de la livraison",
+      "Mesures particulières pour le déchargement"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Envoi – Type d'envoi"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Nombre de pièces",
+      "Dimensions, volume",
+      "Poids",
+      "Matières dangereuses",
+      "Produits réfrigérés",
+      "Valeur de l'envoi/assurance"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Lors de l'établissement du planning des tournées, il faut également tenir compte des facteurs suivants: Géographie – L'itinéraire prévu est-il possible ou y a-t-il des obstacles naturels? ( p. ex. montagnes, conditions météorologiques )?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Choisir un véhicule adapté ( routes de col, routes se - condaires, espace restreint ).",
+      "Respecter les interdictions ( restrictions de poids ou de temps, transport de marchandises dangereuses pour les tunnels du Gothard et du San Bernardino )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Écologie – Minimiser le nombre de kilomètres à parcourir"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Choisir le véhicule optimal avec la plus faible con - sommation de carburant"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Rentabilité – Véhicule optimal d'un point de vue économique"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Choisir des itinéraires directs ( réduire la durée et la distance du trajet ).",
+      "Minimiser la RPLP en choisissant le véhicule et l'itinéraire appropriés.",
+      "Comparer les coûts et les revenus"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Créer des plans de tournées / plans de transport"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Collecter les ordres, les trier.",
+      "Choisir le véhicule optimal en fonction du poids total, de la charge utile, du type de véhicule, de la consommation de carburant.",
+      "Elaborer une planification détaillée: Tenir compte des contraintes, des obstacles, des restrictions.",
+      "Choisir le chauffeur approprié ( expérience, connais-sances géographiques et spécifiques au client ).",
+      "Enregistrer les données de performance telles que les temps de conduite ( heures ) et les distances par - courues ( km ).",
+      "Examen critique du potentiel d'amélioration pos - sible"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-12-3",
+   "number": "12.3",
+   "title": "Make or Buy dans la distribution",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une analyse Make or Buy ( module 301 ) est également judicieuse dans la dis - tribution, en particulier lorsque des investissements doivent être réalisés dans le parc de véhicules ( p.ex. de nouveaux camions ). La question se pose de savoir si la distribution doit être effectuée par l'entreprise elle-même, avec ses propres véhicules et chauffeurs, ou si cette prestation doit être externalisée. Comme une entreprise est orientée vers le profit, tous les processus doivent être optimisés. La distribution et le transport en font également partie. On distingue deux types d'analyse «Make or Buy»:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Analyse opérationnelle Make or Buy: l'accent est mis sur les avantages de coûts à court terme.",
+      "Analyse stratégique Make or Bu y: les décisions à long terme sont au premier plan. Outre l'orientation sur les coûts, il faut également tenir compte des fac - teurs dits «subjectifs»."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "187 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Une analyse stratégique Make or Buy est beaucoup plus vaste, car les différents critères doivent être pondérés et évalués. Dans la pratique, cela peut être fait à l'aide d'une analyse de la valeur ajoutée. La pondération doit être faite en fonc - tion de l'importance des critères pour l'entreprise. Les critères les plus importants ont donc le plus de poids dans la prise de décision."
+    }
+   ]
+  },
+  {
+   "id": "s-12-3-1",
+   "number": "12.3.1",
+   "title": "Critères possibles d'une analyse stratégique Make or Buy",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Coûts: les coûts sont généralement transparents et mesurables. Ils sont donc relativement faciles à comparer. On compare les propres coûts de transport avec les coûts d'un prestataire de transport. Les coûts sont certainement au premier plan dans l'analyse opérationnelle, mais peuvent aussi devenir se - condaires dans une analyse stratégique - selon la pondération des critères.",
+      "Les risques: Le degré de fiabilité de la livraison, important pour l'entreprise, est au centre des préoccupations. Il s'agit d'évaluer dans quelle variante le risque propre est moindre. Si l'on opte pour le «buy», on est dépendant de presta - taires externes. Au préalable, il faut, d'une part déterminer s'il existe plusieurs prestataires pour les besoins de l'entreprise ou seulement très peu, et d'autre part, ce qu'il en est de l'utilisation de la propre flotte de véhicules.",
+      "Qualité: il est en principe plus facile de vérifier et de favoriser la réalisation des objectifs de qualité dans le cadre du processus interne. En cas d'outsourcing"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "( externalisation du processus ), cette transparence est en grande partie perdue."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Image: l'image peut gagner ou perdre lors d'une décision «Make or Buy». En cas de réduction du personnel en raison de l'externalisation ( sous-traitance d'un processus ), l'image de marque peut être affectée. Cet effet est renforcé si le processus est confié à un fournisseur inconnu. Les clients peuvent perd - re temporairement confiance dans le processus. Mais l'image peut aussi être améliorée si l'entreprise annonce qu'elle collabore avec une entreprise connue et reconnue.",
+      "Liquidités: il convient de vérifier à quels coûts supplémentaires peut s’attend - re l'entreprise en cas de décision «make»: Nouveaux investissements dans le parc de véhicules, entretien du parc de véhicules, formation des collabora - teurs, etc…",
+      "Ressources: les effectifs requis ( chauffeurs formés ) et les véhicules nécessaires sont-ils disponibles et les besoins sont-ils largement assuré s?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "188"
+    }
+   ]
+  },
+  {
+   "id": "s-12-3-2",
+   "number": "12.3.2",
+   "title": "Analyse des notations ( angl. scoring model )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une prise de décision pondérée est appelée analyse de notation. Tous les critères importants pour la prise de décision sont pris en considération et évalués. Selon leur importance, les différents critères reçoivent davantage de poids grâce à des pourcentages plus élevés. Dans l'exemple présenté, tous les critères mentionnés ci-dessus ont été pris en compte dans le processus de décision. Les différents critères ont été évalués selon une pondération. Les coûts ont reçu le plus grand poids ( 40 % ). L 'ensemble des critères représente 100 %. Les différentes variantes ( p. ex. 1-4 ) sont maintenant évaluées les unes par rapport aux autres sur la base des critères et de la clé de répartition. Après l'évaluation, le résultat est le suivant: Le service de transport interne gagne sur les concurrents externes. La proposition est faite à la direction de développer le service de transport interne et de conser - ver la livraison comme valeur ajoutée interne."
+    },
+    {
+     "t": "p",
+     "text": "189 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-12-3-3",
+   "number": "12.3.3",
+   "title": "Avantages et inconvénients d'une analyse de notation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Avantages"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les critères quantitatifs ( p. ex. les coûts ) et les cri-tères qualitatifs ( p.ex. l'image ) peuvent être évalués ensemble.",
+      "De nombreux critères peuvent être pris en compte.",
+      "Plusieurs personnes ( départements ) peuvent être impliquées dans la prise de décision.",
+      "La décision est justifiable ( transparente )."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La pondération des critères d'évaluation est subjective, c'est-à-dire que la pro - pre perception est influencée par des opinions, des expériences, des senti - ments et des intérêts personnels.",
+      "L 'effort à fournir est relativement important"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-12-4",
+   "number": "12.4",
+   "title": "Transport de denrées alimentaires périssables",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Transport de denrées alimentaires périssables:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Loi sur les denrées alimentaires",
+      "Ordonnance sur les denrées alimentaires et les objets usuels ( ODAlOUs ).",
+      "Autres ordonnances y afférentes"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "À retenir Si une entreprise transporte des denrées alimentaires, elle doit le déclarer. Ordonnance sur les denrées alimentaires et les objets usuels ( ODAIOUs ) Section 3 Etablissements du secteur alimentaire – Article 20 Devoir d’annonce: Alinéa 1: «Quiconque exerce une activité relevant de la manipulation des den - rées alimentaires est tenu d’annoncer cette activité à l’autorité cantonale d’exé - cution compétente»."
+    },
+    {
+     "t": "p",
+     "text": "190"
+    }
+   ]
+  },
+  {
+   "id": "s-12-4-1",
+   "number": "12.4.1",
+   "title": "Contenants pour le transport de denrées alimentaires périssables",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour le transport de denrées alimentaires, il convient d'utiliser exclusivement des contenants servant au transport de denrées alimentaires. Le «symbole de la fourchette en verre», valable dans toute l'UE, désigne les matières qui peuvent être utilisées en con - tact avec les denrées alimentaires. Utilisés correctement, ils ne libèrent aucune substance nocive dans les aliments."
+    }
+   ]
+  },
+  {
+   "id": "s-12-4-2",
+   "number": "12.4.2",
+   "title": "Chaînes du froid sur certains produits",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour certains produits, comme les denrées alimentaires, les médicaments, les produits chimiques, etc…, le stockage et le transport sont soumis à des règles de température qui doivent être respectées en permanence. Dans le secteur alimen - taire, on distingue les plages de température suivantes: Réfrigération en dessous de + 5 °C Protection des denrées alimentaires périssables Congélation en dessous de – 18 °C Conservation des denrées périssables L'importance de la chaîne du froid Les germes se multiplient brusquement à partir d'une certaine température, si bien que l'importance de la réfrigération du début à la fin a été reconnue très tôt. Du processus de production à l'utilisation par le consommateur, en passant par le stockage, le transport et la vente, l a chaîne du froid ne doit pas être interrompue."
+    },
+    {
+     "t": "p",
+     "text": "Valeurs indicatives des températures requises pour le transport des denrées alimentaires Beurre +10 ° C Viande +6° C Lait pasteurisé, produits laitiers frais +6° C Viande hachée, poissons frais +2° C Produits surgelés ( pizza, viande, poisson, etc… ) –18° C Glaces –20° C"
+    },
+    {
+     "t": "p",
+     "text": "191 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Les indications figurant sur les étiquettes des produits sont obligatoires. La chaîne du froid doit être contrôlée sans interruption."
+    },
+    {
+     "t": "p",
+     "text": "192"
+    }
+   ]
+  },
+  {
+   "id": "s-12-4-3",
+   "number": "12.4.3",
+   "title": "Le concept HACCP",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "«Qui L'a inventé» «That’s one small step for [a] man, one giant leap for mankind» ( En français: C'est un petit pas pour l'homme, un grand pas pour l'humanité. ) Neil Armstrong le 21.07.1969 à 03h56 minutes et 20 secondes ( CET ) lorsqu'il est devenu le premier homme à marcher sur la lune. En 1959, le concept HACCP a été développé dans le but de produire des aliments pour ast - ronautes adaptés à l'espace et sûrs à 100%."
+    },
+    {
+     "t": "p",
+     "text": "193 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Le concept HACCP est une analyse des dangers et contrôle des points critiques et leur maîtrise. C'est un outil de qualité conçu pour la production et la manipu - lation des aliments. L 'objectif est d'abord d'identifier et d'éviter les risques po - tentiels afin de garantir la santé des consommateurs. Le concept a été publié aux États-Unis en 1971. En 1985, l'Académie nationale des sciences américaine a re - commandé son application. Le concept a ensuite été testé et développé dans le monde entier. Le 1er janvier 2006, le paquet hygiène de l'Union européenne ( UE ) est entré en vigueur. Il stipule que seules les denrées alimentaires conformes aux directives HACCP peuvent être commercialisées et importées dans l'UE. Les 7 principes de l'HACCP Principe 1 Identifier le ou les dangers éventuels à chaque stade de la production alimen - taire: de la production à la consommation, en passant par le traitement, la trans - formation et la distribution. Principe 2 Déterminer les lieux, les étapes du traitement et du processus qui permettent d'éliminer le( s ) danger( s ) ou de réduire la probabilité qu'il( s ) se produise( nt ) ( réception, production, extraction, transport, assemblage, traitement, stockage ). Principe 3 Définition des valeurs de référence ( valeurs cibles ) dont le respect garantit que les points critiques sont sous contrôle. Le système de contrôle permet par ex - emple de définir des valeurs limite de température pour tous les produits, c'est-à-dire les températures à ne pas atteindre ou dépasser pour chaque aliment. Principe 4 Mise en place d'un système de surveillance des points critiques par des audits ou des inspections programmées. Principe 5 Définir les mesures correctives à appliquer dès que la mesure de surveillance indique qu'un point particulier n'est plus sous contrôle. Principe 6 Mise en place de contrôles ou de mesures garantissant le bon fonctionnement du système HACCP."
+    },
+    {
+     "t": "p",
+     "text": "194 Principe 7 Etablir une documentation comprenant toutes les procédures et tous les rap - ports relatifs à ces principes et à leur application."
+    }
+   ]
+  },
+  {
+   "id": "s-12-4-4",
+   "number": "12.4.4",
+   "title": "Surveillance de la température",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En raison des exigences croissantes des consommateurs en matière de qualité des produits et des prescriptions légales, le respect de la chaîne du froid prend de plus en plus d'importance. Selon le type de marchandise, le fabricant, l'expéditeur ou le transporteur prescrit la température de transport. Celle-ci doit être respec - tée par le transporteur/transitaire pendant toute la durée du transport. Il est donc nécessaire de surveiller en permanence la température de transport prescrite pendant le transport. Cela peut être surveillé à l'aide de différents dispositifs techniques ( surveillance numérique et enregistrement avec un enregistreur de données ). Il peut également être nécessaire de refroidir ou de réchauffer la caisse de trans - port avant le chargement ( marchandises sensibles au gel en hiver ). En cas de pro - blèmes techniques sur l'installation de refroidissement/chauffage, le chauffeur doit immédiatement en informer le «disposent». Il faut éviter toutes interruptions de la chaîne du froid et du chaud, sinon les denrées alimentaires risquent de ne plus pouvoir être commercialisées."
+    },
+    {
+     "t": "p",
+     "text": "Semi-remorque avec groupe frigorifique pour le transport de denrées alimentaires"
+    },
+    {
+     "t": "p",
+     "text": "195 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-12-5",
+   "number": "12.5",
+   "title": "Répartition du chargement - Arrimage du chargement",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-12-5-1",
+   "number": "12.5.1",
+   "title": "Forces dynamiques",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le module 606, nous avons déjà abordé en détail les forces dynamiques qui apparaissent dans le domaine du transport. La particularité de la physique est qu'elle fonctionne sans faille et à tout moment, que l'on y prête ou non attention."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Force d'accélération",
+      "Force de décélération",
+      "Force centrifuge",
+      "Forces agissant verticalement"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-12-5-2",
+   "number": "12.5.2",
+   "title": "Répartition des charges",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le module 606 décrit les bases légales du chargement des véhicules. La loi stipule que le chargement sur un véhicule doit être positionné de manière à ce que:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Au moins 20 % du poids effectif du véhicule se trouvent sur l'essieu directeur.",
+      "Au moins 25 % du poids effectif du véhicule se trouvent sur l'essieu tracteur.",
+      "Les charges maximales par essieu ne sont pas dépassées"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le poids total du véhicule est Dans le permis de circulation, on peut voir entre au - tres les données suivantes, qui sont importantes pour le chargement et la réparti - tion de la charge:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Charges maximales par essieu.",
+      "Le poids à vide.",
+      "La charge utile.",
+      "Le poids total"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Cela signifie que la répartition de la charge est effectuée de manière à ce que le véhicule concerné puisse être utilisé sans restriction dans toutes les situations de circulation."
+    },
+    {
+     "t": "p",
+     "text": "196"
+    }
+   ]
+  },
+  {
+   "id": "s-12-5-3",
+   "number": "12.5.3",
+   "title": "Sécurisation du chargement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "12.7.4 Charger correctement et sécuriser correctement Consultez la brochure «Charger correctement, arrimer correctement» et découv - rez comment exécuter un ordre de transport en toute sécurité et conformément à la législation."
+    }
+   ]
+  },
+  {
+   "id": "s-12-5-5",
+   "number": "12.5.5",
+   "title": "Unités de transport",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Exigences légales «Les véhicules ne doivent pas être surchargés. Le chargement doit être placé de telle sorte qu'il ne mette personne en danger ou ne gêne personne et qu'il ne puisse pas tomber». «Le conducteur doit veiller à ne pas être gêné par le chargement ou de toute autre manière». Pour que le chargement soit sûr, il faut que les différentes unités de transport soient bien sécurisées. Les marchandises doivent avant tout être bien arrimées aux supports de charge. Remarque La répartition correcte de la charge permet d'éviter les accidents. Remaque C'est au chauffeur qu'incombe la responsabilité de veiller à ce que le véhicule et le chargement soient en bon état. Cela ne change rien si le chargement est préparé et sécurisé par des tiers."
+    },
+    {
+     "t": "p",
+     "text": "197 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    },
+    {
+     "t": "p",
+     "text": "Nous protégeons les marchandises fragiles, difficilement empilables ou de valeur avec un cadre échangeable, fermons le cadre avec un couvercle échangeable et cerclons le chargement avec une bande de cerclage en plastique. On obtient ainsi une unité de transport indéformable et empilable. Les marchandises individuelles de forme cylindrique sont si possible placées sur le côté plat et cerclées en utilisant une protection d'arête. Pour le transport couché, on sécurise la marchandise sur le support de chargement à l'aide de cales et on cercle le chargement. La tension du cerclage doit être choisie de manière à ce que le support de charge ne se déforme pas. Pour les panneaux empilés, l'arrimage de la charge doit être adapté à la carac - téristique de glissement de la surface du matériau. Les marchandises dont la sur - face est très lisse sont cerclées longitudinalement et transversalement. Pour le transport à plat de plusieurs objets cylindriques ( p. Ex. des tubes ), il est préférable de choisir un support de charge dont la longueur correspond au chargement ( en vert sur le dessin )."
+    },
+    {
+     "t": "p",
+     "text": "198"
+    }
+   ]
+  },
+  {
+   "id": "s-12-6",
+   "number": "12.6",
+   "title": "Regroupage et cross-docking ( couplage croisé )",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-12-6-1",
+   "number": "12.6.1",
+   "title": "Regroupage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Afin d'économiser de la place et donc du carburant lors de la distribution, les liv - raisons sont si possible regroupées. Les unités de livraison préparées ( palettes, conteneurs roulants, etc… ) qui ne sont pas pleines sont remplies avec des mar - chandises qui doivent également être livrées. Verre ( palette, bac roulant, etc… ) à moitié vide, à moitié plein, plein"
+    }
+   ]
+  },
+  {
+   "id": "s-12-6-2",
+   "number": "12.6.2",
+   "title": "Cross-Docking ( couplage croisé )",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le cross-docking est déjà décrit dans le module 604. Livraison par les fournisseurs Réception des marchandises Tri Livraison Distribution au client"
+    },
+    {
+     "t": "p",
+     "text": "199 1ère édition 2025 Module 612_Planification des transports Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Il existe en principe trois variantes de cross-docking:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cross-docking en une étape"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le cross-docking en une étape est la variante la plus simple. Le fournisseur em - balle déjà les marchandises pour le client. Le processus de cross-docking se ré - duit alors à la réception et à l'expédition de la marchandise, sans intervention supplémentaire des collaborateurs logistiques."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Procédure de cross-docking en deux étapes"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La livraison est adaptée aux besoins du client. Les unités livrées par les four - nisseurs sont regroupées en nouvelles unités au cross-docking ou au point de transfert avant d'être livrées au client."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cross-docking à plusieurs niveaux"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La procédure en deux étapes constitue la base du cross-docking à plusieurs niveaux. Mais d'autres tâches ou étapes de processus viennent s'y ajouter:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Montage",
+      "Remplissage.",
+      "Conditionnement.",
+      "Découpe.",
+      "Étiquetage.",
+      "etc…"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Il est également possible de compléter les marchandises livrées au cross-docking par des marchandises prélevées dans l'entrepôt. Cette forme de cross-docking est la plus flexible, mais elle exige aussi la plus grande planification et coordination de tous les services impliqués. Avantages du cross-docking"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La capacité de stockage peut être économisée: p. ex. ( Les emplacements et les opérations dans l'entrepôt ).",
+      "Les étapes de travail sont réduites:"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "p. ex. ( Le stockage et la préparation des commandes sont supprimés )."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Réduction des émissions de CO2 dans la chaîne d'approvisionne - ment ( supply chain ):"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les économies d'énergie réalisées à l'intérieur et à l'extérieur de l'entrepôt lors du transport des marchandises contribuent à la mise en place d'une chaîne d'approvisionnement plus écologique."
+    },
+    {
+     "t": "p",
+     "text": "200 Quand le cross-docking est-il judicieux?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "En cas de grandes quantités et de demande stable.",
+      "Pour les marchandises périssables.",
+      "En cas d'actions spéciales et de marchandises à prix réduit.",
+      "Pour les marchandises de grande valeur avec des délais de livraison courts"
+     ]
+    }
+   ]
+  }
+ ]
+}

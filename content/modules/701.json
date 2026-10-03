@@ -1,0 +1,210 @@
+{
+ "code": "701",
+ "title": "Module 701",
+ "domain": "700",
+ "pdf": "M701.pdf",
+ "pages": 5,
+ "words": 960,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Des ruptures de stock dues à des erreurs de comptabilisation ou de comptage se produisent dans les meilleurs entrepôts. On compare la valeur réelle (physique) avec la valeur théorique (comptable). De tels inventaires sont prescrits par la loi et donnent une sécurité de planification."
+    },
+    {
+     "t": "p",
+     "text": "1. l'inventaire"
+    }
+   ]
+  },
+  {
+   "id": "s-1-1",
+   "number": "1.1",
+   "title": "L'obligation d'inventaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Toute entreprise inscrite au registre du commerce est tenue d'établir un bilan une fois par an. L'un des éléments du bilan est constitué par les actifs, par exemple les stocks. Afin de contrôler l'inventaire dans le bilan, l'entreprise est tenue de vérifier ces valeurs comptables (valeurs théoriques) avec les valeurs physiques (valeurs réelles) au moyen d'un inventaire. On procède à ce que l'on appelle une comparaison des valeurs théoriques et réelles. Les documents d'inventaire doivent être conservés pendant 10 ans. L'obligation d'inventaire est prescrite par la loi: CCode des obligations (CO)"
+    },
+    {
+     "t": "p",
+     "text": "Article 958c, alinéa 2, CO:"
+    },
+    {
+     "t": "p",
+     "text": "\"Le montant de chaque poste présenté dans le bilan et dans l’annexe est justifié par un inventaire ou d’une autre manière\"."
+    },
+    {
+     "t": "p",
+     "text": "Inventaire = stock Bilan = état de la situation financière"
+    },
+    {
+     "t": "p",
+     "text": "Remarque: il faut faire un inventaire une fois par an. Les documents doivent être conservés pendant dix ans."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2",
+   "number": "1.2",
+   "title": "Types d'inventaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Trois méthodes sont utilisées pour inventorier les stocks: l'inventaire à date fixe, l'inventaire permanent (tournant) et l'inventaire par sondage à jour fixe."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-1",
+   "number": "1.2.1",
+   "title": "Inventaire à date fixe",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un jour précis est déterminé pour l'inventaire à date fixe. Celui-ci est appelé jour de référence ou jour de clôture. Le comptage a lieu ce jour-là. L'inventaire à date fixe permet de déterminer les stocks de manière très précise. Pour cela, les listes d'inventaire doivent être organisées par secteur ou par domaine. Des collaborateurs et collaboratrices sélectionnés, voire"
+    },
+    {
+     "t": "p",
+     "text": "l'ensemble du personnel sont mobilisés et se déplacent en équipes dans les zones de stockage afin d’inventorier tous les articles. Les équipes comptent les marchandises dans les secteurs qui leur sont confiés et les inscrivent sur les listes d'inventaire ou les saisissent directement sur des scanners mobiles MDE. Des scanners mobiles (appareils MDE) garantissent un comptage précis des marchandises étiquetées. Si possible, aucune entrée ou sortie de stock n'a lieu lors d'un inventaire à jour fixe."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-2",
+   "number": "1.2.2",
+   "title": "Inventaire permanent (tournant)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Contrairement à l'inventaire à jour fixe, l'inventaire tournant n'est pas effectué à un moment précis, mais peut être réalisé à tout moment, tout au long de l'année, pour chaque article. Les systèmes de gestion des stocks indiquent de manière aléatoire quels articles doivent être comptés et à quel moment. Il faut toutefois s'assurer et vérifier que chaque article est compté une fois par an. Dans l'idéal, ce type d'inventaire doit être effectué avec un \"inventaire en temps réel\" (scanners mobiles MDE) afin de pouvoir continuer à enregistrer les entrées et les sorties pendant le processus."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2-3",
+   "number": "1.2.3",
+   "title": "Inventaire par sondage à jour fixe",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si un inventaire complet n'est pas réalisable ou trop coûteux, un inventaire par sondage peut être réalisé en accord avec les autorités fiscales. Le sondage signifie que tous les articles ne sont pas comptés. Un nombre représentatif d'articles (échantillon) est compté et le résultat du comptage est reporté sur les articles non comptés. L'inventaire par échantillonnage est souvent utilisé pour les articles bon marché, tandis que les articles de valeur font l'objet d'un inventaire complet."
+    }
+   ]
+  },
+  {
+   "id": "s-1-3",
+   "number": "1.3",
+   "title": "Déroulement de l’inventaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour un inventaire à jour fixe, il est souvent fait appel à l'ensemble du personnel de l’entreprise. Parmi eux se trouvent parfois des personnes qui ne sont pas familières avec la gestion des stocks. C'est pourquoi une procédure est définie et consignée dans une directive d'inventaire (procédure) qui contient toutes les informations pour les collaborateurs participant à l'inventaire. Les instructions d'inventaire diffèrent d'une entreprise à l'autre. Elles doivent être rédigées précisément en fonction des conditions de l'entreprise et sont contraignantes pour toutes les personnes participant à l'inventaire."
+    },
+    {
+     "t": "p",
+     "text": "Obstacles possibles/sources d'erreurs lors de la mise en œuvre:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les collaborateurs ne sont pas assez nombreux.",
+      "Des unités de quantité peu claires.",
+      "Problèmes techniques avec les appareils de saisie mobile des données (scanners MDE).",
+      "Erreurs d'application sur les appareils de MDE."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour minimiser ces sources d'erreur, une bonne préparation est très importante."
+    },
+    {
+     "t": "p",
+     "text": "Il est judicieux de bien préparer l'inventaire:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Créer une instruction d'inventaire/un plan d'inventaire.",
+      "Une bonne concertation avec les collaborateurs.",
+      "Assurer une bonne délimitation (entrées de marchandises non planifiées)",
+      "Enlever les matériaux d'emballage inutiles et les palettes vides.",
+      "S'assurer que tous les racks de stockage sont correctement et proprement étiquetés.",
+      "Pré-tri des unités de comptage courantes."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Lors de l’inventaire, les employés sont amenés à:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Mesurer: Si les marchandises sont vendues au mètre, elles doivent être mesurées.",
+      "Peser: Les marchandises qui sont achetées ou vendues au poids sont pesées.",
+      "Compter: Les biens achetés ou vendus à l'unité sont comptés individuellement."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-1-4",
+   "number": "1.4",
+   "title": "Evaluation de l'inventaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors de l'évaluation de l'inventaire, la valeur théorique (stock comptable) est comparée à la valeur réelle (stock physique). Les positions divergentes qui dépassent une valeur définie (montant en francs ou nombre de pièces) sont recomptées. Si la valeur comptée se confirme, les écarts sont enregistrés comme différence d'inventaire. Les différences d'inventaire sont saisies et évaluées dans des listes de différences. En règle générale, les différences d'inventaire sont des pertes. Elles sont donc comptabilisées en tant que charges dans le compte de résultat de l'entreprise. Remarque: la clarification des différences d'inventaire fournit à une entreprise des bases et des indications importantes pour les corrections ou les améliorations nécessaires dans les processus de travail."
+    }
+   ]
+  },
+  {
+   "id": "s-1-5",
+   "number": "1.5",
+   "title": "Raisons des différences d'inventaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les ruptures de stock physique (valeur réelle) peuvent avoir différentes causes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Erreurs de réception ou de stockage.",
+      "Les différences de livraison non identifiées.",
+      "Les pertes liées à la substance (retrait, décomposition, évaporation).",
+      "Expiration des dates de péremption.",
+      "Erreurs de préparation de commande",
+      "Casse",
+      "Vol."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les stocks comptables (valeur théorique) peuvent également être erronés. Les causes possibles sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Des saisies incorrectes d’entrées ou de sorties. Des mouvements de stock n'ont pas été enregistrés.",
+      "Des mouvements de stock ont été saisis deux fois.",
+      "Saisie incorrecte de l’article Aperçu de la planification du module 701"
+     ]
+    }
+   ]
+  }
+ ]
+}

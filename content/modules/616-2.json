@@ -1,0 +1,150 @@
+{
+ "code": "616-2",
+ "title": "Module 616-2",
+ "domain": "600",
+ "pdf": "M616-2_dist.pdf",
+ "pages": 5,
+ "words": 1618,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "333 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique 2 – Numéros postaux d’achemine - ment next level"
+    }
+   ]
+  },
+  {
+   "id": "s-16-1",
+   "number": "16.1",
+   "title": "1 Les numéros postaux d’acheminement ( NPA )",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le numéro postal d’acheminement ( NPA ) fait partie intégrante de chaque adresse postale figurant sur les lettres et les colis. Il se compose d’une combinaison de chiffres – toujours de quatre chiffres en Suisse – et aide à attribuer les envois de manière correcte et efficace sur le plan géographique. Dans le module 615 Préparer les envois pour le processus de tri, tu as déjà dé - couvert la structure des NPA. Voici un bref récapitulatif des principaux points:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le premier chiffre désigne le rayon d’acheminement, c’est-à-dire la région géographique principale. Les rayons d’acheminement sont numérotés d’ ouest en est. Ainsi, la région de Lausanne commence par le NPA 1XXX.",
+      "Le deuxième chiffre représente le territoire d’acheminement au sein du ray - on d’acheminement et délimite davantage la région.",
+      "Le troisième chiffre indiquait à l’origine sur quelle ligne ferroviaire le cour - rier était transporté. Aujourd’hui, elle n’a plus de signification logistique.",
+      "Le quatrième chiffre désigne le lieu exact au sein du territoire d’achemine - ment."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Par ailleurs, la Principauté de Liechtenstein utilise également le système suisse de NPA, avec les numéros 9485 à 9498. Quelques faits amusants sur les NPA? Jette un œil ici: https://www.post.ch/fr/notre-profil/actualites/2020/sept-faits-que-vous-ignoriez-sur-les-numeros-postaux-d-acheminement"
+    }
+   ]
+  },
+  {
+   "id": "s-16-12",
+   "number": "16.12",
+   "title": "Les NPA internationaux",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La longueur du NPA et le système qui le sous-tend diffèrent d’un pays à l’autre. La Roumanie s’y connaît en longueur, et le système des numéros postaux d’achemi - nement varie considérablement selon les pays. La Roumanie utilise des numéros postaux d’acheminement à six chiffres. Le Portugal a même un système de NPA à sept chiffres. Des pays comme la France, l’Italie, l’Espagne et l’Allemagne utilisent des NPA à cinq chiffres."
+    },
+    {
+     "t": "p",
+     "text": "334 Un exemple en Italie: Via Fabrica di Roma 9 00189 Roma Italia Dans certains pays, les numéros postaux d’acheminement contiennent également des lettres ou des caractères spéciaux – par exemple en Argentine, au Canada, aux Pays-Bas ou en Grande-Bretagne. Il existe également des pays dans lesquels aucun numéro postal d’achemine-ment n’est utilisé. En font notamment partie les États africains du Togo, du Ghana, du Mali, de l’Ouganda ainsi que les pays sud-américains du Pérou, de la Colombie et du Chili. Conseil: tu trouveras un aperçu de tous les numéros postaux d’acheminement in - ternationaux sous le lien ci-dessous. Saisis le pays de ton équipe de football pré - férée et découvre quelques faits amusants sur le système de NPA qui y est appli - qué! https://www.europacco.com/de/plz-suche"
+    }
+   ]
+  },
+  {
+   "id": "s-16-13",
+   "number": "16.13",
+   "title": "Le code IATA",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Imagine que tu réserves des vacances à San José ( Costa Rica ) – et que tu atter - ris par erreur à San José ( Californie ). Les deux villes ont en effet un aéroport du même nom. Afin d’éviter de telles confusions, l’aviation utilise le code IATA de l’aéroport. Le code IATA se compose de trois lettres et permet l’identification univoque des aéroports du monde entier. Voici quelques exemples:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "ZRH pour Zurich-Kloten",
+      "LHR pour London Heathrow",
+      "CDG pour Paris Charles de Gaulle"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L ’objectif de ce code est de rendre le transport de passagers et de fret aérien plus efficace et plus sûr. Lors de l’enre - gistrement, le code IATA est inscrit sur ton étiquette de bagage et figure égale - ment sur ton billet d’avion. Les entreprises de distribution utilisent également le code IATA: elles identifient les envois avec l’aéroport de départ et l’aéroport de destination. Ces codes sont souvent intégrés dans le code à barres. Sur une lettre de voiture ( p. ex. de DHL ), le code IATA est automatiquement enregistré dès que les adresses sont saisies."
+    },
+    {
+     "t": "p",
+     "text": "335 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-16-14",
+   "number": "16.14",
+   "title": "Sur les traces des baskets qui n’étaient pas à la bonne",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "taille Un exemple tiré de la pratique: Tu as commandé des baskets super cool auprès d’un com - merçant en ligne à Lausanne, mais elles ne te vont malheu - reusement pas. Tu remballes soigneusement les chaussures, apposes l’étiquette de retour et déposes le colis à la filiale de la Poste à la gare d’Aarau (NPA 5000). Le colis est chargé dans un conteneur roulant (RX) et amené par camion au centre colis le plus proche, dans ce cas à Härkingen (NPA 4624). Là, il est déchargé sur la bande transporteuse, et le système de codage automatique (ACS) lit le NPA imprimé. Ensuite, le système dépose l’envoi sur un plateau de la machine de tri à plateaux inclinables qui transporte le colis à travers le cent - re vers la bonne glissière cible. Dès que le colis atteint la bonne glissière, le plateau bascule automatiquement et le colis glisse vers le bas. Les collaborateurs le chargent à nouveau dans un RX, qui est ensuite placé dans une caisse mobile. Entre deux centres colis, le transport s’effectue généralement par train. C’est pourquoi un véhicule de site transporte la caisse mobile vers le train en direction de Daillens. Pourquoi Daillens? Parce que le NPA 10XX (Lausanne) fait partie de la région de desserte du centre colis de Daillens. Les tableaux d’acheminement indiquent les secteurs de NPA attribués à chaque centre. Les deux premiers chiffres du NPA sont généralement déterminants. À Daillens, le NPA de ton colis sera à nouveau lu. Ensuite, l’envoi passe par un tri secondaire, c’est-à-dire qu’il est limité à la région de distribution. Pour finir, le colis est à nouveau chargé dans un RX et amené à la base de dis - tribution en camion. De là, la tournée de distribution retourne directement au commerçant en ligne – et les baskets qui ne sont pas à ta taille arrivent à bon port."
+    },
+    {
+     "t": "p",
+     "text": "336"
+    }
+   ]
+  },
+  {
+   "id": "s-16-15",
+   "number": "16.15",
+   "title": "La Poste dans le service militaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Imagine qu’un membre de l’équipe de distribution effectue son service mili - taire – actuellement dans son premier cours de répétition ( CR ), quelque part en montagne. L ’année dernière déjà, à l’école de recrues ( ER ), tu lui as fait plaisir avec un petit colis rempli de sucreries. À l’époque, tu as envoyé l’envoi tout à fait nor - malement à son adresse avec la mention « Caserne, NPA, localité ». Mais cette fois-ci, le lieu où il se trouve est confidentiel. Afin de pouvoir tout de même le surprendre, tu as besoin de son adresse en campagne avec le numéro militaire d’acheminement. Tu peux les obtenir soit directement auprès de ton collègue, soit les demander par téléphone auprès du service militaire de renseig - nements Bureau Suisse. Ce service est d’ailleurs géré par les collaborateurs de la poste de campagne. Bon à savoir: ton colis est franc de port jusqu’à un poids de 5 kg, tant qu’aucune prestation complémentaire payante n’a été choisie. Les lettres et les colis à desti - nation de l’armée peuvent être envoyés exclusivement avec la Poste suisse. Mais comment ton « colis de nourriture » arrive-t-il au lieu secret? Et comment fonctionne exactement un numéro militaire d’acheminement?"
+    }
+   ]
+  },
+  {
+   "id": "s-16-15-1",
+   "number": "16.15.1",
+   "title": "Le numéro militaire d’acheminement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le numéro militaire d’acheminement ( MIL ) est une combinaison spéciale de chiffres ou de lettres qui identifie une adresse en campagne sur les lettres et les colis. Ces adresses permettent la distribution sur des sites militaires sans qu’un lieu concret soit connu du public. Elles servent à protéger des lieux d’affectation secrets ou changeants et sont utilisés exclusivement pour les militaires. La direction de la poste de campagne détermine où les envois sont remis à l’armée. Ces localités sont enregistrées dans la base de données de tri et peuvent être déplacées en fonction de l’affectation militaire. Le numéro MIL garantit que l’envoi arrive de manière fiable et sûre, même en cas de changement de site. Et qu’advient-il de ton colis de nourriture? Si tu le déposes au guichet, il reçoit en plus le code « MIL » pour la prestation complémentaire « Envoi militaire ». Ce code confirme que ton colis est franc de port – tant qu’il pèse moins de 5 kg et qu’aucune prestation complémentaire pay - ante n’a été choisie."
+    },
+    {
+     "t": "p",
+     "text": "337 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Voici à quoi cela ressemble: Exemple: Sdt Hans Muster Inf Kp 13/1 M ili t är 61114 Une fois que tu as déposé ton colis, il est transporté vers le centre de tri le plus proche. Les centres de tri reçoivent chaque nuit les données de codage actuelles afin de pouvoir réexpédier les envois militaires vers le bon lieu cible, soit automa - tiquement, soit manuellement. La remise à la troupe s’effectue de deux manières:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Soit via le Service de la poste de campagne à un endroit prédéfini",
+      "Soit par le retrait dans un office de poste par un sous-officier de la poste de campagne de l’unité militaire correspondante."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Dans ce champ, une ordonnance postale prend en charge l’envoi et l’apporte di - rectement au destinataire. Ainsi, ton colis parvient de manière fiable jusqu’à ton collègue en service, même sans indication précise du lieu. Super! Ton collègue se réjouira certainement que tu aies pensé à lui!"
+    },
+    {
+     "t": "p",
+     "text": "Remarque Le numéro postal d’acheminement ne sont pas uniformes dans tous les pays. En dehors de la Suisse, ils peuvent comporter jusqu’à sept caractères, incluant des lettres et des chiffres spéciaux. Grâce au code IATA, chaque aéroport dans le monde dispose d’une désignation unique. Parfois, personne ne doit savoir où se trouve la personne qui reçoit un envoi. C’est pour cela qu’il existe Le numéro militaire d’acheminement (MIL). Dans ce cas, un lieu de remise est convenu entre la direction de la poste de campagne militaire et l’armée. Le colis arrive ainsi, grâce à une ordonnance postale, à bon port – même sans indication précise du lieu."
+    }
+   ]
+  }
+ ]
+}

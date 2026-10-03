@@ -1,0 +1,345 @@
+{
+ "code": "604",
+ "title": "Les systèmes de distribution",
+ "domain": "600",
+ "pdf": "M604.pdf",
+ "pages": 16,
+ "words": 2019,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Appareil de soudage par vibration Encliquetage"
+    },
+    {
+     "t": "p",
+     "text": "3.2.4 Cerclage avec ficelle Dans l'industrie des boissons, les caisses de boissons sont souvent sécurisées à l'aide d'une seule ficelle. Les ficelles sont alors pré-confectionnées à la bonne longueur. Cette technique permet d'économiser du temps et de l'argent et est désormais découverte par d'autres secteurs (voir vidéo)."
+    },
+    {
+     "t": "p",
+     "text": "Ce chapitre traite de la sortie des marchandises. L'objectif de la sortie de marchandises est de préparer les marchandises conformément aux commandes des clients. D'autres tâches consistent à préparer les articles pour l'expédition et à les remettre ensuite au transporteur le plus approprié. Celui-ci livre ensuite les marchandises aux clients en bonne et due forme."
+    },
+    {
+     "t": "p",
+     "text": "Lorsqu'il s'agit de la distribution de leurs propres produits, les entreprises doivent se poser les questions suivantes: Comment mes produits atteignent-ils les clients de manière optimale? Comment les produits peuvent-ils être distribués (écoulés) sur le marché?"
+    }
+   ]
+  },
+  {
+   "id": "s-4-1",
+   "number": "4.1",
+   "title": "Les canaux de vente",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-4-1-1",
+   "number": "4.1.1",
+   "title": "La vente directe",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La forme la plus simple de vendre sa marchandise est la vente directe. Dans ce cas, les produits sont soit livrés directement au client/consommateur final (business to consumer), soit celui-ci vient les chercher chez le producteur. Comme il n'y a pas d'intermédiaire, les produits peuvent ainsi être vendus à un prix plus avantageux. En contrepartie, la personne qui vient chercher elle-même le produit doit parfois parcourir des trajets plus longs."
+    }
+   ]
+  },
+  {
+   "id": "s-4-1-2",
+   "number": "4.1.2",
+   "title": "La vente indirecte",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cas de la vente indirecte, les biens sont vendus par le producteur à un intermédiaire (p. ex. Coop ou Migros, etc.). Celui-ci revend ensuite les marchandises soit à un autre distributeur, soit directement au client. Il y a des commerçants entre le producteur et le client final, c'est pourquoi on l'appelle \"vente indirecte\" (business to business)."
+    }
+   ]
+  },
+  {
+   "id": "s-4-2",
+   "number": "4.2",
+   "title": "La distribution (répartition des produits)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De même que la vente de marchandises peut être directe ou indirecte, on distingue dans la distribution, la distribution à un niveau et la distribution à plusieurs niveaux."
+    }
+   ]
+  },
+  {
+   "id": "s-4-2-1",
+   "number": "4.2.1",
+   "title": "Distribution à un niveau",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour la distribution à seul niveau, plusieurs formes sont possibles. Soit le client va chercher les marchandises directement chez le producteur, soit le producteur les propose au client sur un point de vente. Par exemple, un agriculteur peut vendre ses légumes directement à la ferme ou les proposer au marché hebdomadaire. Les entreprises proposent généralement la vente dans un magasin d'usine ou un (outlet store)."
+    }
+   ]
+  },
+  {
+   "id": "s-4-2-2",
+   "number": "4.2.2",
+   "title": "Distribution à plusieurs niveaux",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cas de la distribution à plusieurs niveaux, les marchandises ne parviennent pas directement au client, mais passent par un intermédiaire ou, en plus, par un entrepôt de livraison d'un grand distributeur."
+    },
+    {
+     "t": "p",
+     "text": "Les concepts de distribution centralisée vs décentralisée Le client attend la livraison de « ses » marchandises dans un délai correct. Cela conduit à des concepts de distribution multiniveaux. D’une façon générale, un niveau supplémentaire se justifie dans un concept de distribution à partir du moment où les coûts d’entreposage ne sont pas plus élevés que les économies liées au transport. Une infrastructure des transports bien développée renforce la tendance vers des solutions centralisées. Les réflexions suivantes influencent la décision:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "l’importance de la région en tant que marché pour l’entreprise;",
+      "le type de marchandises (Se conservent-elles bien ou sont-elles périssables);",
+      "la structure de la clientèle (Qui sont les clients? Où habitent-ils? Quel est leur pouvoir d’achat?);",
+      "la garantie ou non de la proximité du client;",
+      "les critères écologiques (La solution est-elle compatible avec l’environnement?);",
+      "les sites (production, entrepôt central ou régional, dépôt de vente)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La grande distribution: Concept de distribution classique Les grands distributeurs sont des entreprises commerciales qui, par le biais de leurs magasins ou chaînes de magasins, sont à même d’offrir aux clients un grand nombre de produits de consommation d’usage quotidien. Elles opèrent sous la forme d’une distribution multiniveaux. Ces entreprises disposent de tout un réseau de centres d’achat et de points de vente, dans le pays même voire à l’étranger. La diversité de produits permet au consommateur de (presque) tout acheter au même endroit. L’approvisionnement des magasins représente un défi logistique considérable. Ci-dessous, deux modèles de distribution de grands distributeurs suisses sont illustrés de manière simplifiée."
+    },
+    {
+     "t": "p",
+     "text": "Le concept de distribution classique"
+    },
+    {
+     "t": "p",
+     "text": "La grande distribution: le concept de distribution décentralisée Les nouveaux concepts de distribution renoncent à la structure hiérarchique des solutions classiques. Les centres de distribution centraux sont spécialisés dans un type de produits de l’assortiment (par ex. non alimentaires, Do It Yourself ou denrées coloniales). Les commandes sont directement prises par les points de vente. La préparation des marchandises pour la livraison se fait sur les points de vente. Les professionnels parlent de préparation de commandes pour les magasins. Ces marchandises ne sont pas stockées dans les entreprises régionales (entrepôts régionaux), mais traitées comme des marchandises en transit. Elles sont déchargées et regroupées avec d'autres marchandises, également déjà préparées, pour former de nouvelles unités de livraison, puis transbordées. Le terme technique pour cette activité est le Cross Docking. Le Cross Docking est également de plus en plus répandu dans d'autres domaines. Dans le cas du Cross Docking, les marchandises sont déjà pré-commissionnées par le fournisseur pour les clients. Lorsque les marchandises sont livrées à l'entreprise, elles ne sont pas mises en stock, mais placées dans la zone de Cross Docking. De là, elles sont livrées aux clients en quelques jours. Le travail de préparation de commandes est ainsi transféré au fournisseur. La condition préalable au Cross Docking réside dans le fait que les clients aient déjà passé des commandes et que les fournisseurs aient des délais de livraison courts - sinon l'entreprise ne peut pas répondre à l'attente du client pour recevoir le produit dans un court délai."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le Cross Docking a pris de l'importance ces dernières années. L'objectif est de ne pas stocker (ou de stocker le moins possible) et d'expédier les marchandises au client le plus rapidement possible. Cela permet de réduire les coûts de stockage. Les entrepôts régionaux deviennent des plateformes de produits frais. Celles-ci sont spécialisées dans les denrées périssables. Les produits frais sont livrés soit par des producteurs régionaux, soit par des entreprises de production qui appartiennent souvent aux grands distributeurs (p. ex. grandes boulangeries ou grandes boucheries). Les points de vente plus importants sont directement approvisionnés par les entreprises de production ou les entreprises de distribution centrale. Il en résulte un réseau de distribution complexe."
+    },
+    {
+     "t": "p",
+     "text": "Concept de distribution décentralisée"
+    },
+    {
+     "t": "p",
+     "text": "Un concept de distribution moderne avec des marchandises préparées en magasin et des plateformes de produits frais"
+    },
+    {
+     "t": "p",
+     "text": "La vente par correspondance De nombreux clients commandent aujourd'hui des produits de consommation courante sur internet. Aujourd'hui, presque tous les produits peuvent être commandés et livrés à domicile via des plateformes en ligne. Pour cela, il existe une multitude de fournisseurs. Ces dernières années, Digitec/Galaxus a fortement gagné des parts de marché dans ce domaine. Mais les détaillants comme Coop et Migros proposent leurs articles via des boutiques en ligne."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "En voici quelques exemples: Galaxus Coop Migros Lindt"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple tiré d'EnterSite AG: EnterSite AG exploite également sa propre boutique en ligne. Visitez-nous en ligne! EnterSite AG"
+    }
+   ]
+  },
+  {
+   "id": "s-4-3",
+   "number": "4.3",
+   "title": "Le marché postal",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Depuis longtemps, la Poste n'est plus la seule entreprise dans de laquelle les clients privés peuvent déposer leurs envois. En raison de l'ouverture du marché postal, il existe différentes entreprises qui proposent ce service. Toutefois, la Poste Suisse SA est la seule entreprise qui a l'obligation légale d'acheminer partout en Suisse des lettres et des colis jusqu'à un poids de 20 kilogrammes à des prix identiques et avantageux. On parle ici de service public (service au public). Toutes les autres entreprises de ce secteur ne connaissent pas cette obligation."
+    }
+   ]
+  },
+  {
+   "id": "s-4-3-1",
+   "number": "4.3.1",
+   "title": "Service réservé, service non réservé, service concurrentiel",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Poste offre un service de base en ce qui concerne la distribution du courrier et des colis. Cela entraîne également des coûts. Pour financer le service universel, la Poste a obtenu de la Confédération le monopole (droit exclusif) de l'acheminement des envois jusqu'à un poids de 50 grammes. Pour ce service dit \"réservé\", la Poste n'est pas en concurrence avec d'autres entreprises: Les autres entreprises ne peuvent pas accepter de tels envois pour les transporter, sauf s'il s'agit d'envois à destination de l'étranger. Les lettres de plus de 50 grammes et les colis font partie du \"service non réservé\", ce qui signifie que la Poste doit fournir ces services avec la concurrence des opérateurs privés. Les services concurrentiels comprennent des services que la poste peut, mais ne doit pas, fournir. Les envois express en sont un exemple."
+    },
+    {
+     "t": "p",
+     "text": "Quelles sont les prestations que la Poste doit fournir et celles qu'elle ne doit pas fournir? La présentation suivante indique les services pour lesquels la Poste a le droit de vendre en exclusivité et ceux qui peuvent également être proposés par des concurrents."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la Poste doit toujours remplir une mission de \"service public\". En contrepartie, elle reçoit l’exclusivité de distribuer les lettres de moins de 50 grammes."
+    }
+   ]
+  },
+  {
+   "id": "s-4-3-2",
+   "number": "4.3.2",
+   "title": "Transport des envois par la Poste suisse",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En principe, les envois (lettres et colis) déposés par le client auprès de la Poste sont collectés au lieu de dépôt et transportés par camion vers le centre de tri des lettres ou des colis le plus proche."
+    },
+    {
+     "t": "p",
+     "text": "Dans le centre de tri des lettres ou des colis, les envois sont enregistrés et triés. Si le lieu de destination de l'envoi se trouve dans la zone de desserte du centre, il est trié directement sur le district de distribution. Si la destination se trouve en dehors de la zone de desserte, l'envoi est acheminé par train vers le centre correspondant où il est réparti précisément. La distribution des envois depuis les centres se fait ensuite à nouveau par camion jusqu'aux régions de distribution du courrier (lettre) ou aux bases de colis. Là, le livreur prend en charge les envois et les remet au destinataire soit en scooter à trois roues (DXP), soit en voiture, soit en camionnette."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu veux vivre virtuellement le trajet d'un envoi postal? Alors clique ici."
+    }
+   ]
+  },
+  {
+   "id": "s-4-4",
+   "number": "4.4",
+   "title": "Le secteur des transports",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-4-4-1",
+   "number": "4.4.1",
+   "title": "Les services de document, d'express et de colis (DEC)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "A part la Poste suisse, il existe un grand nombre d'entreprises qui transportent des lettres et des colis de clients privés ou professionnels en Suisse et à l'étranger. Les trois plus grandes sont La Poste Suisse, DPD et DHL. Elles se partagent le marché suisse."
+    },
+    {
+     "t": "p",
+     "text": "En plus des trois plus grands prestataires, les entreprises peuvent également choisir parmi une multitude d'entreprises de messagerie qui transportent les envois chez le client à des vitesses différentes. Dans les villes, les coursiers à vélo sont particulièrement appréciés, car ils se déplacent plus rapidement dans un trafic en constante augmentation."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras ici une multitude de fournisseurs."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5",
+   "number": "4.5",
+   "title": "Exemples de distribution",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-4-5-1",
+   "number": "4.5.1",
+   "title": "Le transport de diverses marchandises",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En règle générale, les colis de plus de 30 kilos sont expédiés sur une palette. On parle alors de transport de colis unitaires."
+    },
+    {
+     "t": "p",
+     "text": "Différentes entreprises de transport se proposent pour ce type de transport. Elles vont chercher les palettes chez le fournisseur et les amènent à une plate-forme de transbordement appartenant à l'entreprise. Là, les envois sont triés par région pour former de nouveaux wagons complets qui sont ensuite livrés directement au destinataire par camion."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "A retenir: trouver une stratégie de distribution adaptée est important pour le succès de l'entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-4-5-2",
+   "number": "4.5.2",
+   "title": "Envoi de marchandises à l'étranger",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors de l'envoi de marchandises à des clients à l'étranger, il faut tenir compte non seulement des prescriptions spéciales en matière d'emballage, mais aussi du dédouanement et parfois du type d'assurance. Puisque chaque pays dispose de dispositions spéciales, on fait généralement appel à un spécialiste pour l’expédition internationale. En règle générale, il s'agit d’entreprises de transport qui organisent le transport des marchandises."
+    },
+    {
+     "t": "p",
+     "text": "Les incoterms Afin de simplifier le commerce au-delà des frontières nationales, des conditions de livraison valables au niveau international ont été créées, appelées International Commercial Terms (Incoterms). Les incoterms régissent les éléments contractuels suivants, entre vendeurs et acheteurs ou entre importateurs et exportateurs:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la répartition des coûts liés au conditionnement, au fret et aux assurances de transport;",
+      "l’obtention des documents obligatoires d’importation et d’exportation;",
+      "le paiement des droits de douane et des taxes;",
+      "le transfert des risques du vendeur à l’acheteur."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L'aperçu suivant montre dans quelle mesure l'expéditeur supporte les risques et les coûts:"
+    },
+    {
+     "t": "p",
+     "text": "Obligations de l'acheteur et du vendeur selon les INCOTERMS 2020 Tout moyen de transport Fret maritime et transport fluvial Tout moyen de transport EXW FCA FAS FOB CFR CIF CPT CIP DAP DPU DDP Emballage"
+    },
+    {
+     "t": "p",
+     "text": "Frais de chargement"
+    },
+    {
+     "t": "p",
+     "text": "Transport vers le site d'exportation"
+    },
+    {
+     "t": "p",
+     "text": "Droits d'exportation, taxes et dédouanement"
+    },
+    {
+     "t": "p",
+     "text": "Coûts du terminal lieu d'origine"
+    },
+    {
+     "t": "p",
+     "text": "Chargement sur le transport"
+    },
+    {
+     "t": "p",
+     "text": "Frais de transport"
+    },
+    {
+     "t": "p",
+     "text": "Assurance"
+    },
+    {
+     "t": "p",
+     "text": "Frais de terminal destination"
+    },
+    {
+     "t": "p",
+     "text": "Transport et destination"
+    },
+    {
+     "t": "p",
+     "text": "Droits d'importation, taxes et dédouanement"
+    }
+   ]
+  }
+ ]
+}

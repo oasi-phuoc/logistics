@@ -14,12 +14,17 @@ ROOT = Path(__file__).resolve().parent.parent
 DOCS = ROOT / "docs"
 OUT = ROOT / "content" / "raw"
 OUT.mkdir(parents=True, exist_ok=True)
+for existing in OUT.glob("*.json"):
+    existing.unlink()
 
 for pdf in sorted(DOCS.glob("*.pdf")):
     m = re.search(r"M(\d{3})", pdf.name)
     if not m:
         continue
-    code = m.group(1)
+    suffix = re.search(r"M\d{3}([^.]*)\.pdf$", pdf.name, re.IGNORECASE)
+    raw_suffix = suffix.group(1) if suffix else ""
+    part = re.search(r"(?:-|_)(\d+)(?:_|$)", raw_suffix)
+    code = f"{m.group(1)}-{part.group(1)}" if part else m.group(1)
     reader = PdfReader(str(pdf))
     pages = []
     for page in reader.pages:

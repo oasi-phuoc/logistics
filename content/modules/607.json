@@ -1,0 +1,268 @@
+{
+ "code": "607",
+ "title": "Le transport ferroviaire",
+ "domain": "600",
+ "pdf": "M607.pdf",
+ "pages": 11,
+ "words": 1592,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le mode de transport ferroviaire est bon marché, respectueux de l'environnement et particulièrement adapté au transport de grandes quantités de marchandises lourdes."
+    },
+    {
+     "t": "p",
+     "text": "Le transport ferroviaire de marchandises est une variante économique et écologique pour acheminer de grandes quantités de marchandises. En Suisse, le transport ferroviaire est très important. Il est extrêmement important pour les entreprises logistiques que l’interdiction de circulation de nuit des camions puisse être contournée. Typiquement, les transports interrégionaux et nationaux sont effectués par le rail. En revanche, la prise en charge chez les clients et les livraisons se font par la route. En Europe, les liaisons ferroviaires sont également importantes. La Suisse joue un rôle central dans le trafic nord-sud. Pour le trafic de l'Asie vers l'Europe, le rail gagne également en importance et est de plus en plus préféré au transport maritime. Cela est possible grâce à des investissements massifs dans"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "le réseau ferroviaire. La \"nouvelle route de la soie\" ( voir chapitre 7.1.3) contribue fortement à cette évolution. Chaque année, CFF Cargo SA transporte environ 29,8 millions de tonnes de marchandises nettes en trafic par wagons complets, par trains complets et en trafic combiné à l'intérieur de la Suisse. Cela correspond à près de 10 000 trajets de camion par jour. Le transport de marchandises par le rail présente plusieurs avantages par rapport aux autres modes de transport:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "plus rapide que le trafic maritime",
+      "moins cher que le transport aérien",
+      "beaucoup plus respectueux de l'environnement que les modes de transport par air, par eau et par route"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "•"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Exemple des ports rhénans Les ports rhénans suisses de la région de Bâle ont pour objectif de transférer 50 pour cent des conteneurs sur le rail. Ainsi, plus de 100'000 trajets de camions par an seraient transférés sur le rail et les routes du nord-ouest de la Suisse seraient ainsi fortement désengorgées. A titre de comparaison: en raison d'un manque d'efficacité dans les ports rhénans, 90 % des conteneurs quittent aujourd'hui les terminaux portuaires par camion et seulement 10 % par train. Pour atteindre cet objectif, la construction d'un nouveau bassin portuaire à Bâle est essentielle. Le \"Gateway Basel Nord\" permettra de relier encore"
+    },
+    {
+     "t": "p",
+     "text": "mieux les trois modes de transport - rail, route, eau - et contribuera à l'augmentation du trafic ferroviaire."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1",
+   "number": "7.1",
+   "title": "Les principaux itinéraires",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-7-1-1",
+   "number": "7.1.1",
+   "title": "Suisse",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Depuis toujours, la route nord-sud qui traverse la Suisse est importante pour toute l'Europe. Le tunnel du Gothard a été ouvert dès 1882, une première étape énorme dans l'histoire du transport ferroviaire à travers la Suisse. La NLFA (Nouvelle ligne ferroviaire à travers les Alpes) fait l'objet d'une section spécifique dans ce chapitre. La route ouest-est, qui relie Genève à la Suisse orientale via Berne et Zurich, est également très importante pour l'économie suisse."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-2",
+   "number": "7.1.2",
+   "title": "Europe",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sur cette carte de CFF Cargo, on voit clairement l'importance des liaisons nord-sud pour l'Europe. Depuis le traité de Maastricht (7 février 1992), les entreprises ferroviaires européennes sont autorisées à utiliser l'ensemble du réseau ferroviaire européen au-delà des frontières nationales."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-3",
+   "number": "7.1.3",
+   "title": "Global",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le transport ferroviaire n'a pas partout la même importance. C'est surtout dans le trafic de l'Asie vers l'Europe que le réseau ferroviaire est massivement renouvelé. Dans ce domaine, la Chine occupe jusqu'à présent une position dominante et investit fortement, aussi bien dans la voie maritime et de plus en plus dans la voie ferroviaire. La \"nouvelle route de la soie\" - \"Belt and Road Initiative\" (BRI) - voit le jour."
+    }
+   ]
+  },
+  {
+   "id": "s-7-1-4",
+   "number": "7.1.4",
+   "title": "La nouvelle ligne ferroviaire à travers les Alpes (NLFA)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les routes du Lötschberg et du Gothard sont les principales liaisons nord-sud à travers la Suisse. La nouvelle ligne ferroviaire à travers les Alpes (NLFA) est l'œuvre du siècle dont toute la Suisse profitera. Avec trois nouveaux tunnels de base à travers les Alpes et l'aménagement des lignes d'accès, elle rapproche le nord et le sud de la Suisse et de l'Europe. Le tunnel de base du Lötschberg, long de 34,7 kilomètres, est en service depuis 2007. Le tunnel de base du Saint-Gothard a été mis en service en 2016 et est, avec ses 57 kilomètres, le plus long tunnel ferroviaire du monde. En 2020, la NLFA a été achevée avec la mise en service du tunnel de base (du Ceneri au tessin,15.4 km inauguré le 04 septembre 2020) Dans le domaine du transport de marchandises, la ligne de plaine renforce le transport ferroviaire respectueux de l'environnement."
+    },
+    {
+     "t": "p",
+     "text": "Les avantages de la NLFA Plus de capacité"
+    },
+    {
+     "t": "p",
+     "text": "Le trafic marchandises dispose de 210 créneaux quotidiens sur l'axe de transit. En raison des travaux d'achèvement en cours dans le tunnel de base du Saint-Gothard, la capacité totale de 260 créneaux n’a pu être offerte qu'à la fin 2022. Gain de temps Le temps de trajet de Rotterdam à Milan est réduit d'environ deux heures. Des trains plus longs, plus lourds et plus rapides Depuis décembre 2020, les trains de marchandises d'une longueur maximale de 750 mètres et d'un poids maximal de 2’100 tonnes dans le sens de circulation nord-sud et de 2’000 tonnes dans le sens de circulation sud-nord peuvent circuler sur cet axe. La vitesse maximale pour les trains de marchandises est en général de 100 km/h. Des transports plus durables Après une phase de mise en place, la capacité quotidienne a été portée à plus de 3’000 emplacements pour semi-remorques à partir de fin 2022. Pour chaque semi-remorque transportée par le rail, CFF Cargo économise 0,3 tonne de CO2. Cela correspond à environ 60'000 ballons de baudruche remplis de CO2. Si les capacités sont pleinement exploitées, 890 tonnes de CO2 peuvent être économisées chaque jour."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "A retenir: le coût total de la NLFA s'élève à plus de 22.6* milliards de francs. *(source: www.rts.ch > info > suisse > 11562641) 04 sept. 2020"
+    }
+   ]
+  },
+  {
+   "id": "s-7-2",
+   "number": "7.2",
+   "title": "Forces dynamiques dans le transport ferroviaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le trafic ferroviaire, le passage d'aiguillages ou les manœuvres exercent parfois de fortes contraintes sur les marchandises transportées. Force de décélération Dans une gare de triage, le wagon de marchandises qui est poussé seul sur une voie (le laisser-couler), doit pouvoir supporter jusqu'à 4 g en cas de choc avec un wagon de marchandises en attente sur la voie de destination."
+    },
+    {
+     "t": "p",
+     "text": "Vibration (forces agissant verticalement) et force centrifuge Les vibrations d'environ 0,3 g sont moins violentes que les force de décélération. Elles surviennent lors du franchissement d'aiguillages et dans les virages."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-1",
+   "number": "7.2.1",
+   "title": "Sécuriser les wagons",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Avant de commencer à charger des marchandises, les véhicules doivent être correctement sécurisés."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras plus d'informations sur la sécurité des véhicules ici."
+    }
+   ]
+  },
+  {
+   "id": "s-7-2-2",
+   "number": "7.2.2",
+   "title": "Charger correctement les marchandises",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Obligations du chargeur/client"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Conformément à l'article 13, alinéa 2 des CIM ( Règles uniformes concernant le contrat de transport international ferroviaire des marchandises), le chargeur/client est responsable de toutes les conséquences d'un chargement défectueux. Conformément aux Conditions générales de vente (CGV) de CFF Cargo, le client est responsable du respect des directives de chargement et des limites de charge ainsi que de l'indication correcte du poids sur la lettre de voiture. Chaque surcharge ou erreur de chargement coûte du temps et de l'argent. Les précautions suivantes permettent de s'assurer que la marchandise arrive à destination à temps et en toute sécurité:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Charger et sécuriser la marchandise selon les directives de chargement",
+      "Répartir le chargement uniformément dans le wagon",
+      "Évitez de charger jusqu'à la limite de charge maximale autorisée pour les marchandises pouvant absorber l'humidité en fonction des conditions météorologiques (bûches, copeaux de bois, sable, gravier, etc.)",
+      "Utiliser les équipements de pesage existants (pont bascule, pelleteuse, convoyeur à bande, grue, etc.)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Il est très important de répartir correctement le poids. Le poids le plus important doit reposer sur les essieux. En général, le poids doit être réparti de manière uniforme. Des cloisons ou des coussins d'air (gonflables) peuvent être utilisés pour rendre le chargement plus compact."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Exemples de répartition de la charge"
+    },
+    {
+     "t": "p",
+     "text": "Arrimage du chargement avec des coussins d'air au milieu du wagon:"
+    },
+    {
+     "t": "p",
+     "text": "Sécurisation du chargement avec des parois verrouillables:"
+    },
+    {
+     "t": "p",
+     "text": "Ne jamais charger les marchandises fragiles directement contre les parois frontales!"
+    },
+    {
+     "t": "p",
+     "text": "Charge par essieu max. dans un rapport de 1: 2 (ex.: essieu gauche 5 t = essieu droit max. 10 t)"
+    },
+    {
+     "t": "p",
+     "text": "Charge maximale des bogies dans un rapport de 1:3 (ex.: bogie* gauche 7 t = bogie droit max. 21 t)"
+    },
+    {
+     "t": "p",
+     "text": "Un exemple de répartition idéale de la charge dans le sens transversal: le poids du chargement d'un côté ne doit pas dépasser celui du côté opposé de plus de 25%, ou d'un facteur 1,25, voir l'exemple de calcul:"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: un bon chargement des wagons de chemin de fer permet d'éviter des dommages, voire des accidents."
+    },
+    {
+     "t": "p",
+     "text": "*bogie, est un chariot situé sous un véhicule ferroviaire, sur lequel sont fixées les essieux (et donc les roues)"
+    }
+   ]
+  },
+  {
+   "id": "s-7-3",
+   "number": "7.3",
+   "title": "Transport de marchandises dangereuses",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les wagons de marchandises qui transportent des matières et des marchandises dangereuses doivent être marqués avec la classe de danger et le numéro ONU."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Exemple: N° de danger 33* N°ONU 1203**"
+    },
+    {
+     "t": "p",
+     "text": "* Le n° de danger 33 signifie 3 = liquides ou vapeurs inflammables ou spontanément inflammables. La double mention 33 indique une dangerosité particulière. **N°ONU 1203 = essence"
+    }
+   ]
+  },
+  {
+   "id": "s-7-4",
+   "number": "7.4",
+   "title": "Un regard sur l'avenir",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "D'autres grands projets sont prévus dans le domaine du transport ferroviaire en Suisse et en Europe afin d'accélérer le transfert du trafic de marchandises de la route vers le rail. Avec Cargo Sous Terrain (CST), des possibilités s'offriront à l'avenir pour transférer une partie du trafic de marchandises de la route et"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "du rail vers le sous-sol. Le CST est décrit plus en détail dans le module 610. De nouvelles possibilités s'ouvrent également dans le domaine du transport de personnes. Alors que sur la route, les voitures électriques et à conduite autonome sont de plus en plus à l'ordre du jour, des entreprises innovantes testent des systèmes de tubes rapides (par exemple avec l'Hyperloop) qui pourraient concurrencer les trains à grande vitesse dans le transport ferroviaire, dans un avenir plus ou moins lointain."
+    }
+   ]
+  }
+ ]
+}

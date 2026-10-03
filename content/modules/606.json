@@ -1,0 +1,283 @@
+{
+ "code": "606",
+ "title": "Le transport routier",
+ "domain": "600",
+ "pdf": "M606.pdf",
+ "pages": 13,
+ "words": 1866,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La route, en tant que moyen de transport, est flexible et économique, ce qui la rend particulièrement adapté à la distribution de marchandises. Que ce soit par camion ou par scooter électrique, la distribution par la route se fait à des heures choisies individuellement."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 606"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-6-1",
+   "number": "6.1",
+   "title": "Le trafic routier",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Bien qu'une redevance sur le trafic des poids lourds liée aux prestations (RPLP)"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "soit perçue en Suisse depuis 2001 (voir chapitre 6.2.5), le transport routier reste très avantageux. Il convainc par une énorme flexibilité et une grande liberté d'organisation, quels que soient les produits à livrer, à quel moment et à quel endroit. Le transport routier est le partenaire parfait pour la distribution détaillée des marchandises. Malheureusement, l'énorme popularité du transport routier entraîne de plus en plus d'embouteillages. De plus, en Suisse, le transport routier est fortement réglementé et encadré par la loi, par exemple par des interdictions de circuler la nuit, le dimanche et les jours fériés, des réglementations sur le temps de conduite, etc. Le transport de personnes et de marchandises en Suisse est très dense sur le plateau. La densité du trafic ne cesse d'augmenter et provoque régulièrement des embouteillages aux goulets d'étranglement. Un aménagement constant doit permettre de remédier à cette situation. La principale liaison du nord au sud passe par le tunnel routier du Gothard et est empruntée quotidiennement par de nombreux véhicules."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras ici de plus amples informations sur le transport de marchandises."
+    },
+    {
+     "t": "p",
+     "text": "Les poids lourds suisses transportent en grande partie des marchandises qui sont importantes pour l'approvisionnement de la population. En 2019, le transport de denrées alimentaires a occupé la première place."
+    }
+   ]
+  },
+  {
+   "id": "s-6-1-1",
+   "number": "6.1.1",
+   "title": "Forces dynamiques dans le trafic routier",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tout mouvement génère des forces dynamiques. Les accélérations et décélérations sont mesurées en m/s2 (mètres par seconde au carré, également appelé Newton). L'accélération de la pesanteur est d'environ 10 m/s2. Une masse d'un kilogramme est donc maintenue sur la terre avec une force de 10 newtons. L'accélération de 10 m/s2 (9,81 exactement) s'appelle donc 1 g (gravitation)."
+    },
+    {
+     "t": "p",
+     "text": "Force d'accélération"
+    },
+    {
+     "t": "p",
+     "text": "Force de décélération"
+    },
+    {
+     "t": "p",
+     "text": "Force centrifuge"
+    },
+    {
+     "t": "p",
+     "text": "Forces verticales (vibrations)"
+    },
+    {
+     "t": "p",
+     "text": "Force d'accélération Tout mouvement d'une masse nécessite une force, donc également l'accélération. Plus l'accélération est forte et plus la masse est lourde, plus la force en jeu est importante. Les spécialistes parlent de force d'accélération. Une personne qui accélère sa voiture de zéro à 100 km/h en dix secondes est plaquée contre le dossier du siège avec une force correspondant à environ 28 % du poids de son corps. Les forces d'accélération agissent dans le sens inverse de la marche, c'est-à-dire vers l'arrière. Leur intensité dépend de la force motrice du véhicule. Force de décélération Il n'y a pas que l'accélération d'une masse qui nécessite une force. Pour freiner une masse en mouvement, il faut la même force que celle qui a été nécessaire pour l'accélérer. Dans le jargon technique, il s'agit de la force de décélération. Elle est basée sur l'inertie d'une masse. En termes simples, toute masse \"résiste\" aux changements de son mouvement. Cette inertie est également ressentie lors du freinage. Des forces de décélération allant jusqu'à 1 g ne sont pas rares. Une personne de 80 kg est poussée vers l'avant avec 800 N lors de cette décélération. Elle ressent cela comme si 80 kilos pesaient sur elle. Comme la force de freinage des véhicules est généralement plus importante que la force de propulsion, la force de décélération qui se produit est bien plus grande que la force d'accélération. Force centrifuge Lorsque l'on prend un virage, on ressent une force qui nous tire vers l'extérieur: la force centrifuge. Ce terme décrit de manière pertinente le fait qu'une masse cherche à \" sortir \" du virage lorsqu'il est négocié. L'intensité de cette force centrifuge dépend du rayon du virage et de la vitesse du véhicule. L'influence de la vitesse est souvent sous-estimée. Cela arrive particulièrement souvent lorsque les conducteurs se sont habitués à la vitesse, par exemple après un trajet sur l'autoroute. Les forces augmentent au carré par rapport à la vitesse. Cela vaut également pour la force centrifuge. Un doublement de la vitesse dans un virage entraîne donc un quadruplement de la force centrifuge. Si la surface de chargement s'incline en raison de la suspension, l'effet est renforcé. Si le chargement peut se déplacer latéralement, le véhicule peut même se renverser."
+    },
+    {
+     "t": "p",
+     "text": "Force verticale (vibrations) Lors du trajet sur la route, des forces verticales agissent également, surtout sous forme de secousses, d'oscillations et de vibrations. Ces forces verticales supplémentaires ne suffisent pas à soulever le chargement de la surface de chargement, mais elles réduisent le frottement ou l'adhérence. Les vibrations peuvent littéralement faire perdre à un chargement, son adhérence au sol et le faire glisser. Un chargement qui n'adhère pas suffisamment au sol représente donc un danger. Les forces verticales sont contrecarrées par l'arrimage du chargement."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: les forces dynamiques permettent de comprendre comment sécuriser un chargement."
+    }
+   ]
+  },
+  {
+   "id": "s-6-1-2",
+   "number": "6.1.2",
+   "title": "Sécuriser le véhicule",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Avant de commencer à charger des marchandises, les véhicules doivent être correctement sécurisés."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras plus d'informations sur la sécurité des véhicules ici."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2",
+   "number": "6.2",
+   "title": "La répartition de la charge",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-6-2-1",
+   "number": "6.2.1",
+   "title": "Bases légales",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La répartition et l'arrimage de la charge des marchandises sont régis par la loi. Celle-ci stipule que les chargements doivent être placés sur un véhicule de manière qu'il n'y ait pas trop ou pas suffisamment de poids sur les essieux respectifs. La loi stipule que le chargement sur un véhicule doit être positionné de telle sorte que:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "au moins 20 % du poids effectif du véhicule se trouvent sur l'essieu directeur",
+      "au moins 25 % du poids effectif du véhicule se trouvent sur l'essieu tracteur",
+      "les charges maximales par essieu ne sont pas dépassées",
+      "le poids total du véhicule est respecté."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Dans le permis de circulation, on peut voir entre autres les données suivantes, qui sont importantes pour le chargement et la répartition de la charge:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "charges maximales par essieu",
+      "le poids à vide",
+      "la charge utile",
+      "le poids total"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Cela signifie que la répartition de la charge est effectuée de manière que le véhicule concerné puisse être utilisé sans restriction dans toutes les situations de circulation. Cela permet d'éviter les accidents."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-2",
+   "number": "6.2.2",
+   "title": "Chargement et sécurisation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le chargement peut être chargé et sécurisé sur un véhicule de la manière suivante:"
+    },
+    {
+     "t": "p",
+     "text": "L'arrimage de blocage"
+    },
+    {
+     "t": "p",
+     "text": "L'arrimage de blocage est adapté lorsque les marchandises sont en contact de tous les côtés avec les parois de la surface de chargement (paroi frontale, paroi latérale droite et gauche et paroi arrière). Ainsi, le chargement ne peut pas se déplacer. L’arrimage de force"
+    },
+    {
+     "t": "p",
+     "text": "Il y a l'arrimage de force lorsque les marchandises sont positionnées librement sur le pont de chargement. Le chargement n'est pas en contact avec les limites de l'espace de chargement et pourrait glisser sans être sécurisé. Dans cette variante, l'exigence en matière d'arrimage du chargement est très élevée. Avec plan de répartition de la charge utile"
+    },
+    {
+     "t": "p",
+     "text": "Un plan de répartition de la charge utile permet de déterminer si le chargement complet peut être positionné contre la paroi frontale."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-3",
+   "number": "6.2.3",
+   "title": "Le chargement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les supports de charge (palettes) peuvent être chargés transversalement, longitudinalement ou de manière mixte (transversalement et longitudinalement) sur le véhicule. Si un itinéraire de déchargement spécifique est prévu, la planification de l'itinéraire doit être prise en compte lors de la répartition de la charge. Lors de la planification de l'itinéraire, le chargement est effectué selon le principe LIFO (Last in, First out)."
+    },
+    {
+     "t": "p",
+     "text": "Procédure de répartition de la charge 1. déterminer le chargement en tant que bloc de chargement (longitudinal, transversal ou mixte) et déterminer le centre de gravité du chargement (qui doit se trouver au milieu du bloc de chargement)"
+    },
+    {
+     "t": "p",
+     "text": "2. Calculer la longueur du bloc de chargement déterminé (longueur, largeur des palettes)."
+    },
+    {
+     "t": "p",
+     "text": "3. Placer le chargement au centre de la surface de chargement (charger selon le principe LIFO conformément au plan d'acheminement). Répartir les palettes uniformément en fonction des poids par rapport au centre de gravité du bloc de chargement."
+    },
+    {
+     "t": "p",
+     "text": "4. La procédure pour le chargement avec un plan de répartition de la charge utile est la même. Il faut toutefois vérifier si la distance du centre de gravité de la charge se situe dans la \"zone verte\". Dans le cas contraire, le chargement ne doit pas être effectué directement contre la paroi frontale."
+    }
+   ]
+  },
+  {
+   "id": "s-6-2-4",
+   "number": "6.2.4",
+   "title": "La sécurisation de la charge",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Outre la répartition de la charge, il est également très important de sécuriser le chargement pour éviter qu'il ne glisse pendant le trajet. Conformément à la loi, le chargement sur un véhicule doit être arrimé contre toutes les forces dynamiques. Les marchandises peuvent être arrimées sur le véhicule à l'aide de différents moyens de sécurisation de la charge. Sangles d'arrimage Chaînes d'arrimage Filet de sécurité"
+    },
+    {
+     "t": "p",
+     "text": "Tapis antidérapants Barres de blocage horizontales et verticales Coussin d'air (gonflable)"
+    }
+   ]
+  },
+  {
+   "id": "s-6-3",
+   "number": "6.3",
+   "title": "Redevance poids lourds liée aux prestations (RPLP)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Depuis début 2005, les trains routiers et les véhicules articulés d'un poids total de 40 tonnes maximum sont autorisés en Suisse. Ce poids total est déjà en vigueur depuis plus longtemps dans l'UE. Cette nouvelle limite de poids a été convenue dans des accords bilatéraux (contrats entre l'UE et la Suisse). La Suisse souhaite toutefois transférer sur le rail la plus grande partie possible du trafic de transit à travers les Alpes. En septembre 1998, les électeurs suisses ont approuvé à une nette majorité la redevance sur le trafic des poids lourds liée aux prestations (RPLP) lors d'une votation populaire. Celle-ci a été introduite début 2001. La redevance s'applique, à quelques exceptions près, à tous les véhicules à moteur de plus de 3,5 tonnes de poids total. Afin d'encourager les entreprises de transport à acquérir des véhicules peu polluants, la RPLP est perçue sur la base des émissions (valeurs des gaz d'échappement) des véhicules. Les véhicules présentant de faibles valeurs de gaz d'échappement sont moins taxés que ceux dont les valeurs mesurées sont plus élevées. Le kilométrage des véhicules suisses est déterminé par un appareil de saisie électronique fixe. Celui-ci est couplé au tachygraphe et enregistre automatiquement les kilomètres parcourus. Une antenne GPS (GPS = Global Positioning System) permet de contrôler les kilomètres parcourus. Les véhicules étrangers font installer l'appareil de saisie ou paient les taxes à la douane avec une carte à puce."
+    },
+    {
+     "t": "p",
+     "text": "Les objectifs de la RPLP sont"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Limiter la hausse du trafic routier lourd.",
+      "Favoriser le transfert du transport de marchandises vers le rail.",
+      "Réduire l'impact sur l'environnement."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Utilisation de la RPLP Un tiers des recettes nettes de la RPLP est versé aux cantons, deux tiers à la Confédération. Les cantons utilisent leur part pour compenser les coûts non couverts du trafic routier. La Confédération utilise principalement ses recettes pour promouvoir des projets ferroviaires et des mesures de réduction du bruit (NLFA, Rail 2000, raccordement au réseau européen à grande vitesse). Les données des véhicules sont transmises chaque mois à l'administration des douanes. Celle-ci établit une facture par véhicule."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: Les coûts de la RPLP sont élevés pour une entreprise de transport. Il est donc rentable d'acquérir des véhicules récents et de préserver ainsi l'environnement."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple tiré d'EnterSite AG: Un camion se rend du siège principal de Rupperswil à la succursale de Marly. Il parcourt 122 km."
+    },
+    {
+     "t": "p",
+     "text": "Comme nous conduisons un camion plus ancien (EURO 5) et qu'il est immatriculé pour 26 tonnes, nous devons payer au total 98.35 francs rien que pour les taxes RPLP. Mais avec un camion plus récent (EURO 6), ce montant ne serait plus que de 72.30 francs."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Voici le lien vers le calculateur RPLP"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,287 @@
+{
+ "code": "616-1",
+ "title": "Principes",
+ "domain": "600",
+ "pdf": "M616-1_dist.pdf",
+ "pages": 12,
+ "words": 3336,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "321 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique 1 – Voyage de découverte au centre de tri Les envois sont transportés dans des centres de tri où ils sont traités. Les ma - chines et les outils utilisés diffèrent selon qu’il s’agit de lettres ou de colis. Les pro - cessus de travail varient également en conséquence. Le principe de base du tri est toutefois le même pour les deux types d’envois: il y a toujours un premier et un deuxième tri."
+    }
+   ]
+  },
+  {
+   "id": "s-16-1",
+   "number": "16.1",
+   "title": "Notions de base",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans un centre de tri, il existe de nombreux termes techniques qui décrivent com - ment les envois sont traités et distribués. Pour t’aider à mieux comprendre le pro - cessus, nous t’expliquons ici les termes les plus importants de manière simple et claire."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le commissionnement signifie que les articles d’un assortiment ( entrepôt ) sont regroupés sur la base d’ordres de clients.",
+      "Lors de la préparation des envois, les envois sont préparés pour la suite du traitement dans le centre de tri, par exemple par offre de prestations ou type de traitement.",
+      "La région de desserte est la région pour laquelle un centre de tri assure le tri secondaire. Elle est définie dans les tableaux d’acheminement.",
+      "Les centres colis régionaux trient les envois dans certaines régions et souti - ennent ainsi les grands centres de tri principaux. Cela permet de réduire les trajets et les temps de distribution.",
+      "Le tri de dépôt désigne la première phase de tri lorsque l’envoi n’est pas distri - bué dans la région de desserte du centre de tri et fait l’objet d’un tri secondaire dans un autre centre.",
+      "Le tri distribution est le deuxième tri et signifie qu’un envoi est distribué dans la région de desserte du centre de tri et fait donc l’objet d’un tri secondaire dans le même centre de tri.",
+      "Avec le tri séquentiel ( GFS ), les envois sont triés dans l’ordre dans lequel le personnel de distribution les livrera plus tard lors de sa tournée.",
+      "Les bases de distribution sont les offices de distribution. Là, les factrices et les facteurs chargent les envois dans leur véhicule et démarrent leur tournée de distribution."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "322"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La clinique des colis répare les colis qui ont été endommagés dans les centres de tri."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-16-2",
+   "number": "16.2",
+   "title": "Le processus de tri – un aperçu",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les envois arrivent au centre de tri par l’entrée des marchandises. Ils y sont préparés pour le tri ( préparation des envois ) et triés pour la première fois. Selon le but de tri, le deuxième tri a lieu soit dans le même centre de tri, soit dans un aut - re. Ensuite, les envois sont regroupés pour le transport aux bases de distribution ( commissionnement ) et acheminés via la sortie des marchandises."
+    }
+   ]
+  },
+  {
+   "id": "s-16-3",
+   "number": "16.3",
+   "title": "Tri de distribution et tri de dépôt: l’exemple de la Poste",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Suisse compte trois centres de tri principaux ( centres colis, PZ ). Chaque cen - tre est attribué à une région de desserte pour laquelle il prend en charge le tri de dépôt. Après le dépôt, les colis sont transportés vers le centre de tri compétent. C’est là qu’a lieu la première phase de tri ( tri de dépôt ). À l’aide du numéro postal d’ache - minement, on vérifie si le colis est distribué dans la région de desserte du centre ou s’il appartient à une autre région. L ’attribution des NPA aux centres de tri est définie dans des tableaux d’acheminement. Après le premier tri, les colis distribués en dehors de la région de desserte arrivent dans l’autre centre compétent, où ils sont traités lors de la deuxième phase de tri. Les colis au sein de la région de desserte passent par le tri de distribution dans le même centre."
+    }
+   ]
+  },
+  {
+   "id": "s-16-4",
+   "number": "16.4",
+   "title": "Centres colis régionaux",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les centres de tri principaux sont soutenus par des centres colis régionaux ( CCR ). Ceux-ci sont installés sur des sites où ils sont nécessaires pour un traitement dans les délais et économiquement judicieux. À la Poste, ces centres se trouvent entre autres à Vétroz, Ostermundigen, Utzenstorf, Pratteln, Härkingen, Buchs AG, Rüm - lang, Urdorf, Untervaz et Cadenazzo."
+    },
+    {
+     "t": "p",
+     "text": "323 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-16-5",
+   "number": "16.5",
+   "title": "Tri des lettres: l’exemple de la Poste",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans ce chapitre, nous examinons les différentes étapes qu’une lettre franchit lors de son parcours à travers le centre de tri du courrier, de l’entrée à la sortie des marchandises. Un aperçu de ces postes est représenté dans l’illustration ci-des - sous."
+    },
+    {
+     "t": "p",
+     "text": "324 1. Logistique du site La logistique de site est responsable de tous les processus logistiques sur le site d’exploitation en dehors du centre courrier. Elle régit le flux des envois de lettres qui arrivent par camion ou par train. Un système de gestion de site permet de gérer correctement les véhicules sur le site et de les affecter aux portes de char - gement et déchargement appropriées. La logistique de site évite ainsi les embou - teillages et aide les chauffeurs à bien s’y retrouver sur le site."
+    },
+    {
+     "t": "p",
+     "text": "2. Entrée des marchandises L ’entrée des marchandises est l’endroit où le véhicule se range devant un quai du centre courrier. Les envois non triés y sont déchargés, soit automatiquement par des robots, soit manuellement par des membres du personnel. Ces envois pro - viennent par exemple de l’évacuation des offices de poste, de levées de boîtes aux lettres ou de prises en charge et de livraisons directes chez les gros clients. Les lettres sont ensuite acheminées vers les zones de traitement les plus proches via des installations de transport. Envois à destination unique les envois déposés, comme PromoPost ou les journaux, sont directement transmis au commissionne - ment ou à la sortie des marchandises. 3. Préparation des envois Lors de la préparation des envois, les envois entrants sont triés par format ( format normal ou grand format ), processus de traitement ( automatique ou manuel ) et produit ( Courrier A ou B ). Ils sont ensuite oblitérés et acheminés soit directement au tri ( Courrier A ), soit à un entreposage intermédiaire ( Courrier B ). Les envois qui ont déjà été préparés au point de dépôt arrivent directement dans le bon canal de traitement lors de l’entrée des marchandises, c’est-à-dire soit au tri, soit à l’entrepôt intermédiaire."
+    },
+    {
+     "t": "p",
+     "text": "4. Tri Les lettres de format normal et de grand format sont triées automatiquement ou manuellement en fonction du type d’envoi. Trois types de machines sont dispo - nibles pour le tri des envois de format normal: IRV, DBCS et GFSA. Les grands for - mats sont traités avec l’unité de tri pour les envois de grand format. Les envois volumineux ( manuels ), PromoPost et les journaux sont également triés. Le tri s’articule autour des processus de traitement suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Tri automatique d’envois de format normal ( FN automatique )",
+      "Tri automatique d’envois de grand format ( GF automatique )",
+      "Tri manuel d’envois de format normal ( FN manuel/gros objets )",
+      "Tri manuel d’envois de grand format ( GF manuel/gros objets )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "325 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Les envois arrivent tout d’abord au tri préalable ( poste d’alimentation ) et sont ensuite codés. Dans de nombreux cas, les machines reconnaissent automatique - ment l’adresse, même si elle est écrite à la main. Si cela n’est pas possible, un cod - age manuel est effectué: les collaborateurs de la Poste lisent l’adresse sur un écran et saisissent manuellement le numéro postal d’acheminement à quatre chiffres dans le centre de codage. Une fois codés, les envois sont automatiquement triés puis répartis dans les ca - siers de destination correspondants. La séparation s’effectue selon ce que l’on ap - pelle des buts de tri. On distingue les cas suivants: Pré-tri"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Poste d'alimentation",
+      "Codage",
+      "Tri"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Tri d'entrée dans le même centre courrier Tri de sortie – transport vers un autre centre de traitement Les envois faisant l’objet d’un tri secondaire dans un autre centre courrier ou lo - gistique doivent être acheminés directement vers le commissionnement et trans - portés le plus rapidement possible vers le centre de tri compétent. Les envois qui se trouvent dans la région de desserte du premier centre de tri y font l’objet d’un tri secondaire. Vient ensuite l’étape de tri suivante: le tri de distribution. Dans cette étape, les lettres sont triées jusqu’à la circonscription de distribution. Les très petites loca - lités constituent une exception: le tri n’y est effectué que jusqu’au niveau du numéro postal d’acheminement."
+    }
+   ]
+  },
+  {
+   "id": "s-16-6",
+   "number": "16.6",
+   "title": "Le tri séquentiel",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le tri séquentiel ( GFS ) est de plus en plus utilisé. Les envois ne sont pas triés uniquement par circonscription de distribution, mais directement selon la tournée de distribution des facteurs. Dans le cadre du tri séquentiel, le tri de distribution est généralement suivi de deux à trois phases de tri supplémentaires. À la fin de ce processus, les envois au sein de chaque circonscription de distribution sont triés dans l’ordre exact pour la distribution, jusqu’aux noms individuels ou aux batteries de boîtes aux lettres. Après le tri secondaire, les envois sont déposés dans des conteneurs à lettres ( BB ). Ceux-ci arrivent au processus partiel suivant via l’installation de transport de conteneurs: le commissionnement."
+    },
+    {
+     "t": "p",
+     "text": "326 5. Commissionnement Lors du commissionnement, les envois sont déposés automatiquement ou manu - ellement dans des conteneurs à lettres ( BB ). Ceux-ci sont ensuite empilés dans des conteneurs collectifs ( SB ) et préparés pour le chargement à la sortie des marchandises."
+    },
+    {
+     "t": "p",
+     "text": "6. Sortie des marchandises À la sortie des marchandises, les conteneurs collectifs sont chargés dans des ca - mions ou des wagons. Les envois qui font l’objet d’un tri secondaire dans un autre centre sont en général transportés en train. En revanche, les envois déjà triés avec précision pour les bases de distribution et les offices de poste sont acheminés par la route. Étant donné qu’aujourd’hui, on envoie moins de lettres, mais nettement plus de colis, le tri des lettres et des colis s’effectue de plus en plus dans le même bâti - ment, mais toujours selon deux processus distincts."
+    }
+   ]
+  },
+  {
+   "id": "s-16-7",
+   "number": "16.7",
+   "title": "Outils et machines de tri",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Outre un grand nombre de collaboratrices et collaborateurs engagés, les centres de tri disposent également de nombreuses installations techniques. Sans cette combinaison, le traitement des volumes d’envois quotidiens ne serait pas possible."
+    }
+   ]
+  },
+  {
+   "id": "s-16-7-1",
+   "number": "16.7.1",
+   "title": "Outils techniques dans le centre courrier",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "327 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL 1. Installation CFC pour la préparation automatique des envois. Les envois sont triés par format et par type de traitement. 2. Machine intégrée de lecture automatique et de vidéocodage ( IRV ) pour les envois de format normal. 3. Robot de portail pour déchargement automatique des BB depuis les SB à l’entrée des marchandises. 4. Casier pour tri manuel des envois de format normal. 5. Unité de tri pour les envois de grand format. 6. Machine de tri séquentiel ( GFSA ): trie les lettres jusqu’à la tournée du person - nel de distribution."
+    }
+   ]
+  },
+  {
+   "id": "s-16-8",
+   "number": "16.8",
+   "title": "Tri des colis: l’exemple de la Poste",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans ce chapitre, nous montrons comment un centre colis de la Poste traite les envois, de la livraison à la sortie des marchandises. L ’ensemble du déroulement se compose de plusieurs processus partiels. L ’illustration suivante en donne un aperçu."
+    },
+    {
+     "t": "p",
+     "text": "328 Poste 1: Entrée des marchandises Les colis non triés sont déchargés à l’entrée des marchandises. Les envois en - dommagés sont mis à l’écart et acheminés vers la clinique des colis. Les envois qui ne font pas partie des colis ou des envois express sont également retirés de la chaîne logistique et remis le plus rapidement possible à l’unité compétente. L’aptitude au traitement mécanique est ensuite vérifiée. Cela signifie que les colis qui ne peuvent pas être traités mécaniquement en raison de leurs dimen - sions ou de leur poids ( p. ex. rouleaux, caisses en bois ou encombrants ) sont directement transmis au tri manuel. Tous les autres envois sont déposés sur la bande transporteuse avec l’adresse vers le haut. C’est là que commence l’étape de traitement suivante: l’identifica - tion automatique. Poste 2: Identification Lors de l’identification, le système de codage automatique ( ACS ) lit les adres - ses des destinataires des colis. Les envois de la clientèle commerciale sont pesés et mesurés en plus afin que le prix d’expédition puisse être calculé automa - tiquement. Le code à barres permet d’attribuer directement les frais d’expéditi - on au compte client correspondant. Les colis dont l’adresse n’est pas reconnue automatiquement sont transmis au vidéocodage ( VCS ). Le système affiche alors une photo du colis sur un écran. Une collaboratrice ou un collaborateur lit l’adresse du destinataire et saisit ma - nuellement les données dans le système. Si aucune adresse ne peut être déterminée lors du vidéocodage, l’envoi est transmis soit au codage manuel ( MCS ) soit directement à la base de distri - bution. Les clients importants transmettent leurs données d’envoi par voie numérique dès l’emballage. Ainsi, toutes les informations nécessaires sont déjà disponibles à l’arrivée de l’envoi au centre de tri. Après l’identification, les colis sont acheminés vers le tri préalable. Poste 3: Tri Au Tri, on décide où le colis fera l’objet d’un tri secondaire. Si le lieu cible se trou - ve dans la région de desserte du centre colis actuel, le tri secondaire est effectué directement sur place – cette opération s’appelle tri de distribution. Si le lieu cible se trouve en dehors de la région de desserte, le colis est réacheminé vers un autre centre colis où le tri secondaire a lieu. Dans ce cas, on parle de tri de dépot."
+    },
+    {
+     "t": "p",
+     "text": "329 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Poste 4: Sortie des marchandises d'autres centres Lors de la sortie des marchandises pour les « autres centres », les rollbox sont chargés dans des caisses mobiles. Les colis sont parfois empilés en vrac dans les caisses mobiles. La suite du transport vers le centre colis compétent s’effectue en règle générale par train. Poste 5: Sortie des marchandises À la sortie des marchandises, les rollbox sont chargés dans des caisses mobiles ou directement dans des camions. Ensuite, un véhicule de site prépare les cais - ses mobiles pour la suite du transport sur rail ou sur route. De là, ils arrivent à la base de distribution compétente."
+    }
+   ]
+  },
+  {
+   "id": "s-16-9",
+   "number": "16.9",
+   "title": "Outils techniques au centre colis",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans chaque secteur du tri, différentes installations techniques sont utilisées pour soutenir et accélérer le traitement des colis. Les principaux outils sont par exemple:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Machines de tri à plateaux inclinables",
+      "Machines de tri à tiroirs transversaux",
+      "Bandes transporteuses",
+      "Convoyeurs verticaux et horizontaux",
+      "Systèmes de transport sans conducteur ( FTS )",
+      "Robots industriels"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ces installations prennent en charge différentes tâches, du transport aux charge - ment et déchargement automatisés, en passant par le tri. Examinons de plus près trois machines de tri:"
+    },
+    {
+     "t": "p",
+     "text": "330 1. Machine de tri à plateaux inclinables La machine de tri à plateaux inclinables est composée de plateaux de transport sur lesquels les envois sont transportés par le centre de tri. Dès qu’un plateau se trouve à la hauteur du point de sortie prévu, il bascule automatiquement et l’en - voi glisse dans la glissière correspondante. Chaque plateau peut contenir au maximum un envoi. Les colis volumineux qui ne tiennent pas sur un plateau sont déposés sur deux plateaux voisins qui sont basculés en même temps. Un défi particulier de la machine de tri à plateaux inclinables est le comporte - ment de glissement différent des envois. Par exemple, un carton glisse moins bien qu’un colis dans un récipient réutilisable en plastique lisse. Cela peut avoir pour conséquence que tous les envois ne quittent pas le plateau exactement à l’end - roit souhaité. 2. Machine de tri à bandes transversales Une machine de tri à bandes transversales se compose de chariots individuels sur lesquels des bandes transporteuses sont montées transversalement par rapport à la direction de transport. Pour prendre en charge un envoi, la bande transporteuse se met en mouvement et tire l’envoi sur le chariot. Pour la remise, la bande se retourne et transporte l’envoi sur le côté vers le point d’éjection prévu. La position exacte de l’envoi ne dépend pas du frottement, mais uniquement du mouvement ciblé de la bande. La machine de tri à bandes transversales étant très précise, elle permet un trans - port plus rapide des envois. Dans le même temps, elle traite les colis avec soin, de sorte que même les envois sensibles puissent être triés de manière fiable. 3. Machine de tri à rouleaux inclinés Dans la machine de tri à rouleaux inclinés, les envois se déplacent sur des rou - leaux pouvant tourner librement et pouvant être orientés sur le côté. Les envois peuvent ainsi être réexpédiés de manière ciblée dans différentes directions. Tout comme la machine de tri à bandes transversales, la machine de tri à rouleaux inclinés traite les envois avec un soin tout particulier. Le frottement entre l’envoi et le sol n’a aucune importance, car le mouvement s’effectue directement via les rouleaux. Pour un tri fiable, il est important que les envois aient un fond plat et reposent correctement sur les rouleaux. Ce n’est souvent pas le cas pour les emballages souples ou instables, comme les sacs en plastique, où des systèmes de convoyage sont nécessaires."
+    },
+    {
+     "t": "p",
+     "text": "331 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-16-10",
+   "number": "16.10",
+   "title": "Sécurité dans les centres de tri",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La sécurité joue un rôle central dans les centres de tri des entreprises de distribution. Les envois qui y sont traités n’ap - partiennent pas à l’entreprise elle-même, mais aux clientes et aux clients concernés, et doivent être traités avec le soin et la responsabilité qui s’imposent. Les mesures de sécurité suivantes sont courantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Système d’accès avec badge, tout comme le système de sortie.",
+      "Membres du personnel à l’entrée/l’accueil.",
+      "Site clôturé avec clôture haute.",
+      "Éclairage toujours allumé, même le week-end.",
+      "Les collaborateurs ne peuvent emporter dans la halle de production que des sacs transparents.",
+      "Les vestiaires sont personnalisés.",
+      "Le site est surveillé en permanence par des caméras.",
+      "Tous les accès sont sécurisés par une alarme."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Outre la sécurité de l’exploitation, la sécurité au travail est également très im - portante:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Utilisation des machines uniquement après instruction préalable",
+      "Un passeport de formation est tenu pour les nouveaux membres du personnel afin qu’il soit clair pour quelles machines ils ont été instruits.",
+      "Des formations régulières sur des thèmes liés à la sécurité sont réalisées ( p. ex. gestion des colis contenant des marchandises dangereuses )",
+      "Pour les chariots de manutention, le permis reconnu par la Suva est également nécessaire au sein de l’entreprise"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "332 Remarque Les envois arrivent dans le centre de tri par l’entrée des marchandises, y sont préparés, triés et commissionnés. Ensuite, ils quittent le centre de tri par la sor - tie des marchandises. Si l’envoi ne doit pas être distribué dans la région de des - serte du centre de tri, un tri de distribution est effectué et les envois sont triés avec précision dans un autre centre. Les centres de tri principaux sont soutenus par des centres de colis régionaux. Il existe de nombreux outils techniques dans un centre de tri. Dans les centres de tri du courrier, on utilise des installations pour la préparati - on automatique des envois, des machines intégrées de lecture automatique et de vidéocodage, des unités de tri pour les envois de grand format, des machi - nes de tri séquentiel ainsi qu’un robot de portail et un casier pour tri manuel des envois de format normal. Dans les centres de tri des colis, on utilise des machines de tri à plateaux in - clinables, à bandes transversales, et à rouleaux inclinés, ainsi que divers autres outils. Des mesures de sécurité sont courantes dans les centres de tri afin de prévenir les vols. Pour rendre le lieu de travail plus sûr, les collaborateurs ne peuvent utiliser que les machines pour lesquelles ils sont autorisés, et des for - mations régulières sont organisées."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,304 @@
+{
+ "code": "802",
+ "title": "Le transport",
+ "domain": "800",
+ "pdf": "M802.pdf",
+ "pages": 15,
+ "words": 1936,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "\"Faire confiance, c'est bien, contrôler, c'est mieux!\" Savoir en permanence où et dans quel état se trouve sa propre marchandise - qui ne le voudrait pas? Le contrôle de la qualité ne doit pas s'arrêter lorsque la marchandise quitte le site de l'entreprise. Des indicateurs de surveillance ou des enregistreurs de données électroniques peuvent garantir sans faille le respect de la qualité de transport et de la manutention de A à Z exigée par l'entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-2-1",
+   "number": "2.1",
+   "title": "Surveillance du transport",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-2-1-1",
+   "number": "2.1.1",
+   "title": "Qu'est-ce que la surveillance des transports et pourquoi est-elle",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "nécessaire? Une surveillance sans faille des conditions de transport grâce à des indicateurs et des enregistreurs de données spéciaux garantit un transport sans dommage des marchandises expédiées jusqu'à leur arrivée chez le client. Les négligences de transport peuvent ainsi être détectés. Tout contrôle de qualité s'arrête au moment où les marchandises prennent le chemin du client. Durant le transport ou le stockage, les influences les plus diverses peuvent avoir un impact négatif sur la qualité de la marchandise. Il s'agit notamment de dégradation dus à des chocs, à des chutes ou à une dépose brutale, de dommages dus au basculement, de dommages causés au produit par le non-respect de la chaîne de température, de vols, etc."
+    },
+    {
+     "t": "p",
+     "text": "Cela peut coûter cher: Une entreprise perd alors non seulement de l'argent et la confiance du client, mais aussi sa bonne réputation. Pour que le dommage financier subi puisse être couvert, il est bon d'avoir souscrit une assurance transport. L'assurance ne corrige toutefois pas le préjudice d'image et n'intervient que si le dommage subi peut être prouvé. Les indicateurs de surveillance du transport contrôlent à peu de frais et sans faille le respect de la qualité de transport requise et garantissent ainsi que l'envoi est traité avec autant de soin qu'exigé."
+    },
+    {
+     "t": "p",
+     "text": "Avantages des indicateurs de surveillance du transport"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Respect contrôlable des prescriptions de manutention, de la fabrication jusqu'au client final",
+      "Détermination de l'heure, du lieu et des responsables en cas de dommages de transport",
+      "Réduction des dommages dus au transport.",
+      "Détection à temps des dommages cachés durant le transport.",
+      "Moins de réclamations, économies de coût."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Domaines d'application des indicateurs de surveillance du transport"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Services de distribution.",
+      "Transports routiers, ferroviaires, aériens et maritimes.",
+      "Transitaires.",
+      "Manutentions internes des marchandises."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-1-2",
+   "number": "2.1.2",
+   "title": "Indicateurs",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le type et le domaine d'utilisation des indicateurs sont décrits en détail dans"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "le module 307."
+    },
+    {
+     "t": "p",
+     "text": "Enregistreur de données de transport"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Les enregistreurs de données de transport mesurent les conditions de transport et de stockage depuis la production des marchandises jusqu'à leur utilisation finale par les clients (et au-delà). Ils mesurent sans faille et sont incorruptibles. Les charges de transport de toutes sortes sont enregistrées avec précision en fonction de la date et de l'heure, conformément à leur programmation, et peuvent être suivies via une connexion de données avec un PC."
+    },
+    {
+     "t": "p",
+     "text": "L'enregistreur de données de transport mesure électroniquement les chocs, les vibrations, la température et l'humidité, la pression atmosphérique ainsi que l'angle d'inclinaison durant le transport et le stockage. Le logiciel permet d'analyser statistiquement et graphiquement les données obtenues."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras de plus amples informations à ce sujet dans le rapport \"Collecter des données pour des transports en toute sécurité\"."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2",
+   "number": "2.2",
+   "title": "Suivi et traçabilité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Track and Trace est l'abréviation de la technique de suivi des envois sur leur trajet de l'expéditeur au destinataire. Le suivi des envois (en anglais: Track and Trace ou Tracking and Tracing = suivi et traçabilité) est un système moderne qui permet de surveiller et de vérifier le statut d'une livraison, tant avant qu'après la livraison."
+    },
+    {
+     "t": "p",
+     "text": "La technique « Track and Trace » est souvent utilisée pour le suivi du fret. Le suivi des envois à l'aide du système Track and Trace facilite également la surveillance et l'amélioration des opérations d'expédition ainsi que le traitement des ordres de recherche en cas d'envois non délivrés. Les systèmes modernes de planification du transport proposent de telles solutions standard."
+    },
+    {
+     "t": "p",
+     "text": "Le Track and Trace normal repose sur un code-barres qui identifie clairement l'envoi. Celui-ci est scanné à toutes les étapes importantes du trajet vers le destinataire. Le statut peut ensuite être consulté via un système central. Un statut possible est par exemple: \"Trié pour la livraison\". Concrètement, cela signifie que l'envoi est passé par l'installation de tri d'un centre de colis et qu'il a été scanné avant d'être acheminé vers le lieu de livraison. Le système « Advanced Track and Trace » renonce à la saisie manuelle des codes. Les articles sont saisis automatiquement à l'aide de la technologie RFID à certains postes."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-1",
+   "number": "2.2.1",
+   "title": "Suivi d'un colis postal",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Avis Les exploitants de magasins en ligne professionnels (p. ex. Zalando) informent le/la client(e) par E-mail de la date de livraison prévue à la suite de la commande."
+    },
+    {
+     "t": "p",
+     "text": "Suivi des envois Comme la plupart des services de colis, la Poste Suisse SA offre sur son site Internet la possibilité de vérifier le statut du colis. En entrant le numéro de l'envoi, le/la client/e obtient des informations sur le déroulement de l'envoi ainsi que sur le statut actuel de l'envoi. Les données saisies lors de l’expédition, du traitement et de la livraison peuvent être consultées durant 180 jours. Le numéro d'envoi permet de suivre le colis sur Internet. Tant que le colis n'est pas encore livré, il est possible de contrôler ou de planifier la livraison à l'aide de services supplémentaires."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Les clients de la poste peuvent trouver Track and Trace sous: https://www.post.ch/fr/expedier-des-colis"
+    },
+    {
+     "t": "p",
+     "text": "Réception Le colis sera livré chez le client le 26 juin 2021. L'historique de l'envoi peut être suivi grâce au numéro d’identification de l'envoi."
+    },
+    {
+     "t": "p",
+     "text": "Retourner Le colis est enregistré en ligne pour être renvoyé. Le vendeur par correspondance est maintenant informé des articles attendus dans sa réception."
+    },
+    {
+     "t": "p",
+     "text": "Tâche Le colis est déposé au guichet de la poste ou dans une agence postale le 30 juin 2021. Si l'expéditeur n'a pas créé d'étiquette de retour, le colis reçoit, au moment du dépôt, un code-barres avec un numéro intégré qui est collé. Le colis est ainsi clairement identifié."
+    },
+    {
+     "t": "p",
+     "text": "Quittance Le client reçoit avec le récépissé une confirmation sur laquelle est imprimé le numéro de code-barres. Le récépissé sert de preuve de dépôt d'un colis et constitue la base de la responsabilité en cas de perte ou de dommage."
+    },
+    {
+     "t": "p",
+     "text": "Suivi des envois La livraison peut à nouveau être suivie ou contrôlée sur Internet grâce au numéro d'envoi. L'expéditeur peut être informé par E-mail de l'état actuel de l'envoi."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-2",
+   "number": "2.2.2",
+   "title": "Le statut d'un envoi",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le suivi d'un envoi ne se limite pas à la seule identification. Des informations supplémentaires, également sous la forme d'un code-barres, permettent de saisir le statut momentané. Cette saisie s'effectue à l'aide d'un scanner. La lecture se fait en deux étapes: Le statut est d'abord saisi, puis le code d'identification."
+    },
+    {
+     "t": "p",
+     "text": "Quels sont les envois que l'on peut suivre avec Track & Trace? Type d'envoi Envois Envois express SameDay après-midi et SameDay soir, Lune Swiss Express Colis PostPac Priority, PostPac Economy, Encombrant Economy et Encombrant Priority, PostPac Promo, Vinolog, contre remboursement sans justificatif (BLN) Lettres Lettre recommandée (R), actes judiciaires, courrier A Plus, Dispomail avec Track & Trace, actes de poursuites recommandés, envois contre remboursement sans justificatif (BLN)"
+    },
+    {
+     "t": "p",
+     "text": "Envois internationaux Envois URGENT (monde entier), PRIORITY Plus, PostPac International ainsi que les lettres \"recommandées\". Pour plus de détails, voir Track & Trace pour les envois internationaux"
+    }
+   ]
+  },
+  {
+   "id": "s-2-3",
+   "number": "2.3",
+   "title": "Planification du transport",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La planification du transport est une tâche qui vise à préparer les tournées de livraison, afin que les véhicules puissent circuler à pleine capacité sur un itinéraire optimal entre les différents lieux de déchargement. Face à l'augmentation des prix de l'énergie et à la pénurie d’espaces de chargement, la planification du transport a pour objectif principal, d'optimiser les coûts de transport. Bien entendu, la réalisation de ces objectifs permet également de mettre en œuvre la réflexion écologique. Les économies de coûts générées par une conception systématique des réseaux de transport et leur gestion ne doivent toutefois pas se faire au détriment de facteurs stratégiques pour l'entreprise – tels que le respect des délais et la qualité des livraisons."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la tâche principale de la planification des transports et des tournées consiste à coordonner tous ces aspects et les orienter vers des objectifs précis."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-1",
+   "number": "2.3.1",
+   "title": "Le principe de la planification des tournées",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour la distribution fine, les marchandises doivent être chargées selon un plan"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "de tournées. Le principe de la planification des tournées est relativement simple. L'itinéraire est déterminé sur la base des lieux de déchargement. La planification d'une tournée relève de la spécialité des organisateurs de transport."
+    },
+    {
+     "t": "p",
+     "text": "Dernier entré, premier sorti (LIFO) Les différentes unités de chargement sont positionnées sur le véhicule selon le principe LIFO (Last-In, First-Out). Les marchandises qui doivent être déchargées en premier sont donc chargées en dernier et inversement. Si ce principe est respecté, le chauffeur du camion peut répartir son chargement de manière rationnelle. La planification des tournées n'est généralement pas aussi simple que dans l'exemple présenté."
+    },
+    {
+     "t": "p",
+     "text": "Une planification efficace est déterminée par différents facteurs d'influence. Ce sont entre autres:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Situation actuelle du trafic, (état des routes, chantiers, déviations).",
+      "Nombre d'envois (volume, poids, marchandises dangereuses).",
+      "Nombre de points de déchargement.",
+      "Capacité des véhicules (véhicules utilisés)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Fribourg Estavayer Yverdon Lausanne Rennens Genève Départ"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Priorités et souhaits des clients (urgence de la livraison, créneau horaire de livraison).",
+      "Moyens auxiliaires disponibles (par ex. chariot élévateur) pour le déchargement des marchandises.",
+      "Affectation des chauffeurs camion (p. ex. temps de travail et de repos)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Mise à disposition Dans les entreprises où le chauffeur charge lui-même sa tournée, la préparation du transport comprend généralement la préparation professionnelle des unités d'expédition et leur mise à disposition par lieu de déchargement dans une zone prévue à cet effet. Le chauffeur peut ainsi composer lui-même les unités de chargement en fonction de l'itinéraire."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-2",
+   "number": "2.3.2",
+   "title": "La planification des tournées",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La planification des tournées est un processus au cours duquel les ordres (de transport) sont regroupés en tournées et classés dans un certain ordre. En règle générale, une tournée est effectuée par une personne avec véhicule. Ce processus de planification est important dans tous les domaines où un grand nombre de commandes et de tournées doivent être planifiées. Citons par exemple la livraison des filiales d'un distributeur, la collecte du courrier, le ramassage des déchets, le transport de personnes et l'engagement du personnel de service. Dans le cas de trajets réguliers, comme dans le service Document-Express-Colis (DEC), des structures de réseau de transport se forment ainsi. Parmi les missions (de transport), on distingue les marchandises de détail (par exemple le transport de palettes), les marchandises en vrac (par exemple le sable) et le transport de personnes."
+    },
+    {
+     "t": "p",
+     "text": "Planification manuelle du transport Dans les petites entreprises, les organisateurs de transport effectuent la planification des tournées manuellement. Les différentes tournées sont assemblées sur la carte pour former un plan de tournées judicieux, sans que les coûts puissent être optimisés."
+    },
+    {
+     "t": "p",
+     "text": "Optimisation du transport assistée par ordinateur Il est difficile d'optimiser manuellement une planification complexe des transports et des tournées. C'est pourquoi des programmes sont réalisés à l'aide de modèles mathématiques pour aider les planificateurs. La planification des transports et des tournées assistées par ordinateur est"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "appelée \"optimisation des transports\". Elle comprend quatre points principaux:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Planification d'un itinéraire optimal pour une distribution rationnelle des marchandises.",
+      "Utilisation la plus rationnelle possible (économique) des véhicules.",
+      "Chargement conforme et optimal des véhicules.",
+      "Transmission automatique des données nécessaires (transport sans papier)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "En règle générale, les logiciels d'optimisation ne peuvent pas être achetés \"dans le commerce\". Ces programmes fonctionnent de manière optimale lorsqu'ils sont adaptés à l'utilisation dans une entreprise bien précise. Le logiciel doit être paramétré. Cela signifie que toutes les conditions d'utilisation (appelées paramètres) doivent d'abord être enregistrées et saisies."
+    },
+    {
+     "t": "p",
+     "text": "L'image montre au centre, trois véhicules planifiés. Dans la partie droite et dans l'image du bas, on peut voir les détails d'une tournée. L'extrait de carte montre son déroulement. D'autres détails de planification peuvent également être affichés à partir des différentes tournées; la fenêtre supérieure droite montre par exemple le diagramme de charge du véhicule."
+    }
+   ]
+  }
+ ]
+}

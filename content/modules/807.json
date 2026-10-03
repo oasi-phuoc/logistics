@@ -1,0 +1,717 @@
+{
+ "code": "807",
+ "title": "PowerPoint Microsoft 365",
+ "domain": "800",
+ "pdf": "M807.pdf",
+ "pages": 18,
+ "words": 4090,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Procédure"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Créer une source de données (dans Excel)",
+      "Créer le document de base (Dans Word)",
+      "Ouvrir la source de donnés dans le document de base.",
+      "Exécuter le publipostage."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.7.1. Créer une source de données comme pour l’exemple ci-dessus. 6.7.2. Créer le document de base"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ouvrir un document Word.",
+      "Taper votre texte (lettre)",
+      "Cliquez sur l’onglet"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.7.3. Sélectionner les destinataires"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dans l’onglet Publipostage, cliquez sur le bouton Sélection des destinataires puis choisir l’option Utiliser une liste existante.",
+      "Puis sélectionnez le fichier sur lequel se trouve les données."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "6.7.4. Insérer des champs"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Veillez à ce que l’onglet Publipostage soit sélectionné",
+      "Positionnez le point d’insertion à l’endroit où doit être inséré le champ.",
+      "Pour insérer le champ cliquez sur le nom du champ à insérer."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le bouton aperçu des résultats permet de vérifier comment les enregistrements sont insérés. Le bouton terminer permet de regrouper toutes les lettes en un seul document."
+    },
+    {
+     "t": "p",
+     "text": "Bienne, le xx décembre 202x"
+    },
+    {
+     "t": "p",
+     "text": "Monsieur Prénom Nom Adresse CP Ville Présenter signifie \"présenter notre entreprise, notre département, notre projet ou un sujet à un public\". Présenter est un processus dynamique - il s'agit en fait d'une forme moderne d'exposé, utilisant des outils visuels. La visualisation des déclarations lors de l'exposé augmente l'attention du public et permet une assimilation plus efficace des informations. A l'école, au travail, dans les associations, en politique, lorsque des informations doivent être transmises, on utilise souvent PowerPoint."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 807"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "PowerPoint permet de créer des présentations électroniques qui seront projetées sur un écran, déposées sur un site Internet, utilisées lors d’un entretien d’embauche, lors d’un cours, ou d’une présentation à toutes formes de séances. Le fichier PowerPoint peut être imprimé afin de permettre aux participants-auditeurs de prendre des notes. Vous pouvez rendre automatique le déroulement de la présentation, ajouter des mouvements aux objets \"texte et image\", insérer des sons, des vidéos et des liens hypertextes. PowerPoint n'est qu'un support de présentation. Vous devez apprendre les techniques de présentation séparément. 7.1. L'écran de travail Lancer le PowerPoint à partir de la vignette La page de démarrage s'affiche, cliquez ensuite sur Nouvelle présentation, l'écran ci-dessous apparait."
+    },
+    {
+     "t": "p",
+     "text": "Le ruban Le ruban comporte la majorité des commandes de l'application Ces commandes sont regroupées par groupe, chacun de ces groupes étant représenté par un onglet (Fichier, Accueil, Insertion, Créations, Transitions, etc.). Chaque onglet présente plusieurs groupes de commandes dans lesquels vous Ruban Modes d’affichage Zoom visualisez des boutons de commande permettant de réaliser la plupart des manipulations."
+    },
+    {
+     "t": "p",
+     "text": "7.1.1. Afficher/masquer des outils de la barre d'outils Accès rapide La barre d'outils n'est pas visible Si la barre d'outils Accès rapide n'est pas visible au-dessus ou au-dessous du ruban alors il faut la sélectionner dans les Options. Cliquez dans l'onglet Fichier puis sur Options Cliquez ensuite sur la catégorie Barre d'outils Accès rapide, la fenêtre ci-dessous apparait."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez dans la sélection Afficher la barre d'outils rapide.",
+      "Avec le bouton Ajouter vous pouvez ajouter des outils dans la barre d'outils.",
+      "Il faut ajouter les outils suivants: o Commencer depuis le début; Enregistrer; Annuler; Refaire. o En les sélectionnant dans le tableau de droite puis en cliquant sur le bouton Ajouter.",
+      "Puis cliquez sur le bouton OK",
+      "La barre apparait sous le ruban"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La barre d'outils est visible sous le ruban Cliquez sur le bouton. Vous pouvez Personnaliser la barre d'outils Accès rapide"
+    },
+    {
+     "t": "p",
+     "text": "Les options cochées correspondent aux outils affichés sur la barre d'outils Accès rapide. Sélectionner l'option correspondant à l'outil que vous souhaitez afficher ou, au contraire, que vous voulez masquer 7.2. Annuler/refaire la dernière manipulation Pour Annuler ou Refaire la dernière opération cliquez sur. 7.3. Afficher les règles / la grille Ces éléments facilitent l'alignement des objets dans la diapositive. Activez l'onglet Affichage puis activez les options souhaitées en cliquant dans la case à cocher correspondante. Pour masquer les règles et le quadrillage/grille, désactivez les options correspondantes. 7.4. Créer une présentation Une présentation est le principal fichier que vous créez à partir de PowerPoint 365. 7.4.1. Créer une présentation basée sur un modèle. Il s'agit de créer une présentation à partir d'un autre modèle que celui utilisé pour créer une présentation de base \"Nouvelle présentation\". Un modèle peut être composé de plusieurs diapositives et contenir du texte ou des objets. Cliquez sur l'onglet Fichier puis sur l'option Nouveau. Les thèmes et les modèles proposés apparaissent dans la partie de droite de la fenêtre."
+    },
+    {
+     "t": "p",
+     "text": "Cliquez sur la vignette du thème à utiliser. 7.4.2. Créer une présentation à partir d'une présentation existante Cliquez sur l'onglet Fichier puis sur l'option Ouvrir Si la présentation à utiliser a été ouverte récemment, sélectionnez la présentation visible dans le volet Récent puis choisissez l'option Ouvrir une copie. Si la présentation n'est pas visible dans la liste des présentations récemment utilisées, cliquez sur le bouton Parcourir dans le volet central. Accédez au dossier contenant la présentation à utiliser, sélectionnez-la puis ouvrez avec l'option Ouvrir une copie. Réalisez vos modifications et enregistrez la présentation en tant que nouvelle présentation. 7.5. Travailler en mode Masque des diapositives Le mode Masque des diapositives permet de modifier la trame des diapositives. Le mode Masque des diapositives affiche deux types d'éléments: le masque des diapositives et les dispositions qui lui sont associées."
+    },
+    {
+     "t": "p",
+     "text": "Le masque des diapositives est une diapositive particulière qui stocke des informations sur le modèle de conception appliquée (thème, style de police, taille et position des espaces réservés, etc.). Il englobe un certain nombre de dispositions qui elles-mêmes possèdent les informations sur l'emplacement des espaces réservés dans les diapositives. 7.5.1. Modifier la police, taille des caractères du titre"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionner le texte \"Modifier le style du titre\"",
+      "Activez l'onglet Accueil puis allez dans le groupe Police.",
+      "Sélectionnez la police et/ou la taille désirée."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.5.2. Mettre en valeur les caractères"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionner le texte \"Modifier le style du titre\"",
+      "Activez l'onglet Accueil puis allez dans le groupe Police.",
+      "Cliquez sur un des outils présents dans le groupe Police.",
+      "G pour mettre en gras,",
+      "I pour mettre en italique,",
+      "S pour souligner le texte,",
+      "pour la couleur du texte, etc."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Vous visualisez l'effet produit immédiatement sur le texte sélectionné dans les diapositives. Thème office \"Masque\" utilisé pour l di iti Thème Dispositions utilisés pour les diapositives"
+    },
+    {
+     "t": "p",
+     "text": "7.5.3. Gérer les puces des paragraphes. Sélectionnez le texte \"Cliquez pour modifier les styles du texte du masque\". Avec les outils du groupe Paragraphe vous pouvez sélectionner l'outil correspondant, soit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Créer une liste de Puces,",
+      "Créer une liste numérotée,",
+      "Réduire ou Augmenter le niveau de la liste"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.5.4. Personnaliser les puces des paragraphes Sélectionnez le texte \"Cliquez pour modifier les styles du texte du masque\". Ouvrez la liste associée à l'outil Puces du groupe paragraphe"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur l'option Puces et Numéros",
+      "Cliquez sur le bouton Personnaliser",
+      "Dans la boite de dialogue Caractères spéciaux qui apparait, ouvrez la liste Police et choisissez celle qui contient le symbole souhaité."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les polices Webdings, Wingdings, Wingdings 2 et 3 proposent des symboles. Vous pouvez répéter l'opération en sélectionnant Deuxième niveau, Troisième niveau, etc. 7.5.5. Insérer une image/logo dans le masque des diapositives Positionnez le curseur dans la diapositive Masque utilisé pour les diapositives"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Activez l'onglet Insertion et cliquez sur le bouton Images.",
+      "Sélectionnez l'espace ou est stocké l'image.",
+      "Cliquez sur l'image sélectionnée"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Puis en cliquant sur l'image la boite de dialogue Format de l'image apparait"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Modifier la taille de l'image et positionnez l'image dans la diapositive."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Fermez le mode Masque en cliquant sur l'icône"
+    },
+    {
+     "t": "p",
+     "text": "Les modifications apportées ainsi que l'image apparaitront dans toutes les diapositives."
+    },
+    {
+     "t": "p",
+     "text": "7.6. Créer votre présentation après avoir modifié le masque des diapositives. Après avoir fermé le modes Masque, l'écran de travail apparait à l'écran \"chapitre 7.1\". 7.6.1. Ajoutez une diapositive. Activez l'onglet Accueil, puis dans le groupe Diapositives sélectionnez l'outil Nouvelle diapositive et cliquez dans la diapositive désirée. 7.6.2. Modifiez la disposition de la diapositive Activez l'onglet Accueil, puis dans le groupe Diapositives sélectionnez l'outil Disposition et sélectionnez le Thème Office désiré."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Diapositive de titre"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Permet d'écrire un titre et un sous-titre"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Titre et contenu"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Elle est sans doute la plus utile des dispositions. Elle permet principalement d'insérer du texte avec des puces ou numéros, un tableau, un graphique, une vidéo."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Deux contenus"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Cette disposition est très utile pour présenter une image dans la partie gauche de la diapositive et un texte explicatif dans la partie droite de la diapositive. 7.6.3. Saisir le titre et le sous-titre dans la diapositive de Titre Après avoir sélectionné la disposition, Diapositive de titre parmi les thèmes Office proposés, cliquez dans l'espace réservé au titre. Saisissez le texte voulu, En cliquant sur le bouton Enter, le texte est mis à la ligne et un nouveau paragraphe est créé. Pour mettre à la ligne tout en restant dans le paragraphe, vous devez taper Shift +"
+    },
+    {
+     "t": "p",
+     "text": "Procédez de même pour saisir le texte dans l'espace réservé au sous-titre."
+    },
+    {
+     "t": "p",
+     "text": "Le format du texte (police, taille, etc.) respecte celui que vous avez créé dans le mode Masque des diapositives. 7.6.4. Saisir un texte à puces"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ajoutez une diapositive Texte et contenu à partir de l'outil Nouvelle diapositive.",
+      "Cliquez dans l'espace réservé Cliquez pour ajouter un texte.",
+      "Réalisez la saisie en respectant les principes suivants:",
+      "Saisissez le texte sans vous préoccuper des fins de lignes,",
+      "Appuyez sur la touche pour créer un nouveau point"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "(paragraphe), Le format du texte (police, taille, puces et numéro) respecte celui que vous avez créé dans le mode Masque des diapositives. 7.6.5. Augmenter ou réduire le niveau des puces et numéros Cliquez dans le paragraphe (texte) concerné puis cliquez sur l'un des outils du groupe Paragraphe dans l'onglet Accueil. Les caractères et/ou la numérotation correspond à ceux que vous avez créés dans le mode Masque des diapositives."
+    },
+    {
+     "t": "p",
+     "text": "7.7. Insérer/dessiner un tableau Ajoutez une diapositive Texte et contenu à partir de l'outil Nouvelle diapositive."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur l'icône Insérer un tableau",
+      "Sélectionnez le Nombre de colonnes et le"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Nombre de lignes, puis sur le bouton OK."
+    },
+    {
+     "t": "p",
+     "text": "Le tableau s'insère dans la diapositive, sous la forme d'un objet graphique. Les onglets Création de tableau et Mise en page s'affichent L’onglet actif Création de tableau présente des options de mise en forme d’un tableau."
+    },
+    {
+     "t": "p",
+     "text": "Complétez ensuite le tableau. Saisissez le texte de la première cellule puis accédez à la cellule suivante avec le bouton sur le clavier."
+    },
+    {
+     "t": "p",
+     "text": "7.7.1. Sélectionner dans un tableau Pour sélectionner une cellule: positionnez la souris sur la gauche, à l’intérieur de la cellule (elle prend la forme d’une flèche noire orientée vers le haut et la droite) puis cliquez. Pour sélectionner une colonne: positionnez la souris au-dessus du 1er trait horizontal de la colonne (elle prend la forme d’une flèche noire orientée vers le bas) puis cliquez. Pour sélectionner une ligne: positionnez la souris à gauche en dehors de la première cellule de la ligne (elle prend la forme d’une flèche blanche orientée vers le haut et la droite) puis cliquez. Pour sélectionner le tableau: pointez le coin supérieur gauche du tableau puis cliquez sur l’icône qui s’affiche."
+    },
+    {
+     "t": "p",
+     "text": "7.7.2. Insérer une colonne/ligne Placez le point d’insertion dans la cellule avant ou après laquelle vous souhaitez insérer une colonne/ligne, puis dans l’onglet contextuel Mise en page."
+    },
+    {
+     "t": "p",
+     "text": "puis sélectionnez l’icône souhaitée"
+    },
+    {
+     "t": "p",
+     "text": "7.7.3. Supprimer une colonne/ligne Sélectionner la colonne/ligne que vous voulez supprimer puis cliquez dans l’icône qui se trouve dans l’onglet contextuel Mise en page."
+    },
+    {
+     "t": "p",
+     "text": "7.7.4. Fractionner le tableau en deux Positionnez le point d’insertion dans la ligne avant laquelle vous souhaitez fractionner le tableau puis dans l’onglet contextuel Mise en page. Puis cliquez sur l’icône 7.7.5. Fusionner les cellules Sélectionnez les cellules à fusionner puis dans l’onglet contextuel Mise en page. Cliquer sur l’icône fusionner"
+    },
+    {
+     "t": "p",
+     "text": "7.7.6. Trier un tableau Sélectionnez la première cellule de la colonne à trier puis dans l’onglet contextuel Mise en page, puis cliquez sur l’icône Trier"
+    },
+    {
+     "t": "p",
+     "text": "7.8. Insérer un graphique Un graphique permet de représenter les données saisies dans un tableau d'une feuille de calcul. Pour cela, PowerPoint fait appel à l'application Excel. 7.8.1. À Partir d'un objet Vous pouvez insérer un graphique déjà créé dans Excel. Ajoutez une diapositive Titre seul ou Vide à partir de l'outil Nouvelle diapositive."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur l'outil Objet dans le groupe Texte de l'onglet Insertion",
+      "Cette fenêtre à gauche apparait",
+      "Cliquer sur à partir d'un fichier",
+      "Puis sur Parcourir",
+      "Sélectionner le fichier Excel concerné"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Votre graphique Excel apparaitra dans la diapositive. Si vous actionnez la case à cocher Liaison, les modifications apportées dans Excel sont reportées dans la diapositive. 7.8.2. À partir de la disposition Titre et contenu Ajoutez une diapositive Texte et contenu à partir de l'outil Nouvelle diapositive."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur l'icône Insérer un graphique",
+      "la boite de dialogue ci-après apparait."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La partie gauche de la boite de dialogue Insérer un graphique regroupe tous les types de graphiques disponibles et la partie supérieure droite affiche les sous-types pour la catégorie sélectionnée."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur la catégorie voulue dans la partie de droite.",
+      "Cliquez sur le sous-type du graphique à utiliser.",
+      "Cliquez sur OK"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le graphique apparait dans la diapositive ainsi qu'une feuille de calcul contenant des données fictives. Deux nouveaux onglets apparaissent, Création de graphique et Mise en forme."
+    },
+    {
+     "t": "p",
+     "text": "L'outil qui se trouve dans la fenêtre du graphique ouvert, permet de modifier vos données directement dans une feuille de calcul Excel. Pour la suite des opérations, veuillez-vous référer au cours d'Excel. 7.9. Insérer un fichier vidéo PowerPoint offre la possibilité d'insérer des fichiers vidéo provenant de différents formats mp3, mp4, mov, etc."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Activez la diapositive sur laquelle vous souhaitez insérer le fichier vidéo, par exemple depuis la disposition Titre et Contenu.",
+      "Cliquez sur l'icône Insérer une vidéo",
+      "Accédez au dossier contenant la vidéo à insérer.",
+      "Faites un double clic sur le nom du fichier.",
+      "Le fichier vidéo apparait dans la diapositive sous forme d'un objet."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les onglets Outils Format vidéo et Lecture apparaissent. 7.9.1. Insérer une vidéo accessible depuis un site Internet/YouTube etc. Cette technique permet d'insérer une vidéo accessible depuis un site web ce qui aura l'avantage de ne pas surcharger votre présentation puisque la vidéo sera lue directement depuis le site auquel elle sera liée. Activez la diapositive sur laquelle vous souhaitez insérer la vidéo. Depuis la disposition Titre et Contenu ou depuis une disposition Vide. Depuis une disposition Vide Sur l'onglet Insertion, cliquez sur le bouton Vidéo du groupe Média Sélectionnez l'option Vidéo en ligne. Puis entrez l'adresse web du site, la vidéo s'affiche. Cliquez sur Insérer dans cette dernière fenêtre pour l'insérer dans la diapositive. 7.9.2. Découper la vidéo Cette technique permet de supprimer une partie (au début et/ou à la fin) afin de ne conserver qu'un extrait. Sélectionnez la vidéo Activez l'onglet Outils Lecture. Cliquez sur le bouton Découpez la vidéo. La fenêtre ci-contre apparait."
+    },
+    {
+     "t": "p",
+     "text": "Procédez aux réglages de l'Heure de début et l'Heure de fin puis cliquez sur le bouton OK 7.9.3. Lire une vidéo Cette technique permet de lire la vidéo directement dans la diapositive sans lancer le diaporama. Sélectionnez la vidéo"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez dans le bouton Lecture du groupe Aperçu.",
+      "Cliquez le bouton à gauche de la barre d'outils.",
+      "Pour arrêter la lecture cliquez à nouveau sur le bouton"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.9.4. Mode plein écran, réglage de la luminosité, Actionnez l'onglet Lecture puis dans le groupe options de vidéo, sélectionnez le bouton la case à cocher Actionnez l'onglet Format vidéo puis dans le groupe Ajuster sélectionner le bouton"
+    },
+    {
+     "t": "p",
+     "text": "7.10. Insérer un organigramme"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur l'icône Insérer un graphique SmartArt",
+      "Puis sélectionnez Hiérarchie dans la colonne de gauche de la fenêtre.",
+      "Sélectionnez le graphique que vous souhaitez.",
+      "Procédez aux modifications du graphique."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.11. Insérer une image Activez l'onglet Insertion. Dans le masque Voir le chapitre 7.5. Dans une diapositive"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Activez la diapositive sur laquelle vous souhaitez insérer l'image.",
+      "Activez l'onglet Insertion et cliquez sur le bouton Images du groupe"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Images."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Puis Insérez une image à partir de…",
+      "Sélectionnez l'image.",
+      "Cliquez sur Insérer, l'image apparait sur la diapositive."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "En cliquant sur l'image l'onglet apparait dans la barre d'outils. Cliquez sur l'onglet Format de l'image et apportez les modifications désirées (Taille, Ajuster, etc.) 7.11.1. Positionnez plusieurs images sur la diapositive Vous pouvez positionner plusieurs images sur la diapositive. Sélectionnez les images. Activez l'onglet Format de l'image. Vous pouvez les Aligner ou/et les grouper. 7.12. Personnaliser la diapositive 7.12.1. Taille des diapositives Depuis la version 2013 de PowerPoint, la taille des diapositives, appliquée par défaut, a été adaptée aux grands écrans; la taille 16:9 a donc remplacée la taille de 4:3. La taille Grand écran 16:9 est conseillée si vous envisagez de projeter le diaporama sur un grand écran. 7.12.2. Modifier les dimensions des diapositives Activez l'onglet Conception Cliquez sur le bouton Taille des diapositives, puis sélectionnez l'option Standard (4:3) ou gardez l'option Grand écran (16:9). Si vous cliquez sur le bouton Taille de diapositive personnalisée vous pourrez choisir:"
+    },
+    {
+     "t": "p",
+     "text": "L'orientation et/ou modifier la Largeur et/ou la Hauteur"
+    },
+    {
+     "t": "p",
+     "text": "7.12.3. Masquer les graphiques en arrière-plan Les images (objets) insérés dans le masque des diapositives, peuvent être masqués."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur la diapositive dont vous désirez masquer l'image.",
+      "Activez l'onglet Conception.",
+      "Cliquez sur l'outil Mise en forme de l'arrière-plan dans le groupe"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Personnaliser."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquer sur la case à cocher"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L'image n'apparait plus dans la diapositive. 7.13. Pied de page, numérotation, texte, date Cette technique permet de créer des pieds de page sur les diapositives en vue de leur impression."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez une diapositive.",
+      "Sur l'onglet Insertion, cliquez sur le bouton du groupe Texte.",
+      "La fenêtre ci-contre apparait.",
+      "Pour insérer la date en bas, à gauche des diapositives cliquez sur la case à cocher Date et heure.",
+      "Pour insérer un numéro des diapositives en bas, à droite cochez l'option Numéro des diapositives.",
+      "Pour insérer un texte quelconque en bas, au centre de chaque diapositive, cochez l'option Pied de page et saisissez le texte voulu.",
+      "Cliquez sur le bouton Appliquer partout."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.14. Insérer un élément audio 7.14.1. Insérer un fichier audio"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Activez la diapositive su laquelle vous souhaitez insérer un fichier audio.",
+      "Activez l'onglet Insertion et cliquez sur le bouton Audio du groupe"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Média."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Puis sur l'option"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La boite de dialogue Insérer un objet audio apparait. PowerPoint propose d'insérer plusieurs formats de fichiers audios."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Accédez au dossier contenant le fichier audio à insérer.",
+      "Faites un double clic sur le nom du fichier.",
+      "Un son provenant du fichier audio apparait dans la diapositive, représenté par un symbole graphique symbolisant un haut-parleur."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.14.2. Enregistrer un son Si vous avez un micro, vous pouvez enregistrer des commentaires sur une diapositive."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Activez la diapositive sur laquelle vous souhaitez faire apparaitre le symbole du son que vous allez enregistrer.",
+      "Activez l'onglet Insertion et cliquez sur le bouton Audio du groupe Média puis sélectionnez l'option Enregistrer l'audio."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La boite de dialogue Enregistrer un son à droite s'affiche. Nommez le son enregistré Commencez l'enregistrement avec le bouton Arrêtez l'enregistrement avec le bouton Le bouton permet d'écouter l'enregistrement. Cliquez sur le bouton OK pour insérer l'enregistrement dans la diapositive. 7.15. Transition Un effet de transition visuel est la façon dont une diapositive apparait à l'écran lors du diaporama."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez la diapositive sur laquelle vous souhaiter appliquer un effet de transition visuel.",
+      "Activez l'onglet Transition.",
+      "Cliquez sur le bouton Autres du groupe Transition vers cette diapositive pour afficher les effets visuels disponibles.",
+      "Cliquez sur l'effet voulu. Lorsque vous sélectionnez un effet vous pouvez visualiser un aperçu en cliquant sur le bouton Aperçu",
+      "Pour paramétrer les options de l'effet choisi, cliquez sur le bouton"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Options de l'effet du même groupe et cliquez sur l'option voulue. Les options proposées dépendent de l'effet de transition choisi."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pour gérer la durée de transition, précisez une valeur, en secondes, dans la zone"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Durée du groupe Minutage."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez la case à cocher Après puis déterminer la durée pour passer à la diapositive suivante.",
+      "Cliquer sur appliquer partout pour appliquer l'effet de transition à toutes les diapositives."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Lorsqu'un effet de transition est appliqué aux diapositives, l'icône apparait sous chaque miniature en mode Normal et en mode Trieuses des diapositives. 7.16. Animation PowerPoint offre la possibilité d'appliquer des effets visuels prédéfinis aux objets d'une diapositive. Ces effets d'animation se visualisent lors du diaporama. Il existe quatre types d'effets d'animation. En fonction du type choisi, l'animation pourra se déclencher:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Entrée; dès l'arrivée sur la diapositive de l'objet animé",
+      "Sortie; lorsque l'objet disparait.",
+      "Mouvements; permet de décrire à l'objet une trajectoire.",
+      "Accentuation; une fois l'objet présent sur la diapositive."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.16.1. Appliquer les effets d'animation"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez, le ou les objets concernés.",
+      "Activez l'onglet Animation.",
+      "Faites défiler la liste des effets d'animation du groupe Animations.",
+      "Sélectionnez l'effet désiré."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.16.2. Choisir une option d'effet Lorsque vous venez d'appliquer un effet d'animation, vous pouvez, pour la plupart des effets, personnaliser l'animation. Sur l'onglet Animations cliquez sur le bouton du groupe Animation. Selon l'effet choisi, le contenu de cette liste est différent. 7.16.3. Modifier l'ordre des effets d'animation Lorsque plusieurs effets d'animation existent dans la diapositive, ils apparaissent classés de haut en bas dans le Volet Animation. Cliquez sur le bouton Le Volet Animation s'affiche à gauche de la diapositive. Sélectionner l'effet puis utiliser les boutons pour déplacer la sélection. 7.16.4. Modifier le démarrage de l'animation Par défaut, un effet d'animation est déclenché par un clic de la souris."
+    },
+    {
+     "t": "p",
+     "text": "Vous pouvez automatiser son déclenchement."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Activez l'onglet Animations.",
+      "Puis dans le menu déroulant à droite de"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Démarrage dans le groupe Minutage, sélectionnez l'option désirée."
+    },
+    {
+     "t": "p",
+     "text": "7.16.5. Minuter les effets d'animation Il s'agit de préciser un délai après lequel doit commencer l'animation ainsi que sa durée. Sélectionnez l'effet d'animation à minuter. Précisez la Durée et le Délai d'animation dans la zone Minutage 7.16.6. Associer un son à un effet d'animation Cette manipulation permet d'entendre un son pendant le déclenchement d'une animation. Sélectionner l'effet d'animation dans le Volet Animation Cliquez sur le bouton à droite."
+    },
+    {
+     "t": "p",
+     "text": "Cliquez sur le bouton"
+    },
+    {
+     "t": "p",
+     "text": "Sélectionnez le son souhaité. 7.17. Diaporama Le diaporama est la projection de la présentation sur l'écran. 7.17.1. Configurer le diaporama Activez l'onglet Diaporama et cliquer sur le bouton du groupe Configuration. La fenêtre Paramètres du diaporama s'ouvre. Choisissez le type de projection dans Type de diaporama."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Présenté par un présentateur (plein écran).: pour exposer votre présentation face à un public en direct, en plein écran."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "C'est l'option active par défaut."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Visionné sur une borne (plein écran).: pour faire défiler le diaporama en boucle. Ce type de diaporama est généralement utilisée sur les stands."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Choisir cette option active le choix Exécuter en continue jusqu'à ÉCHAP."
+    },
+    {
+     "t": "p",
+     "text": "7.17.2. Diaporama personnalisé Activez l'onglet Diaporama et cliquez sur le bouton Diaporama personnalisé puis sur Diaporamas personnalisés. Pour chaque diaporama à créer:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquez sur le bouton Nouveau.",
+      "Saisissez un nom dans la zone Nom du diaporama.",
+      "Cocher les diapositives à insérer dans les diapositives de la présentation.",
+      "Cliquer sur le bouton Ajouter, les diapositives s'ajoutent dans l'espace"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Diapositives du diaporama personnalisé."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Vous pouvez sélectionnez une diapositive et cliquer sur le bouton Vers le haut ou Vers le bas pour modifier la position de la diapositive."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour projeter le diaporama personnalisé, activez l'onglet Diaporama et cliquez sur le bouton Diaporama personnalisé puis sur Diaporamas personnalisés. La liste des diaporamas s'affiche, cliquez sur celui que vous voulez présenter. 7.17.3. Découvrir le mode Présentateur Ce mode permet de lancer le diaporama sur deux écrans en même temps."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ouvrez la présentation à projeter.",
+      "Sur l'onglet Diaporama, cochez, si besoin, l'option Utiliser le mode"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Présentateur du groupe Moniteur."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Dans la liste Moniteur, du groupe Moniteurs, sélectionnez l'option"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Moniteur principal ou Automatique."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Lancer le diaporama."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.18. Enregistrer 7.18.1. Enregistrer la présentation au format pptx. L'enregistrement d'un diaporama permet d'enregistrer le fichier au format.pptx avec ses effets de transition et d'animation. Ce fichier qui peut être transmis par messagerie électronique par exemple, permettra de lancer directement la présentation, le poste devra néanmoins disposer d'une visionneuse compatible. 7.18.2. Enregistrer le diaporama en tant que vidéo Cette fonctionnalité permet d'enregistrer au format vidéo (wmv) le diaporama d'une présentation PowerPoint tout en conservant les effets d'animation et de transition, le minutage. Le fichier vidéo, une fois enregistré, sera exécuté en tant que vidéo, il vous sera ensuite possible de l'envoyer par courriel ou de le diffuser sur un site web."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ouvrez le diaporama.",
+      "Enregistrer la présentation en cliquant sur le bouton Enregistrer de la barre d'outils Accès rapide.",
+      "Cliquez sur l'onglet Fichier puis sur Exporter.",
+      "Dans le volet central, cliquez sur le bouton",
+      "Sélectionnez les options de résolution et de minutages.",
+      "Cliquez sur le bouton créer la vidéo.",
+      "Saisissez le nom du fichier et ouvrez le dossier d'enregistrement puis cliquez sur Enregistrer."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "7.19. Imprimer"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquer sur l'onglet Fichier puis sur l'option Imprimer ou faites + P",
+      "Préciser le nombre d'exemplaires à imprimer dans la zone Copies.",
+      "Dans la liste Imprimante, sélectionnez l'imprimante choisie.",
+      "Déterminer la partie à imprimer dans Paramètres"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Imprimer toutes les diapositives, la sélection ou la diapositive active."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Sélectionnez le nombre de diapositives à imprimer sur un document."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "• Sélectionnez: l'impression recto; l'impression recto verso (retourner les pages sur le petit côté."
+    }
+   ]
+  }
+ ]
+}

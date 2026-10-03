@@ -1,0 +1,167 @@
+{
+ "code": "614-2",
+ "title": "Module 614-2",
+ "domain": "600",
+ "pdf": "M614-2_dist.pdf",
+ "pages": 4,
+ "words": 794,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "278 Connaissance théorique 2 – Prise en charge des envois chez le client"
+    }
+   ]
+  },
+  {
+   "id": "s-14-4",
+   "number": "14.4",
+   "title": "Prise en charge d’envois chez les clients",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les clientes et les clients peuvent faire prendre en charge leurs envois par les col - laborateurs des entreprises de distribution. Cela est possible aussi bien pour les clients privés que pour les clients commerciaux, de manière régulière ou selon leur besoins."
+    }
+   ]
+  },
+  {
+   "id": "s-14-4-1",
+   "number": "14.4.1",
+   "title": "Prise en charge de colis / retours privés",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les clients privés peuvent commander la prise en charge de leurs colis en ligne ou via la Post-App. Les ordres sont transmis directement sur le smartphone des facteurs et y sont traités. Déroulement standard La prise en charge de colis privés ou de retours avec étiquette de retour préim - primée comprend les quatre étapes suivantes ( exemple de la Poste ): Prise en charge de colis / retours privés ( procédure standard ) Étape 1:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Contrôler quotidiennement les ordres de prise en charge avant la tournée."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "279 1ère édition 2025 Module 614_Possibilités de dépôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Étape 2:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Obtenir une vue d'ensemble",
+      "Effectuer tous les mandats le jour même."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Étape 3: Pour chaque ordre de reprise"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cliquer sur Ordre de prise en charge ( 1 )",
+      "Consulter les informations complémentaires ( p.ex. lieu de remise ) via « i »",
+      "Retriat"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Prise en charge réussie?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Scanner le/les colis",
+      "Confirmer avec « Terminé »",
+      "Chargement"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Retrait infructueux?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Appuyer sur « Terminé »",
+      "Sélectionner « Prise en charge infructueuse »et le motif",
+      "Confirmer avec « Terminé »"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Étape 4:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Exécuter les autres mandats",
+      "Livrer pour réexpédition"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque Dans le système de gestion de la qualité (QMS LS) de la Poste, tu trouveras des instructions détaillées avec le terme de recherche «pick@home»."
+    },
+    {
+     "t": "p",
+     "text": "280 Cas spéciaux d’ordres de prise en charge La procédure à suivre pour les clients qui ont besoin d’une étiquette de retour ou d’un emballage ou qui souhaitent remettre des produits sans code à barres ( con-teneurs à lettres ou sacs isothermes de Migros ) est décrite dans les instructions."
+    }
+   ]
+  },
+  {
+   "id": "s-14-4-2",
+   "number": "14.4.2",
+   "title": "Retrait d’envois postaux commerciaux",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour les envois postaux commerciaux, la prise en charge est effectuée par les entreprises de distribution soit régulièrement, soit occasionnellement."
+    },
+    {
+     "t": "p",
+     "text": "Prise en charge régulière Les clients commerciaux et l’entreprise de distribution conviennent d’une prise en charge régulière à des jours de la semaine définis. Conformément au contrat, l’entre - prise de distribution effectue la prise en charge directe - ment auprès des clients commerciaux les jours ouvrables et plages horaires convenus."
+    },
+    {
+     "t": "p",
+     "text": "À la Poste, les colis, les lettres, les envois express VinoLog et les envois pour l’étranger sont pris en charge comme suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pour les petites quantités ( maximum 5 unités par prise en charge ), la prise en charge a lieu pendant la tournée de distribution ( distribution à domicile ) ou le soir à des jours ouvrables définis au préalable.",
+      "Pour les grandes quantités, il existe une tournée de prise en charge spéciale par camion pour les transports dans une plage horaire d’une demi-heure con - venue à des jours ouvrables définis."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "281 1ère édition 2025 Module 614_Possibilités de dépôt Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Prise en charge occasionnelle Les clients commerciaux peuvent commander une prise en charge auprès des entreprises de distribution. L ’entre - prise de distribution prend en charge l’envoi. La prise en charge est par exemple assurée par la Poste:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pour les petites quantités ( jusqu’à 5 unités par prise en charge ), la prise en charge a lieu si possible pendant la tournée de distributi - on régulière, mais les clients commerciaux fixent une plage horaire de prise en charge plus étendue ( p. ex. le matin ou l’après-midi ).",
+      "Pour les grandes quantités, une tournée de prise en charge spéciale est orga - nisée et a lieu dans une plage horaire d’une demi-heure convenue au préalable."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les clients privés peuvent commander des prises en charge, par exemple auprès de la Poste en ligne ou via une application. Le processus standard comprend le contrôle et le traitement des ordres, le scannage des colis, y compris la confirmation de la prise en charge et de la livraison pour la suite de l’expédition.",
+      "Les clients commerciaux ont la possibilité de convenir de prises en char - ge régulières ou adaptées à leurs besoins. En cas de prises en charge ré - gulières, des jours et des plages horaires fixes sont définis. En cas de prises en charge occasionnelles, une tournée de prise en charge spéciale est or - ganisée pour les volumes importants et prise en charge par des transports, tandis que les volumes plus faibles sont pris en charge à la Poste si possible pendant la tournée de distribution régulière. Le processus est similaire à ce - lui des prises en charge privées, mais avec des conventions supplémentaires et des plages horaires spéciales."
+     ]
+    }
+   ]
+  }
+ ]
+}

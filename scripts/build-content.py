@@ -186,7 +186,8 @@ def build(code: str):
         if m:
             title = m.group(2).strip()
             num = m.group(1).rstrip(".")
-            chapter = str(int(code[1:]))
+            base_code = code[:3]
+            chapter = str(int(base_code[1:]))
             first = num.split(".")[0]
             if first == chapter and not title.endswith((",", ";", ":")) and not re.search(r"[.!?]$", title):
                 if not title[0].islower():

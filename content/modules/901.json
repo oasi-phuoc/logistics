@@ -1,0 +1,229 @@
+{
+ "code": "901",
+ "title": "Planifier et évaluer les projets logistiques",
+ "domain": "900",
+ "pdf": "M901.pdf",
+ "pages": 7,
+ "words": 1291,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'objectif de toute entreprise est de réaliser un bénéfice aussi élevé que possible. Le bénéfice ne doit toutefois pas être confondu avec le chiffre d'affaires: Chiffre d'affaires: le chiffre d'affaires est la somme des services ou des produits vendus pendant une période donnée (par exemple, chiffre d'affaires par jour, par mois ou par an)."
+    },
+    {
+     "t": "p",
+     "text": "Le bénéfice peut être réalisé indépendamment du chiffre d'affaires. Il est possible de réaliser un chiffre d'affaires élevé sans réaliser de bénéfice. Un bénéfice peut être réalisé lorsqu’un revenu est généré: Revenu: Le revenu est le montant des recettes qu’une entreprise réalise grâce à la vente d’un produit ou d’un service."
+    },
+    {
+     "t": "p",
+     "text": "Pour qu'une entreprise puisse générer un revenu et ainsi avoir la possibilité de réaliser un bénéfice, elle doit fournir une prestation. Elle peut par exemple fournir un service ou vendre un produit. Pour cela, elle doit engager des dépenses que nous appelons des charges dans le jargon professionnel: Charges: Les charges comprennent les coûts liés à l’achat d’un produit, au bâtiment ou à l’infrastructure, ainsi qu’au personnel (coûts salariaux)."
+    },
+    {
+     "t": "p",
+     "text": "Il est préférable que les dépenses et les revenus soient calculés de manière simple, c'est-à-dire que les écarts, les changements et les surprises puissent être exclus, ou que les coûts puissent être facturés au client avec une marge après la prestation de services. Marge: la marge est la différence entre les dépenses et les revenus. La marge reste après l'exécution de la commande en tant que bénéfice."
+    },
+    {
+     "t": "p",
+     "text": "Exemple I"
+    },
+    {
+     "t": "p",
+     "text": "Charges CHF"
+    },
+    {
+     "t": "p",
+     "text": "Revenus CHF Coût des marchandises"
+    },
+    {
+     "t": "p",
+     "text": "1'075'000 Revenu des marchandises 1'211'000 Coût du personnel"
+    },
+    {
+     "t": "p",
+     "text": "405'000 Revenu des intérêts 8'000 Coût de location"
+    },
+    {
+     "t": "p",
+     "text": "12'000 Divers 3'000 Amortissements"
+    },
+    {
+     "t": "p",
+     "text": "2'500 Divers"
+    },
+    {
+     "t": "p",
+     "text": "1'800 SOLDE"
+    },
+    {
+     "t": "p",
+     "text": "SOLDE"
+    },
+    {
+     "t": "p",
+     "text": "Exemple II"
+    },
+    {
+     "t": "p",
+     "text": "Charges CHF"
+    },
+    {
+     "t": "p",
+     "text": "Revenus CHF Coût des marchandises"
+    },
+    {
+     "t": "p",
+     "text": "2'500 Revenu des marchandises 5'200 Coût du personnel"
+    },
+    {
+     "t": "p",
+     "text": "1'500 Revenu des intérêts 1'200 Coût de location"
+    },
+    {
+     "t": "p",
+     "text": "500 Divers 200 Amortissements"
+    },
+    {
+     "t": "p",
+     "text": "200 Divers"
+    },
+    {
+     "t": "p",
+     "text": "150 SOLDE"
+    },
+    {
+     "t": "p",
+     "text": "SOLDE"
+    },
+    {
+     "t": "p",
+     "text": "Quel exercice souhaitez-vous effectuer?"
+    },
+    {
+     "t": "p",
+     "text": "Bien entendu, toutes les entreprises sont à la recherch e de nouveaux clients et de nouveaux projets. C'est précisément ce que les entreprises désirent atteindre grâce un marketing efficace. Car ce n’est qu’avec suffisamment de clients et commandes qu’une entreprise peut perdur er. La mission des logisticiens est d e gérer correctement les tâches logistiques. Tous les projets n'atteignent pas le résultat escompté et il serait idéal de disposer d’un outil permettant d ’évaluer immédiatement les chances de réussite. Malheureusement, certain s facteurs et critères sont ambigus ou complexes ce qui créé de l’incertitude quant à la faisabilité des projets. De ce fait, les projets sont exami nés dans le cadre d'une étude de faisabilité qui permet d’obtenir une vue d’ensemble de tous les paramètres influençant le projet. Les phases suivantes ont fait leurs preuves dans la gestion des projets logistiques: 1. Étude de faisabilité. 2. Planification du projet. 3. Exécution du projet. 4. Évaluation du projet."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "L'ordre rappelle le cycle PDCA présenté dans le module 506."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1",
+   "number": "1.1",
+   "title": "Étude de faisabilité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cadre d'une étude de faisabilité (en anglais: Feasibility Study ), les solutions possibles sont analysées, les risques ident ifiés et les chances de réussite évaluées. Plus le projet est complexe, plus l'étude est complexe."
+    },
+    {
+     "t": "p",
+     "text": "Risque Solution optimale Solution possible v Solution possible v Solution possible Risque Risque L'étude de faisabilité permet de vérifier si les solutions e nvisagées permettent d'atteindre les résultats des conditions cadres convenues du projet (p. ex. logistique, services, production). L'évaluation économique vise à déterminer si les résultats du projet apportent les avantages escomptés a u client, celle-ci ne fait pas nécessairement partie de l'étude de faisabilité. Générale ment, une analyse coûts-bénéfices est réalisée à cet effet. Objectif d'une étude de faisabilité:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Estimer les investissements.",
+      "Assurer la qualité.",
+      "Identifier les risques.",
+      "Identifier la solution optimale."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Résultats d'une étude de faisabilité:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Analyser et évaluer les différentes solutions",
+      "Documenter les opportunités et les risques",
+      "Préconiser une prise de décision"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "En cas d e projet de petite taille, le but est de trouver une solution e n peu de temps avec un minimum de ressources. La faisabilité de ces projets peut ê tre évaluée sans une étude approfondie. Néanmoins, si le projet comporte de grands défis nécessitant des ressources importantes sur une longue période, l'étude de faisabilité permet alors de vérifier les critères suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Faisabilité technique: la réalisation d ’un projet dépend de la faisabilité d'un point de vue technique. Des critères tels que les p ropriétés des matériaux jouent un rôle déterminant à cet égard.",
+      "Faisabilité économique: la volonté de l'investisseur de mettre à disposition les moyens financiers nécessaires à la réalisation du pro jet. En règle générale, il faut d'abord investir avant de recevoir le pa iement du client."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L'encaissement du paiement par le client doit couvrir à la fin les frais encourus durant le projet majoré d’une marge calculée."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Faisabilité politique: la validation du projet par les parties prenantes (p. ex. collaborateurs, fournisseurs, clients) et les considérations culturelles, éthiques et sociopolitiques sont ici déterminantes.",
+      "Faisabilité juridique: l’acceptabilité d ' u n p r o j e t d a n s l e c a d r e d e s réglementations juridiques en vigueur.",
+      "Faisabilité organisationnelle: la réalisation d'un projet nécessite une organisation capable de planifier, piloter et surveiller le projet.",
+      "Faisabilité en termes de ressources: la disponibilité des ressources nécessaires pour le projet, il s'agit de vérifier si le personnel, le matériel, les machines, le savoir-faire sont disponibles. La faisabilité en termes de ressources est étroitement liée à la faisabilité financiè re et organisationnelle."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-1-2",
+   "number": "1.2",
+   "title": "Planification du projet",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Quand l'étude de faisabilité a démontré que le projet reçu est réalisable, la planification du projet peut commencer. Cette planification demande un certain effort et démarre uniquement lorsque le mandat a été conven u par écrit entre le donneur d'ordre et le preneur d'ordre. Dans le planning, les activités sont planifiées sur un axe temporel. La planification doit indiquer qui doit travailler avec quel matériel et à quel moment."
+    },
+    {
+     "t": "p",
+     "text": "Le planning doit être simple, clair et lisible par tous. Dans la mesure du possible, une marge de sécurité est planifiée pour les activités, il s’agit de prévoir une plage horaire comme réserve. La pratique prouve qu'une bonne planification est souvent la clé du succès."
+    },
+    {
+     "t": "p",
+     "text": "\"Attends-toi à l'inattendu, et rien ne pourra jamais te surprendre\"."
+    }
+   ]
+  },
+  {
+   "id": "s-1-3",
+   "number": "1.3",
+   "title": "Exécution du projet",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une fois la mise en œuvre lancée, la communication prend toute son importance. Les collaborateurs impliqués sont désormais les ressources les plus importantes. Un échange régulier et des points de situation sur l'état de l’avancement du projet ne doivent pas être perçus comme négatifs ( contrôles excessifs) mais au contraire comme positifs ( possibilités d’amélioration). Les problèmes ou les écarts par rapport à la planification initiale doivent être identifiés le plus tôt possible et traités rapidement. La marche à suivre pour y parvenir doit être connue de l'équipe et l'objectif doit être poursuivi. La personne responsable du projet doit, dans la mesure du possible, documenter les activités. Ainsi lors de l'évaluation, il sera po ssible de découvrir d'éventuelles pistes d'amélioration ou de profiter de l'expérience acquise lors d'un prochain mandat."
+    }
+   ]
+  },
+  {
+   "id": "s-1-4",
+   "number": "1.4",
+   "title": "Évaluation du projet",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Aussitôt que le projet est terminé, il faut impérativemen t réaliser une évaluation afin de voir si les objectifs et les résultats sont atte ints. L'étude de faisabilité présente les données théoriques, celles-ci sont analy sées puis comparées à la réalité. Cette évaluation est très importante pour l'entreprise puisqu’il ne s'agit pas forcément de corriger rétroactivement les erreurs commises da ns le cadre du projet mais d'identifier les éventuels écarts afin de pren dre les bonnes décisions lors d'un futur mandat. Cette évaluation finale est réalisée en collaboration avec le service financier FICO puis présentée au supérieur hiérarchique ou à la dir ection de l’entreprise. Evidemment, il est agréable de communiquer à la direction que la planifica tion correspond au résultat voir de présenter un résultat meilleur que prévu."
+    },
+    {
+     "t": "p",
+     "text": "Aperçu de la planification du module 901"
+    }
+   ]
+  }
+ ]
+}

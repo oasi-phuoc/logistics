@@ -1,0 +1,314 @@
+{
+ "code": "703",
+ "title": "Coût de personnel",
+ "domain": "700",
+ "pdf": "M703.pdf",
+ "pages": 9,
+ "words": 1711,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Matériaux d'emballage",
+      "Fournitures de bureau (par exemple, papier à photocopie, matériel d'écriture, cartouches d'imprimante, etc.). Remarque: Par souci d'économie et de protection de l'environnement, les consommables doivent être utilisés avec parcimonie."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les collaborateurs sont les piliers de toute entreprise. Mais ils coûtent aussi de l'argent. Leur salaire est un facteur important dans les frais de personnel, mais ce n'est pas le seul. Ce module met en lumière toutes les dépenses liées aux frais de personnel."
+    },
+    {
+     "t": "p",
+     "text": "Les entreprises ont besoin de bons collaborateurs pour réussir sur le marché. Cette affirmation s'applique également à EnterSite AG. C'est pourquoi l'affiche suivante est placardée chez EnterSite AG:"
+    },
+    {
+     "t": "p",
+     "text": "Mais les collaborateurs coûtent aussi de l'argent - ils génèrent des coûts de personnel. Ceux-ci comptent parmi le type de coûts le plus important dans Quels sont les coûts de personnel? Les employés sont l’atout le plus important d’une entreprise Les employés sont l’atout le plus important d’une entreprise l'entreprise. Comme nous l'avons déjà expliqué dans le module 702, les frais de personnel se répartissent entre autres dans les catégories suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Salaires et rémunérations pour le personnel de l'entrepôt.",
+      "Prestations sociales pour le personnel de l'entrepôt (assurances sociales).",
+      "Prestations spéciales (formations continues, frais, gratifications, etc.).",
+      "Coûts d'administration (gestion du personnel)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ce module met en lumière les coûts de personnel d'une part, du point de vue d'EnterSite AG et d'autre part du point de vue du collaborateur ou de la collaboratrice."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1",
+   "number": "3.1",
+   "title": "La société EnterSite AG: coûts directs et indirects de personnel",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "EnterSite AG divise les frais de personnel en frais directs et indirects. Par frais de personnel directs, on entend les salaires ou les charges salariales (salaire brut) des employés. Les frais de personnel indirects sont des sommes versées en plus du salaire brut."
+    },
+    {
+     "t": "p",
+     "text": "Coûts directs de personnel"
+    },
+    {
+     "t": "p",
+     "text": "Coûts indirects de personnel Salaire brut et rémunération pour l'employé"
+    },
+    {
+     "t": "p",
+     "text": "Coûts d'équipement de la place de travail Cotisations pour l'assurance retraite, l'assurance maladie, l'assurance chômage et l'assurance dépendance"
+    },
+    {
+     "t": "p",
+     "text": "Coûts de recrutement de nouveaux collaborateurs Primes de vacances et de Noël"
+    },
+    {
+     "t": "p",
+     "text": "Gratifications"
+    },
+    {
+     "t": "p",
+     "text": "Frais professionnels (formation continue, frais de déplacement)"
+    },
+    {
+     "t": "p",
+     "text": "Maintien du salaire en cas de maladie"
+    }
+   ]
+  },
+  {
+   "id": "s-3-1-1",
+   "number": "3.1.1",
+   "title": "Salaire versus rémunération",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les coûts les plus importants sont générés par le salaire et la rémunération. Quelle est en fait la différence entre salaire et la rémunération?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le salaire est versé pour un travail réellement effectué. Le salaire peut varier d'un mois à l'autre. Le travail effectué peut être calculé en fonction des facteurs suivants: heures de travail, travail à la tâche, mais aussi nombre de pièces.",
+      "La rémunération est convenue à un montant fixe. Les heures supplémentaires effectuées ne sont généralement pas payées directement, mais enregistrées et récupérées (compensées) à une date ultérieure. Contrairement au salaire, la rémunération est versée indépendamment de la quantité travaillée. Même si les collaborateurs sont en vacances et ne travaillent pas, ils reçoivent leur rémunération."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-1-2",
+   "number": "3.1.2",
+   "title": "Réduire les coûts de personnel",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Selon le secteur, les frais de personnel peuvent représenter jusqu'à 80 % des coûts totaux d'une entreprise. En conséquence, la réduction de ces coûts est toujours discutée et examinée. Les frais de personnel peuvent être économisés de la manière suivante:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Constituer des réserves pour les périodes plus difficiles: Ce sont surtout les entreprises qui connaissent de grandes fluctuations saisonnières qui génèrent des revenus variables. Il est donc important de constituer des réserves pendant les phases économiques favorables. Ainsi, il est possible de profiter de ces réserves et de rééquilibrer la caisse dans les phases un peu plus faibles.",
+      "Réduire les heures supplémentaires: EnterSite AG ne paie pas les heures supplémentaires. Elles sont prises (compensées) par les collaborateurs. Ainsi, aucun coût supplémentaire n'est généré.",
+      "Minimiser l'absentéisme: Si les collaborateurs sont souvent malades et absents, les frais de personnel augmentent. La direction d'EnterSite AG a pour mission de rechercher les raisons de ces absences et de les corriger.",
+      "Externalisation: Il est également possible de réfléchir à l'externalisation"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "( module 301). L'externalisation d'activités peut permettre d'économiser des frais de personnel. Il faut toutefois veiller à ce que la qualité n'en pâtisse pas."
+    },
+    {
+     "t": "p",
+     "text": "3.1.3 Employés fixes ou collaborateurs rémunérés à l'heure? EnterSite AG doit décider si elle engage ses collaborateurs de manière fixe ou temporaire (payés à l'heure). Dans le cadre d'un emploi fixe, un collaborateur reçoit un salaire mensuel fixe. Ce salaire comprend les vacances et diverses déductions. Une période d'essai suivie d'un préavis de trois mois est la règle. Si l'on n'a besoin que d'un soutien temporaire, mais que l'on a besoin d'un spécialiste, il est possible de \"louer\" une personne pour une période déterminée via une agence de travail temporaire ou d'engager un freelance. Le freelance est un travailleur indépendant, il s'occupe lui-même de ses impôts et de ses cotisations sociales. Si l'on fait appel à une agence de travail temporaire, elle s'occupe elle-même de l'administration des collaborateurs temporaires."
+    },
+    {
+     "t": "p",
+     "text": "Conclusion En tant qu'employeur responsable, EnterSite AG a pour objectif d'offrir à ses collaborateurs un emploi à long terme, même lorsque les affaires ne vont pas très bien. C'est pourquoi il est important d'avoir constamment un œil sur les frais de personnel et de les maîtriser. Cette réflexion n'est pas seulement faite à court terme, mais aussi à moyen et long terme."
+    }
+   ]
+  },
+  {
+   "id": "s-3-2",
+   "number": "3.2",
+   "title": "Les collaborateurs: la rémunération",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En ce qui concerne la rémunération des collaborateurs, on parle d'un salaire mensuel ou annuel ainsi que d'un salaire brut ou net. Le salaire brut est le salaire avant les déductions prévues par la loi. Le salaire net correspond au montant effectivement versé aux collaborateurs."
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-1",
+   "number": "3.2.1",
+   "title": "Le principe des trois piliers",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Certaines déductions sur le salaire brut sont dues au principe suisse des trois piliers. Les trois piliers représentés correspondent à la prévoyance publique, professionnelle et privée."
+    },
+    {
+     "t": "p",
+     "text": "Pilier 1 - Prévoyance publique Ce pilier doit assurer la sécurité financière de l'existence à la retraite, protège en cas d'invalidité et assure aux survivants le minimum vital en cas de décès. Les déductions obligatoires pour ce pilier sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Assurance-vieillesse et survivants (AVS).",
+      "Assurance-invalidité (AI).",
+      "Prestations complémentaires (PC).",
+      "Assurance chômage (AC).",
+      "Allocations pour perte de gain (APG): Indemnité pendant le service militaire, congé de maternité, congé de paternité."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "L'AVS est un système de répartition. Cela signifie que les cotisations des personnes qui travaillent actuellement financent les rentes des personnes déjà retraitées - les bénéficiaires de l'AVS. L'obligation de cotiser à l'AVS commence pour les personnes actives dès l'âge de 18 ans."
+    },
+    {
+     "t": "p",
+     "text": "Pilier 2 - Prévoyance professionnelle Les caisses de pension légales couvrent, avec le 1er pilier, environ 60 à 70 pour cent du dernier salaire perçu. Le maintien du niveau de vie habituel doit ainsi être rendu possible de manière appropriée. Le 2e pilier comprend:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prévoyance professionnelle obligatoire/caisse de pension (LPP).",
+      "Assurance-accidents obligatoire (LAA).",
+      "Prestations de libre passage en cas de sortie de l'institution de prévoyance (LFLP).",
+      "Assurance sur-obligatoire à la LPP et à la LAA"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pilier 3 - Prévoyance privée Le 3e pilier est une prévoyance individuelle facultative. Il permet d'améliorer activement la situation personnelle en matière de prévoyance. La prévoyance privée est ancrée dans la Constitution fédérale et est encouragée par des mesures fiscales de la Confédération et des cantons. Dans le 3e pilier, la prévoyance est divisée en deux offres:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le pilier 3a sert en principe à la prévoyance vieillesse. Dans certains cas, le montant versé peut également être retiré pour l'achat d'un logement. De plus, les primes ou cotisations versées peuvent être déduites du revenu imposable.",
+      "Le pilier 3b aide à constituer un coussin financier pour les objectifs et les souhaits après la retraite. Les risques financiers en cas d'invalidité ou de décès peuvent également être couverts en fonction des besoins."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Différentes solutions d'épargne et de placement ainsi que des solutions d'assurance sont disponibles à cet effet."
+    }
+   ]
+  },
+  {
+   "id": "s-3-2-2",
+   "number": "3.2.2",
+   "title": "Déductions",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les déductions suivantes sont visibles sur la fiche de salaire (toutes les données correspondent aux déductions obligatoires de l'année 2021):"
+    },
+    {
+     "t": "p",
+     "text": "Mention Signification Déduction EnterSite SA Déduction employé/e AVS Assurance vieillesse et survivants 4.35 % 4.35 % AI Assurance invalidité 0.7 % 0.7 % APG Allocations pour perte de gain 0.25 % 0.25 %"
+    },
+    {
+     "t": "p",
+     "text": "AANP Assurance accidents non professionnels 0.75 % 0.75 % AC Assurance chômage 1.1 % 1.1 %"
+    },
+    {
+     "t": "p",
+     "text": "Par ailleurs, une cotisation LPP (caisse de pension) est obligatoire si les salariés sont assurés dans le premier pilier et que leur revenu dépasse 21 510 francs par an."
+    },
+    {
+     "t": "p",
+     "text": "UUnn eexxeemmppllee:: Salaire annuel brut 100 % CHF 52'000 Déduction AVS 4.35 % CHF 2'262 Déduction AI 0.7 % CHF 364 Déduction APG 0.25 % CHF 130 Déduction AANP 0.75 % CHF 390 Déduction AC 1.1 % CHF 572 Salaire annuel net 92.85 % CHF 48'282 Total des déductions 7.15 % CHF 3'718"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: Les frais de personnel ne sont pas seulement des coûts salariaux, il faut aussi y ajouter les prestations sociales."
+    }
+   ]
+  },
+  {
+   "id": "s-3-3",
+   "number": "3.3",
+   "title": "Droits et obligations de l’employé et de l’employeur",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Outre les coûts, il est important pour les deux parties de comprendre leurs droits et obligations pour une collaboration saine. Les droits et obligations suivants doivent être respectés conformément au Code des obligations:"
+    },
+    {
+     "t": "p",
+     "text": "Droits"
+    },
+    {
+     "t": "p",
+     "text": "Obligations"
+    },
+    {
+     "t": "p",
+     "text": "Employeur"
+    },
+    {
+     "t": "p",
+     "text": "... à l'accomplissement complet de la prestation... à la fidélité et la solidarité... Réponses conformes à la vérité... droit de direction et d'instruction"
+    },
+    {
+     "t": "p",
+     "text": "... devoir d'assistance... protection de la personnalité et des données... égalité entre hommes et femmes... protection des biens... certificat de travail"
+    },
+    {
+     "t": "p",
+     "text": "... obtention d'un revenu en cas de prestation fournie"
+    },
+    {
+     "t": "p",
+     "text": "... obligation personnelle de travail Employé... droit à l'emploi... droit à la liberté d'expression... droit à l'égalité de traitement... devoir de diligence et de loyauté... l'obligation de rendre compte et de remettre des documents... travail en heures supplémentaires... Respect des ordres et des directives"
+    }
+   ]
+  },
+  {
+   "id": "s-3-3-1",
+   "number": "3.3.1",
+   "title": "Droits et obligations en matière de protection de la santé",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Non seulement les droits et obligations de collaboration doivent être respectés par les deux parties, mais les droits et obligations de protection de la santé sont également valables. Ainsi, l'article 2 de la loi sur l'assurance-accidents (LAA), section 2: Obligations des employeurs et des travailleurs, stipule ce qui suit à l'article 82: Généralités:"
+    },
+    {
+     "t": "p",
+     "text": "1 L'employeur est tenu de prendre, pour prévenir les accidents et maladies professionnels, toutes les mesures dont l'expérience a démontré la nécessité, que l'état de la technique permet d'appliquer et qui sont adaptées aux conditions données."
+    },
+    {
+     "t": "p",
+     "text": "2 L'employeur doit faire collaborer les travailleurs à la prévention des accidents et des maladies professionnels."
+    },
+    {
+     "t": "p",
+     "text": "3 Les travailleurs sont tenus d'assister l'employeur dans l'application des dispositions relatives à la prévention des accidents et des maladies professionnels. Ils doivent notamment utiliser les équipements de protection individuel, employer correctement les dispositifs de sécurité et ne pas les enlever ou les modifier sans l'autorisation de l'employeur."
+    },
+    {
+     "t": "p",
+     "text": "Le Conseil fédéral peut également exiger un certificat de formation pour les travaux comportant des risques particuliers."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,220 @@
+{
+ "code": "615",
+ "title": "Module 615",
+ "domain": "600",
+ "pdf": "M615-5_dist.pdf",
+ "pages": 7,
+ "words": 1693,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "313 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique 5 – Niveaux du système de distribu - tion et modes de transport"
+    }
+   ]
+  },
+  {
+   "id": "s-15-18",
+   "number": "15.18",
+   "title": "Notions de base",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour commencer, quelques termes centraux sur les niveaux du système de distri - bution et les principaux modes de transport:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le terme de système de distribution regroupe tous les processus et installa - tions qui veillent à ce que des produits arrivent du fournisseur au client final.",
+      "Le canal de distribution est le lien entre le fournisseur et le client final.",
+      "Un hub est un nœud, c’est-à-dire un lieu où les marchandises de différents fournisseurs sont regroupées et traitées.",
+      "Au cross-docking, divers fournisseurs livrent leurs marchandises à un hub. De là, les marchandises sont directement redistribuées afin que chaque fournis - seur ne doive pas livrer tous les clients individuellement.",
+      "Le transport combiné désigne le transport de marchandises en utilisant dif - férents modes de transport.",
+      "Les modes de transport sont des moyens de transport qui utilisent la même voie de communication, comme les camions sur les routes ou les trains sur le rail."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Tu commandes en ligne un téléphone mobile. Celui-ci ne t’est toutefois pas livré directement à domicile depuis l’usine. Ce serait beaucoup trop cher qu’une per - sonne sillonne la Suisse uniquement à cause de ton téléphone mobile. C’est pour - quoi il existe des étapes intermédiaires dans le canal de distribution, par exemple sous forme de hubs. Dans ceux-ci, les envois de différents expéditeurs sont regroupés et répartis sur les itinéraires de livraison selon le principe du cross-docking. Ainsi, le même four - nisseur apporte non seulement au village ton téléphone mobile, mais aussi les nouvelles baskets que ton voisin a commandées. Les envois sont donc livrés de manière groupée et non pas isolée. Cela permet de réduire les coûts de transport, car chaque fournisseur ne doit pas se rendre chez chaque client individuellement."
+    },
+    {
+     "t": "p",
+     "text": "314 15.19 Qu'est-ce qu'un hub? « Hub » est un terme anglais désignant la « partie centrale d’une pièce ». Pour la roue de vélo, il s’agit du point central où convergent tous les rayons. Dans la logistique, un hub désigne un lieu de trans - bordement central où les envois sont collectés, traités et acheminés. D’autres termes usuels pour un hub sont par ex - emple plateforme, plate-forme de transborde - ment, centre de transbordement, base de transbordement, centre de fret ou nœud. Les envois livrés aux points de dépôt ou directement pris en charge chez les cli - ents arrivent aux hubs dans le cadre de courses collectives ( A–F ). Ils y sont triés ou préparés pour la suite du transport. Selon le produit, l’entreprise logistique ou le lieu de distribution, les envois empruntent différents itinéraires à partir de là."
+    }
+   ]
+  },
+  {
+   "id": "s-15-20",
+   "number": "15.20",
+   "title": "Cross Docking",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour organiser les processus dans un hub de la ma - nière la plus efficace possible, on travaille avec le système de cross-docking. Voici un exemple simple avec différents envois postaux: 1. La marchandise arrive au hub séparément selon le fournisseur, la région ou le type de marchan - dise. 2. Les marchandises y sont triées. 3. Ensuite, la marchandise quitte le hub, triée par destinataire ou région, et poursuit son voyage."
+    },
+    {
+     "t": "p",
+     "text": "315 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Sans cross-docking Sans cross-docking, chaque fournis - seur doit se rendre chez tous les desti - nataires individuellement. Cela signifie que davantage de trajets sont néces - saires et chaque destinataire est livré par plusieurs fournisseurs. Avec cross-docking Le cross-docking permet d’éviter de nombreux trajets, car chaque destina - taire n’est livré qu’une seule fois"
+    }
+   ]
+  },
+  {
+   "id": "s-15-21",
+   "number": "15.21",
+   "title": "Différents niveaux du système de distribution",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les systèmes de distribution sont nommés en fonction du nombre de niveaux in - termédiaires qu’ils contiennent, par exemple les centres de tri ou les entrepôts."
+    },
+    {
+     "t": "p",
+     "text": "Le système de distribution à un niveau Dans un système de distribution à un niveau, la marchandise est livrée directe - ment de l’expéditeur ( également appelé source ) au destinataire ( également ap-pelé puits ). Un exemple simple: tu commandes des nouilles sautées au restaurant Asia et elles te sont livrées directement à domicile. Dans le domaine des entrepri - ses de distribution, le service de coursier correspond à un système de distributi - on à un niveau. Les conditions sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Moyens de transport utilisés de façon optimale: Le livreur du restau - rant Asia remplit la voiture avec d’aut - res commandes de repas.",
+      "Transports à destination unique:"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Toutes les commandes sont livrées dans le même environnement."
+    },
+    {
+     "t": "p",
+     "text": "316 Le système de distribution à deux niveaux Dans le système de distribution à deux niveaux, une étape intermédiaire supplé - mentaire est intégrée. Un exemple: tu te rends à la boutique pour acheter les tou - tes nouvelles chaussures de sport. Pour parvenir là, elles ont passé par un systè - me de distribution à deux niveaux: elles ont été confectionnées dans une usine à Winterthour et livrées directement à la boutique. Dans le monde de la logistique, le transport de marchandises est un exemple ty - pique d’un système de distribution à deux niveaux. Les conditions sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les marchandises parcourent de grandes distances",
+      "Si les marchandises étaient expédiées di - rectement, les moyens de transport ne se - raient pas pleinement exploités",
+      "De nombreux destinataires sont très éloig - nés les uns des autres"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le système de distribution à trois niveaux La première fois que tu portes l’une des chaussures de sport achetées à la bou - tique, la semelle se détache. Fâché, tu contactes le service à la clientèle et tu sig - nales le défaut de qualité. Tu peux renvoyer les chaussures défectueuses à l’usine de Winterthour et tu recevras une nouvelle paire. Tu déposes le colis contenant les chaussures à l’automate à colis de Stadelho - fen – c’est le premier niveau du système de distribution. De là, le colis est ache - miné vers le centre de tri de Frauenfeld ( deuxième niveau ), puis livré à l’usine de Winterthour ( §troisième niveau ). Les conditions sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Beaucoup de destinataires, plus grand nombre d’expéditeurs très éloignés avec des quantités de marchandises qui n’as - surent pas une pleine utilisation des capa - cités des moyens de transport.",
+      "Les coûts de transport doivent être ré-duits par le regroupement des transports."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "317 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Le système de distribution à plusieurs niveaux Un système de distribution à plusieurs niveaux est surtout utilisé pour les envois internationaux. Imagine qu’une de tes amies habite à New York et que tu souhaites lui envoyer pour son anniversaire un album photo réunissant vos photos les plus drôles prises ensemble. Tu commandes l’album en ligne et tu le fais livrer directement à New York. L ’album photo est produit en Suisse et livré dans un premier temps à un office col - lecteur. De là, il est dédouané avec d’autres colis et transporté par avion aux États-Unis. En Amérique, il arrive dans un centre logistique où il est trié, puis distribué à ton amie via un centre de distribution. Les conditions sont les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Transport combiné sur de longues distan - ces."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-15-22",
+   "number": "15.22",
+   "title": "Le transport combiné",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "À partir du système de distribution à deux niveaux, il est possible de combiner différents moyens de transport pour le transport. Dans ce cas, on parle de trans-port combiné. Pour les transports internationaux de courrier et de marchandises, on utilise non seulement le train, mais aussi l’avion et le bateau. Lors du choix des moyens de transport, le temps de transport, les coûts de transport et le type de marchandise à transporter jouent un rôle déterminant."
+    }
+   ]
+  },
+  {
+   "id": "s-15-23",
+   "number": "15.23",
+   "title": "Modes de transport",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sans transport, rien ne se passe dans le processus de distribution. Les envois doi - vent être acheminés des points de dépôt au centre de tri, puis de là aux offices de distribution. Dans l’illustration ci-dessous, les flèches indiquent à quels endroits on a recours au transport."
+    },
+    {
+     "t": "p",
+     "text": "318 Le transport des envois peut s’effectuer de différentes manières. Les principaux modes de transport sont la route, le rail, l’eau et l’air. Jetons un coup d’œil sur les avantages et les inconvénients des différents modes de transport: Modes de transport Avantages Inconvénients Route – rapide"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "adapté aux trajets courts, flexible",
+      "avantageux",
+      "jusqu’à 3,5 tonnes, pas de permis de conduire pour camions",
+      "Quantité et volume trans - portés limités",
+      "Redevances supplémen - taires pour le trafic des poids lourds ( RPLP )",
+      "polluant",
+      "Embouteillages",
+      "Interdiction de circuler la nuit"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "319 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Rail – Volume de transport import - ant"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "rapide sur de longues distan - ces",
+      "écologique",
+      "faibles coûts de transport",
+      "peu de voies de raccorde - ment",
+      "Il faut souvent transborder sur d’autres modes de trans - port, cela prend du temps",
+      "Réseau ferroviaire chargé"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Eau – Volume de transport import - ant"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prix de transport avantageux",
+      "écologique",
+      "lent",
+      "Il faut souvent transborder sur d’autres modes de trans - port, cela prend du temps",
+      "peu de destinations sont di - rectement raccordées à l’eau",
+      "Nombre limité de bateaux",
+      "sensible aux intempéries"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Air – rapide"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "approprié pour de longues distances",
+      "disponible dans le monde entier",
+      "onéreux",
+      "polluant",
+      "Le volume de transport est limité",
+      "sensible aux intempéries"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Dans les entreprises de distribution, les envois en Suisse sont principalement transportés par la route ou par le rail. Remarque Les envois de différents fournisseurs sont regroupés dans des hubs et réache - minés à partir de là avec le système de cross-docking. Selon le nombre de ni - veaux intermédiaires que comprend un canal de distribution, on parle de systè - me de distribution à un, deux, trois ou plusieurs niveaux. Les modes de transport route, rail, air et eau sont disponibles pour le transport, chacun présentant ses propres avantages et inconvénients. Entre les points de dépôt, les centres de tri et les offices de distribution, ce sont surtout les routes et les voies ferrées qui sont utilisées."
+    }
+   ]
+  }
+ ]
+}

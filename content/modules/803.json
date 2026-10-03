@@ -1,0 +1,293 @@
+{
+ "code": "803",
+ "title": "Logiciel d'exploitation",
+ "domain": "800",
+ "pdf": "M803.pdf",
+ "pages": 9,
+ "words": 1823,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'image montre au centre, trois véhicules planifiés. Dans la partie droite et dans l'image du bas, on peut voir les détails d'une tournée. L'extrait de carte montre son déroulement. D'autres détails de planification peuvent également être affichés à partir des différentes tournées; la fenêtre supérieure droite montre par exemple le diagramme de charge du véhicule."
+    },
+    {
+     "t": "p",
+     "text": "De l'entreprise individuelle à la grande entreprise: À l'ère numérique où tout va très vite, il est crucial pour toute entreprise de maximiser l’utilisation du temps de travail. Seules les entreprises qui maîtrisent leurs données peuvent obtenir un résultat optimal et ce à tout moment, en tout lieu, adapté aux conditions individuelles d'EnterSite AG, de ses fournisseurs et de ses clients."
+    }
+   ]
+  },
+  {
+   "id": "s-3-1",
+   "number": "3.1",
+   "title": "ERP (Enterprise Ressource Planning)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Un système ERP est une application complexe. Il s'agit d'une multitude de logiciels d'application ou de systèmes informatiques qui communiquent entre eux et qui sont utilisés dans leur ensemble pour soutenir la planification des ressources de l'entreprise. Les systèmes ERP complexes sont souvent divisés en sous-systèmes (modules d'application) qui peuvent être combinés entre eux en fonction des besoins de l'entreprise et qui peuvent également être utilisés avec des capacités différentes."
+    }
+   ]
+  },
+  {
+   "id": "s-3-2",
+   "number": "3.2",
+   "title": "Gestion des relations avec les clients (CRM)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le Customer-Relationship-Management (CRM) est un élément important et bien connu. CRM signifie en français gestion des relations avec la clientèle et décrit l'orientation d'une entreprise vers ses clients. Les objectifs fondamentaux sont l'acquisition et la fidélisation des clients. La gestion de la relation client (CRM) consiste à concevoir et à optimiser les processus commerciaux en rapport avec les clients existants et potentiels."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "En collectant toutes les données pertinentes à l'aide d'un logiciel CRM, le marketing peut s'orienter précisément sur les besoins des clients et est par conséquent appelé marketing relationnel. Ce concept de gestion permet d'augmenter le succès de l'entreprise. Lorsque l'on parle de CRM, on fait généralement référence à l'un des trois points suivants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le CRM en tant que logiciel: il offre la base technologique pour la saisie, l'analyse et la présentation des interactions de l'entreprise avec les clients ou d'autres relations.",
+      "CRM en tant que stratégie: il s'agit ici de l'orientation consciente des processus de l'entreprise vers le client ou vers une expérience client optimale.",
+      "CRM en tant que processus: on entend par là, les vastes processus d'orientation client. Ceux-ci englobent non seulement les procédures technologiques, mais aussi les procédures stratégiques et systématiques d'une entreprise."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-3",
+   "number": "3.3",
+   "title": "Vente/Marketing",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La vente (également appelée sales) désigne l'ensemble du processus de"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "vente d'un produit ou d'un service. La vente comprend l'identification du ou des groupe(s) cible(s) ainsi que l'approche et l’ acquisition de clients potentiels. Il comprend la vente proprement dite jusqu'à la livraison du produit au client. Ces dernières années, on compte de plus en plus le suivi dans la distribution, car il permet également de générer de nouvelles ventes. Le marketing a pour mission de déterminer quels produits et services sont souhaités par le marché, c'est-à-dire par les clients. L'objectif est de produire ce que les clients sont prêts à acheter et en quantité suffisante. Le marketing"
+    },
+    {
+     "t": "p",
+     "text": "veut aussi découvrir si et comment les clients peuvent être influencés à acheter des produits qu'ils ne connaissent pas."
+    }
+   ]
+  },
+  {
+   "id": "s-3-4",
+   "number": "3.4",
+   "title": "Ressources humaines (RH)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les objectifs de la gestion des ressources humaines sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Assurer l'efficacité et de la productivité.",
+      "La sécurité des places de travail.",
+      "La garantie de la capacité de travail et de la motivation.",
+      "Le recrutement et la fidélisation des collaborateurs compétents à des coûts raisonnables.",
+      "La création et l'amélioration du climat de travail et de la culture de direction.",
+      "La concentration de toutes les forces sur l'objectif de l'entreprise."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-5",
+   "number": "3.5",
+   "title": "Planification et contrôle de la production (PCP)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La planification et le contrôle de la production, en abrégé PCP, est un domaine à la frontière entre la gestion d'entreprise et l'informatique de gestion. Par planification et gestion de la production, on entend la planification, la mise en place et la surveillance de la production en termes de quantité et de délais. La PCP ne s'étend pas uniquement à la fabrication, mais comprend également les domaines en amont (logistique d'approvisionnement) et les activités en aval (logistique de distribution). La gestion des matériaux joue ici un rôle important."
+    }
+   ]
+  },
+  {
+   "id": "s-3-5-1",
+   "number": "3.5.1",
+   "title": "Tâches de la PCP",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les tâches de planification et de gestion de la production sont essentiellement les suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Planification du travail, planification des temps de passage.",
+      "Gestion du matériel (coordination de l'approvisionnement et du stockage).",
+      "Déterminer le type de fabrication et organisation de la fabrication.",
+      "Expédition (logistique de distribution)."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Optimiser la durée de fabrication L'un des facteurs les plus importants pour la planification de la production est la durée de fabrication. La durée de fabrication est le temps nécessaire pour qu'un produit passe par toutes les étapes de production. Ce n'est que lorsque la durée de fabrication est connue qu'il est possible de calculer le taux d’exploitation des machines. La PCP doit vérifier et recalculer le planning tous les jours (ou plus fréquemment). Les pannes des machines ou le manque de matériel se répercutent immédiatement sur tous les processus de travail. Les mesures suivantes soutiennent l'optimisation des processus de production:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Utilisation d'un système PCP qui favorise la réduction de la durée de fabrication.",
+      "Réduction de la taille des lots afin d’éviter les goulots d’étranglement dans le système.",
+      "Réduction des temps d’adaptation des machines.",
+      "Prévention des durées de transport, les temps d'attente et de stockage trop long.",
+      "Réduction des stocks."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les stocks sont nécessaires pour différentes raisons:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Maintenir la capacité de livraison.",
+      "Compensation des délais de réapprovisionnement.",
+      "Compensation des fluctuations de la demande.",
+      "Production de tailles de série économiques."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Il existe un lien étroit entre la réduction des temps de passage et la réduction des stocks. En plus de la réduction des temps de passage, la PCP vise également la réduction des stocks."
+    }
+   ]
+  },
+  {
+   "id": "s-3-6",
+   "number": "3.6",
+   "title": "Management de projet",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nous rencontrons des projets partout, qu'il s'agisse du nettoyage d'une maison, d'un déménagement ou d'un mariage. En fonction de la complexité du projet, nous devons parfois organiser et coordonner (= gérer) plus ou moins de choses. L'ampleur d'un projet peut donc varier. Le terme \"management de projet\" désigne le fait de gérer le projet indépendamment de sa taille."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Définition des objectifs de l'organisation.",
+      "Développement d'une stratégie pour atteindre les objectifs.",
+      "Organisation et coordination des facteurs de production.",
+      "Gestion des collaborateurs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-7",
+   "number": "3.7",
+   "title": "Management qualité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le Management qualité comprend toutes les mesures prises pour garantir une qualité constante des produits ou des services. Le management qualité n'a pas la même importance pour toutes les entreprises. Elle est par exemple très importante pour les entreprises alimentaires et pharmaceutiques, car la santé et le bien-être des personnes sont des biens précieux qui ne doivent pas être mis en danger. Dans l'industrie aéronautique, par exemple, l'assurance qualité va si loin que chaque pièce porte un certificat qui renseigne sur son origine et les matériaux utilisés. Comme ailleurs, il y a malheureusement aussi de la triche dans l'assurance qualité et il est déjà arrivé que des certificats falsifiés soient en circulation. Cela constitue un défi supplémentaire pour les personnes chargées des contrôles. Le contrôle de la qualité revêt une grande importance dans la plupart des entreprises, en particulier dans celles dont la production dépend de la qualité des pièces détachées (achetées). En règle générale, les collaborateurs spécialement formés sont responsables du contrôle de la qualité. Leur lieu de travail est le poste de contrôle qualité ou un laboratoire d'essai spécialement aménagé à cet effet, dans lequel les matériaux peuvent être examinés \"sous toutes les coutures\"."
+    }
+   ]
+  },
+  {
+   "id": "s-3-8",
+   "number": "3.8",
+   "title": "Comptabilité financière (CoFI)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un autre terme utilisé dans les logiciels d'entreprise est la comptabilité financière (CoFi). L'objectif de la comptabilité financière est de déterminer le résultat global d'une entreprise afin de documenter l'état de ses actifs et les variations de ses stocks. La documentation indique à l'entreprise combien de bénéfices ou de pertes ont été réalisés au cours de la période comptable. Les informations à ce sujet sont importantes non seulement pour l'entreprise elle-même, mais aussi pour les actionnaires ou les créanciers. L'établissement d'un compte de résultat et d'un bilan permet de se faire une idée de la santé de l'entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-3-8-1",
+   "number": "3.8.1",
+   "title": "Comptabilité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans les grandes entreprises, la comptabilité financière est divisée en comptabilité des créanciers et en comptabilité des débiteurs."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La 🔎🔎🔎🔎 comptabilité des créanciers comprend les obligations de paiement de l'entreprise. Elle est donc responsable des factures entrantes (créancier = fournisseur).",
+      "La 🔎🔎🔎🔎 comptabilité des débiteurs comprend les créances externes, c'est-à-dire les créances de l'entreprise. C'est ici que sont gérées les factures sortantes (débiteur = client)."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-3-8-2",
+   "number": "3.8.2",
+   "title": "Controlling",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le controlling (contrôle de gestion) fait partie de la comptabilité d'entreprise. Le controlling a pour mission de contrôler toutes les opérations commerciales d'une entreprise. À partir de ces données, des analyses sont réalisées, ce qui permet d’avoir un aperçu précis de la situation de l'entreprise en termes de rentabilité, de bénéfices et de valeur."
+    }
+   ]
+  },
+  {
+   "id": "s-3-9",
+   "number": "3.9",
+   "title": "Gestion du matériel (GM)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les deux mots qui composent le terme \"gestion des matériaux\" décrivent parfaitement le domaine d'activité de cette discipline. Le mot \"matériel\" peut également être remplacé par \"marchandises\" ou \"biens\". La \"gestion du matériel\" désigne donc la gestion des marchandises ou des biens. Les entreprises actives au niveau international utilisent souvent le terme \"gestion des matériaux\", une traduction directe du terme anglais \"Materials Management\". Quel que soit le terme utilisé pour désigner la gestion des matériaux: Elle s'occupe de la gestion, de la planification et du contrôle des mouvements de matériel. Dans les entreprises de production, l'approvisionnement de la production avec les biens nécessaires est au centre des préoccupations. La gestion des matières est donc étroitement liée à la PCP."
+    }
+   ]
+  },
+  {
+   "id": "s-3-9-1",
+   "number": "3.9.1",
+   "title": "Achat",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les achats sont la somme de toutes les activités opérationnelles et"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "stratégiques ( module 301) d'une entreprise privée ou publique qui doivent être effectuées dans le cadre de l'acquisition de matériaux, de marchandises, de moyens d'exploitation et de services. Le terme achat est souvent compris de manière plus étroite que le terme approvisionnement, car l'approvisionnement s'occupe en plus des activités de la logistique d'approvisionnement. L'objectif des achats est d'assurer l'approvisionnement (lieu, délai, quantité, qualité) et d'optimiser le rapport qualité/prix des objets d'approvisionnement. La définition de la politique d'achat, (l' étude du marché d'approvisionnement, le déroulement du processus d'approvisionnement et le contrôle des achats sont des activités du service des achats). Entre-temps, les achats assument souvent aussi les tâches de gestion des relations avec les fournisseurs."
+    }
+   ]
+  },
+  {
+   "id": "s-3-9-2",
+   "number": "3.9.2",
+   "title": "E-Commerce (WebEDI)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les technologies numériques constituent la base du E-Commerce. Dans le cadre du E-Commerce, les fournisseurs et les acheteurs échangent des données par voie numérique. Des technologies très différentes peuvent être impliquées: L'éventail va de la simple technologie radio (par ex. Bluetooth) à des systèmes très complexes basés sur l'intelligence artificielle (IA). Outre les technologies de communication telles qu'Internet et la téléphonie, les bases de données électroniques et les logiciels de traitement de texte sont également utilisés, les médias sociaux ou la télévision servent de canal publicitaire, les opérations de paiement sont effectuées via la banque en ligne et les Chatbots prennent en charge le service clientèle. Il en résulte une infrastructure numérique très étendue, composée de réseaux sans fil ou filaires. Le dénominateur commun est le fait que les distances spatiales sont surmontées. Parfois, cela remplace complètement le contact physique. Le commerce électronique évite aux consommateurs de se rendre dans un magasin stationnaire ou de se faire conseiller en face à face."
+    }
+   ]
+  }
+ ]
+}

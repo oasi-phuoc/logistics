@@ -1,0 +1,212 @@
+{
+ "code": "621-1",
+ "title": "Principes",
+ "domain": "600",
+ "pdf": "M621-1_dist.pdf",
+ "pages": 7,
+ "words": 1507,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "439 1ère édition 2025 Module 621_Retours ( partie 1 ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique 1 – Envois non distribuables: motifs et processus Imagine que tu es en tournée de distribution. Dans un immeuble collectif, tu as une lettre et un gros colis à distribuer – le colis contre signature pour Svenja Mül - ler.Le nom ne figure toutefois sur aucune des boîtes aux lettres. Comment procéder correctement dans ce cas? Dans un tel cas, on parle d’un en - voi non distribuable. Ce type d’envoi est traité spécialement dans la distribution. Nous examinons ci-après comment traiter correctement les envois non distri - buables."
+    }
+   ]
+  },
+  {
+   "id": "s-21-1",
+   "number": "21.1",
+   "title": "Notions de base",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le contexte des envois non distribuables, on parle souvent de renvois, de réexpéditions, de retours ou d’erreurs d’acheminement."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Réexpéditions: ces envois sont envoyés à une nouvelle adresse lorsque le des - tinataire d’origine a déménagé, habite temporairement à une autre adresse ou fait expédier son courrier à une adresse case postale. La condition préalable est de disposer d’un ordre ( mandat ) correspondant.",
+      "Les retours ou renvois sont utilisés lorsqu’un envoi est retourné à l’expéditeur parce que l’envoi ne peut pas être distribué au destinataire. Cela peut s’expli - quer par le fait que le destinataire a déménagé sans laisser d’adresse, que le destinataire ne veut pas recevoir l’envoi ( p. ex. une commande dans une bou - tique en ligne ) ou que l’adresse du destinataire est erronée ( p. ex. numéro postal d’acheminement et rue erronés ).",
+      "Erreurs d’acheminement: il s’agit d’envois qui ont été livrés au mauvais office de distribution et qui parviennent donc avec du retard au destinataire prévu."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Autres termes importants:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les expéditeurs ou les déposants ( clients déposants ) sont des personnes ou des entreprises qui déposent un envoi pour expédition.",
+      "Les destinataires ( clients destinataires ) sont des personnes ou des entrepri - ses qui reçoivent un envoi."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "440"
+    }
+   ]
+  },
+  {
+   "id": "s-21-2",
+   "number": "21.2",
+   "title": "Importance des processus pour les envois non distri -",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "buables Pourquoi est-il si important de traiter correctement les envois non distribuables? Un exemple de calcul simple montre clairement que même de petites erreurs peuvent avoir de grandes conséquences, tant pour la clientèle que pour l’entre - prise de distribution: 1 ) 9'000 distribu-teurs sont sur la route chaque jour… 2 ) Chaque dis-tributeur fait chaque jour une seule erreur d'ache-minement d'un envoi retour ( canal courrier A au lieu du canal retour )… 3 ) 9'000 retours ne sont pas traités chaque jour conformé-ment aux instructions des clients et on un impact direct sur ces derniers… 1 ) 9'000 clients insatisfaits, des efforts supplémen-taires pour le traitement des réclamations, et un risque de départ vers la concurrence…! Images générées avec l'IA Le respect des processus en cas de lettres et de colis non distribuables revêt une importance capitale pour le personnel des entreprises de distribution. Il permet d’éviter un surcroît de travail dans l’exploitation, de réduire les réclamations de la clientèle et de renforcer positivement l’image de l’entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-21-3",
+   "number": "21.3",
+   "title": "Motifs de non-distribution des envois",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Certains envois ne peuvent pas être distribués, par exemple lorsque le destina - taire a déménagé sans laisser d’adresse, est inconnu ou est décédé. En pareils cas, il faut d’abord effectuer une tentative de recherche. Si celle-ci n’aboutit pas, l’en - voi est considéré comme non distribuable."
+    },
+    {
+     "t": "p",
+     "text": "441 1ère édition 2025 Module 621_Retours ( partie 1 ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL En l’absence de réglementation particulière ou d’ordre contraire, un envoi non distribuable est généralement renvoyé à l'expéditeur. Les autres motifs de retour à l’expéditeur sont:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le destinataire est inconnu ou l’adresse n’existe pas ( p. ex. numéro postal d’acheminement erroné, données incomplètes ).",
+      "Le destinataire refuse l’envoi.",
+      "L ’envoi n’a pas été retiré dans les délais à l’office de dépôt.",
+      "Le destinataire avec demande de réexpédition ( bleue et rouge ) ne souhaite pas la réexpédition de colis."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-21-4",
+   "number": "21.4",
+   "title": "Rechercher un destinataire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans la mesure du possible, les envois doivent tou - jours être distribués au destinataire et non pas ren - voyés à l’expéditeur. Si l’adresse du destinataire est insuffisante, tu peux essayer de trouver le destina - taire comme suit:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Annuaire téléphonique suisse sur Internet"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "( www.search.ch )"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Concierge, gérance d’immeubles",
+      "AMP ( système interne pour l’actualisation des ad - resses à la Poste )",
+      "Collègues de travail",
+      "Étiquette gommée « Habitez-vous dans cette mai - son? » ( uniquement à la Poste )"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-21-5",
+   "number": "21.5",
+   "title": "Procédure en cas de colis non distribuables",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La procédure générale pour les colis avec une adresse de destinataire insuffisante est la suivante:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Clarifie si le destinataire a une demande de réexpédition.",
+      "Si ce n’est pas le cas, essaie de trouver le destinataire avec les outils disponib - les.",
+      "Lorsque toutes les recherches demeurent vaines, les envois sont considérés comme non distribuables. L ’envoi est retourné à l’expéditeur."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "442 Le processus ci-après de l’entreprise de distribution LOGO montre comment pro - céder pour les colis non distribuables. Il ressemble aux processus de véritables entreprises de distribution comme la Poste. Les réexpéditions et les retours de colis sont payants. Processus Colis non distribuables"
+    },
+    {
+     "t": "p",
+     "text": "DDéébbuutt DDeemmaannddee ddee RRééeexxppééddiittiioonn?? UUnn ccoolliiss nnee ppeeuutt ppaass êêttrree ddiissttrriibbuuéé OOuuii NNoonn CCoolllleerr ll’’ééttiiqquueettttee** CCoocchhee llee mmoottiiff SSaaiissiirr llaa nnoouuvveellllee aaddrreessssee dduu ddeessttiinnaattaaiirree ddaannss llee cchhaammpp"
+    },
+    {
+     "t": "p",
+     "text": "SSccaannnneerr llaa rrééeexxppééddiittiioonn EEnnvvooyyeerr aauu cceennttrree ddee ttrrii ** (acheminer conformément à l’offre de prestations lors du premier dépôt) RReecchheerrcchheerr ll’’aaddrreessssee dduu ddeessttiinnaattaaiirree"
+    },
+    {
+     "t": "p",
+     "text": "LLaa nnoouuvveellllee aaddrreessssee dduu ddeessttiinnaattaaiirree aa--tt-- eellllee ééttéé ttrroouuvvééee?? OOuuii NNoonn CCoolllleerr ll’’ééttiiqquueettttee** CCoocchhee llee mmoottiiff SSccaannnneerr llaa rrééeexxppééddiittiioonn EEnnvvooyyeerr aauu cceennttrree ddee ttrrii ** (acheminer conformément à l’offre de prestations lors du premier dépôt) CCoolllleerr ll’’ééttiiqquueettttee** IInnssccrriirree llaa nnoouuvveellllee aaddrreessssee dduu ddeessttiinnaattaaiirree CCoocchhee llee mmoottiiff SSccaannnneerr llaa rreennvvooii EEnnvvooyyeerr aauu cceennttrree ddee ttrrii**** (biffer les éven-tuels codes à barres de produits et de presta-tions complémentaires, sauf «SI») IInnssccrriirree ll’’aaddrreessssee ddee ll’’eexxppééddiitteeuurr FFiinn *Étiquette: *va finalement au destinataire **va finalement à l’expéditeur"
+    },
+    {
+     "t": "p",
+     "text": "443 1ère édition 2025 Module 621_Retours ( partie 1 ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-21-5-1",
+   "number": "21.5.1",
+   "title": "Remplir et apposer correctement l’étiquette sur les colis",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L ’étiquette doit être remplie comme suit et collée sur le colis afin que les machi - nes du centre puissent la lire et la traiter. Manière correcte de remplir l’étiquette Sur l'étiquette en cas… … de renvois: cocher le champ et le motif et saisir l’adresse de l’expéditeur dans les trois lignes de l’adresse … d'erreurs d'acheminement: cocher le champ et saisir l’adresse du destina - taire dans les trois lignes de l’adresse … de réexpéditions: cocher le champ et saisir l’adresse de réexpédition du des - tinataire dans les trois lignes de l’adres - se"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "L ’étiquette doit toujours être collée sur l’ancienne adresse. Veiller à ne pas biffer l’ancienne adresse!",
+      "Attention: le code à barres d'origine reste. Ne pas recouvrir celui-ci et ne pas le biffer!"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-21-6",
+   "number": "21.6",
+   "title": "Processus pour les lettres non distribuables",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lorsqu’une lettre ne peut pas être distribuée, un processus déterminé s’applique. Nous te présentons ici le processus de la Poste, car c’est elle qui distribue le plus de lettres en Suisse."
+    },
+    {
+     "t": "p",
+     "text": "444"
+    },
+    {
+     "t": "p",
+     "text": "DDéébbuutt AAppppoosseerr ll’’ééttiiqquueettttee ddee rrééeexxppéé-- ddiittiioonn jjaauunnee aappppoosseerr SSccaannnnaaggee ddee rrééeexxppééddiittiioonn CCoouurrrriieerr BB aavveecc AAffffrraanncchhiisssseemmeenntt PPPP?? RReecchheerrcchheerr ll’’aaddrreessssee dduu ddeessttiinnaattaaiirree"
+    },
+    {
+     "t": "p",
+     "text": "AAuu ddéébbuutt eett àà llaa ffiinn ddee ll’’oorrddrree:: ccoolllleerr ll’’aauuttooccoollllaanntt ««VVeeuuiilllleezz ccoommmmuunniiqquueerr llaa bboonnnnee aaddrreessssee àà ll’’eexxppééddiitteeuurr»» RReennvvooii ddaannss CCaannaall BB ((rreettoouurrss)) aauu CCeennttrree ddee ttrrii**** SSccaannnneerr llaa rrééeexxppééddii-- ttiioonn TTrraannssmmeettttrree ttoouujjoouurrss ppaarr llee ccaannaall AA aauu CCeennttrree ddee ttrrii ** AAddrreessssee dduu ddeessttiinnaa-- ttaaiirree ttrroouuvvééee?? TTrraannssfféérreerr ddaannss llee ccaannaall AA aauu cceennttrree ddee ttrrii ** **va finalement au ddeessttii-- nnaattaaiirree ****va finalement à l’eexxppééddiitteeuurr,, ssiinnoonn àà llaa ccllii-- nniiqquuee ddeess lleettttrreess (plus d’informations à ce su-jet dans le module 633 Retours, partie 2) **va finalement au ddeessttii-- nnaattaaiirree EEPPLLJJDD ((lleettttrree aavveecc jjuussttiiffiiccaattiiff ddee ddiiss-- ttrriibbuuttiioonn))?? UUnnee lleettttrree eesstt nnoonn ddiissttrriibbuuaabbllee ((PPoosstt kkuuhh hhllkkhh kkhhkkjj hhllkkhh kkhhllkk hhkkhhkk hhkkhhkk hhgggg gghhgg hhgghh gghhgg hhgghh ggjjggjj OOrrddrree ddiissppoonniibbllee ((pp.. eexx.. ddee-- mmaannddee ddee rrééeexxppééddiittiioonn))?? NNoonn OOuuii OOuuii NNoonn OOuuii NNoonn NNoonn OOuuii AAppppoosseerr ll’’ééttiiqquueettttee ddee rreettoouurr ccoorrrreessppoonnddaannttee eenn ffoonnccttiioonn dduu mmoottiiff.. PPaarraapphheerr ssii llee sseecctteeuurr ddee ddiissttrriibbuuttiioonn llee pprreessccrriitt.. OOuuii SSccaannnneerr llee rreennvvooii RReennvvooii ppaarr llee ccaannaall AA aauu CCeennttrree ddee ttrrii **** NNoonn NNootteerr ll’’aaddrreessssee dduu ddeessttiinnaattaaiirree ttrroouuvvéé BBMMDD ((LLeettttrree àà bbaarrrreess))?? BBMMDD ((LLeettttrree àà bbaarrrreess))?? OOuuii NNoonn FFiinn"
+    },
+    {
+     "t": "p",
+     "text": "445 1ère édition 2025 Module 621_Retours ( partie 1 ) Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Remarque Il y a envois non distribuables quand des lettres ou des colis ne peuvent pas être distribués. Les raisons en sont p. ex. une adresse erronée, un destinataire inconnu ou un déménagement sans demande de réexpédition. De tels envois doivent être traités avec soin afin d’éviter les erreurs et le surcroît de travail. Il existe différents types: réexpéditions, retours et erreurs d’acheminement. Les collaboratrices et les collaborateurs doivent essayer de trouver le destinataire avant que l’envoi ne soit renvoyé. Des solutions comme l’annuaire télépho - nique, le concierge ou les systèmes internes peuvent les y aider. Un étiquetage correct est important pour le traitement mécanique. Le code à barres ne doit lui aussi pas être recouvert. Les colis et les lettres suivent des processus clairs lors du renvoi. Les réexpéditions et les retours sont payants. Ainsi, le service reste fiable et convivial."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,461 @@
+{
+ "code": "602",
+ "title": "Les emballages",
+ "domain": "600",
+ "pdf": "M602.pdf",
+ "pages": 20,
+ "words": 3155,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nous emballons des marchandises, mais pourquoi au juste? L'emballage sert d'une part à protéger les marchandises, mais il assume également des fonctions logistiques et d'information. Ces informations contribuent à ce que les marchandises soient au bon endroit au bon moment. Les emballages sont en constante évolution. Dans ce contexte, la durabilité des emballages prend de plus en plus d'importance."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 602"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "2.1 Emballer, mais pourquoi? Fonction de protection L'emballage protège la marchandise des influences extérieures telles que l'humidité, la lumière, le froid, la chaleur, la chute, les chocs, les éraflures, les salissures, la corrosion, le vol ou les micro-organismes (bactéries, moisissures, champignons). Inversement, l'emballage permet également de protéger l'environnement du contenu de l’emballage comme des produits dangereux, articles tranchants, etc.)."
+    },
+    {
+     "t": "p",
+     "text": "Fonction logistique Outre sa mission de protection, l'emballage a également une mission logistique. L'emballage permet de regrouper un certain nombre d'objets pour le stockage et le transport. Dans certaines circonstances, l'empilage de certains objets n'est possible qu'à l'aide de l'emballage (par exemple les harasses de boissons). L'amélioration de l'empilage permet une meilleure utilisation de l'espace de stockage et de chargement. En outre, le chargement et le déchargement des véhicules de transport s'en trouvent accélérés. Le transport avec des convoyeurs continus nécessite également des emballages normalisés."
+    },
+    {
+     "t": "p",
+     "text": "Fonction d'informations L'emballage peut également avoir pour mission de transmettre des informations aux consommateurs. Les informations à transmettre sont en lien avec le produit contenu dans l’emballage et sont diverses comme par exemple; informations techniques, mentions obligatoires, composition du produit, informations marketing, etc. Les emballages de vente, en particulier, ont beaucoup évolué au cours des dernières années. La promotion des ventes via l'emballage est devenue un instrument de marketing important, cela permet de se démarquer des autres concurrents et susciter l’intérêt des consommateurs."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: aujourd'hui, les marchandises ne sont plus seulement emballées pour être protégées. Les logisticiens ne pourraient plus se passer d'un bon emballage!"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple d'EnterSite AG No. Description Code de l'unité de base Prix d'achat CHF 2580913 ACER Predator X35 35 pouces 2K UltraWide QHD Gaming Monitor (2 ms temps de réponse, 200 Hz) STK CHF 2'399.00"
+    },
+    {
+     "t": "p",
+     "text": "Chez EnterSite AG, l'écran ACER est emballé dans un moyen d’emballage en carton munie des accessoires d’emballages de calage en polystyrène expansé. Fonction de protection: grâce à l'emballage, l'écran est protégé contre les influences extérieures, les contraintes mécaniques (chute, choc, pression, coup). Fonction logistique: l'emballage permet de palettiser facilement les écrans. Fonction d'informations: l'écran doit avant tout s'adresser aux \"gamers\". Les images de jeux sur l'emballage doivent motiver les gamers à l’acheter. De même, des informations techniques sont présentes sur l'emballage."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2",
+   "number": "2.2",
+   "title": "Termes techniques selon le Deutsches Institut für Normung (DIN)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En langue allemande, les termes techniques de l'emballage ont été définis comme suit selon la norme DIN 55405: Matériel d'emballage Matériel à partir duquel un emballage est fabriqué. Il peut s'agir par exemple de papier, de carton, de bois, de métal, de verre ou de dérivé de plastique. Produit emballé"
+    },
+    {
+     "t": "p",
+     "text": "L'objet qui est emballé, c'est-à-dire le contenu d'un emballage. Moyen d'emballage"
+    },
+    {
+     "t": "p",
+     "text": "Il s’agit d’un dérivé obtenu à partir des matériaux d’emballage. Le moyen d’emballage est destiné à contenir le produit à emballer afin de le rendre apte au stockage et au transport. Les moyens d’emballages peuvent être: des boîtes en carton, des caisses, des bouteilles, des tubes, des palettes, etc. Accessoires d'emballage"
+    },
+    {
+     "t": "p",
+     "text": "Il s’agit d’un dérivé obtenu à partir des matériaux d’emballage. Les accessoires d'emballage sont utilisés à l’intérieur du moyen d’emballage pour caler et protéger la marchandise ainsi qu’à l’extérieur du moyen d’emballage pour sceller celui-ci. Exemples: de la colle, du ruban adhésif, de la ficelle, du ruban plastique, chips en polystyrène ou autre matériel de calage. Emballage"
+    },
+    {
+     "t": "p",
+     "text": "Moyen d'emballage + accessoires d'emballage."
+    },
+    {
+     "t": "p",
+     "text": "Paquet"
+    },
+    {
+     "t": "p",
+     "text": "Produit emballé (contenu de l'emballage) + l’emballage. Unité d’emballage"
+    },
+    {
+     "t": "p",
+     "text": "Paquet prêt à être expédié ou entreposé. Emballage jetable Moyen d’emballage destiné à un usage unique. Après utilisation, il est recyclé ou jeté à la poubelle. Emballage repris Moyen d’emballage qui peut être réutilisé après utilisation. Les emballages réutilisables sont également appelés emballages consignés."
+    }
+   ]
+  },
+  {
+   "id": "s-2-2-1",
+   "number": "2.2.1",
+   "title": "Autres termes techniques non officiels (non conformes à la norme DIN)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Emballage de vente Emballage dans lequel une marchandise est présentée au client dans le point de vente. L'emballage de vente est généralement pourvu d'une impression publicitaire. Il doit comporter certaines informations sur le produit qu'il contient. Emballage fictif Emballage de vente qui fait croire au client qu'il contient plus de contenu qu'en réalité. Suremballage Emballage de stockage ou d'expédition qui protège l'emballage de vente pendant le stockage et le transport. Emballage final Emballage d'une marchandise pour le transport. Est également considéré comme emballage final, le film"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "étirable ou rétractable d'une charge palettisée. ( article technique module 603)"
+    },
+    {
+     "t": "p",
+     "text": "2.3 Quel est le bon emballage? Une multitude de facteurs influent sur le choix d'un emballage approprié:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Fragilité de la marchandise",
+      "Type de transport (camion, train, maritime, aérien, poste, etc.)",
+      "Itinéraire, durée et distance du transport (en Suisse, à l'étranger, outre-mer)",
+      "Consignes de transport particulières à respecter",
+      "Type d’entreposage",
+      "Souhaits des clients",
+      "Impact environnemental",
+      "Quantité",
+      "Effet publicitaire",
+      "Poids et prix de l'emballage"
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple d'EnterSite AG No. Description Code de l'unité de base Prix d'achat CHF CC364X HP CC364X 64X P4015 toner BLACK STK CHF 65.00"
+    },
+    {
+     "t": "p",
+     "text": "Les exigences d'emballage de cette cartouche d’encre peuvent être très différentes selon la destination de l'envoi. Cela fait une différence si l'article doit être envoyé à un client en Afrique du Sud ou à la succursale de Köniz."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-1",
+   "number": "2.3.1",
+   "title": "Le choix d'un emballage approprié",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Aujourd'hui, beaucoup de nos emballages sont composés de matériaux non réutilisables. Après utilisation, ces emballages dits jetables sont soit incinérés, soit recyclés. Les emballages réutilisables ont un sens d'un point de vue économique et écologique. Les emballages réutilisables peuvent être échangés dans un pool d'échange ouvert ou fermé. Les Dispobox et les caisses IFCO sont échangées dans un pool d'échange fermé."
+    },
+    {
+     "t": "p",
+     "text": "Dispobox Le Dispobox est un récipient en plastique qui garantit une grande stabilité pour un poids faible. Les dispobox existent en sept tailles différentes. Ils permettent d'expédier les marchandises les plus diverses. Les dispobox peuvent être sécurisés par des plombs, ce qui rend le transport plus sûr. Il s’agit d’un pool fermé."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Vous trouverez ici de plus amples informations sur les Dispobox."
+    },
+    {
+     "t": "p",
+     "text": "Caisses plastique réutilisable IFCO IFCO signifie \"Internal Fish Container\" et a été développé en France en 1985. Aujourd'hui, les caisses réutilisables IFCO servent principalement à transporter des denrées alimentaires non emballées. Les emballages sont surtout utilisés pour les légumes et les fruits. Les caisses sont pliables et sont nettoyées après utilisation."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Vous trouverez ici de plus amples informations sur les caisses plastiques réutilisables IFCO."
+    },
+    {
+     "t": "p",
+     "text": "Bacs gerbables Il existe une multitude de caisses en plastique dans une grande variété de modèles. Par rapport à leur poids, les bacs gerbables en plastique disposent d'une grande stabilité grâce à leur construction nervurée. Ils font leurs preuves partout où les charges importantes et l'humidité ne permettent pas d'utiliser des cartons comme conteneurs de transport. Les caisses empilables les plus connues sont les caisses à boissons."
+    },
+    {
+     "t": "p",
+     "text": "Les récipients empilables existent avec des parois pleines, avec ou sans logement pour les poignées, avec ou sans couvercle ou comme harasses (parois et fond ajourés). Selon l'utilisation, les bacs ont également des fonds différents: plat (transport horizontal sur roulettes possible); renforcé (pour les marchandises lourdes); nervuré (pour une meilleure stabilité lors du gerbage); fond grillagé fermé et ajouré (pour le secteur alimentaire)."
+    },
+    {
+     "t": "p",
+     "text": "Différents types de fond pour les bacs gerbables:"
+    },
+    {
+     "t": "p",
+     "text": "Fond à tête de taureau Fond plat Fond grillagé"
+    },
+    {
+     "t": "p",
+     "text": "Restrictions à l'utilisation de récipients en plastique:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les conteneurs avec fond dit “à tête de taureaux” ne peuvent pas être utilisés sur des convoyeurs à rouleaux, ils s'inclinent souvent et restent donc bloqués.",
+      "Les récipients utilisés pour le stockage de denrées alimentaires doivent, conformément aux directives de l'UE, être testés en matière d'aptitude au contact alimentaire et porter le label correspondant.",
+      "La plupart des denrées alimentaires ne doivent pas être stockés dans des récipients en plastique fermés. Pour les produits frais, le manque d'air ou la stagnation de l'humidité entraînent des moisissures et de la pourriture.",
+      "Retour des conteneurs en cas d'envoi à d'autres entreprises ou à des particuliers: les conteneurs gerbables conviennent parfaitement à un usage privé. Des contrôles stricts permettent d'éviter des pertes excessives des précieux récipients. Des règles claires pour l'échange et un contrôle rigoureux sont recommandés."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-2",
+   "number": "2.3.2",
+   "title": "Le choix des accessoires d’emballage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les accessoires d’emballage de rembourrage devraient également être utilisé selon le principe \"aussi peu que possible, autant que nécessaire\", afin de garantir la meilleure protection possible tout en gaspillant le moins de ressources. Un mélange de différents accessoires d’emballage de bourrage (p. ex. papier et film à bulles) peut donner une impression peu professionnelle au client. Si l'on doit s'attendre à des secousses, il faut choisir un accessoire d’emballage de rembourrage à la fois solide et absorbant les chocs. Remplir des espaces vides avec des chips en polystyrène ne convient pas; le produit emballé peut se déplacer vers le bas dans l'emballage sous l'effet des secousses et n'offre donc plus une protection suffisante. Pour les transports sur de très longues distances (par exemple vers les pays d'outre-mer), Les marchandises délicates sont enfermées dans le moyen d’emballage avec de la mousse expansive expansée. Pour ce faire, la marchandise est protégée par un film et la mousse est injectée sous forme liquide. Celle-ci augmente de volume pendant le durcissement et remplit ainsi tous les espaces vides. Un emballage \"sur mesure\" de ce type protège la marchandise de manière optimale, mais n'est pas très écologique."
+    },
+    {
+     "t": "p",
+     "text": "1 Lors de l'emballage, le rembourrage est encore suffisant de tous les côtés."
+    },
+    {
+     "t": "p",
+     "text": "2 Sous l’effet des secousses, le produit emballé se déplace à travers les chips en polystyrène. Au bout d'un certain temps, le rembourrage ne sert plus à rien. 3 Mesures de correction: le déplacement est évité par des inserts en carton et un bon compactage des chips."
+    }
+   ]
+  },
+  {
+   "id": "s-2-3-3",
+   "number": "2.3.3",
+   "title": "Durabilité",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L'époque où l'on emballait les marchandises sans y penser est définitivement révolue. Les emballages plastiques représentent un moteur de plus en plus important des déchets urbains. Il convient donc de les réduire. Des emballages ingénieux réduisent la part de plastique. Le Natural Branding est un nouveau procédé qui consiste à graver directement sur la peau des fruits et légumes à l'aide d'un laser ce qui contribue à diminuer la quantité d’emballage utilisé."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: la durabilité est très importante à l'heure actuelle. Dans la mesure du possible, il convient d'économiser les emballages et de passer aux emballages réutilisables chaque fois que cela est possible."
+    }
+   ]
+  },
+  {
+   "id": "s-2-4",
+   "number": "2.4",
+   "title": "Contraintes d'un emballage (de protection)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les emballages de protection doivent pouvoir résister à différentes contraintes: Contraintes mécaniques: • Chutes •"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Cisaillements ou chocs",
+      "Pressions ou les coups",
+      "Secousses (vibrations)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Contraintes climatiques: • En raison des conditions météorologiques"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "En raison de la situation géographique"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Contraintes dues aux organismes nuisibles:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Moisissures",
+      "Dévoration par des nuisibles (souris ou autre animaux, parasites)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Contraintes dues au pillage et au vol: • Détournement de marchandises transportées"
+    }
+   ]
+  },
+  {
+   "id": "s-2-4-1",
+   "number": "2.4.1",
+   "title": "Contraintes mécaniques",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchandises emballées sont souvent soumises à différentes forces qui peuvent entraîner des dommages. On parle de contraintes mécaniques. L'emballage (enveloppe et rembourrage) constitue la zone de déformation. Il se déforme en cas de choc, ce qui permet d'absorber l'énergie et de protéger la marchandise. L'emballage a rempli sa fonction lorsqu'il peut absorber l'énergie d'un choc de manière à ne pas endommager la marchandise emballée. Les emballages sont soumis aux contraintes mécaniques suivantes:"
+    },
+    {
+     "t": "p",
+     "text": "Chutes L'action de la force se produit dès qu'un objet rencontre un support solide après un certain temps de chute libre. La contrainte de chute dépend de différents facteurs:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "de la hauteur de la chute",
+      "de la masse (du poids)",
+      "de la constitution du sol",
+      "du type d’impact (chute sur surface plane, sur une arête ou sur un angle)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Cisaillements ou choc Sous l'effet d’un cisaillement ou d'un choc, les unités d’emballage ou des charges entières peuvent glisser, se renverser ou tomber. La marchandise emballée peut endommager l'emballage (faire des bosses) ou même le transpercer. La contrainte de cisaillement ou choc est particulièrement présente lors:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "de chargements de palettes ou de grosses caisses",
+      "de chargements de wagon de chemin de fer (chocs dus à la manœuvre)",
+      "de chargements de conteneurs"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pressions ou coups Les unités d’emballage sont exposées à des contraintes de compression dans l'entrepôt et lors du transport lorsqu'ils sont empilés. Une pression trop importante peut entraîner un écrasement ou une compression du produit emballé. Selon le type de marchandise, cela peut entraîner une déformation ou un écrasement du produit emballé. Pour garantir la protection efficace contre de tels dommages, l'emballage doit présenter la résistance nécessaire. Les dommages peuvent être évités en utilisant des intercalaires (couvercles), en utilisant des étagères et en plaçant les marchandises lourdes en bas de la pile."
+    },
+    {
+     "t": "p",
+     "text": "Secousses Lors de presque chaque transport, le produit à transporter est soumis à des mouvements de secousses ou à des vibrations. Les secousses peuvent faire perdre au produit transporté le contact avec la surface d'appui et le faire se déplacer ou faire disperser le produit emballé à travers les accessoires de rembourrage. Les causes des secousses peuvent être dues:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "A la conduite sur des routes irrégulières (pavés, fissures, bosses…)",
+      "Aux voyages en train sur les aiguillages",
+      "A l’état de la mer (vagues) lors de navigation sur l’eau",
+      "Aux turbulences aériennes lors des transports aériens."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-2-4-2",
+   "number": "2.4.2",
+   "title": "Contraintes climatiques",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les contraintes climatiques d'un emballage dépendent des zones climatiques, de la saison et des conditions météorologiques pendant le transport. Les contraintes climatiques comprennent entre autres la température de l'air, la pression atmosphérique, le vent, l'humidité de l'air et les précipitations. Les zones climatiques varient en fonction de la destination des produits. Il est important d'en tenir compte lors de l'emballage des marchandises. Les facteurs suivants jouent un rôle déterminant:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le(s) type(s) de transport utilisé(s) pour le transport de la marchandise",
+      "Le parcours qui sera effectué par la marchandise",
+      "La durée du transport"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les contraintes climatiques peuvent également varier en permanence pendant le transport. Par exemple, les températures et la pression atmosphérique dans un avion-cargo varient en fonction de l'altitude à laquelle il vole. Les différences de température et de pression atmosphérique influencent à leur tour la formation de condensation. Lorsque l'air chaud et l'air froid se rencontrent, des gouttes de condensation peuvent se former: Si l'on ouvre les fenêtres en hiver, elles s'embuent; si l'on prend une boisson rafraîchissante dans le réfrigérateur par une chaude journée d'été, l'extérieur de la boisson est soudainement humide. Partout où il y a de l'air (même à l'intérieur d'un emballage), il y a de l'humidité. Cette formation d'eau peut détruire des produits (par exemple des produits électroniques) ou provoquer des taches (par exemple sur des chaussures en cuir)."
+    },
+    {
+     "t": "p",
+     "text": "Mesures concernant l'emballage Pour éviter les contraintes climatiques, un emballage spécial est nécessaire selon le type de marchandise. Voici quelques exemples:"
+    },
+    {
+     "t": "p",
+     "text": "Le polystyrène expansé isole très bien et est donc l'emballage idéal pour les marchandises sensibles à la température. Malheureusement, les emballages en polystyrène ne peuvent souvent être utilisés qu'une seule fois."
+    },
+    {
+     "t": "p",
+     "text": "Les sachets déshydratants, également appelés sachets de silice, extraient l'humidité de l'air ambiant. Cela empêche la formation de condensation à l'intérieur d'un emballage."
+    },
+    {
+     "t": "p",
+     "text": "Lors de la mise sous vide, on retire l'air de l'emballage et donc aussi l'humidité de l'air. Il n'y a plus de formation de condensation."
+    },
+    {
+     "t": "p",
+     "text": "Contre la rouille, on utilise le procédé VCI (Volatile Corrosion Inhibitor, en français: inhibiteur de corrosion volatile). Une substance chimique libère un gaz qui enveloppe les marchandises à protégées et les protège ainsi contre la corrosion. Un papier enduit est également souvent utilisé. Dans le langage courant de l'entrepôt, ce papier est appelé \"papier gaz\". Mais le VCI est également utilisé sous forme de poudre, de chips, de feutre ou de solvants. Outre le procédé VCI, on utilise toujours du papier huilé, du papier per gamine ou du papier bitumé."
+    }
+   ]
+  },
+  {
+   "id": "s-2-4-3",
+   "number": "2.4.3",
+   "title": "Contraintes dues aux organismes nuisibles",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Lors de longs transports, les marchandises transportées peuvent être endommagées par des parasites ou des champignons. De plus, avec la mondialisation croissante, les nuisibles ont la possibilité de se propager avec facilité dans le monde entier. Les nuisibles n'essaient de pénétrer dans un emballage que s'ils sont attirés par l'odeur de la marchandise emballée. Le carton ondulé ordinaire offre peu de résistance aux nuisibles et n'est donc pas adapté aux transports prolongés de marchandises sensibles. La mesure de protection la plus importante est un emballage intérieur étanche aux odeurs. Il peut s'agir par exemple d'un film plastique soudé. Tous les films plastiques ne sont pas résistants aux morsures d'insectes. On obtient de bons résultats avec du PVC rigide ou des films de polyéthylène plus épais. Le développement d'emballages résistants aux insectes est l'affaire de spécialistes. Afin de protéger les cultures et forêts indigènes contre l'introduction d'organismes nuisibles au bois, de nombreux pays ont adopté des dispositions de quarantaine. Afin d'uniformiser les prescriptions d'importation, la Convention internationale pour la protection des végétaux (IPPC – International Plant Protection Convention) a édicté les directives ISPM-15 (International Standards for Phytosanitary Measures) pour l'expédition internationale d'emballages en bois. Les emballages ou matériaux d'emballage à base de bois qui sont collés, chauffés ou comprimés pendant le traitement ne sont pas soumis aux obligations de la ISPM 15. Il s'agit notamment des panneaux de particules, du contreplaqué, des placages et des matériaux fabriqués à partir de laine de bois ou de sciure. Le bois brut coupé très fin (< 6 mm) n'est pas non plus concerné par les dispositions. Pour se protéger des nuisibles, les emballages et les conteneurs entiers sont fumigés. Cette opération ne peut être effectuée que par des spécialistes. Dans tous les cas, il faut veiller à ce que les pesticides se dégradent sans laisser de résidus."
+    }
+   ]
+  },
+  {
+   "id": "s-2-4-4",
+   "number": "2.4.4",
+   "title": "Le pillage et le vol",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le vol de marchandises par des personnes externes ou des collaborateurs constitue un problème important dans la logistique. Les mesures les plus diverses sont prises pour y remédier. Les chargements de palettes sont par exemple enveloppés d'un film de sécurité opaque. Les marchandises particulièrement précieuses ou convoitées (par exemple l'électronique grand public) ne sont pas étiquetées. Dans le trafic international, les marchandises peuvent être démontées pour l'expédition en différents composants inutilisables en tant que pièces détachées. Les cartons sont recouverts à l'intérieur de panneaux d'aggloméré pour les protéger contre les attaques d'objets tranchants."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: il n'y a pas que la météo qui agit sur un colis/une marchandise emballée."
+    }
+   ]
+  },
+  {
+   "id": "s-2-5",
+   "number": "2.5",
+   "title": "Normes d'emballage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La longueur, la largeur et la hauteur des emballages de transport sont normalisées selon une norme ISO et s'adaptent parfaitement à l'Europalette. La normalisation de la longueur et de la largeur des emballages permet une utilisation optimale de la surface sur les supports de charge (palettes). La normalisation de la hauteur permet une utilisation optimale de l'espace sur les supports de charge."
+    }
+   ]
+  },
+  {
+   "id": "s-2-5-1",
+   "number": "2.5.1",
+   "title": "Empilage imbriqué",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour obtenir une meilleure stabilité, il faut absolument préférer un empilement imbriqué à un empilement en colonne (voir graphique). Cependant, selon la taille de l'emballage, cette solution n'est pas toujours réalisable. Les différentes couches sont disposées de manière que les jointures entre les emballages ne se superposent pas."
+    },
+    {
+     "t": "p",
+     "text": "Empilage imbriqué Empilage en colonne"
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: il faut absolument privilégier un empilement imbriqué par rapport un empilement en colonne pour obtenir une meilleure stabilité."
+    }
+   ]
+  },
+  {
+   "id": "s-2-5-2",
+   "number": "2.5.2",
+   "title": "Marques d'emballage selon les normes DIN 55402 et ISO R 780",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La sensibilité du contenu est indiquée sur les emballages à l’aide de symboles. Les symboles sont normalisés selon les normes DIN 55402 (Institut allemand de normalisation) et ISO R 780 (International Standardizing Organisation)."
+    }
+   ]
+  }
+ ]
+}

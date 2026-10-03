@@ -1,0 +1,185 @@
+{
+ "code": "616",
+ "title": "Module 616",
+ "domain": "600",
+ "pdf": "M616-3_dist.pdf",
+ "pages": 8,
+ "words": 1044,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "338 Connaissance théorique 3 – Transport entre centres et outils"
+    }
+   ]
+  },
+  {
+   "id": "s-16-16",
+   "number": "16.16",
+   "title": "Introduction",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le module 615, tu as déjà découvert les différents conteneurs de trans - port. Pour le transport entre les centres de tri, d’autres conteneurs sont utilisés en plus, en particulier la caisse mobile, qui convient aux volumes d’envois plus importants et aux longs trajets. Outre les caisses mobiles, le tri dispose d’une série d’autres outils techniques in-dispensables à un déroulement sans accroc. Nous allons maintenant examiner de plus près ces outils et leurs fonctions."
+    }
+   ]
+  },
+  {
+   "id": "s-16-17",
+   "number": "16.17",
+   "title": "Grue de terminal",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans les grands centres de tri des colis de la Poste, des grues à portique complet sont utilisées. Celles-ci soulèvent et chargent les caisses mobiles directement sur les wagons. La grue est pilotée par un opérateur dans une cabine à l’aide d’un joystick. Les bras de préhension intégrés permettent de déplacer non seulement nos propres caisses mobiles, mais aussi celles d’autres entreprises. La charge maximale d’une grue de terminal est de 20 tonnes."
+    },
+    {
+     "t": "p",
+     "text": "339 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-16-18",
+   "number": "16.18",
+   "title": "Système de pilotage de la logistique extérieure",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour que la logistique de site fonctionne sans problème dans les centres de tri, un système de gestion de site est utilisé. La centrale de régulation coordonne l’ensemble des processus sur le site d’exploitation. De là, les ordres sont transmis aux conducteurs de véhicules de site ainsi qu’aux grues à portique. Les entrées et les sorties des camions et des trains sont également surveillées et gérées de manière centralisée. Le schéma suivant montre la structure et le fonctionnement du système de pilo - tage de la logistique extérieure."
+    }
+   ]
+  },
+  {
+   "id": "s-16-19",
+   "number": "16.19",
+   "title": "Véhicules de site",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les véhicules de site assurent le transport et la manœuvre des caisses mobiles sur le site du centre de tri. Ils reçoivent leurs ordres de transport et de service di - rectement via le système de pilotage de la logistique extérieure."
+    },
+    {
+     "t": "p",
+     "text": "340"
+    }
+   ]
+  },
+  {
+   "id": "s-16-20",
+   "number": "16.20",
+   "title": "Caisses mobiles ( CM )",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les caisses mobiles sont des conteneurs standardisés utilisés aussi bien dans le trafic ferroviaire que routier. À l’aide de grues à portique, elles peuvent être déchargées directement du camion, ce qui permet de gagner un temps précieux, en particulier pendant les plages horaires étroites du soir avec un volume d’envois élevé. Les caisses mobiles arrivent au centre de tri des colis en deux variantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Chargement de rollbox ( RX ) beladen: Les colis se trouvent dans des rollbox qui sont glissés dans les conteneurs en tant que matériel de chargement.",
+      "Chargement en vrac: Les colis sont chargés directement dans la caisse mobile sans matériel de chargement."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le chargement en vrac a l’avantage de permettre une utilisation optimale de l’ensemble du volume du conteneur. L ’inconvénient: le déchargement dure plus longtemps, car chaque colis doit être retiré individuellement. Ce type de charge - ment est surtout utilisé pour le transport entre les centres de tri pendant le tri de dépôt."
+    },
+    {
+     "t": "p",
+     "text": "341 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-16-21",
+   "number": "16.21",
+   "title": "Camions à double pont ( DD )",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Outre les caisses mobiles classiques, la Poste utilise depuis quelques années des camions à double pont ( DD ). Il s’agit de semi-remorques spéciales dans lesquelles les rollbox peuvent être transportés sur deux étages. Un camion à double pont offre de la place pour 36 rollbox – bien plus qu’une caisse mobile: une seule cais - se mobile peut contenir 12 rollbox, un camion peut transporter deux caisses mo - biles en même temps, soit un total de 24 rollbox. Les véhicules à double pont augmentent ainsi la capacité de transport par trajet et contribuent à réaliser des gains d’efficacité dans le transport de colis. Le plancher supérieur du camion à double pont peut être soulevé et abaissé de manière hydraulique. Cela permet dans un premier temps de charger l’étage supérieur au niveau du sol. Ensuite, le plancher intermédiaire est soulevé hydrauli - quement et l’étage inférieur est chargé à l’aide d’une plate-forme élévatrice. Cette technique permet un chargement peu encombrant et optimisé en termes de volume, mais entraîne un processus de chargement et de déchargement plus long par rapport aux caisses mobiles. L ’avantage réside dans la capacité de char - gement plus élevée, ce qui permet de transporter globalement plus d’envois par trajet."
+    },
+    {
+     "t": "p",
+     "text": "342"
+    }
+   ]
+  },
+  {
+   "id": "s-16-22",
+   "number": "16.22",
+   "title": "Signalétique des différents prestataires CEC",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L ’entreprise Planzer appose la fiche sur le côté des chariots grillagés. Sur l’avant, tous les chariots grillagés disposent d’un code Datamatrix qui peut être lu à l’aide du scanner. À la Poste, la fiche est apposée directement sur la face avant du rollbox. Lors du chargement en vrac de colis, le lieu cible s’affiche sur l’écran au-dessus de la ban - de de chargement."
+    },
+    {
+     "t": "p",
+     "text": "343 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-16-23",
+   "number": "16.23",
+   "title": "Autres outils",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En plus des porte-charges décrits, il existe d’autres outils qui facilitent et souti - ennent le quotidien professionnel dans le centre de tri. Nous en présentons briè - vement quelques-uns ci-après."
+    }
+   ]
+  },
+  {
+   "id": "s-16-23-1",
+   "number": "16.23.1",
+   "title": "Outils pour le transport interne",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tracteurs pour tirer des RX Chariot élévateur à fourche longue pour transporter des SB Chariot à timon pour empiler des palet - tes Chariot élévateur à fourche courte pour transporter des palettes Chariot à mât à siège transversal Chariot élévateur à contrepoids"
+    },
+    {
+     "t": "p",
+     "text": "344"
+    }
+   ]
+  },
+  {
+   "id": "s-16-23-2",
+   "number": "16.23.2",
+   "title": "Outils ergonomiques",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En plus des véhicules de transport mentionnés, les grands centres de tri des colis de la Poste disposent également de divers outils ergonomiques. Plate-formes élévatrices pour le déchar - gement Points de déversement pour que les peti - ts colis soient à bonne hauteur Transpalettes électriques Aide à la traction pour RX Bandes télescopique réglables en hau - teur Trottinette pour la direction de l'unité"
+    },
+    {
+     "t": "p",
+     "text": "345 1ère édition 2025 Module 616_Processus dans les centres de tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    },
+    {
+     "t": "p",
+     "text": "Remarque Lors du transport entre deux centres de tri, différents conteneurs de transport et moyens auxiliaires sont utilisés. Cela inclut la grue de terminal, le système de pilotage de la logistique extérieure, les véhicules de site, les caisses mobiles et les camions à double pont. Dans le centre de tri, on utilise des moyens auxiliai - res tels que différents types de chariots élévateurs, mais aussi des aides ergo - nomiques comme des plateformes élévatrices, des points de déversement, des bandes télescopiques, des trottinettes ou encore des aides à la traction."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1074 @@
+{
+ "code": "611",
+ "title": "La préparation de commandes",
+ "domain": "600",
+ "pdf": "M611_st.pdf",
+ "pages": 34,
+ "words": 7176,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "144 Modul 611_La préparation de commandes Nous connaissons l'activité de préparation des commandes non seulement dans le domaine de la logistique, mais aussi dans notre vie quotidienne. Lorsque nous planifions un achat, nous notons les produits à acheter sur une liste de courses. Une fois dans le magasin, nous longeons les rayons de marchandises et rassem - blons nos produits. Si le temps presse et que nous ne sommes pas seuls, nous pouvons nous séparer pour gagner du temps. A la fin ( avant la caisse ), nous ras - semblons à nouveau les produits collectés. Si nous ne voulons pas faire la queue à la caisse, nous pouvons aussi utiliser le scanner à main et ranger immédiatement les produits dans le sac d'achat. Dans ce module sur la préparation des commandes en entreprise, vous trouverez toujours des parallèles avec cet exemple. En outre, vous apprendrez encore beau - coup de choses sur cette activité très importante dans la logistique"
+    },
+    {
+     "t": "p",
+     "text": "145 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Connaissance théorique du module 611"
+    }
+   ]
+  },
+  {
+   "id": "s-11-1",
+   "number": "11.1",
+   "title": "Principes de base",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Par préparation de commandes, également appelée «préparation»ou «picking», on entend le regroupement de différentes marchandises selon des ordres ( com-mandes ). Chez EnterSite SA, la préparation de commandes est effectuée pour des commandes internes ( production ) ou pour des commandes externes de clients. La préparation des commandes est une tâche importante et souvent sous-estimée dans la logistique. Les commandes doivent quitter l'entrepôt rapidement et sans erreur, sinon cela a une influence directe sur la production interne ou les clients. 1 1.2 Termes de base Pour décrire un processus de préparation de commandes, on parle souvent de préparation de commandes, de commissionnement, de liste de préparation ou de liste de prélèvement."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le préparateur de commandes est la personne qui exécute la commande.",
+      "Commissionnement est la préparation proprement dite.",
+      "Les listes de préparation de commandes ou les listes de prélèvement conti-ennent les informations nécessaires ( numéro d'article, désignation de l'article, lieu de stockage, quantité, etc… Selon l'entreprise, ces données peuvent être consultées sur papier ou sur un système approprié."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-11-2-1",
+   "number": "11.2.1",
+   "title": "Erreurs de préparation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les erreurs de préparation des commandes sont ennuyeuses. Les erreurs font par - tie du travail. Il est toutefois important de les éviter autant que possible. En tant que logisticien/-cienne qualifié/-e, ton rôle est d'éviter ces erreurs. Comme une erreur est généralement précédée d'une cause, il est important d'identifier les sources d'erreur possibles et de les éliminer ensuite."
+    },
+    {
+     "t": "p",
+     "text": "146 Erreurs fréquentes de préparation des commandes"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Mauvaise quantité prélevée",
+      "Mauvaise marchandise prélevée",
+      "Mauvaise unité ( par ex, une pièce est prélevée au lieu d'une unité d'emballage )"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-11-2-2",
+   "number": "11.2.2",
+   "title": "Causes des erreurs de préparation des commandes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les causes des erreurs de préparation de commandes sont multiples. Les causes suivantes sont liées à des erreurs du personnels:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Motivation",
+      "Concentration",
+      "Sens des responsabilités",
+      "Pas ou peu de partage des valeurs de l'entreprise",
+      "Manque de connaissance des processus et de la matière"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les causes des erreurs de préparation de commandes ne sont toutefois pas toujours liées aux personnes, mais peuvent être attribuées à l'ensemble de l'organisation:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les ordres de prélèvement sont confus ou présentent des données manquantes",
+      "Stock peu clair ( par exemple, absence d'étiquettes )",
+      "Les employés ne sont pas formés/informés",
+      "Problèmes techniques ( par ex. avec les appareils mobiles de saisie de données"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "( MDE ) )"
+    }
+   ]
+  },
+  {
+   "id": "s-11-2-3",
+   "number": "11.2.3",
+   "title": "Erreurs de préparation des commandes et leurs conséquences",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchandises mal préparées peuvent avoir différentes conséquences négati - ves pour EnterSite SA, y compris des coûts plus élevés. Si l'erreur n'est constatée que chez le client, cela peut entraîner des frais de renvoi, de livraison supplémen - taire par express, etc… De plus, les erreurs de préparation de commandes entraî - nent souvent une perte d'image, voire une perte de clients."
+    }
+   ]
+  },
+  {
+   "id": "s-11-2-4",
+   "number": "11.2.4",
+   "title": "Éviter les erreurs de préparation des commandes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour éviter les erreurs de préparation de commandes coûteuses, il existe différen - tes possibilités:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Une bonne ambiance de travail augmente généralement le sens des responsa - bilités et la motivation",
+      "Formation du personnel",
+      "Mécanismes de contrôle intégrés dans le processus de travail ( par exemple, prin-cipe du double contrôle: contrôle du poids des marchandises prélevées, etc… )",
+      "Procédures de préparation des commandes sans documents"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Un emballage de 8 paires de saucisses Remarque La préparation des commandes est l'une des tâches les plus importantes de la logistique. Il n'est pas rare que des erreurs fréquentes lors de la préparation des commandes entraînent des conséquences économiques. C'est pourquoi il convi-ent d'éliminer les erreurs de préparation de commandes par des mesures ciblées."
+    },
+    {
+     "t": "p",
+     "text": "147 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Erreurs fréquentes de préparation des commandes"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Mauvaise quantité prélevée",
+      "Mauvaise marchandise prélevée",
+      "Mauvaise unité ( par ex, une pièce est prélevée au lieu d'une unité d'emballage )"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-11-2-2-2",
+   "number": "11.2.2",
+   "title": "Causes des erreurs de préparation des commandes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les causes des erreurs de préparation de commandes sont multiples. Les causes suivantes sont liées à des erreurs du personnels:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Motivation",
+      "Concentration",
+      "Sens des responsabilités",
+      "Pas ou peu de partage des valeurs de l'entreprise",
+      "Manque de connaissance des processus et de la matière"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les causes des erreurs de préparation de commandes ne sont toutefois pas toujours liées aux personnes, mais peuvent être attribuées à l'ensemble de l'organisation:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les ordres de prélèvement sont confus ou présentent des données manquantes",
+      "Stock peu clair ( par exemple, absence d'étiquettes )",
+      "Les employés ne sont pas formés/informés",
+      "Problèmes techniques ( par ex. avec les appareils mobiles de saisie de données"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "( MDE ) )"
+    }
+   ]
+  },
+  {
+   "id": "s-11-2-3-2",
+   "number": "11.2.3",
+   "title": "Erreurs de préparation des commandes et leurs conséquences",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les marchandises mal préparées peuvent avoir différentes conséquences négati - ves pour EnterSite SA, y compris des coûts plus élevés. Si l'erreur n'est constatée que chez le client, cela peut entraîner des frais de renvoi, de livraison supplémen - taire par express, etc… De plus, les erreurs de préparation de commandes entraî - nent souvent une perte d'image, voire une perte de clients."
+    }
+   ]
+  },
+  {
+   "id": "s-11-2-4-2",
+   "number": "11.2.4",
+   "title": "Éviter les erreurs de préparation des commandes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour éviter les erreurs de préparation de commandes coûteuses, il existe différen - tes possibilités:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Une bonne ambiance de travail augmente généralement le sens des responsa - bilités et la motivation",
+      "Formation du personnel",
+      "Mécanismes de contrôle intégrés dans le processus de travail ( par exemple, prin-cipe du double contrôle: contrôle du poids des marchandises prélevées, etc… )",
+      "Procédures de préparation des commandes sans documents"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Un emballage de 8 paires de saucisses Remarque La préparation des commandes est l'une des tâches les plus importantes de la logistique. Il n'est pas rare que des erreurs fréquentes lors de la préparation des commandes entraînent des conséquences économiques. C'est pourquoi il convi-ent d'éliminer les erreurs de préparation de commandes par des mesures ciblées."
+    },
+    {
+     "t": "p",
+     "text": "1 1.3 Le système de préparation des commandes Systeme de préparation des commandes Système de préparation des commandes Un exemple d'EnterSite SA: commande client Karl König Le client Karl König arrive au bout de ses toners d'impression. Il décide d'ache - ter chez EnterSite SA de nouveaux toners de la marque «SwissEnterSite Cartrid - ge Epson AcuLaser CX21». Il commande les articles correspondants via Internet. Les différents sous-systèmes règlent la manière dont la commande de Karl Kö - nig est reçue et transmise ( système d'information ), la méthode de préparation des commandes ( système d'organisation ) utilisée pour mettre les articles à dis - position et la manière dont les articles sont finalement acheminés de l'entrepôt au client ( système de flux de matériel ). L 'interaction entre les différents systèmes est appelée système de préparation de commandes."
+    },
+    {
+     "t": "p",
+     "text": "148"
+    }
+   ]
+  },
+  {
+   "id": "s-11-3-1",
+   "number": "11.3.1",
+   "title": "Système de flux d'informations",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le système de flux d'informations comprend les quatre étapes de travail suivantes: Système de flux d'informations Étape 1: Saisie des données Comment les commandes sont-elles enregistrées? Dans notre exemple, Karl König a commandé les toners sur Internet. Mais la com - mande pourrait aussi se faire par écrit ( lettre, mail, fax ) ou par téléphone. Si une commande est passée, elle est enregistrée dans le système et la marchandise est réservée en conséquence pour le client. Étape 2: Préparation Comment les commandes sont-elles préparées? Une fois saisies, les commandes sont préparées par lots ou en temps réel en ordres de préparation de commandes. Il est alors possible d'ajouter, en plus des données pertinentes sur les articles, des informations supplémentaires telles que ( des in-dications sur l’emballage et les dangers, les poids, les souhaits particuliers des cli-ents, etc… ). Alors que dans la procédure par lots, les données sont collectées et traitées de temps en temps, dans la procédure en temps réel, la commande du client est traitée immédiatement après l'arrivée de celle-ci. Les deux procédures sont décri-tes en détail dans le module 601."
+    },
+    {
+     "t": "p",
+     "text": "149 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Étape 3: Transmission Comment les ordres de prélèvement sont-ils transmis? Les ordres de prélèvement peuvent être transmis hors ligne ou en ligne. Hors ligne Une transmission hors ligne signifie que les ordres de préparation de comman - des sont transmis sur des listes ou des documents. Pour éviter les erreurs de préparation de commandes, les listes doivent être claires pour les collaborateurs. Avantages"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Flexible",
+      "Indépendance technique"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La préparation des commandes est plus sujette aux erreurs",
+      "Plus de travail pour la création des listes ou documents"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "En ligne La transmission en ligne sans document est considérée comme la métho - de de préparation de commandes de l'avenir. Comme les préparateurs de commandes reçoivent les données directement via le système, les modifi - cations des commandes peuvent être prises en compte pendant le proces-sus de préparation. Avantages"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le rendement de la préparation des commandes est plus élevé",
+      "Un taux d'erreur plus faible",
+      "Des contrôles automatiques sont possibles"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Coûts à l'achat",
+      "Important travail d'organisation",
+      "Une panne informatique entraîne un arrêt de travail"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La transmission en ligne nécessite des investissements importants pour les ap - pareils souhaités. Les méthodes de prélèvement sans document Pick-by-Scan, Pick-by-Voice, Pick-by-Light et Pick-by-Vision ont été décrites dans le module 601."
+    },
+    {
+     "t": "p",
+     "text": "150 Pick-by-RFID Une autre méthode inédite est le Pick-by-RFID. Avec la méthode de prépa-ration de commandes Pick-by-RFID, il n'est plus nécessaire de scanner les codes à barres ( Pick-by-Scan ). La technologie RFID ( Radio Frequency Iden-tification ) permet la préparation de commandes sans contact via un trans - pondeur utilisé comme support d'information et pouvant être lu sans cont-act visuel par les appareils RFID. Les données sont transmises par radio. © Fraunhofer IIS: Illustration du fonctionnement d'un système de préparation de comman - des économique «pick-by-RFID»."
+    },
+    {
+     "t": "p",
+     "text": "151 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Étape 4: Quittance Comment les marchandises prélevées sont-elles quittancées? Avec la quittance, le collaborateur signale le prélèvement de marchandises traité d'un poste ou de l'ensemble de l'ordre. La quittance peut être humaine ou auto - matique. Humaine Humaine signifie que la quittance est effectuée par le préparateur de commandes. Si le prélèvement est effectué avec un document, il s'agit dans la plupart des cas d'une coche ( ). Si le prélèvement se fait sans document, la quittance dépend de la méthode de prélèvement utilisée ( touche de saisie, scannage, saisie vocale ). Le moment où la marchandise est enregistrée est différent. Alors que dans le cas de la préparation de commandes avec documents, les marchandises sont débitées au préalable ou ultérieurement, dans le cas de la préparation de commandes sans documents, la comptabilisation est souvent déclenchée par la quittance. Automatique Automatique signifie que la quittance se fait automatiquement et sans interventi-on des collaborateurs. La quittance automatique est généralement liée au prélè - vement automatique. La marchandise est également comptabilisée lors de la quit-tance automatique. Remarque Le système de flux d'informations règle la saisie de la commande, la préparati - on de la commande en un ordre, ( la transmission des données pour l'exécuti - on de l'ordre de préparation – la quittance des marchandises préparées - et la comptabilisation des marchandises )."
+    },
+    {
+     "t": "p",
+     "text": "152"
+    }
+   ]
+  },
+  {
+   "id": "s-11-3-2",
+   "number": "11.3.2",
+   "title": "Système de flux de matériel",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le système de flux de matériel a été décrit en détail dans le module 601 et est à nouveau résumé ici. Il comprend les quatre étapes de travail suivantes: Étape 1: Préparation Comment les marchandises sont-elles préparées? Une distinction est faite entre la préparation statique et préparation dynamique des marchandises. La mise à disposition des marchandises est toujours décrite du point de vue des marchandises. Statique Dans le cas de la préparation statique, également appelée de l'homme vers la marchandise, le préparateur de com - mandes se déplace vers la marchandise. Avantages"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Coûts d'investissement plus faibles",
+      "Flexible pour les commandes ex - press fréquentes"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les temps de trajet sont plus longs",
+      "La charge physique des prépara - teurs de commandes est plus éle - vée"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "153 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Dynamique Dans le cas de la préparation dyna - mique, également appelée «marchan - dise vers l'homme», la marchandise est transportée de manière automatisée par des navettes, des convoyeurs de ray-onnages, etc… vers le préparateur de commandes, qui prélève ensuite la mar-chandise dans la quantité souhaitée. Les marchandises sont réexpédiées après quittance de la quantité. Avantages"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le rendement de la préparation des commandes est plus élevé",
+      "Faible temps de trajet",
+      "La charge physique des prépara - teurs de commandes est plus faib - le"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Coûts d'investissement",
+      "Manque de flexibilité pour les com-mandes express fréquentes"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Étape2: Déplacement Comment le préparateur de commandes se déplace-t-il vers la marchandise? Le préparateur de commandes peut se déplacer dans l'entrepôt de manière unidi-mensionnelle ou multidimensionnelle. Unidimensionnel Le préparateur de commandes se déplace «uniquement» sur le sol dans le sens horizontal. La préparation de commandes s'effectue alors à hauteur de main. Pour le déplacement unidimensionnel, les appareils de préparation de comman - des, les chariots élévateurs, les appareils à timon à faible levée et les chariots manuels peuvent servir de moyens de transport Multidimensionnel Avec le déplacement multidimensionnel, le préparateur de commandes se dépla-ce en hauteur. La préparation de commandes multidimensionnelle permet une meilleure utilisation de l'espace. Les convoyeurs élévateurs sont adaptés à ce type de déplacement."
+    },
+    {
+     "t": "p",
+     "text": "154 Étape 3: Prélèvement Comment les marchandises sont-elles prélevées? Le terme «prélèvement» désigne le processus par lequel les marchandises sont retirées des conteneurs, des palettes, des rayonnages, etc… Selon le type de mar-chandises et de stockage, le prélèvement peut être effectué manuellement ou mécaniquement. Manuel Si les marchandises peuvent être prélevées à la main en raison de leurs caractéris-tiques ( poids, volume ), par exemple sur un rayonnage à étagères, on parle de prélèvement manuel. Si des unités de stockage entières ( palettes ) sont prélevées à l'aide d'engins de manutention, il s'agit toujours d'un prélèvement manuel, mais avec une assistance mécanique. Dans le cas du prélèvement manuel, les coûts liés au personnel sont élevés. Automatiquement Le prélèvement automatique est réalisé par l'utilisation de trieurs ou de robots de préparation de commandes. Les coûts d'investissement pour de tels dispo - sitifs sont élevés et ne conviennent que pour des volumes et des poids plus ou moins uniformes. En contrepartie, il est possible d'économiser du personnel et d'augmenter le rendement de la préparation de commandes. Le taux d'erreur est plus faible avec les machines."
+    },
+    {
+     "t": "p",
+     "text": "155 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Étape 4: Transfert de la marchandise Où déposer la marchandise? Dès que la marchandise est préparée, il s'agit de la remettre à l'expédition ou à la production pour la suite du traitement. Le transfert peut se faire de manière cent-ralisée ou décentralisée."
+    },
+    {
+     "t": "p",
+     "text": "Centralisé Après la préparation des commandes, les marchandises prélevées sont trans - férées à un point central ( expédition/production ) où elles seront traitées."
+    },
+    {
+     "t": "p",
+     "text": "Décentralisé Après la préparation des commandes, les marchandises sont transférées à un convoyeur qui les achemine vers l'expédition ou la production. Il ne s'agit toute - fois pas nécessairement d'un tapis roulant. On parle également de distribution décentralisée lorsque les commandes ne sont pas transférées individuellement, mais regroupées après un certain temps à l'expédition ou à la production. Cela peut se faire à l'aide de chariots de transport ou d'engins de manutention. Le temps de trajet est ainsi réduit de manière drastique."
+    },
+    {
+     "t": "p",
+     "text": "156 Procédure Pick-and-Pack La procédure Pick-and-Pack a également un rapport avec la livraison de la mar - chandise. Dans ce procédé, la préparation des commandes et l'emballage sont effectués en une seule opération. Après avoir été prélevée dans les rayons, la marchandise est placée dans des emballages prêts à l'envoi, qui sont prêts à être expédiés à la suite de la préparation de commandes et qui n'ont plus qu'à être fermés. La marchandise prélevée peut ainsi être directement envoyée à la sortie de marchandises. Il n'est donc plus nécessaire de les remettre au poste d'embal - lage. Le procédé Pick-and-Pack est adapté aux marchandises suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Produits déjà préemballés et prêts à être expédiés.",
+      "Matériel d'emballage normalisé.",
+      "Produits ne nécessitant pas d'opérations d'emballage complexes ( par exemp-le, emballages intérieurs pré-expansés )."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Contrôle de la marchandise prélevée Comme nous l'avons déjà décrit, les erreurs de préparation de commandes sont fâcheuses et peuvent porter préjudice aux entreprises sur le plan économique. Pour éviter les erreurs, il est recommandé de mettre en place des mécanismes de contrôle. Au préalable, il convient de clarifier les points suivants: → Quand les contrôles sont-ils effectués?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Juste après le prélèvement?",
+      "Avant l'emballage?",
+      "Après l'emballage?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "→ Qui contrôle?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Préparateur de commandes lui-même?",
+      "Principe du double regard?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "→ Comment le contrôle est-il effectué?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Contrôle total",
+      "Contrôle par échantillonnage"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "→ Les contrôles sont-ils possibles avec des moyens auxiliaires?"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Scanner des codes-barres?",
+      "LA RFID?",
+      "Comparaison du poids avec les données du système?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les réponses à ces questions permettent à EnterSite SA de mettre en œuvre la procédure de contrôle idéale pour elle."
+    },
+    {
+     "t": "p",
+     "text": "157 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-11-3-3",
+   "number": "11.3.3",
+   "title": "Système d'organisation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Préparation des marchandises dans un ou plusieurs secteurs ( zones ) Un seul secteur Lorsque la préparation de commandes se déroule dans une seule zone ou un seul secteur de préparation de commandes, on parle de préparation de commandes dans un secteur. Préparation de commandes dans un secteur ( en une étape ) Remarque le système de flux de marchandises règle la mise à disposition des marchandi - ses – comment le préparateur de commandes se déplace vers l'emplacement de stockage – qui prélève les marchandises et comment – comment les mar - chandises sont remises pour un traitement ultérieur – comment les marchandi - ses préparées sont contrôlées."
+    },
+    {
+     "t": "p",
+     "text": "158 Plusieurs secteurs ( zones ) Le déroulement de la préparation de commandes s'effectue dans plusieurs sec - teurs ou zones. Les marchandises prélevées sont collectées dans différents sec - teurs et regroupées à la fin du processus. Prélèvement orienté vers la commande sur plusieurs zones ( en une étape ) Prélèvement pour une ou plusieurs commandes Prélèvement en une étape pour une commande Dans le cas de la préparation de commandes en une étape, les marchandises sont préparées pour la même commande ( en fonction de la commande ). Mais le cas échéant, des marchandises partiellement prélevées dans différentes zones doi - vent être rassemblées en une unité d'expédition ( voir illustration ci-dessus )."
+    },
+    {
+     "t": "p",
+     "text": "Prélèvement en plusieurs étapes pour plusieurs commandes Dans le cas de la préparation de commandes en plusieurs étapes, les marchandi - ses sont préparées simultanément pour différentes commandes. Les différentes marchandises sont alors regroupées en fonction des commandes respectives ( or-dre collectif )"
+    },
+    {
+     "t": "p",
+     "text": "L'ordre collectif est traité à l’étape 1: Un ordre collectif est généré à partir des ordres partiels et est prélevé dans l'entrepôt"
+    },
+    {
+     "t": "p",
+     "text": "159 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Étape 2: La marchandise préparée est à nouveau répartie sur les différentes commandes partielles au cours de la deuxième étape. Transmission article par article ou ordre par ordre de la quantité prélevée Transmission par ordre La transmission en fonction de la commande est toujours à une étape. Les mar - chandises sont préparées exclusivement pour une seule commande. La préparation de commandes peut se faire en série ou en parallèle. Si le prélè - vement est effectué en parallèle ( plusieurs préparateurs de commande ), la mar - chandise doit ensuite être à nouveau rassemblée en une unité. Avantages"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Moins de travail d'organisation",
+      "Pas nécessaire de séparer et de réunir les commandes",
+      "Responsabilités plus claires pour la mission"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pas d'optimisation des trajets"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Transmission article par article La transmission par article ( orienté série ) se fait toujours en deux étapes ( voir il - lustration du prélèvement en deux étapes ). Dans ce cas, les marchandises sont prélevées simultanément pour plusieurs commandes. Le prélèvement orienté série peut être traité en série ou en parallèle, comme le prélèvement orienté ord - re. Les marchandises sont préparées dans les zones de stockage respectives."
+    },
+    {
+     "t": "p",
+     "text": "160 Les marchandises prélevées doivent ensuite être réparties entre les différentes commandes des clients lors d'une deuxième étape. Le prélèvement en deux éta - pes est judicieux lorsqu'il y a de longs trajets de préparation de commandes ou que les commandes contiennent souvent les mêmes articles. Préparation de commandes en série ou en parallèle Préparation de commandes en série Dans le cas de la préparation de commandes en série ( l'une derrière l'autre ), les commandes et les commandes partielles sont traitées l'une après l'autre dans les différentes zones de préparation de commandes. Elle peut être exécutée sur une ou plusieurs zones. Pour les commandes importantes comportant de nombreuses positions, les temps de préparation des commandes sont très longs avec la prépa - ration de commandes en série. Préparation de commande orienté vers la série. Préparation des commandes en parallèle Lors du prélèvement en parallèle, les commandes sont divisées en plusieurs com - mandes partielles et traitées côte à côte ( simultanément ) dans les différentes zo - nes de prélèvement. Pour les commandes plus importantes comportant de nom - breuses positions, le temps de préparation de la commande peut être minimisé grâce au prélèvement en parallèle. Préparation des commandes en parallèle."
+    },
+    {
+     "t": "p",
+     "text": "161 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-11-3-4",
+   "number": "11.3.4",
+   "title": "Options de parcours lors de la préparation des commandes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour EnterSite SA, l'objectif de la préparation des commandes doit être, entre aut - res, de travailler de la manière la plus rationnelle possible. Cela implique de veiller, dans la mesure du possible, à ce que les trajets de préparation des commandes soient courts. Pour cela, il existe les options suivantes:"
+    },
+    {
+     "t": "p",
+     "text": "Préparation de commandes par allée de prélèvement Si le prélèvement par allée est utilisé, les articles qui doivent être le plus souvent prélevés doivent être stockés au début de l’allée. Ainsi, le préparateur de com - mandes ne doit que rarement parcourir toute l'allée de l'étagère. Les articles à faible rotation sont donc stockés au fond et ceux à forte rotation à l'avant, en dé - but d'allée. Préparation de commandes par allée de prélèvement"
+    },
+    {
+     "t": "p",
+     "text": "162 Prélèvement en série Dans le cas de la préparation de commandes en série, le préparateur parcourt l'ensemble des allées de rayonnages et rassemble ainsi les marchandises pour les commandes. Prélèvement en série"
+    },
+    {
+     "t": "p",
+     "text": "Préparation de commandes MOP ( Multi Order Picking ) La préparation de commandes en série peut être combinée avec la méthode MOP. Cette méthode permet également d'économiser du temps de trajet. Avec cette méthode, plusieurs petites commandes sont préparées en faisant le tour de l'entrepôt. Le collaborateur transporte un conteneur par commande. Remarque le système de flux organisationnel règle la manière dont l'entrepôt est divisé en zones, si les marchandises sont préparées par ordre, par article, en série ou en parallèle et quelles options de trajet sont appliquées."
+    },
+    {
+     "t": "p",
+     "text": "163 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-11-4",
+   "number": "11.4",
+   "title": "Trieurs",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les trieurs – ou installations de tri – sont des systèmes qui répartissent les mar - chandises de détail vers des destinations définies. Grâce à un code ( code-barres ) lu au début du processus de tri, le trieur connaît la destination de chaque objet. De nombreux types de trieurs sont utilisés, notamment les trieurs à bascule, les trieurs à patins, les trieurs transversaux, les trieurs pop-up, les trieurs à plateaux partagés, etc… Les marchandises à trier sont dotées d’étiquettes claires aux postes de codage et d'alimentation, afin qu'elles puissent être identifiées sans équivoque à tout moment lors de leur passage ultérieur dans l'installation. Les informations per - tinentes, telles que la désignation et l'adresse du destinataire, sont générale - ment codées sur une étiquette lisible par une machine et apposée directement sur la marchandise. Pour l’étiquetage, des supports de charge, des mémoires de données mobiles sont utilisée. Celles-ci peuvent recevoir continuellement de nouvelles données ou être lues."
+    }
+   ]
+  },
+  {
+   "id": "s-11-4-1",
+   "number": "11.4.1",
+   "title": "Trieur à plateau inclinable",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le produit à trier est transporté par gravité dans la goulotte de destination en ba - sculant le bac de transport ( en anglais: «Tilt Tray Sorter» ). Les plateaux basculants sont montés sur des chariots reliés entre eux de manière mobile. L 'entraînement des plateaux basculants se fait par un moyen de traction en circulation ( p. ex. une chaîne ) ou par l'entraînement des chariots. L 'occupation de plusieurs plateaux permet de trier des marchandises plus volumineuses. Les bacs basculants per - mettent de trier un large éventail d'articles, par exemple les bagages."
+    }
+   ]
+  },
+  {
+   "id": "s-11-4-2",
+   "number": "11.4.2",
+   "title": "Trieur à sabots",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le trieur à sabots, ou trieur à sabots ( en anglais: « Sliding Sorte r» ), atteint éga - lement des performances très élevées. Les articles à trier entraînés sont poussés par des «patins» coulissants qui sont guidés entre les plaques d'un convoyeur à plaques. Le trieur à patins est adapté aux articles à fond lisse et solide ( cartons, conteneurs réutilisables, blisters, etc… )."
+    }
+   ]
+  },
+  {
+   "id": "s-11-4-3",
+   "number": "11.4.3",
+   "title": "Trieur à roulettes pivotantes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cas du trieur à rouleaux pivotants ( en anglais: «castor sorter» ou « pop-up sorter» ), le dispositif d'éjection se compose d'une série de rouleaux individuels qui peuvent être soulevés hors du plan de convoyage. Ces rouleaux sont entraînés et inclinés. Lorsque le produit transporté passe au-dessus, il est dévié latéralement. Ce type de trieur convient aux marchandises dont le sol est rigide et lisse. Elle ne convient pas aux marchandises en sachets ni aux marchandises dont les boucles dépassent."
+    },
+    {
+     "t": "p",
+     "text": "164"
+    }
+   ]
+  },
+  {
+   "id": "s-11-4-4",
+   "number": "11.4.4",
+   "title": "Trieur à bandes transversales",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le produit transporté se déplace sur de courtes bandes transporteuses individuel - les, placées perpendiculairement au sens de la marche. Le produit transporté est évacué en le faisant tourner. Par rapport au trieur à bascule, le produit transporté est traité avec plus de soin avec le trieur à bandes transversales."
+    }
+   ]
+  },
+  {
+   "id": "s-11-4-5",
+   "number": "11.4.5",
+   "title": "Trieur à trappes et split-tray",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Dans le cas du trieur à trappes, les éléments porteurs sont équipés de trappes à travers lesquelles le produit transporté tombe dans les points d'évacuation ( con-teneurs ) situés en dessous de la piste. Le trieur Split-Tray ( en français: trieurs à compartiments ) utilise une technique similaire. Chaque compartiment du trieur dispose d'un fond qui s'ouvre vers le bas ( le fond est retiré ) pour la distribution des articles. Le trieur est particulièrement adapté aux produits légers, insensibles aux vibrations ( même non emballés ) et souples tels que les paquets, les grandes lettres ou les textiles."
+    }
+   ]
+  },
+  {
+   "id": "s-11-5",
+   "number": "11.5",
+   "title": "Optimiser la préparation des commandes",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique consiste à n'utiliser que les ressources nécessaires. La préparati - on des commandes représente un temps considérable dans la logistique de l'entrepôt. C'est pourquoi il faut aussi s'améliorer – optimiser – dans la préparation des commandes. C'est la seule façon de résister à la pression des coûts du marché et de continuer à innover. Pour savoir comment où optimiser, la préparation des commandes est divisée en cinq temps partiels. Les possibilités d'optimisation pré - sentées ci-dessous ne doivent pas être considérées comme exhaustives: Il existe une multitude de solutions internes à l'entreprise."
+    }
+   ]
+  },
+  {
+   "id": "s-11-5-1",
+   "number": "11.5.1",
+   "title": "Temps partiels de préparation des commandes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chaque temps partiel représente l'exécution d'activités bien précises qui, additionnées, constituent l'ensemble du processus de préparation des commandes. Chaque entre - prise est organisée différemment. Selon le produit, certaines consacrent beaucoup de temps à la conduite, tandis que d'aut - res passent beaucoup de temps à «saisir» les produits avec des grues industrielles. La répartition en pourcentage est différente dans chaque entreprise, mais toutes ensem - ble, elles représentent toujours 100%."
+    },
+    {
+     "t": "p",
+     "text": "165 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-11-5-2",
+   "number": "11.5.2",
+   "title": "Temps d’organisation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le temps d’organisation comprend toutes les activités effectuées avant et après le processus de prélèvement."
+    },
+    {
+     "t": "p",
+     "text": "Avant la préparation des commandes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Réceptionner et trier ( par exemple par client, zone de stockage, date, commandes urgentes, etc… ) les docu - ments de préparation.",
+      "Moyens de transport ( par ex. chariot à main, transpa - lette, chariot de manutention, etc… ) à disposition"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Après la préparation des commandes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Transfert des marchandises prélevées vers le centre de collecte ou le convoyeur",
+      "Remettre les moyens auxiliaires à leur place"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le temps d’organisation peut être raccourci/optimisé si:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les documents de préparation de commandes sont bien lisibles et ordonnés.",
+      "Les moyens auxiliaires tels que les palettes, les conteneurs et les chariots de préparation des commandes soient à portée de main.",
+      "Les trajets jusqu'au point de collecte sont courts, ou qu'une sortie décentra - lisée est possible.",
+      "La marchandise est déjà préemballée pour les emballages prêts à l'envoi pen - dant la préparation des commandes ( procédé Pick-and-Pack )",
+      "On travaille avec un empileur/distributeur de palettes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-11-5-3",
+   "number": "11.5.3",
+   "title": "Temps de déplacement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le temps de déplacement comprend la distance parcourue entre deux prélè - vements. Celui-ci est généralement enregistré par position."
+    },
+    {
+     "t": "p",
+     "text": "Activités Le temps de déplacement peut être réduit/optimisé si:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "les collaborateurs connaissent bien l’entrepôt et ne font pas de déplacements inutiles",
+      "l'ordre de opérations est adapté à l'aide du système.",
+      "les articles à plus forte rotation sont entreposés au dé - but des rayons",
+      "Différentes commandes partielles peuvent être regroupées.",
+      "Augmentation de la concentration d'articles",
+      "La préparation de commande en deux dimensions.",
+      "La marchandise est mise à disposition de manière dynamique ( marchandise vers les personnes )."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "166"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Des engins de préparation de commandes peuvent être utilisés ( mais cela n'ai-de que pour les grandes distances )"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-11-5-4",
+   "number": "11.5.4",
+   "title": "Temps de prélèvement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le temps de prélèvement – également appelé temps de picking ou temps de ramassage – comprend les activités nécessaires pour accéder à un article. Le temps de prélè - vement peut varier considérablement en fonction du pro - duit. Il est différent si le produit est un stylo à bille ou une barre d'acier de dix mètres de long. On distingue le pro - cessus de prélèvement et le processus de dépôt; le rayon d'action des collaborateurs résulte de la hauteur et de la profondeur maximales respectives. Les activités suivantes sont prises en compte pour le calcul du temps. Activités"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Opération de prélèvement: retrait de l'article de l'étagère ( tendre la main, saisir l'article, le déposer ).",
+      "Opération de dépôt: déposer la marchandise dans le bac de prélèvement."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le temps de prélèvement peut être raccourci/optimisé:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "En réduisant la profondeur de prélèvement ( stockage transversal des palettes )",
+      "Lorsque les articles les plus utilisés sont placés à une hauteur de prélèvement idéale",
+      "Grâce à la conception ergonomique de l'étagère",
+      "Grâce à des unités d'emballage sélectionnées pour être pratiques à saisir"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Entrepôt de préparation des commandes ergonomique avec étagères dynamiques La hauteur de préhension est adaptée, la hauteur de dépose, en revanche, est trop faible. Les hauteurs de prélèvement et de dépot sont bonnes. Le dos du pré-parateur est ménagé."
+    },
+    {
+     "t": "p",
+     "text": "167 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL"
+    }
+   ]
+  },
+  {
+   "id": "s-11-5-5",
+   "number": "11.5.5",
+   "title": "Temps mort",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Loin d'être improductif, le temps mort – également appelé temps secondaire ou temps d'organisation – comprend toutes les activités qui complètent le processus de prélèvement et qui sont indispensables à une préparation de commandes ordonnée. Activités"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Lecture des documents, recherche de l'emplacement de stockage",
+      "Ouvrir les paquets, compter les pièces détachées",
+      "Compter, contrôler et comparer",
+      "Enregistrer les quantités manquantes",
+      "Déclencher le réapprovisionnement",
+      "Procéder à des inscriptions ( paquets entamés, numéros d'articles, etc… )",
+      "Retirer les suremballages ( film d'emballage )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le temps mort peut être raccourci/optimisé par les mesures suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Par des pièces justificatives bien lisibles",
+      "Si les inscriptions sur les étagères sont lisibles",
+      "Lorsque les processus de comptage sont automatisés ( par exemple, balance de comptage )",
+      "Lorsque seules des unités entières sont prélevées ( par ex. carton entier comme unité de livraison )",
+      "Lorsque des produits fréquemment utilisés sont préemballés",
+      "Par l'utilisation de techniques modernes de préparation des commandes ( p. ex. Pick by Voice )"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-11-5-6",
+   "number": "11.5.6",
+   "title": "Temps perdu",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le temps perdu est le temps pendant lequel le travail n'est pas productif. Il est divisé en temps perdu par rapport au personnel et en temps perdu par rapport au matériel. Temps perdu généré par la personne:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aller aux toilettes",
+      "«Bavarder»avec des collègues",
+      "Travail fictif ( on fait semblant de travailler )"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Temps perdu pour des raisons matérielles:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Manque de travail ( attente de commandes )",
+      "Attendre les moyens de transport",
+      "En attente d'informations",
+      "En attente de réapprovisionnement"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "168 Le temps perdu peut être raccourci/optimisé:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "lorsqu'il y a une bonne ambiance de travail",
+      "si le travail est bien organisé et préparé",
+      "si les collaborateurs sont motivés",
+      "si une organisation flexible des pauses est possible grâce aux horaires variables",
+      "lorsque des primes de performance sont utilisées",
+      "par l'utilisation de techniques modernes de préparation des commandes"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-11-6",
+   "number": "11.6",
+   "title": "Critères distinctifs dans la préparation des commandes",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chaque entreprise a ses particularités et différents facteurs d'influence, qui se répercutent sur la performance de préparation des commandes. Néanmoins, ana - lyse de nombreuses installations de préparation de commandes a permis de dé - gager des chiffres clés, qui montrent la répartition en pourcentage des différents segments de temps par passage de commande. Le calcul des temps absolus est difficile et dépend d'une multitude de facteurs d'influence. Chaque entreprise a des exigences différentes, ce qui se répercute sur les temps de préparation des commandes. Facteurs statiques Facteurs dynamiques"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Données structurelles ( taille de la commande, fournisseurs, etc…… )",
+      "Unités d'emballage",
+      "Nombre d'articles",
+      "Répartition des articles selon la mé - thode ABC",
+      "Stock moyen total",
+      "Quantité et volume par article",
+      "Nombre de palettes par article",
+      "Nombre de conteneurs par article",
+      "Capacité de stockage",
+      "Taux de remplissage des stocks",
+      "Frais de stockage par article",
+      "Entrées de marchandises par jou",
+      "Sorties de marchandises par jour",
+      "Durée de traitement",
+      "Transferts de stock par jour",
+      "Transbordement par an",
+      "Nombre de commandes par jour",
+      "Nombre de positions par commande",
+      "Nombre de pièces par position",
+      "Poids par pos.",
+      "Poids par pièce",
+      "Nombre de prélèvement d’articles par jour"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque: le temps de préparation de commandes comprend le temps d’or - ganisation, le temps de déplacement, le temps de prélèvement, le temps mort et le temps perdu. Tous les temps partiels impliquent des activités différentes. L 'optimisation de ces temps partiels avec des mesures ciblées peut conduire à un avantage concurrentiel considérable."
+    },
+    {
+     "t": "p",
+     "text": "169 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Structure de la commande Structure des articles Les indicateurs"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Nombre de positions par commande",
+      "Positions de prélè - vement par zone de prélèvement",
+      "Volume de comman-des",
+      "Fréquence de rotation",
+      "Délai de traitement-des commandes",
+      "Type de commande",
+      "Mode d'expédition",
+      "Poids par unité de prélèvement",
+      "Dimensions par unité de prélèvement",
+      "Taille de l'assortiment",
+      "Taux de rotation",
+      "Maniabilité des ar-ticles",
+      "Nombre d'unités de prélèvement par unité de chargement",
+      "Surface et hauteur par unité de chargement",
+      "Type de moyens de stockage",
+      "Dimensions de la surface de commissi - onnement",
+      "Profondeur et hauteur de préhension",
+      "Nombre de prélè - vement par unité de chargement"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-11-6-1",
+   "number": "11.6.1",
+   "title": "Calculs des *ratios* et des performances de prélèvement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les ratios et les données sur les temps partiels permettent d'effectuer différents calculs sur les performances de préparation des commandes. Capacité de prélèvement par position et par heure 3600 secondes = Temps de prélèvement en secondes par position Comme décrit ci-dessus, la performance de préparation de commandes dépend de différents facteurs:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quels types d'étagères sont utilisés?",
+      "Quelle est la méthode de préparation des commandes utilisée?",
+      "Des moyens de transport sont-ils utilisés?",
+      "La préparation des commandes se fait-elle de manière statique ou dynamique?",
+      "etc…"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Exemple Carmen travaille chez EnterSite SA à la préparation des commandes. Pour cha - que position, Carmen a besoin en moyenne de 85 secondes pour effectuer le prélèvement. Capacité de prépa - ration de comman - des par heure = 3600 Secondes = 42,35 positions 85 Secondes"
+    },
+    {
+     "t": "p",
+     "text": "170 Le choix optimal de certains facteurs permet d'augmenter considérablement la performance de préparation des commandes. Prenons l'exemple du type de ray - onnage. Un type de rayonnage dynamique ( rayonnage dynamique, rayonnage à circulation ) permet généralement d'atteindre une meilleure performance de préparation des commandes, qu'un type de rayonnage statique ( rayonnage à ta - blettes, rayonnage à palettes ). Pour quantifier la performance de prélèvement, d'autres ratios peuvent être cal - culés. Pour que ces autres ratios soient significatifs, il faut toutefois disposer d'une période de comparaison correspondante ( par exemple, cette année par rapport à l'année précédente ). Formule des coûts de prélèvement par poste Coûts d'exploitation par heure = Capacité de préparation de commandes par heure Formule des coûts de prélèvement par commande Total des coûts de préparation des commandes = Nombre de commandes Exemple Chez EnterSite SA, les frais d'exploitation s'élèvent à 85 francs. La performance de préparation des commandes est de 42,35 positions par heure."
+    },
+    {
+     "t": "p",
+     "text": "Frais de prélè - vement par position = CHF 85.– par heure = CHF 2.– par position42,35 Pos. par heure Exemple L 'année dernière, EnterSite SA a enregistré des frais de préparation de comman-des d'un montant de 55'000 francs. 1'250 commandes ont été préparées."
+    },
+    {
+     "t": "p",
+     "text": "Frais de prélè - vement par commande = CHF 55'000.– = CHF 44.– par commande1'250 commandes"
+    },
+    {
+     "t": "p",
+     "text": "171 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Formule positions moyennes par commande Nombre total de positions = Nombre de commandes Formule Taux d'erreur Erreurs de préparation des commandes = x 100 Prélèvements totaux"
+    },
+    {
+     "t": "p",
+     "text": "Exemple Chez EnterSite SA, 75'000 positions au total ont été préparées l'année dernière. Le nombre de commandes s'est élevé à 7'500."
+    },
+    {
+     "t": "p",
+     "text": "Nombre moyen de positions = 75'000 positions = ø 10 pos. par commande7'500 commandes Exemple Chez EnterSite SA, 85 erreurs de préparation de commandes ont été commises l'année dernière sur un total de 75'000 préparations de commandes."
+    },
+    {
+     "t": "p",
+     "text": "Taux d'erreur = 85 Erreurs x 100 = 0.11% Tau x d'erreur75'000 Prélèvements"
+    },
+    {
+     "t": "p",
+     "text": "172 Temps de préparation des commandes par heure Exemple 1 Chez EnterSite SA, 1'400 positions sont prélevées par jour. Le temps moyen de prélèvement par position est de 14 secondes. Calcule le temps total de prépa - ration des commandes. Par des pourcentages représentés dans le graphique sous «1.3 Temps de préparation des commandes». Données: 1 1 400 positions par jour Temps de prélèvement = 14 secondes par position Temps de prélèvement = 15 % du temps total de préparation de commande Temps de travail d'un préparateur de commandes = 8 heures par jour"
+    },
+    {
+     "t": "p",
+     "text": "Recherché Le temps total de préparation des commandes en heures"
+    },
+    {
+     "t": "p",
+     "text": "Méthode de résolution: Temps de prélèvement par position = 15% = 14s Temps de préparation des commandes par position = 100% 14s / 15x100 =93,33s Temps de préparation des commandes pour 1 400 posi - tions 93,33s x 1'400 = 130'666,7s Temps de préparation des commandes par jour en heures 130'666,7s x 3'600 =36,3 heures Nombre de préparateurs de commandes 36,3 heures / 8 =4,5 = arrondi 5 Pour réaliser ce volume de commandes en une journée, il faut 4,5 préparateurs de commandes."
+    },
+    {
+     "t": "p",
+     "text": "173 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Exemple 2 Combien de positions peuvent être prélevées au maximum en 8 heures, si l'on part d'un temps de prélèvement moyen par position( ligne ) de 15s et que la part des temps partiels restants correspond aux indications de l'exemple1? Données: Temps de travail = 8 heures Temps de prélèvement = 15 secondes par position Temps de prélèvement = 15% du temps total de préparation de commandes commande Recherché Nombre de positions par jour."
+    },
+    {
+     "t": "p",
+     "text": "Méthode de résolution: Temps de prélèvement par position = 15% = 15s Temps de préparation des commandes par position = 100% 15s / 15x100 =100s 8 heures en secondes 8 x 3'600 = 28'800s Positions préparées en 8 heures 28'800s / 100s = 288 positionen"
+    },
+    {
+     "t": "p",
+     "text": "174"
+    }
+   ]
+  },
+  {
+   "id": "s-11-7",
+   "number": "11.7",
+   "title": "Conception des entrepôts de préparation des commandes",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Exemple 1 La zone de préparation des commandes se trouve dans la rangée la plus basse, les palettes de réserve se trouvant au-dessus. Les petits articles peuvent être mis à dis - position pour la préparation de comman - des dans le rayonnage dynamique. Selon la hauteur de levage du véhicule de préparation des commandes ( en-viron 1 m ), il est également possible de préparer les commandes au deuxième niveau de rayonnage. Flux marchandises: Rayonnage à palettes statique, rayonnage dynamique Réapprovisionnement: Manuel avec un moyen de transport Mode de déplacement: Unidimensionnel avec préparateur de commandes horizontal Prélèvement: Manuel Transfert: Centralisée / Décentralisée Transmission: Offline / Online Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Flexibilité avec les équipements",
+      "Flexibilité dans l'emploi du per - sonnel",
+      "Charges de personnel",
+      "Besoin en surface",
+      "Ergonomie"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "175 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Exemple 2 Ce système permet une grande capacité de préparation des commandes. Chaque prépara - teur de commandes dispose toujours de deux palettes de marchandises. Cela permet de ga - rantir une préparation de commandes continue sans temps d'attente. Le réapprovisionnement par transstockeur se fait automatiquement. Flux marchandises: Statique Réapprovisionnement: Automatique par des transstockeurs: Mode de déplacement: Unidimensionnel Prélèvement: Manuel Transfert: Centralisée / Décentralisée Transmission: Offline / Online Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Peu de frais de personnel grâce au réapprovisionnement automa - tique",
+      "Pas d'attente pour le réapprovisi - onnement",
+      "Flexibilité dans l'utilisation du personnel",
+      "Bonne utilisation de l'espace",
+      "Coûts d'investissement",
+      "Ergonomie"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "176 Exemple 3 Cette configuration de stockage convient aux grandes gammes de marchandises de petit volume avec de nombreux prélèvements. Le réapprovisionnement se fait manuellement depuis les emplacements situés au-dessus de la zone de préparation des commandes. Des secteurs ( zones ) peuvent être définis pour les préparateurs de commandes. Le principe FIFO est garanti. Flux marchandises: Dynamique Réapprovisionnement: Manuel avec un moyen de transport Mode de déplacement: Unidimensionnel / zones possibles par préparateur de commandes Prélèvement: Manuel Transfert: Centralisée / Décentralisée Transmission: Offline / Online Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Frais de personnel réduits grâce à des trajets courts",
+      "Pas d'attente pour le réapprovisi - onnement",
+      "Faible besoin en surface",
+      "Réapprovisionnement manuel",
+      "Coûts d'investissement"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "177 1ère édition 2025 Modul 611_La préparation de commandes Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Exemple 4 Préparation de commandes bidimensionnelle avec un préparateur de commandes à grande levée. Il est possible de prélever aussi bien des palettes entières que des articles individuels sur les palettes. Flux marchandises: Statique Réapprovisionnement: Pas besoin de réapprovisionner Mode de déplacement: Bidimensionnel / couloir possible par préparateur de commandes Prélèvement: Manuel Transfert: Centralisée / Décentralisée Transmission: Offline / Online Avantages Inconvénients"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Pas de réapprovisionnement nécessaire",
+      "Bonne ergonomie de travail",
+      "Surfaces élevées et utilisation de volumes",
+      "Les emplacements au sol et le niveau supérieur des rayonnages ne sont pas adaptés à la préparation des com - mandes"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque La conception des entrepôts de préparation de commandes dépend de divers facteurs tels que le volume, le nombre d'articles, la rotation, etc… et doit être adaptée à ces facteurs."
+    }
+   ]
+  }
+ ]
+}

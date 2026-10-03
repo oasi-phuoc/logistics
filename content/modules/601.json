@@ -1,0 +1,293 @@
+{
+ "code": "601",
+ "title": "La préparation de commandes",
+ "domain": "600",
+ "pdf": "M601.pdf",
+ "pages": 10,
+ "words": 2211,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour les logisticiens, la préparation de commandes est l'une des activités principales. La préparation de commandes est encore souvent liée à beaucoup de travail manuel. Comme les marchandises présentent souvent des critères de manipulation très différents (volume, dimension, densité, valeur, empilable, état d’agrégation), une automatisation complète n'est souvent pas possible. On travaille en partie avec des robots de préparation de commandes ou avec des trieurs. Cependant, l'être humain est de plus en plus assisté par des techniques de préparation de commandes modernes (pick by voice, pick by light, scanner MDE, etc…) afin de rendre la préparation de commandes plus efficace."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 601"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La préparation de commandes consiste à rassembler des articles d'un assortiment (entrepôt) sur la base des commandes des clients. Dans le langage courant, le prélèvement est également appelé \"préparation\". Le terme anglais est \"picking\"."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1",
+   "number": "1.1",
+   "title": "Stratégies et notions de préparation de commandes",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-1-1-1",
+   "number": "1.1.1",
+   "title": "Les Types de préparation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La préparation statique (l’homme va à la marchandise) La marchandise est stockée de façon immobile, c'est-à-dire statique dans les rayonnages. Le préparateur se déplace à pied ou avec un l’engin de manutention vers la marchandise et prélève les articles nécessaires. C'est pourquoi ce type de préparation est également appelé \"l’homme va à la marchandise\"."
+    },
+    {
+     "t": "p",
+     "text": "La préparation dynamique (la marchandise vient à l'homme) La marchandise est stockée dans un système de stockage qui, sur demande, va lui-même chercher la marchandise sur les rayonnages et l'achemine vers la zone de préparation de commandes (dynamique). La personne qui a commandé la marchandise en prélève les articles dans la quantité dont elle a besoin. Le système stocke ensuite la marchandise restante au bon endroit. Ce type de préparation de commandes est également appelé \"la marchandise vient à l'homme\"."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: les entrepôts automatisés sont souvent dotés d’une préparation dynamique. De tels entrepôts ont certes des coûts d'investissement élevés, mais l'automatisation permet de réduire les coûts de personnel."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-2",
+   "number": "1.1.2",
+   "title": "Les modes de déplacement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Unidimensionnel (A une dimension) Le déplacement pour la préparation de commandes se fait uniquement dans le sens horizontal. Les supports de charge avec les marchandises à"
+    },
+    {
+     "t": "p",
+     "text": "prélever sont stockés sur des emplacements au sol ou au premier niveau des rayonnages. En règle générale, on utilise des engins de manutention comme le préparateur de commandes à petite levée ou des chariots manuels. Le déplacement d’un article à un autre est plus rapide qu'avec le déplacement bidimensionnel, mais il faut un emplacement au sol pour chaque article. De plus, dès que l’emplacement de picking est vide, il faut une manutention supplémentaire pour le réapprovisionner."
+    },
+    {
+     "t": "p",
+     "text": "Bidimensionnel (A deux dimensions ou multi) Dans le cas de la préparation de commandes bidimensionnelle (à deux dimensions), le préparateur de commandes se déplace non seulement horizontalement, mais aussi verticalement, afin d'avoir accès à la marchandise aux différents niveaux de préparation. Il est possible d'utiliser des engins de manutention comme le préparateur de commandes à grande levée. Ce mode de déplacement existe également dans les entrepôts semi-automatiques équipés de transstockeurs."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: lorsque la préparation de commandes se fait en hauteur, on parle de préparation de commandes bidimensionnelle. La préparation de commandes en deux dimensions augmente certes les temps d'accès, mais elle ne nécessite pas de manutention entre les emplacements de réserve et de préparation."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-3",
+   "number": "1.1.3",
+   "title": "Prélèvement de la marchandise",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Manuel Les articles sont prélevés par les préparateurs de commandes et placés dans le bac de prélèvement. Dans de nombreux entrepôts automatisés, les marchandises continuent à être prélevées \"manuellement\"."
+    },
+    {
+     "t": "p",
+     "text": "Automatique Les articles arrivent automatiquement dans le bac de prélèvement, par exemple lors de l'utilisation de trieurs ou de robots de prélèvement."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le prélèvement automatique de la marchandise est extrêmement rare."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-4",
+   "number": "1.1.4",
+   "title": "Le transfert de la marchandise (dans l’entrepôt)",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Centralisé Les marchandises prélevées sont transférées dans un lieu central (zone d’expédition) pour être emballées et mises à disposition des clients ou des transporteurs."
+    },
+    {
+     "t": "p",
+     "text": "Décentralisé Lorsque, après prélèvement, les marchandises sont déposées à proximité de la zone de prélèvement sur un convoyeur (par exemple à la fin de l'allée), le transfert est décentralisé. Les unités transférées de manière décentralisée sont transportées de toute part vers un lieu central (zone d’expédition) où elles sont rassemblées et emballées en unités de transport. L'un des principaux avantages du transfert décentralisé est la réduction des déplacements, ce qui permet d’augmenter la productivité au niveau des prélèvements. Le transfert décentralisé est courant pour la préparation de commandes en parallèle avec des transstockeurs, notamment dans les entrepôts à hauts rayonnages."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-5",
+   "number": "1.1.5",
+   "title": "La Préparation des informations",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Batch (traitement par lots) Les informations sur les commandes prévues pour une période de préparation de commandes sont collectées et traitées par lots. La préparation par lots est courante pour les installations de préparation de commandes qui n'ont pas d'exigences élevées en matière de flux de données (p. ex.: préparation de commandes avec du papier). Avec la préparation par lots, les données ne sont jamais tout à fait actuelles. Pour obtenir des inventaires précis, il faut une interruption dans le traitement des commandes, sinon cela peut entraîner des différences de stock."
+    },
+    {
+     "t": "p",
+     "text": "Real-Time (temps réel) Les systèmes modernes de préparation des commandes fonctionnent généralement en temps réel, c'est-à-dire en \"Real-Time\". Les données entrantes sont directement transmises à l'ordinateur du préparateur de commandes. Ainsi, les commandes peuvent être transmises et modifiées"
+    },
+    {
+     "t": "p",
+     "text": "jusqu'au moment de la mise à disposition de la commande. Les stocks dans l'entrepôt de préparation de commandes sont également actualisés en permanence. Le réapprovisionnement des postes de préparation des commandes est ainsi déclenché automatiquement."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: le temps réel réduit les délais de traitement des commandes et augmente la disponibilité des marchandises. Les inventaires peuvent être effectués à tout moment."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-6",
+   "number": "1.1.6",
+   "title": "La préparation des marchandises par un secteur ou par plusieurs",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "secteurs Par un seul secteur Lorsque la préparation de commandes se déroule dans une seule zone, on parle de préparation de commandes en secteur unique."
+    },
+    {
+     "t": "p",
+     "text": "Par plusieurs secteurs Le déroulement de la préparation de commandes s'effectue dans plusieurs zones. Les marchandises à préparer sont collectées dans différentes zones."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-7",
+   "number": "1.1.7",
+   "title": "Prélèvement pour une ou plusieurs commandes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Prélèvement pour une commande client (orienté commande) Dans le cas de la préparation de commandes pour une seule commande client, toutes les marchandises prélevées sont destinées pour la même commande client (prélèvement orientée commande). Lorsque le prélèvement est terminé, les marchandises ne doivent pas être réparties entre différents clients, la commande est donc prête à être emballée et expédiée."
+    },
+    {
+     "t": "p",
+     "text": "Prélèvement pour plusieurs commandes (orienté article) Lors de la première étape, les marchandises sont prélevées simultanément par plusieurs préparateurs pour différentes commandes (prélèvement orienté article). Les marchandises prélevées doivent ensuite être réparties entre les différentes commandes clients lors d'une deuxième étape. Le prélèvement en deux étapes permet de diminuer le temps de préparation de commande car en un passage on prélève les articles pour plusieurs commandes ce qui réduit le temps de déplacement dans l’entrepôt. Le prélèvement en deux étapes est judicieux lorsqu'il y a de longs trajets de préparation de commandes."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-8",
+   "number": "1.1.8",
+   "title": "La préparation de commandes en série ou en parallèle",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Série (en une étape) Dans le cas de la préparation de commandes en série, les commandes ou les commandes partielles sont traitées les unes après les autres dans les différentes zones de préparation de commandes. Ce type de préparation se fait en une étape. Elle peut être exécutée sur une ou plusieurs zones de préparation. Pour les commandes importantes comportant de nombreuses positions, les temps de préparation des commandes sont très longs avec la préparation de commandes en série."
+    },
+    {
+     "t": "p",
+     "text": "Parallèle (en deux étapes) Lors de la préparation de commande en parallèle, la préparation se fait en deux étapes. Dans la première étape, les commandes sont divisées en plusieurs parties et traitées simultanément dans les différentes zones de prélèvement par différents préparateurs de commandes (côte à côte). Dans"
+    },
+    {
+     "t": "p",
+     "text": "la 2ème étape, les marchandises sont regroupées en fonction des commandes clients respectives. Pour les commandes plus importantes comportant de nombreuses positions, le temps de traitement des commandes peut être diminué grâce à la préparation de commande en parallèle."
+    }
+   ]
+  },
+  {
+   "id": "s-1-1-9",
+   "number": "1.1.9",
+   "title": "La préparation par allée de prélèvement",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La préparation par allée de prélèvement permet de diminuer les distances et le temps de déplacement dans le prélèvement en série. L'accès aux allées ne se fait que d'un seul côté. La condition préalable pour diminuer les distances et le temps de déplacement, est une optimisation des emplacements de stockage de telle façon que les articles ayant la fréquence de commande la plus élevée (articles A) soient placés au plus proche de l’allée principale, accessibles par le chemin le plus court. Une analyse ABC sur l’ensemble de l’assortiment en analysant la fréquence de"
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "commandes est indispensable ( module 408)"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple tiré d'EnterSite AG: Type de préparation Chez EnterSite AG, la préparation de commandes est statique. Le préparateur de commandes se déplace vers la marchandise et la récupère. La marchandise est statique dans les rayons. Le mode de déplacement Le déplacement se fait en deux dimensions avec un préparateur de commandes à grande à grande levée. En revanche, le déplacement lors de la préparation des commandes prend plus de temps. Prélèvement de la marchandise Le prélèvement des produits est manuel. Le préparateur de commandes prélève la bonne quantité d’articles dans le bac. Transfert de la marchandise Le transfert de la marchandise est centralisé dans la zone d’expédition des marchandises. Cela signifie que le préparateur de commandes doit s'y rendre lui-même avec sa marchandise et l'emballer. Il effectue donc des trajets de préparation de commandes plus longs. Mise à disposition de marchandises en une ou plusieurs zones Chez EnterSite AG, il y a trois zones de stockage: une pour les toners, une autre pour le matériel informatique et une troisième au sous-sol pour les produits dits \"C\". Prélèvement en une ou plusieurs étapes En principe, chez EnterSite AG, la préparation des commandes se fait en une seule étape (orientée vers la commande), c'est-à-dire qu'une commande est traitée du début à la fin. Cependant, les produits entreposés à la cave sont préparés en deux étapes (orientés articles). Ainsi, une seule personne doit aller chercher tous les articles pour le jour en question à la cave et les répartit ensuite pour les différentes commandes. Cela permet de gagner beaucoup de temps, car chacun ne doit pas aller lui-même chercher à la cave les articles dont il a besoin. La préparation des commandes en série ou en parallèle Les commandes sont traitées en série (l'une après l'autre) par une seule personne. Traitement des informations Chez EnterSite AG, on travaille avec des scanners. Comme ces appareils MDE (appareils mobiles de saisie de données) sont reliés à l'ordinateur/serveur via WLAN, les stocks sont débités en direct, c'est-à-dire en temps réel. Un inventaire peut être effectué à tout moment."
+    }
+   ]
+  },
+  {
+   "id": "s-1-2",
+   "number": "1.2",
+   "title": "Techniques de préparation spéciales",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les techniques modernes de préparation des commandes sont assistées par ordinateur et sans document. L'objectif est d'accélérer la transmission des données, de réduire le temps de réaction et de minimiser le taux d'erreur. Les nouvelles techniques sont basées sur la saisie mobile des données au moyen de scanner MDE."
+    },
+    {
+     "t": "p",
+     "text": "Pick-by-Scan Le pick-by-scan est le mode de préparation de commandes sans papier le plus répandu. Le préparateur de commandes est muni d'un scanner MDE qui affiche les informations relatives à la commande à préparer. Dans la plupart des cas, le préparateur de commandes n'a pas les deux mains libres."
+    },
+    {
+     "t": "p",
+     "text": "Pick-by-Voice"
+    },
+    {
+     "t": "p",
+     "text": "Pick-by-Voice est synonyme de préparation de commandes par guidage vocal. Le pilotage de l’opération du processus de préparation des commandes et la communication avec le système de gestion de l'entrepôt s'effectuent au moyen d'un microphone et d'un casque (headset). Comme il n'est plus nécessaire de saisir les informations sur le scanner MDE, le préparateur de commandes dispose d'une plus grande liberté de mouvement. Le processus de préparation des commandes est ainsi accéléré et sa qualité améliorée."
+    },
+    {
+     "t": "p",
+     "text": "Pick-by-Light"
+    },
+    {
+     "t": "p",
+     "text": "Des diodes lumineuses (LED) indiquent à quels emplacements de prélèvement et combien d'articles doivent être prélevés. Une fois le prélèvement effectué, le préparateur de commandes confirme le prélèvement en appuyant sur une touche. Cependant, une seule commande peut être affichée à la fois dans une zone, ce qui oblige à séparer les zones de prélèvement."
+    },
+    {
+     "t": "p",
+     "text": "Pick by Vision"
+    },
+    {
+     "t": "p",
+     "text": "Pick by Vision est un nouveau procédé qui utilise des lunettes de réalité augmentée. Les lunettes sont munies d’un écran qui affiche toutes les informations relatives à la préparation de commandes en superposition de l’environnement de travail et en temps réel. Le préparateur de commandes a toujours à l'écran toutes les informations importantes, comme par exemple le lieu de stockage, la quantité ou le numéro d’article. Le préparateur de commandes est guidé visuellement à travers l'entrepôt et a les deux mains libres. Cela minimise les erreurs et facilite considérablement le travail des collaborateurs. Toutes les informations proviennent directement du système de gestion des stocks (SGS). Une fois le prélèvement de la marchandise effectuée, le système les enregistre en temps réel. Ainsi, tous les stocks restent à jour."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "A retenir: les techniques modernes de préparation des commandes aident dans le travail quotidien. Elles entraînent toutefois des coûts d'investissement plus élevés que les techniques classiques."
+    }
+   ]
+  },
+  {
+   "id": "s-1-3",
+   "number": "1.3",
+   "title": "Procédure Pick-and-Pack",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La préparation de commandes et le conditionnement sont effectués en une seule opération. Immédiatement après son prélèvement par le préparateur de commandes, l'article prélevé est placé dans un emballage prêt à être expédié, qu'il ne reste plus qu'à fermer. Il n'y a pas de poste d'emballage à proprement parler, ce qui permet d’accélérer le processus de préparation de commandes. Le contrôle final d'identification et de quantité est effectué soit par le préparateur de commandes lui-même, soit par une personne chargée du contrôle ou par un système de contrôle automatique. Cette procédure n'est possible que si:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "les produits sont déjà préemballés et prêts à être expédiés.",
+      "les emballages sont largement normalisés.",
+      "aucun travail d'emballage complexe n'est nécessaire (par exemple, grâce à des emballages intérieurs pré-moussé)."
+     ]
+    }
+   ]
+  }
+ ]
+}

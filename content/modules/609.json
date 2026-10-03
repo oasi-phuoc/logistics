@@ -1,0 +1,268 @@
+{
+ "code": "609",
+ "title": "Navigation",
+ "domain": "600",
+ "pdf": "M609.pdf",
+ "pages": 11,
+ "words": 1448,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La lettre de transport aérien..."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "est la confirmation de réception de la compagnie aérienne pour la prise en charge des marchandises;",
+      "contient les instructions de l'expéditeur pour la manipulation, l'acheminement et la livraison des marchandises transportées;",
+      "sert de justificatif d'assurance;",
+      "détermine le niveau de responsabilité de la compagnie aérienne en cas de perte ou d'endommagement des marchandises transportées;",
+      "peut servir de déclaration en douane;",
+      "sert de base à la facturation des coûts de fret."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Tu trouveras ici des liens complémentaires sur le fret aérien: Etude sur la logistique du fret aérien en Suisse 2020 et fournisseurs (Cargo Logic)."
+    },
+    {
+     "t": "p",
+     "text": "Le mode de transport maritime est lent mais avantageux. Il est adapté au transport maritime international de pratiquement toutes les marchandises."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Aperçu de la planification du module 609"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les hommes utilisent la navigation depuis plus de 8'000 ans pour pêcher des poissons, explorer de nouveaux territoires, mener des guerres et faire du commerce. La navigation a été la véritable pierre angulaire de la mondialisation, de l'interconnexion du monde. De nombreuses grandes villes mondiales sont construites au bord de l'eau. Cela a permis aux personnes de faire du bon commerce et de stimuler ainsi l'économie locale et régionale. Aujourd'hui encore, la navigation est un facteur décisif pour une économie saine. Par rapport aux autres modes de transport, les marchandises sont toutefois acheminées relativement lentement (Hong Kong-Hambourg entre 25 et 30 jours en moyenne). En revanche, il est possible de transporter beaucoup de poids à moindre coût avec peu d'énergie."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "A retenir: Les bateaux permettent de transporter de grandes quantités de marchandises à moindres coûts dans le monde entier."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple pratique Les voies navigables se prêtent au transport avantageux de grandes quantités de marchandises. Un bateau-citerne sur le Rhin peut par exemple transporter 2'800 tonnes. Pour le trajet Rotterdam-Bâle-Rotterdam, il faut toutefois (avec le chargement / déchargement de la cargaison) 6 jours de 24 heures. Cela correspond à 35 wagons-citernes (wagons de chemin de fer) ou à 147 camions-citernes. Les coûts de transport de Rotterdam à Bâle s'élèvent donc à 1,1 centime par litre de pétrole."
+    }
+   ]
+  },
+  {
+   "id": "s-9-1",
+   "number": "9.1",
+   "title": "Principales voies de transport",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-9-1-1",
+   "number": "9.1.1",
+   "title": "Suisse",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En Suisse, les voies navigables intérieures ont une faible importance pour le transport de marchandises. Des bateaux de marchandises en vrac circulent sur de nombreux lacs. Ils transportent surtout du sable et du gravier. Parmi les fleuves suisses, seul le Rhin peut être parcouru par des bateaux de marchandises."
+    },
+    {
+     "t": "p",
+     "text": "Le Rhin, une porte sur le monde Avec une longueur de 1238,8 kilomètres, le Rhin est la voie navigable intérieure la plus importante d'Europe: 10 à 12 % de toutes les importations suisses et un quart à un tiers de toutes les importations d'huiles minérales arrivent en Suisse par le Rhin. Le libre accès de la Suisse à la mer repose sur la Convention de Mannheim de 1868, qui accorde à la Suisse les pleins droits de circulation dans tout le bassin du Rhin et parfois au-delà. Ainsi, le Rhin est considéré comme eaux internationales jusqu'au Mittlere Brücke à Bâle. Le Rhin est l'une des principales artères vitales de la Suisse. La majeure partie des matières premières est importée par cette voie fluviale. Comparés aux cargos de haute mer, les bateaux rhénans sont minuscules. Avec une capacité de 300 à 3000 tonnes, les bateaux rhénans dépassent toutefois de loin la capacité des autres moyens de transport. Les plus gros bateaux du Rhin transportent jusqu'à 3000 tonnes de marchandises. Le trafic fluvial sur le Rhin dépend toutefois du niveau des eaux. En cas de crues ou de niveaux d'eau extrêmement bas, le trafic doit être limité, voire totalement interrompu."
+    }
+   ]
+  },
+  {
+   "id": "s-9-1-2",
+   "number": "9.1.2",
+   "title": "Océans du monde",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les navires de haute mer parcourent des milliers de miles nautiques pour se rendre d'un continent à l'autre. La distance entre la pointe sud de l'Amérique du Sud (Cap Horn) et Rotterdam est de plus de 12 000 km, soit 6 500 miles* env. nautiques. Les navires de haute mer naviguent pendant des semaines, voire des mois. *Un mile maritime (NM) = km1,852"
+    }
+   ]
+  },
+  {
+   "id": "s-9-1-3",
+   "number": "9.1.3",
+   "title": "Voies maritimes artificielles",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les voies maritimes artificielles constituent le nerf de la guerre pour la navigation actuelle. Les interruptions et les accidents entraînent des embouteillages et des pertes économiques considérables."
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple tiré de la pratique Le 23 mars 2021, le porte-conteneurs \"Ever Given\" s'est échoué dans le canal de Suez lors d'une tempête de sable, bloquant ainsi le canal pendant six jours. Les préjudices économiques ont été immenses."
+    },
+    {
+     "t": "p",
+     "text": "Trois des voies maritimes artificielles les plus connues"
+    },
+    {
+     "t": "p",
+     "text": "Le canal de Suez 19'000 bateaux par an 1200 millions de tonnes de fret par an"
+    },
+    {
+     "t": "p",
+     "text": "Le canal de Panama 13'000 bateaux par an 255 millions de tonnes de fret par an Le Canal de Kiel 28'000 bateaux 84 millions de tonnes de fret par an"
+    },
+    {
+     "t": "note",
+     "kind": "tip",
+     "label": "En pratique",
+     "text": "Un exemple tiré de la pratique Les changements climatiques libèrent de nouvelles voies maritimes dans l'Arctique. Le \"passage du Nord-Est\" raccourcit la distance entre Shanghai et Rotterdam d'environ 3 800 km (ou 2 100 miles nautiques). Les premiers navires de fret peuvent désormais traverser l'Arctique pendant les mois d'été sans être accompagnés d'un brise-glace."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "À retenir: L'économie mondiale est tributaire d'itinéraires qui fonctionnent bien."
+    }
+   ]
+  },
+  {
+   "id": "s-9-2",
+   "number": "9.2",
+   "title": "Les principaux ports",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-9-2-1",
+   "number": "9.2.1",
+   "title": "Le port du Rhin à Bâle",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "De nombreuses entreprises se sont installées autour des ports rhénans et proposent une multitude de prestation de services logistiques. Dans ces entrepôts de transbordement, les marchandises ne sont pas seulement transbordées, mais aussi stockées temporairement, dédouanées, livrées et transformées. Autour des installations portuaires se trouvent de grands entrepôts et d'immenses réservoirs et silos."
+    }
+   ]
+  },
+  {
+   "id": "s-9-2-2",
+   "number": "9.2.2",
+   "title": "Les plus grands ports du monde",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Si l'on regarde la liste des plus grands ports de conteneurs, on remarque immédiatement que les plus grands ports se trouvent en Chine. Cela montre que la Chine est devenue le centre de production du monde. L'importation de matières premières et l'exportation de produits semi-finis et finis ne connaissent aucun ralentissement malgré la pandémie mondiale."
+    },
+    {
+     "t": "note",
+     "kind": "ref",
+     "label": "Voir aussi",
+     "text": "Les plus grands ports à conteneurs du monde Shanghai est le plus grand port du monde avec plus de 40 millions de conteneurs transbordés. Rotterdam (le plus grand port européen) est nettement plus petit avec 14 millions de conteneurs. TEU = Twenty-foot Equivalent Unit (unité internationale standardisée pour le comptage des conteneurs ISO). Cette unité sert à décrire la capacité de chargement des navires porte-conteneurs et le transbordement dans les terminaux à conteneurs. Un conteneur ISO de 20 pieds correspond à 1 TEU, un conteneur ISO de 40 pieds à 2 TEU."
+    }
+   ]
+  },
+  {
+   "id": "s-9-3",
+   "number": "9.3",
+   "title": "Transbordement",
+   "level": 2,
+   "blocks": []
+  },
+  {
+   "id": "s-9-3-1",
+   "number": "9.3.1",
+   "title": "Moyens de manutentions",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour le transbordement de conteneurs, on utilise principalement trois moyens de manutention différents:"
+    },
+    {
+     "t": "p",
+     "text": "Grues, portiques"
+    },
+    {
+     "t": "p",
+     "text": "Chariots élévateurs télescopiques, ou à contrepoids pour charges lourdes avec une capacité de charge allant jusqu'à 50 tonnes"
+    },
+    {
+     "t": "p",
+     "text": "Container-Carrier (appelé aussi cavalier dans le jargon portuaire)"
+    }
+   ]
+  },
+  {
+   "id": "s-9-3-2",
+   "number": "9.3.2",
+   "title": "Spreader",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour la prise des conteneurs, les engins de levage sont équipés de spreaders. Les spreaders sont ajustés à la taille du conteneur au moyen d'un dispositif télescopique et sont accrochés aux quatre coins supérieurs du conteneur."
+    }
+   ]
+  },
+  {
+   "id": "s-9-3-3",
+   "number": "9.3.3",
+   "title": "Arrimage de la cargaison sur le porte-conteneurs",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les navires sont chargés de conteneurs selon le système LIFO (Last-in - First-out). Les conteneurs qui sont empilés dans la cale du navire sont solidement arrimés dans des glissières. Les conteneurs empilés sur le pont du navire doivent être très bien sécurisés pour le transport. De nombreux moyens d'arrimage sont utilisés pour sécuriser les conteneurs empilés, tels que des pièces de fixation (bridge fittings, les twistlocks et les barres d'arrimage)."
+    }
+   ]
+  },
+  {
+   "id": "s-9-4",
+   "number": "9.4",
+   "title": "Forces dynamiques dans le transport maritime",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les forces dynamiques générées sur les navires sont dues aux vagues. Lorsque le vent atteint une force de 10 ou 11 Beaufort (force du vent) et que les vagues atteignent 15 mètres de haut, même les grands navires de marchandises commencent à tanguer et à rouler."
+    },
+    {
+     "t": "p",
+     "text": "Les traversées en mer s'effectuent dans des conditions météorologiques très diverses et, par conséquent, le navire et son chargement sont souvent soumis à des forces simultanées, intenses et multidirectionnelles pendant une période prolongée. Ces forces peuvent provenir du tangage, du roulis, de l'immersion et de la remontée, du glissement longitudinal, des oscillations ou du mouvement transversal du navire, ou de l'interaction de deux ou plusieurs de ces types de mouvements du navire. Il ne faut jamais supposer que le temps sera calme et que la mer sera calme, ni que les méthodes d'arrimage utilisées pour le transport terrestre seront toujours suffisantes en mer."
+    }
+   ]
+  },
+  {
+   "id": "s-9-5",
+   "number": "9.5",
+   "title": "Charger correctement les marchandises",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les palettes ne sont pas souvent utilisées pour le chargement des conteneurs. L'économie d'espace qui en résulte l'emporte souvent sur la charge de travail supplémentaire lors du chargement et du déchargement. De plus, il faut utiliser des palettes adaptées à la taille du conteneur. Les palettes EUR de type 1 ne sont pas adaptées au transport dans un conteneur. Il existe différents systèmes de retenue pour le conteneur afin de fixer la marchandise aux parois. Le chargement des conteneurs par blocage (sans espace) est toutefois la clé d'un transport sans dommages. Pour remplir les espaces vides, on peut utiliser des coussins d'air."
+    },
+    {
+     "t": "note",
+     "kind": "note",
+     "label": "À retenir",
+     "text": "Remarque: un bon arrimage du chargement dans le conteneur évite d'endommager la marchandise."
+    }
+   ]
+  }
+ ]
+}

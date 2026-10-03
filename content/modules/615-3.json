@@ -1,0 +1,119 @@
+{
+ "code": "615-3",
+ "title": "Module 615-3",
+ "domain": "600",
+ "pdf": "M615-3_dist.pdf",
+ "pages": 6,
+ "words": 1176,
+ "sections": [
+  {
+   "id": "intro",
+   "number": "",
+   "title": "Situation initiale",
+   "level": 1,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "302 Connaissance théorique 3 – Connaître et étiqueter les porte-charges"
+    }
+   ]
+  },
+  {
+   "id": "s-15-12",
+   "number": "15.12",
+   "title": "Principes",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Imagine que toutes les lettres et tous les colis traînent en vrac et que tu doives transporter chaque envoi à la main. Ce serait vraiment un chaos, n’est-ce pas? Afin que cela n’arrive pas et que les envois arrivent intacts et en toute sécurité, ils sont transportés dans divers types de porte-charges. Dans cette section, tu découvriras quels types de porte-charges existent, à quoi ils servent et comment les étiqueter correctement. Prêts pour un concentré de connaissances sur les porte-charges?"
+    }
+   ]
+  },
+  {
+   "id": "s-15-13",
+   "number": "15.13",
+   "title": "Notions de base",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Porte-charges: Il s’agit de conteneurs de transport, ce qui signifie que les en - vois y sont transportés en toute sécurité. Les rollbox et les conteneurs à lettres sont des exemples de porte-charges.",
+      "Étiquettes: Il s’agit d’une signalétique apposée sur le porte-charges pour iden - tifier clairement le contenu ou le type d’envoi."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "s-15-14",
+   "number": "15.14",
+   "title": "Les porte-charges",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Nous te présentons ci-après les porte-charges les plus fréquemment utilisés. Récipients réutilisables Les récipients réutilisables sont des conteneurs de transport qui peuvent être réutilisés, car ils sont généralement fabriqués à partir de plastique solide et recyclé. Des récipients réutilisables spécialement isolés sont utilisés pour le transport d’envois sensibles à la température."
+    },
+    {
+     "t": "p",
+     "text": "303 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Conteneurs à lettres ( BB ) Les lettres sont transportées dans les conteneurs à lettres gris ( BB ). Le poids maximal est de 15 kg, car un poids plus élevé pourrait endommager le tapis roulant du centre de tri. Conteneurs collectifs ( SB ) Les conteneurs collectifs sont utilisés pour le transport de lettres et de cont - eneurs à lettres entre les filiales, les ba - ses de distribution et les centres de tri. La charge maximale est de 460 kg. Rollbox ( RX ) Les rollbox sont principalement utilisés pour le transport de colis. Les conte - neurs collectifs et les rollbox sont sou - mis chaque année à un contrôle de sécurité afin de réduire au maximum le risque d’accident. Lors du transport interne, veille à ne pas accrocher plus de six RX. Pour les RX envois encom - brants, tu ne dois pas accrocher plus de trois RX. Le chargement maximal d’un RX varie en fonction du modèle. Palettes Les envois en nombre ainsi que les envois qui dépassent les dimensions ou le poids maximal des envois encombrants sont transportés sur des palettes"
+    },
+    {
+     "t": "p",
+     "text": "304 Sacs Chez DHL, des sacs sont utilisés exclusivement pour les envois internationaux. Les envois ayant le même pays de destination sont chargés dans des Destina - tion Bags dont le poids ne doit pas dépasser 25 kg. Les envois pesant plus de 2 kg ou mesurant plus d’un mètre de long ne sont pas emballés dans des sacs. Les prestations complémentaires sont signalées par la couleur des sacs: les sacs orange contiennent par exemple les envois devant être distribués le samedi."
+    },
+    {
+     "t": "p",
+     "text": "La Poste utilise également des sacs pour les envois internationaux, mais ceux-ci demeurent toujours non fermés. En outre, des sacs à journaux et des sacs pour le dépôt du courrier sont utilisés dans la distribution. Les sacs à journaux sont reconnaissables à une bande bleue. Les sacs pour le dépôt du courrier servent pour un entreposage intermédiaire, par exemple dans une entrée de maison, lorsque tous les envois ne rentrent pas dans le véhicule de distribution. Ils sont munis d’une serrure afin d’éviter qu’ils ne soient ouverts de manière illicite."
+    },
+    {
+     "t": "p",
+     "text": "Important:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Le sac pour le dépôt du courrier ne doit pas être utilisé pour le service d’ex - pédition.",
+      "Les envois de fonds et les envois avec justificatif de distribution ne doivent pas être transportés dans le sac pour le dépôt du courrier."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "305 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Conteneurs pour avion Les conteneurs pour avion sont uti - lisés dans le trafic aérien. Ils servent au transport d’envois sur de longues dis - tances, par exemple lorsque le lieu de destination se trouve sur un autre con - tinent. Caisses mobiles ( WB ) Les caisses mobiles sont des conte - neurs utilisés dans le trafic ferroviai - re et dans le trafic routier. Leur grand avantage réside dans le fait qu’elles peuvent être transbordées directe - ment entre les camions et les trains de marchandises à l’aide d’une grue. Cela permet de gagner beaucoup de temps, car les temps d’attente des chauffeurs sont ainsi de courte durée. Étiquetage correct Pourquoi les porte-charges doivent-il être étiquetés correctement? Pour que les envois puissent être réexpédiés rapidement et correctement, les porte-charges doivent être étiquetés correctement lors du processus de dépôt. La signalétique fournit deux informations importantes aux centres de tri:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Quel produit se trouve dans le porte-charges?",
+      "Où le porte-charges doit-il être transporté?"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ces informations déterminent la prochaine étape de traitement. Un exemple: si des conteneurs à lettres nouvellement livrés au centre courrier sont signalés comme Courrier B, ils sont d’abord entreposés temporairement jusqu’à ce que le Courrier A soit traité. Cela permet de garantir que tous les envois arrivent à temps. Une signalétique correcte permet non seulement de satisfaire la clientè - le, mais aussi d’éviter des coûts supplémentaires."
+    },
+    {
+     "t": "p",
+     "text": "306 Signalétique chez DHL, Planzer et à la Poste Différentes entreprises de distribution travaillent avec différents types de sig - nalétique: DHL Chez DHL, les caisses mobiles sont si - gnalées par des numéros. Dès qu’une caisse mobile est rechargée, un code à barres approprié est généré. Tous les envois chargés dans ces conteneurs sont reliés au numéro du conteneur via le code à barres. Les données de distri - bution et le poids des différents envois sont transmis directement à la base de distribution. La planification des itinéraires peut ainsi être lancée avant même que les envois n’arrivent. Planzer Planzer travaille avec des codes QR. Chaque conteneur RX et chaque véhi - cule est muni de son propre code QR. Lors du chargement, les collaborateurs scannent les deux codes. Cela permet de saisir dans le système quel RX se trouve dans quel véhicule. De plus, les conteneurs RX sont équipés d’un tra - ceur GPS."
+    },
+    {
+     "t": "p",
+     "text": "307 1ère édition 2025 Module 615_Préparer les envois pour le tri Manuel de la logistique – Compétences professionnelles Distribution et Stockage by ASFL SVBL Poste À la Poste, les porte-charges sont pourvus d’étiquettes. Pour les conteneurs à lettres, l’étiquette contient par exemple les informations importantes suivantes:"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Courrier A ou Courrier B",
+      "Lettres de grand format ou de format normal",
+      "Tri manuel ou automatique"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Remarque Pour que les envois puissent être transportés facilement et restent intacts pen - dant le transport, différents types de porte-charges sont utilisés. En font partie les conteneurs à lettres, les conteneurs collectifs, les conteneurs réutilisables, les rollbox, les palettes, les sacs, les conteneurs pour avion et les caisses mobiles. Pour qu’ils arrivent à temps au bon endroit, ces conteneurs doivent être étiquetés correctement. En fonction de l’entreprise de distribution, l’inscription se fait avec des codes QR, des étiquettes ou des numéros."
+    }
+   ]
+  }
+ ]
+}
