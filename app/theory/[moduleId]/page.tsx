@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { getModuleByCode, module100Series } from "../theory/data";
+import { getModuleByCode, module100Series } from "../data";
 
 export default function TheoryModulePage({ params }: { params: { moduleId: string } }) {
   const module = getModuleByCode(params.moduleId);
