@@ -21,13 +21,7 @@ const schema = z.object({
     points: z.array(z.string()).describe("2 à 5 phrases très courtes, une idée par phrase"),
     example: z.string().optional().describe("Un exemple concret de la vie d'un logisticien"),
     tip: z.string().optional().describe("Un conseil pratique ou point de vigilance"),
-    illustration: z.number().int().optional().describe("Index (0 ou 1) de l'illustration à afficher après cette section"),
   })).describe("4 à 7 sections"),
-  illustrations: z.array(z.object({
-    prompt: z.string().describe("English prompt for a simple flat educational illustration of the key concept, no text"),
-    alt: z.string().describe("Description française de l'image"),
-    caption: z.string().describe("Légende française courte"),
-  })).describe("exactement 2 illustrations"),
   glossary: z.array(z.object({ term: z.string(), definition: z.string() })).describe("4 à 8 mots difficiles"),
   remember: z.array(z.string()).describe("3 à 5 points à retenir"),
   quiz: z.array(z.object({ question: z.string(), answer: z.string() })).describe("3 questions de révision"),
@@ -82,27 +76,7 @@ async function processModule(mod, seen) {
     output: Output.object({ schema }),
     prompt: `Module ${mod.code} : ${mod.title}\n\nCours original :\n${flatten(mod)}\n\nRéécris ce cours en version FALC.`,
   });
-  const illustrations = [];
-  for (let i = 0; i < output.illustrations.length; i++) {
-    const ill = output.illustrations[i];
-    const rel = `/falc/${mod.code}-${i + 1}.webp`;
-    try {
-      await makeImage(ill.prompt, path.join(IMG, `${mod.code}-${i + 1}.webp`));
-      illustrations.push({ src: rel, alt: ill.alt, caption: ill.caption });
-    } catch (e) {
-      try {
-        await makeImage(ill.prompt, path.join(IMG, `${mod.code}-${i + 1}.webp`));
-        illustrations.push({ src: rel, alt: ill.alt, caption: ill.caption });
-      } catch {
-        illustrations.push(null);
-      }
-    }
-  }
-  const sections = output.sections.map((s) => ({
-    ...s,
-    illustration: s.illustration != null && illustrations[s.illustration] ? s.illustration : undefined,
-  }));
-  fs.writeFileSync(outFile, JSON.stringify({ code: mod.code, ...output, sections, illustrations }, null, 1));
+  fs.writeFileSync(outFile, JSON.stringify({ code: mod.code, ...output, illustrations: [] }, null, 1));
   seen.set(hash, mod.code);
   return "ok";
 }
