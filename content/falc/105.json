@@ -1,0 +1,416 @@
+{
+ "code": "105",
+ "chapter": 5,
+ "title": "Les marchandises",
+ "goals": [
+  "Tu sais ce qu’est une marchandise.",
+  "Tu connais les 3 degrés de transformation.",
+  "Tu sais protéger les marchandises stockées."
+ ],
+ "words": 843,
+ "sections": [
+  {
+   "id": "introduction",
+   "title": "Introduction",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "reflect",
+     "label": "Réfléchis",
+     "text": "1. Quel produit de ton entreprise est facile à manipuler ? Pourquoi ?\n2. Quel produit est difficile à manipuler ? Pourquoi ?\n3. Compare avec ton voisin ou ta voisine."
+    }
+   ]
+  },
+  {
+   "id": "qu-est-ce-qu-une-marchandise",
+   "title": "Qu’est-ce qu’une marchandise ?",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une marchandise est un objet physique."
+    },
+    {
+     "t": "p",
+     "text": "On dit aussi : article, bien ou produit."
+    },
+    {
+     "t": "p",
+     "text": "Il y a une très grande variété de marchandises. C’est le plus grand défi de la logistique."
+    },
+    {
+     "t": "p",
+     "text": "Exemples : une mini-vis de 0,6 mm, un pneu de tracteur de 2,32 m, une bouteille de gaz."
+    }
+   ]
+  },
+  {
+   "id": "ce-qu-il-faut-regarder",
+   "title": "Ce qu’il faut regarder",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "la dimension et le volume",
+      "le poids par rapport à la taille (la densité)",
+      "l’état : gaz, liquide ou solide",
+      "si la marchandise se gâte (périssabilité)",
+      "si elle est fragile",
+      "si on peut l’empiler",
+      "sa valeur (risque de vol)"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Exemple : les pommes sont sensibles à la pression et à la température. Il faut les manipuler avec beaucoup de soin."
+    }
+   ]
+  },
+  {
+   "id": "le-degr-de-transformation",
+   "title": "Le degré de transformation",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une marchandise change à chaque étape de fabrication."
+    },
+    {
+     "t": "p",
+     "text": "On distingue 3 degrés."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Matière première : pas transformée. Primaire : elle vient de la nature (pétrole, bois, sable, minerai). Secondaire : elle vient du recyclage.",
+      "Produit semi-fini : assez transformé pour être réutilisé (acier, planches, farine, composants électroniques).",
+      "Produit fini : il ne faut plus rien lui faire. Il est prêt pour le client (pain, télévision, pizza surgelée)."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Le degré de transformation dépend du point de vue.",
+      "Une pomme pour faire du jus est une matière première. Une pomme mangée sur l’arbre est un produit fini."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "o-stocker-une-marchandise",
+   "title": "Où stocker une marchandise ?",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les propriétés de la marchandise comptent beaucoup."
+    },
+    {
+     "t": "p",
+     "text": "3 critères aident à choisir le lieu de stockage."
+    },
+    {
+     "t": "p",
+     "text": "Parfois, il faut penser à plusieurs critères en même temps. Un produit dangereux peut aussi se gâter."
+    }
+   ]
+  },
+  {
+   "id": "la-p-rissabilit",
+   "title": "La périssabilité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les produits stockés peuvent se détériorer."
+    },
+    {
+     "t": "p",
+     "text": "Les dégâts viennent souvent de la réception, du contrôle ou du transport. Rarement du stockage lui-même."
+    }
+   ]
+  },
+  {
+   "id": "les-d-g-ts-rapides",
+   "title": "Les dégâts rapides",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Chocs, chutes, pression : une machine sensible peut être détruite si on l’incline trop. Les fourches des chariots élévateurs font souvent des dégâts.",
+      "Chaleur : la glace fond. Les produits laitiers et la viande deviennent inutilisables s’ils sont trop chauds. Une chaîne du froid rompue : on refuse la marchandise.",
+      "Froid : certains fruits, légumes et fleurs gèlent. Ils deviennent inutilisables.",
+      "Humidité : la pluie et l’eau détruisent vite les marchandises. Il faut les protéger.",
+      "Électricité statique (ESD) : une petite décharge peut détruire des composants électroniques. On sort les pièces de leur emballage seulement si c’est nécessaire."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-d-g-ts-lents",
+   "title": "Les dégâts lents",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Trop de poids : les piles de sacs ou de cartons peuvent écraser le contenu. Les sacs peuvent éclater. On ne remplit pas complètement les caisses de fruits.",
+      "Température de stockage : chaque produit frais a sa température.",
+      "Humidité de l’air : trop d’humidité fait coller le sucre et ramollit le papier. Pas assez d’humidité ride les fruits et fissure le bois. Un sachet dessiccateur absorbe l’humidité.",
+      "Lumière : elle abîme les graisses, l’huile, le plastique et le caoutchouc. L’obscurité protège.",
+      "Vieillissement : un produit trop longtemps en stock perd de la valeur. Le vin et le whisky, eux, gagnent de la valeur en vieillissant.",
+      "Nuisibles : champignons et bactéries, insectes, souris et rats. Une bonne hygiène aide, mais ne suffit pas toujours.",
+      "Influence entre marchandises : les pommes font mûrir les autres fruits. Le pain non emballé prend les odeurs."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-bonnes-temp-ratures",
+   "title": "Les bonnes températures",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le froid ralentit les bactéries et les champignons."
+    },
+    {
+     "t": "p",
+     "text": "À moins 18 degrés, ils s’arrêtent. Ils ne sont pas morts : ils dorment."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Quand un produit surgelé a décongelé, on ne le recongèle jamais."
+    },
+    {
+     "t": "p",
+     "text": "Réfrigérer : entre 0 et 5 degrés. Congeler : moins 18 degrés."
+    }
+   ]
+  },
+  {
+   "id": "prot-ger-les-marchandises",
+   "title": "Protéger les marchandises",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Depuis toujours, les hommes veulent garder leur nourriture plus longtemps."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Séchage : on enlève l’eau (viande, poisson, fruits).",
+      "Salage : on frotte avec du sel (le salami).",
+      "Fumage : on expose à la fumée (jambon, saucisses).",
+      "Pasteurisation : on chauffe à environ 70 °C pour tuer la plupart des microbes (lait, jus).",
+      "Stérilisation : on chauffe jusqu’à 120 °C. Tous les microbes meurent, mais beaucoup de vitamines aussi.",
+      "Sous vide : on enlève l’air du sachet.",
+      "Atmosphère protectrice : on remplace l’air du sachet par un gaz qui ne réagit pas.",
+      "Atmosphère contrôlée (CA) : pour les fruits. On baisse l’oxygène pour ralentir la maturation.",
+      "ULO : comme la CA, avec presque pas d’oxygène."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-dangerosit",
+   "title": "La dangerosité",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le stockage dépend du danger."
+    },
+    {
+     "t": "p",
+     "text": "Les marchandises dangereuses ont des pictogrammes. Apprends à les reconnaître."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Pour les produits chimiques : lis les symboles à l’achat, suis la notice, porte des protections, ne remplis jamais un récipient alimentaire avec un produit dangereux."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "À l’achat : regarde les symboles. Ne prends pas plus que nécessaire. Cherche un produit moins dangereux.",
+      "À l’utilisation : suis les consignes. Porte lunettes et gants. Ne laisse rien sans surveillance.",
+      "Au stockage : loin des enfants. Dans un endroit sûr. Avec un plan en cas d’incendie ou de fuite."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-manutention",
+   "title": "La manutention",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il y a 3 sortes de marchandises."
+    },
+    {
+     "t": "p",
+     "text": "Les marchandises de valeur sont gardées dans des zones sécurisées."
+    },
+    {
+     "t": "p",
+     "text": "L’alcool, le tabac et certains médicaments sont aussi très protégés. On les vole facilement."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Une marchandise peut être matière première, semi-finie ou finie.",
+      "3 critères de stockage : périssabilité, dangerosité, manutention.",
+      "Chaleur, froid, humidité, lumière et chocs abîment les produits.",
+      "Les produits dangereux ont des pictogrammes."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Quels sont les 3 degrés de transformation ?",
+   "answer": "Matière première, produit semi-fini, produit fini."
+  },
+  {
+   "question": "À quelle température range-t-on les produits surgelés ?",
+   "answer": "À moins de −18 °C."
+  }
+ ],
+ "source": "Guide FALC Logistique Modules 101-110"
+}

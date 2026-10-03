@@ -1,0 +1,340 @@
+{
+ "code": "104",
+ "chapter": 4,
+ "title": "Le flux des marchandises",
+ "goals": [
+  "Tu sais ce qu’est un flux de marchandises.",
+  "Tu connais les étapes de la chaîne.",
+  "Tu connais les 3 fonctions TTS."
+ ],
+ "words": 370,
+ "sections": [
+  {
+   "id": "qu-est-ce-qu-un-flux-de-marchandises",
+   "title": "Qu’est-ce qu’un flux de marchandises ?",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le flux de marchandises est le chemin d’une marchandise."
+    },
+    {
+     "t": "p",
+     "text": "Ce chemin doit être clair, simple et net."
+    },
+    {
+     "t": "p",
+     "text": "Parfois, il faut l’aide d’un partenaire pour bien l’organiser."
+    },
+    {
+     "t": "note",
+     "kind": "reflect",
+     "label": "À toi",
+     "text": "Dessine le flux des marchandises de ton entreprise formatrice. Utilise une feuille ou OneNote."
+    }
+   ]
+  },
+  {
+   "id": "l-approvisionnement",
+   "title": "L’approvisionnement",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Acheter des biens est une tâche importante."
+    },
+    {
+     "t": "p",
+     "text": "Ce sont les acheteurs qui la font."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ils cherchent le meilleur rapport qualité-prix.",
+      "Ils négocient les conditions avec les fournisseurs.",
+      "Ils veillent à ce que l’entreprise ait toujours les bons biens."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Les fournisseurs sont parfois dans un autre fuseau horaire ou une autre langue."
+    }
+   ]
+  },
+  {
+   "id": "la-production",
+   "title": "La production",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les machines coûtent cher."
+    },
+    {
+     "t": "p",
+     "text": "Il faut donc les utiliser au maximum."
+    },
+    {
+     "t": "p",
+     "text": "Il faut les « nourrir » avec des matières premières. Il faut aussi évacuer les produits fabriqués."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Trop de produits : c’est la surproduction.",
+      "Trop peu de produits : ce n’est pas rentable."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-distribution",
+   "title": "La distribution",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La distribution amène les biens du producteur au consommateur final."
+    },
+    {
+     "t": "p",
+     "text": "La poste livre jusque chez le destinataire."
+    },
+    {
+     "t": "p",
+     "text": "Dans le commerce de détail, on livre les magasins. Le client vient chercher le produit."
+    }
+   ]
+  },
+  {
+   "id": "l-limination-des-d-chets",
+   "title": "L’élimination des déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "C’est le dernier maillon de la chaîne."
+    },
+    {
+     "t": "p",
+     "text": "On recycle ce qu’on peut."
+    },
+    {
+     "t": "p",
+     "text": "Ce qui ne peut pas être recyclé est souvent brûlé."
+    }
+   ]
+  },
+  {
+   "id": "les-fonctions-tts",
+   "title": "Les fonctions TTS",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "TTS veut dire Transport, Transbordement et Stockage."
+    },
+    {
+     "t": "p",
+     "text": "Ces 3 fonctions soutiennent les autres étapes."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Transport : par route, rail, eau ou air. On choisit selon le prix, la sécurité, la vitesse, l’efficacité et l’environnement.",
+      "Transbordement : on décharge, on stocke un moment, puis on charge à nouveau.",
+      "Stockage : une tâche centrale. Chaque entrepôt est différent. Il dépend des marchandises et de la durée."
+     ]
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Transbordement",
+       "definition": "Passer une marchandise d’un moyen de transport à un autre."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "deux-exemples-de-flux",
+   "title": "Deux exemples de flux",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le prestataire de services achète des biens et les revend. Il ne les change pas."
+    },
+    {
+     "t": "p",
+     "text": "Le producteur transforme le produit. Il a donc une étape de production en plus."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Chaque entreprise a son propre flux de marchandises. Les mots peuvent changer d’une entreprise à l’autre."
+    }
+   ]
+  },
+  {
+   "id": "petite-moyenne-ou-grande-logistique",
+   "title": "Petite, moyenne ou grande logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On trouve de la logistique partout. Même dans un ménage !"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Micro-logistique ou intralogistique : dans une seule entreprise, de l’entrée à la sortie des marchandises.",
+      "Méta-logistique : entre au moins deux entreprises.",
+      "Macro-logistique : entre pays et continents."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Le flux de marchandises est le chemin de la marchandise.",
+      "La chaîne : approvisionnement, production, distribution, élimination.",
+      "TTS = Transport, Transbordement, Stockage."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Que veut dire TTS ?",
+   "answer": "Transport, Transbordement, Stockage."
+  }
+ ],
+ "source": "Guide FALC Logistique Modules 101-110"
+}

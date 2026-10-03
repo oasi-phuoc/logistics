@@ -1,0 +1,559 @@
+{
+ "code": "106",
+ "chapter": 6,
+ "title": "L’élimination des déchets en Suisse",
+ "goals": [
+  "Tu sais ce qu’est un déchet.",
+  "Tu connais les 3 voies d’élimination.",
+  "Tu sais ce que veut dire recycler."
+ ],
+ "words": 974,
+ "sections": [
+  {
+   "id": "qu-est-ce-qu-un-d-chet",
+   "title": "Qu’est-ce qu’un déchet ?",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La loi dit : un déchet est une chose dont on se débarrasse, ou qu’il faut éliminer pour protéger tout le monde."
+    },
+    {
+     "t": "p",
+     "text": "Tôt ou tard, un objet ne sert plus. Il devient un déchet."
+    },
+    {
+     "t": "p",
+     "text": "La nature ne connaît pas les déchets. Dans la nature, tout revient à son état d’origine."
+    },
+    {
+     "t": "p",
+     "text": "Les déchets sont donc toujours produits par l’homme."
+    },
+    {
+     "t": "p",
+     "text": "Avant, on jetait ses déchets dans le jardin. Il y en avait peu. Ils venaient de la nature."
+    },
+    {
+     "t": "p",
+     "text": "Avec les villes et les usines, il y a eu beaucoup plus de déchets. Il a fallu des règles."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Quand on mélange plusieurs matériaux, c’est plus difficile de bien éliminer."
+    },
+    {
+     "t": "p",
+     "text": "Une définition simple : un déchet, c’est « une mauvaise matière, au mauvais moment, au mauvais endroit »."
+    }
+   ]
+  },
+  {
+   "id": "pourquoi-c-est-de-plus-en-plus-important",
+   "title": "Pourquoi c’est de plus en plus important",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Les gens pensent plus à l’écologie.",
+      "Les clients veulent des produits écologiques.",
+      "La protection de l’environnement aide à vendre.",
+      "Éliminer coûte de plus en plus cher.",
+      "Les lois sont plus strictes."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "La logistique des déchets s’occupe du flux des déchets dans l’entreprise et à l’extérieur."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Prestation centrale : stocker, transporter, recycler.",
+      "Prestation en plus : collecter, trier, conditionner.",
+      "Prestation d’information : traiter les commandes."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-chiffres-de-la-suisse",
+   "title": "Les chiffres de la Suisse",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "La Suisse produit 80 à 90 millions de tonnes de déchets par an.",
+      "La plus grande partie est de la terre et des gravats.",
+      "Chaque personne produit 716 kg de déchets urbains par an. C’est très élevé.",
+      "53 % des déchets urbains sont recyclés."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "1-la-mise-en-d-charge",
+   "title": "1. La mise en décharge",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On y met ce qu’on ne peut pas brûler ni recycler."
+    },
+    {
+     "t": "p",
+     "text": "Il y a 5 types de décharges. Elles vont de A à E."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Inerte",
+       "definition": "Qui ne réagit presque pas. Il ne libère presque pas de substances nocives."
+      },
+      {
+       "term": "Mâchefer",
+       "definition": "Ce qui reste après avoir brûlé des déchets."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "2-l-incin-ration",
+   "title": "2. L’incinération",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On brûle les déchets dans une usine : l’UIOM."
+    },
+    {
+     "t": "p",
+     "text": "UIOM veut dire : usine d’incinération des ordures ménagères."
+    },
+    {
+     "t": "p",
+     "text": "En Suisse, il y a 30 UIOM."
+    },
+    {
+     "t": "p",
+     "text": "Brûler les déchets sert à 3 choses :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Réduire le volume de 90 % et le poids de 75 %.",
+      "Réduire les polluants grâce à des filtres.",
+      "Produire de l’énergie et du chauffage."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Une UIOM transforme environ 25 % de l’énergie en électricité."
+    },
+    {
+     "t": "p",
+     "text": "Les autres 75 % servent de chaleur, par exemple pour le chauffage à distance."
+    },
+    {
+     "t": "p",
+     "text": "L’UIOM est aussi un point de collecte. Les particuliers peuvent y venir."
+    }
+   ]
+  },
+  {
+   "id": "3-le-recyclage",
+   "title": "3. Le recyclage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "C’est le but principal."
+    },
+    {
+     "t": "p",
+     "text": "Recycler, c’est collecter, trier, traiter et valoriser les matières."
+    },
+    {
+     "t": "p",
+     "text": "On redonne de la valeur à un déchet."
+    },
+    {
+     "t": "p",
+     "text": "Quand une matière vient de déchets, on parle de matière première secondaire."
+    },
+    {
+     "t": "p",
+     "text": "Le recyclage réduit les déchets. Il économise des matières premières, de l’énergie et du CO2."
+    },
+    {
+     "t": "p",
+     "text": "Mais il faut aussi que le recyclage soit rentable. Sinon, il ne dure pas."
+    }
+   ]
+  },
+  {
+   "id": "la-collecte",
+   "title": "La collecte",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Système de livraison : le client apporte lui-même ses déchets au point de collecte.",
+      "Système d’enlèvement : un camion vient chercher les déchets. C’est le ramassage des ordures."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Si le point de collecte est trop loin, les gens jettent n’importe où."
+    }
+   ]
+  },
+  {
+   "id": "qui-paie-le-recyclage",
+   "title": "Qui paie le recyclage ?",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Souvent, le client paie une petite taxe dans le prix du produit."
+    },
+    {
+     "t": "p",
+     "text": "Exemple : sur une pile, on paie environ 20 centimes."
+    },
+    {
+     "t": "p",
+     "text": "Cet argent va dans un fonds. Une organisation gère le fonds."
+    },
+    {
+     "t": "p",
+     "text": "Pour les piles, c’est l’organisation INOBAT."
+    },
+    {
+     "t": "p",
+     "text": "Tous les magasins doivent reprendre les piles de moins de 5 kg."
+    }
+   ]
+  },
+  {
+   "id": "quelques-organisations-de-recyclage",
+   "title": "Quelques organisations de recyclage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "table",
+     "headers": [
+      "Matière",
+      "Organisation"
+     ],
+     "rows": [
+      [
+       "Aluminium",
+       "IGORA"
+      ],
+      [
+       "Bouteilles PET",
+       "PET-Recycling Schweiz"
+      ],
+      [
+       "Piles",
+       "INOBAT"
+      ],
+      [
+       "Papier et carton",
+       "Recyclage Papier + Carton"
+      ],
+      [
+       "Fer blanc",
+       "FERRO Recycling"
+      ],
+      [
+       "Verre",
+       "Vetrorecycling"
+      ],
+      [
+       "Appareils électriques",
+       "SENS et Swico"
+      ],
+      [
+       "Lampes",
+       "SLRS"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "recycler-chaque-mati-re",
+   "title": "Recycler chaque matière",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Compost : les déchets végétaux se transforment en terre riche. Le tas chauffe à 50 à 70 degrés. Cela tue les graines de mauvaises herbes et les microbes.",
+      "Biogaz : des microbes transforment les déchets végétaux en gaz. On l’utilise pour faire de l’électricité et de la chaleur.",
+      "Papier : le papier ne se recycle pas à l’infini. Ses fibres deviennent de plus en plus courtes.",
+      "Fer blanc : c’est de l’acier avec une couche d’étain. Un aimant l’attire.",
+      "Aluminium : on peut le fondre sans perdre de qualité. Le recycler demande 20 fois moins d’énergie que d’en fabriquer du neuf.",
+      "Verre : on le trie par couleur : blanc, brun, vert. Il y a 22 000 conteneurs en Suisse. On le fond à 1600 degrés.",
+      "Plastique : peu recyclé. Il y a beaucoup de sortes différentes.",
+      "Bouteilles PET : 8 bouteilles sur 10 sont collectées.",
+      "Piles : 30 % finissent encore dans les ordures. C’est dommage.",
+      "Appareils électriques : ils contiennent du cuivre, du fer, de l’or et de l’argent. Il faut les rapporter."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l-objectif-2030-la-pyramide-des-d-chets",
+   "title": "L’objectif 2030 : la pyramide des déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Suisse veut que le cycle des matières soit le plus fermé possible."
+    },
+    {
+     "t": "p",
+     "text": "Le but pour 2030 : 75 % de matières premières secondaires et seulement 25 % de matières neuves."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Éviter est mieux que réduire.",
+      "Réduire est mieux que recycler.",
+      "Recycler est mieux que jeter."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-d-chets-dans-les-entreprises-de-logistique",
+   "title": "Les déchets dans les entreprises de logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les entreprises de logistique produisent presque tous les types de déchets."
+    },
+    {
+     "t": "p",
+     "text": "Le plus souvent, ce sont des emballages."
+    },
+    {
+     "t": "p",
+     "text": "On les passe souvent dans un compacteur ou un broyeur."
+    },
+    {
+     "t": "p",
+     "text": "Une check-list explique aux collaborateurs comment éliminer chaque déchet."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Check-list",
+       "definition": "Une liste de contrôle. Elle montre les étapes à suivre."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-d-chets-sauvages-littering",
+   "title": "Les déchets sauvages (littering)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le littering, c’est jeter ses petits déchets dans la rue ou dans la nature."
+    },
+    {
+     "t": "p",
+     "text": "Il y a des poubelles. Mais certaines personnes ne les utilisent pas."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Ce qu’on trouve le plus : emballages de boissons, emballages à emporter, journaux, mégots.",
+      "Pourquoi : on mange et on boit de plus en plus dehors. On ne se sent pas observé. Le groupe peut pousser à jeter.",
+      "Conséquences : la rue est sale, la nature est abîmée, les animaux sont en danger. Le nettoyage coûte environ 200 millions de francs par an."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "que-faire-contre-le-littering",
+   "title": "Que faire contre le littering ?",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Sensibiliser : affiches, annonces, événements.",
+      "Informer et éduquer : surtout les jeunes. Répéter, c’est efficace.",
+      "Punir : certaines villes donnent une amende."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le plus efficace : donner le bon exemple."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Un déchet est toujours produit par l’homme.",
+      "3 voies : décharge, incinération, recyclage.",
+      "Mieux vaut éviter les déchets que les recycler.",
+      "Le recyclage coûte de l’argent. Chacun y participe."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Quelles sont les 3 voies d’élimination des déchets en Suisse ?",
+   "answer": "La mise en décharge, l’incinération et le recyclage."
+  },
+  {
+   "question": "Quelle est la meilleure façon de traiter les déchets ?",
+   "answer": "Éviter d’en produire."
+  }
+ ],
+ "source": "Guide FALC Logistique Modules 101-110"
+}

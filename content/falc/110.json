@@ -1,0 +1,526 @@
+{
+ "code": "110",
+ "chapter": 10,
+ "title": "La gestion des marchandises",
+ "goals": [
+  "Tu sais ce que comprend la gestion des marchandises.",
+  "Tu sais calculer un besoin net.",
+  "Tu connais quelques chiffres importants (KPI)."
+ ],
+ "words": 722,
+ "sections": [
+  {
+   "id": "que-comprend-la-gestion-des-marchandises",
+   "title": "Que comprend la gestion des marchandises ?",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La gestion des marchandises regroupe tous les flux de marchandises et de données dans l’entreprise."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Approvisionnement et stockage : acheter et ranger les matières, les fournitures et les produits.",
+      "Logistique interne : préparer les commandes et déplacer les marchandises dans l’entreprise.",
+      "Production et élimination : les flux dans la production et l’élimination des déchets.",
+      "Distribution : livrer les produits prêts à être vendus."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On distingue 3 types :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Gestion intégrée des matières : tout ce que la production demande est géré au centre.",
+      "Gestion intégrée avancée : on gère aussi l’approvisionnement de toute l’entreprise et la planification de la production.",
+      "Gestion totalement intégrée : on ajoute la livraison au marché."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "La difficulté : faire coïncider les buts de tous les services. Couvrir les besoins, assurer les livraisons, éviter les manques et réduire les coûts de stockage."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Le bon article, au bon moment, au bon endroit, dans la bonne quantité, avec la bonne qualité et au bon prix. C’est la règle des 6 B."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-buts-de-la-gestion-des-mati-res",
+   "title": "Les buts de la gestion des matières",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On optimise le flux de marchandises. Les coûts doivent être bas. Les marchandises doivent être vite disponibles."
+    },
+    {
+     "t": "p",
+     "text": "Ces buts sont souvent en conflit."
+    },
+    {
+     "t": "p",
+     "text": "Exemple : un emballage très écologique coûte souvent plus cher."
+    }
+   ]
+  },
+  {
+   "id": "les-donn-es-statiques-et-dynamiques",
+   "title": "Les données statiques et dynamiques",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Quand on crée un nouvel article dans le système (l’ERP), il y a 2 sortes de données."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Les données de mouvement se basent sur les données de base. Les deux doivent être justes."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "ERP",
+       "definition": "Le logiciel de gestion de l’entreprise."
+      },
+      {
+       "term": "Statique",
+       "definition": "Qui ne change presque pas."
+      },
+      {
+       "term": "Dynamique",
+       "definition": "Qui change tout le temps."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l-approvisionnement-et-le-stockage",
+   "title": "L’approvisionnement et le stockage",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "L’approvisionnement apporte à l’entreprise ce dont elle a besoin."
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Sorte",
+      "Exemples"
+     ],
+     "rows": [
+      [
+       "Matières premières",
+       "bois, acier, granulés"
+      ],
+      [
+       "Matériaux auxiliaires",
+       "clous, vis, emballages"
+      ],
+      [
+       "Consommables",
+       "lubrifiants, produits de nettoyage"
+      ],
+      [
+       "Marchandises commerciales",
+       "ordinateurs, pain, briquets"
+      ],
+      [
+       "Services",
+       "conseil, service après-vente"
+      ],
+      [
+       "Informations",
+       "dessins, instructions"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "comment-conna-tre-ses-besoins",
+   "title": "Comment connaître ses besoins ?",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Il y a 3 méthodes."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Déterministe : on part des commandes et des plans de fabrication. Pour les articles chers et les machines.",
+      "Stochastique : on part de la consommation des années passées. Pour les articles courants, comme les chaussures de sport.",
+      "Heuristique : on estime. Pour les nouveaux articles. On n’a ni commandes, ni chiffres du passé."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "calculer-le-besoin-net",
+   "title": "Calculer le besoin net",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Besoin net = besoins totaux − stock − commandes en cours."
+    },
+    {
+     "t": "p",
+     "text": "D’autres questions à se poser :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Make or buy : on fabrique soi-même ou on achète ?",
+      "Choisir un fournisseur : date de livraison, prix, qualité.",
+      "Analyse ABC : on contrôle la rotation des stocks."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le stockage évite les temps d’attente. Il assure la production en matières et la distribution en produits."
+    },
+    {
+     "t": "p",
+     "text": "Il faut éviter les stocks intermédiaires et les longs trajets internes."
+    }
+   ]
+  },
+  {
+   "id": "les-fonctions-du-stockage",
+   "title": "Les fonctions du stockage",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Réception : on contrôle l’identité, la quantité et la qualité.",
+      "Entreposage : on attribue une place. Place fixe ou place libre (chaotique). On range aussi par zones."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-pr-paration-des-commandes",
+   "title": "La préparation des commandes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "En une étape : on prépare une commande à la fois.",
+      "En deux étapes : on regroupe plusieurs commandes, puis on les sépare.",
+      "En série : une commande passe par toutes les zones.",
+      "En parallèle : plusieurs personnes préparent chacune une partie.",
+      "Dynamique : la marchandise vient à l’homme.",
+      "Statique : l’homme va à la marchandise."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le plus souvent, on mélange ces façons de faire."
+    }
+   ]
+  },
+  {
+   "id": "les-transports-internes",
+   "title": "Les transports internes",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tous les mouvements de marchandises dans l’entreprise."
+    },
+    {
+     "t": "p",
+     "text": "Pour choisir l’engin, on regarde :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "la distance",
+      "l’importance de la tâche",
+      "les délais",
+      "le volume et le poids",
+      "la capacité de charge",
+      "la sécurité au travail"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-production-et-les-d-chets",
+   "title": "La production et les déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La gestion des marchandises organise aussi les flux dans la production."
+    },
+    {
+     "t": "p",
+     "text": "Pour les déchets, il faut :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "éliminer à faible coût",
+      "respecter les normes de recyclage",
+      "protéger l’environnement en permanence"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-distribution",
+   "title": "La distribution",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "C’est le dernier domaine : livrer les produits demandés par le marché."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Comment emballer ?",
+      "Le transport est-il sûr ?",
+      "On livre nous-mêmes ou on confie à un partenaire ?",
+      "Vente directe ou par un intermédiaire ?"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-indicateurs-kpi",
+   "title": "Les indicateurs (KPI)",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un indicateur est un chiffre. Il permet de mesurer et de comparer."
+    },
+    {
+     "t": "p",
+     "text": "On dit aussi KPI. En anglais : Key Performance Indicator."
+    },
+    {
+     "t": "p",
+     "text": "Durée de stockage = 360 jours ÷ rotation des stocks. Avec une rotation de 1,5, la marchandise reste 240 jours en stock."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Année bancaire",
+       "definition": "12 mois de 30 jours. Cela fait 360 jours par an."
+      },
+      {
+       "term": "ROI",
+       "definition": "Retour sur investissement. Il montre à quel point l’argent investi rapporte."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le système Du Pont date de 1919. Il combine plusieurs indicateurs. Il est encore important aujourd’hui."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "La gestion des marchandises organise tous les flux dans l’entreprise.",
+      "Besoin net = besoins totaux − stock − commandes en cours.",
+      "Les KPI mesurent la performance."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Depuis quand la logistique existe-t-elle ?",
+   "answer": "Depuis la préhistoire."
+  },
+  {
+   "question": "Que veut dire « mondialisation » ?",
+   "answer": "Le monde entier est relié."
+  },
+  {
+   "question": "Cite les 6 « B » de la logistique.",
+   "answer": "Bonne marchandise, bonne quantité, bonne qualité, bon moment, bon endroit, bon prix."
+  },
+  {
+   "question": "Que veut dire TTS ?",
+   "answer": "Transport, Transbordement, Stockage."
+  },
+  {
+   "question": "Quels sont les 3 degrés de transformation ?",
+   "answer": "Matière première, produit semi-fini, produit fini."
+  },
+  {
+   "question": "À quelle température range-t-on les produits surgelés ?",
+   "answer": "À moins de −18 °C."
+  },
+  {
+   "question": "Quelles sont les 3 voies d’élimination des déchets en Suisse ?",
+   "answer": "La mise en décharge, l’incinération et le recyclage."
+  },
+  {
+   "question": "Quelle est la meilleure façon de traiter les déchets ?",
+   "answer": "Éviter d’en produire."
+  },
+  {
+   "question": "Peux-tu ouvrir un courrier « personnel / confidentiel » ?",
+   "answer": "Non, jamais."
+  },
+  {
+   "question": "Combien de caractères au minimum pour un bon mot de passe ?",
+   "answer": "Au moins 8."
+  },
+  {
+   "question": "Comment calcule-t-on le besoin net ?",
+   "answer": "Besoins totaux − stock − commandes en cours."
+  }
+ ],
+ "source": "Guide FALC Logistique Modules 101-110"
+}

@@ -1,0 +1,302 @@
+{
+ "code": "108",
+ "chapter": 8,
+ "title": "L’élimination des déchets dans le monde",
+ "goals": [
+  "Tu sais ce qu’est un système de management environnemental.",
+  "Tu connais 8 problèmes de l’environnement.",
+  "Tu connais l’Agenda 2030."
+ ],
+ "words": 458,
+ "sections": [
+  {
+   "id": "les-syst-mes-de-management-environnemental",
+   "title": "Les systèmes de management environnemental",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "On écrit SME."
+    },
+    {
+     "t": "p",
+     "text": "Un SME aide une entreprise à protéger l’environnement."
+    },
+    {
+     "t": "p",
+     "text": "L’entreprise s’engage à faire mieux, tout le temps."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Elle regarde quels dégâts elle cause.",
+      "Elle respecte les règles de l’environnement.",
+      "Elle se donne ses propres buts.",
+      "Elle fait des contrôles réguliers (des audits).",
+      "Elle publie un rapport."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-avantages",
+   "title": "Les avantages",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "table",
+     "headers": [
+      "Dans l’entreprise",
+      "À l’extérieur"
+     ],
+     "rows": [
+      [
+       "Moins de coûts",
+       "Meilleure image"
+      ],
+      [
+       "On respecte les lois",
+       "Meilleures relations avec les autorités"
+      ],
+      [
+       "Moins de dégâts",
+       "Plus de transparence"
+      ],
+      [
+       "Collaborateurs motivés",
+       "Plus de clients"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-norme-iso-14001",
+   "title": "La norme ISO 14001",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Depuis 1996, la norme ISO 14001 certifie les SME."
+    },
+    {
+     "t": "p",
+     "text": "Elle est valable dans le monde entier."
+    },
+    {
+     "t": "p",
+     "text": "Une entreprise certifiée gagne la confiance de ses clients et de la société."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Certifier",
+       "definition": "Une organisation indépendante vérifie et confirme que les règles sont respectées."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-norme-iso-20121-les-grands-v-nements",
+   "title": "La norme ISO 20121 : les grands événements",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Cette norme est pour les grands événements. Elle a été utilisée aux Jeux olympiques de Londres en 2012."
+    },
+    {
+     "t": "p",
+     "text": "Exemple : les 70 000 bénévoles portaient des vêtements fabriqués avec des bouteilles en PET recyclées."
+    }
+   ]
+  },
+  {
+   "id": "les-8-probl-mes-de-l-environnement",
+   "title": "Les 8 problèmes de l’environnement",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Suisse fait beaucoup. Mais le monde a des problèmes. Il faut travailler ensemble."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Changement climatique : la température moyenne est passée de 0,2 à presque 1 degré depuis les années 1980. Causes : la déforestation, les énergies fossiles (charbon, pétrole), les vaches qui produisent du méthane, les voitures, les bateaux et les avions.",
+      "Pénurie d’eau : en Suisse, on utilise environ 120 litres d’eau par jour. 97 % de l’eau de la Terre est salée. 2 % est gelée. Il reste 1 % pour les besoins humains.",
+      "Pollution de l’air : les gaz de l’industrie, des voitures et des avions. C’est pire dans les grandes villes. En 2012, environ 8 millions de personnes sont mortes à cause de la pollution de l’air.",
+      "Érosion des sols : 1 % des sols est perdu chaque année. Ils sont construits, pollués ou transformés.",
+      "Surpopulation : de plus en plus de personnes consomment de l’énergie, de l’eau et de la nourriture. En 1955, il y avait 2,8 milliards de personnes. En 2020, presque 7,8 milliards.",
+      "Déforestation : on détruit environ 30 millions d’hectares de forêt par an. Cela cause le changement climatique, la disparition d’espèces et l’érosion des sols.",
+      "Extinction des espèces : sur 90 000 espèces, environ 25 800 sont menacées. Exemples : gorilles, tigres, pandas, orangs-outans.",
+      "Déchets plastiques : environ 8 millions de tonnes finissent dans la mer chaque année. Une bouteille met environ 500 ans à se décomposer en microplastiques."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "l-agenda-2030",
+   "title": "L’Agenda 2030",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En 2015, les Nations unies ont adopté l’Agenda 2030."
+    },
+    {
+     "t": "p",
+     "text": "Il a 17 objectifs de développement durable."
+    },
+    {
+     "t": "p",
+     "text": "Ces objectifs veulent un monde plus juste et mieux protégé."
+    },
+    {
+     "t": "p",
+     "text": "Personne ne sait encore si ces buts seront atteints."
+    },
+    {
+     "t": "p",
+     "text": "Une chose est sûre : les pays doivent travailler ensemble."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Un SME aide les entreprises à protéger l’environnement.",
+      "Il y a 8 grands problèmes de l’environnement.",
+      "L’Agenda 2030 a 17 objectifs."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [],
+ "source": "Guide FALC Logistique Modules 101-110"
+}

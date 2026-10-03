@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { DOMAINS, getAllModules, getModulesByDomain, readingMinutes } from "@/lib/content";
+import { DOMAINS, getAllModules, getModulesByDomain, hasFalcGuide, readingMinutes } from "@/lib/content";
 import { SiteHeader } from "@/components/site-header";
 
 export default function Home() {
@@ -42,8 +42,13 @@ export default function Home() {
                       >
                         <span className="text-xs font-bold uppercase tracking-wider text-teal-700">Module {m.code}</span>
                         <span className="mt-1 font-semibold leading-snug">{m.title}</span>
-                        <span className="mt-auto pt-4 text-xs text-slate-500">
-                          {m.sections.length} sections · {readingMinutes(m.words)} min de lecture
+                        <span className="mt-auto flex flex-wrap items-center gap-2 pt-4 text-xs text-slate-500">
+                          <span>
+                            {m.sections.length} sections · {readingMinutes(m.words)} min de lecture
+                          </span>
+                          {hasFalcGuide(m.code) && (
+                            <span className="rounded-full bg-teal-50 px-2 py-0.5 font-semibold text-teal-800">FALC</span>
+                          )}
                         </span>
                       </Link>
                     </li>

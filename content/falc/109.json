@@ -1,0 +1,416 @@
+{
+ "code": "109",
+ "chapter": 9,
+ "title": "L’accès et la protection des données",
+ "goals": [
+  "Tu sais bien utiliser une clé ou un badge.",
+  "Tu sais quel courrier tu peux ouvrir.",
+  "Tu sais choisir un bon mot de passe."
+ ],
+ "words": 581,
+ "sections": [
+  {
+   "id": "pourquoi-garder-des-choses-secr-tes",
+   "title": "Pourquoi garder des choses secrètes ?",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Chaque entreprise a des informations importantes."
+    },
+    {
+     "t": "p",
+     "text": "Elle veut les garder secrètes. Même si les biens ne coûtent que 10 francs."
+    },
+    {
+     "t": "p",
+     "text": "L’entreprise dit ce qu’il faut faire. Les employés suivent les instructions."
+    }
+   ]
+  },
+  {
+   "id": "un-cas-r-el",
+   "title": "Un cas réel",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un ancien employé d’un centre de tri de la Poste a volé plus de 4000 lettres."
+    },
+    {
+     "t": "p",
+     "text": "Il prenait l’argent qui était dedans. Il a pris environ 122 500 francs."
+    },
+    {
+     "t": "p",
+     "text": "Les caméras de surveillance l’ont filmé. Il est passé devant le tribunal."
+    }
+   ]
+  },
+  {
+   "id": "les-cl-s-et-les-badges",
+   "title": "Les clés et les badges",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Tu fermes la porte de ton appartement. Tu ne laisses pas entrer n’importe qui."
+    },
+    {
+     "t": "p",
+     "text": "C’est pareil dans une entreprise."
+    },
+    {
+     "t": "p",
+     "text": "Le patron donne une clé ou un badge selon ton travail."
+    },
+    {
+     "t": "p",
+     "text": "Tu as une responsabilité : tu dois bien la garder."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Si tu perds une clé ou un badge, dis-le tout de suite à ton employeur."
+    },
+    {
+     "t": "p",
+     "text": "Perdre une clé peut coûter cher."
+    },
+    {
+     "t": "p",
+     "text": "L’entreprise peut devoir changer toutes les serrures."
+    },
+    {
+     "t": "p",
+     "text": "Avec une puce électronique, on peut seulement désactiver la clé perdue. Cela coûte moins, mais cela coûte quand même."
+    }
+   ]
+  },
+  {
+   "id": "le-secret-pistolaire",
+   "title": "Le secret épistolaire",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le Code pénal suisse protège la vie privée."
+    },
+    {
+     "t": "p",
+     "text": "L’article 179 interdit d’ouvrir un courrier ou un colis qui n’est pas pour toi."
+    },
+    {
+     "t": "p",
+     "text": "Il interdit aussi de répéter ou d’utiliser ce que tu as appris."
+    },
+    {
+     "t": "p",
+     "text": "La punition est une amende."
+    },
+    {
+     "t": "p",
+     "text": "La personne touchée doit porter plainte pour que les autorités agissent."
+    },
+    {
+     "t": "p",
+     "text": "Cette règle vaut aussi dans le courrier interne de l’entreprise."
+    }
+   ]
+  },
+  {
+   "id": "quel-courrier-peux-tu-ouvrir",
+   "title": "Quel courrier peux-tu ouvrir ?",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Seules les personnes chargées d’ouvrir le courrier peuvent le faire.",
+      "Un nom de personne sur l’adresse : fais très attention.",
+      "« Personnel » ou « confidentiel » : jamais ouvrir."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "le-secret-postal",
+   "title": "Le secret postal",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le secret postal va plus loin."
+    },
+    {
+     "t": "p",
+     "text": "Il protège le contenu, mais aussi qui écrit à qui et combien de fois."
+    },
+    {
+     "t": "p",
+     "text": "Un facteur ne dit pas à un tiers qui reçoit du courrier."
+    },
+    {
+     "t": "p",
+     "text": "Il ne dit pas non plus qui reçoit un document de justice ou une facture de rappel."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Ne raconte pas à tes collègues que l’AVS arrive demain. Cela met en danger les livreurs et les personnes qui reçoivent l’argent."
+    },
+    {
+     "t": "p",
+     "text": "L’article 321ter du Code pénal : la peine peut aller jusqu’à 3 ans de prison ou une amende."
+    },
+    {
+     "t": "p",
+     "text": "Cette règle vaut même après la fin de ton travail."
+    }
+   ]
+  },
+  {
+   "id": "le-secret-des-affaires",
+   "title": "Le secret des affaires",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le Code des obligations dit : un employé doit garder les secrets de son employeur."
+    },
+    {
+     "t": "p",
+     "text": "Il doit le faire pendant son contrat. Et aussi après, tant que c’est nécessaire."
+    },
+    {
+     "t": "p",
+     "text": "Cela vaut pour les secrets de fabrication et d’affaires."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Fais attention quand tu parles de ton entreprise. Les critiques à voix haute font mauvaise impression."
+    }
+   ]
+  },
+  {
+   "id": "la-s-curit-des-donn-es",
+   "title": "La sécurité des données",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Pour entrer dans le système informatique, il faut un nom d’utilisateur et un mot de passe."
+    },
+    {
+     "t": "p",
+     "text": "Le système note chaque connexion, avec la date et l’heure."
+    },
+    {
+     "t": "p",
+     "text": "Chaque collaborateur a accès aux données dont il a besoin. Même les apprentis."
+    }
+   ]
+  },
+  {
+   "id": "le-mot-de-passe",
+   "title": "Le mot de passe",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un mot de passe protège l’entreprise et toi."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Personne d’autre ne doit le connaître.",
+      "Tu ne l’écris nulle part.",
+      "Il doit être difficile à deviner.",
+      "Ne prends pas ta date de naissance, ton lieu, un surnom ou un prénom.",
+      "Utilise un mot de passe différent pour chaque usage.",
+      "Change-le de temps en temps."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Un bon mot de passe a au moins 8 caractères, des majuscules, des minuscules, des chiffres et des signes spéciaux."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-virus",
+   "title": "Les virus",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les virus informatiques sont des programmes dangereux."
+    },
+    {
+     "t": "p",
+     "text": "Certains effacent toutes les données. D’autres espionnent les mots de passe de banque."
+    },
+    {
+     "t": "p",
+     "text": "Ils se propagent à cause de l’imprudence des utilisateurs."
+    },
+    {
+     "t": "p",
+     "text": "Pour en savoir plus, lis le module 805."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Garde ta clé ou ton badge en sécurité.",
+      "Ne lis pas et n’ouvre pas le courrier des autres.",
+      "Ne parle pas des secrets de l’entreprise.",
+      "Protège ton mot de passe."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Peux-tu ouvrir un courrier « personnel / confidentiel » ?",
+   "answer": "Non, jamais."
+  },
+  {
+   "question": "Combien de caractères au minimum pour un bon mot de passe ?",
+   "answer": "Au moins 8."
+  }
+ ],
+ "source": "Guide FALC Logistique Modules 101-110"
+}

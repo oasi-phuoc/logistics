@@ -1,0 +1,369 @@
+{
+ "code": "102",
+ "chapter": 2,
+ "title": "La structure de la logistique",
+ "goals": [
+  "Tu sais ce que veut dire « mondialisation ».",
+  "Tu connais les différents types de logistique.",
+  "Tu comprends la chaîne de processus."
+ ],
+ "words": 523,
+ "sections": [
+  {
+   "id": "la-mondialisation",
+   "title": "La mondialisation",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Aujourd’hui, le monde est relié."
+    },
+    {
+     "t": "p",
+     "text": "Les informations arrivent tout de suite et partout."
+    },
+    {
+     "t": "p",
+     "text": "Les produits voyagent dans le monde entier."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Mondialisation",
+       "definition": "Le monde entier est relié, comme un seul grand réseau."
+      }
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Exemple 1 : les fraises. On en trouve toute l’année. Elles viennent d’autres pays."
+    },
+    {
+     "t": "p",
+     "text": "Exemple 2 : un McDonald’s. On le trouve presque partout dans le monde."
+    },
+    {
+     "t": "p",
+     "text": "Exemple 3 : le Corona en 2020. Des informations venaient de tous les continents."
+    }
+   ]
+  },
+  {
+   "id": "les-effets-de-la-mondialisation",
+   "title": "Les effets de la mondialisation",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Pour les entreprises : les marchandises voyagent plus loin. Beaucoup de produits viennent d’Asie. Des entreprises entières sont achetées et vendues dans le monde.",
+      "Pour les emplois : des emplois peuvent disparaître chez nous. Les entreprises ouvrent des usines dans des pays où les salaires sont bas. Mais de nouveaux emplois peuvent aussi apparaître.",
+      "Pour la logistique : on achète, on fabrique et on vend dans le monde entier. Les conteneurs ISO sont le symbole de cette logistique.",
+      "Pour la politique : beaucoup de pays ont les mêmes buts. Ils font plus de commerce. Mais ils dépendent les uns des autres. La criminalité mondiale augmente aussi.",
+      "Pour l’environnement : on extrait plus de ressources. On transporte plus de marchandises. Les ressources naturelles sont limitées.",
+      "Pour la communication : on parle de plus en plus l’anglais. On peut parler avec le monde entier. Mais certaines langues sont oubliées."
+     ]
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Avantages",
+      "Inconvénients"
+     ],
+     "rows": [
+      [
+       "Plus de commerce et d’aide entre les pays",
+       "Pression sur l’environnement"
+      ],
+      [
+       "Création d’emplois",
+       "Travailleurs mal payés dans certains pays"
+      ],
+      [
+       "Plus de choix de produits et des prix plus bas",
+       "Les riches deviennent plus riches"
+      ],
+      [
+       "On peut parler avec le monde entier",
+       "Dépendance entre les pays"
+      ],
+      [
+       "Les cultures se rapprochent",
+       "Plus de criminalité mondiale"
+      ],
+      [
+       "",
+       "Des cultures disparaissent"
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "qu-est-ce-que-la-logistique",
+   "title": "Qu’est-ce que la logistique ?",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Avant, la logistique voulait dire : distribuer des marchandises."
+    },
+    {
+     "t": "p",
+     "text": "Aujourd’hui, c’est beaucoup plus large."
+    },
+    {
+     "t": "p",
+     "text": "La logistique, c’est planifier, faire et contrôler les flux de :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "marchandises",
+      "informations",
+      "valeurs (l’argent)",
+      "personnes",
+      "énergie"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Le but : amener la bonne quantité au bon endroit, au bon moment."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Flux",
+       "definition": "Un mouvement continu. Par exemple : des marchandises qui avancent."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-types-de-logistique",
+   "title": "Les types de logistique",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Stockage : choisir l’entrepôt et bien l’organiser.",
+      "Transport : déplacer les marchandises par route, air ou eau.",
+      "Intralogistique : tous les mouvements dans un même site.",
+      "Emballage : choisir les emballages et les jeter correctement.",
+      "Information : savoir à tout moment où est la marchandise.",
+      "Succursales : remplir les magasins d’une chaîne.",
+      "Dernier kilomètre : la livraison jusque chez le client."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-cha-ne-de-processus",
+   "title": "La chaîne de processus",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une marchandise passe par plusieurs étapes."
+    },
+    {
+     "t": "p",
+     "text": "On appelle cela la chaîne de processus."
+    },
+    {
+     "t": "p",
+     "text": "Entre chaque étape, les informations circulent."
+    },
+    {
+     "t": "p",
+     "text": "Souvent, plusieurs entreprises travaillent ensemble."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Chaque interface entre deux entreprises peut causer une erreur. Il faut bien se comprendre."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Interface",
+       "definition": "L’endroit où deux entreprises ou deux services se rencontrent."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-gestion-de-la-cha-ne-d-approvisionnement",
+   "title": "La gestion de la chaîne d’approvisionnement",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "En anglais, on dit Supply Chain Management. On écrit SCM."
+    },
+    {
+     "t": "p",
+     "text": "Le SCM est plus large que la logistique."
+    },
+    {
+     "t": "p",
+     "text": "Il commence tôt : on négocie le prix avec le fournisseur."
+    },
+    {
+     "t": "p",
+     "text": "Ensuite, les logisticiens emballent, transportent, stockent et distribuent."
+    },
+    {
+     "t": "p",
+     "text": "À la fin, on s’occupe aussi de l’argent et du contact avec le client."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "La mondialisation relie le monde entier.",
+      "La logistique gère les flux de marchandises, d’informations, d’argent, de personnes et d’énergie.",
+      "La chaîne de processus a 4 étapes : approvisionnement, production, distribution, élimination."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Que veut dire « mondialisation » ?",
+   "answer": "Le monde entier est relié."
+  }
+ ],
+ "source": "Guide FALC Logistique Modules 101-110"
+}

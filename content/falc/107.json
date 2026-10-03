@@ -1,0 +1,389 @@
+{
+ "code": "107",
+ "chapter": 7,
+ "title": "Les catégories de déchets en Suisse",
+ "goals": [
+  "Tu connais les 4 catégories de déchets.",
+  "Tu sais comment éliminer les déchets courants.",
+  "Tu sais que les déchets spéciaux sont dangereux."
+ ],
+ "words": 593,
+ "sections": [
+  {
+   "id": "les-4-cat-gories",
+   "title": "Les 4 catégories",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La Suisse produit environ 24 millions de tonnes de déchets par an."
+    },
+    {
+     "t": "p",
+     "text": "On ne compte pas la terre et les gravats propres."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Déchets de chantier : 65 %. Gravats, déchets de construction et déchets des usines.",
+      "Déchets urbains : 24 %. Ordures des ménages, verre, métaux, plastique, compost. Les communes les ramassent.",
+      "Déchets spéciaux : 10 %. Les déchets qu’on ne peut pas recycler de façon écologique normale. Ils sont dangereux.",
+      "Boues d’épuration : 1 %. Elles viennent de l’épuration des eaux usées. Elles contiennent 90 à 99 % d’eau."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "que-faire-de-chaque-d-chet",
+   "title": "Que faire de chaque déchet ?",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "table",
+     "headers": [
+      "Déchet",
+      "Que faire ?"
+     ],
+     "rows": [
+      [
+       "Bois",
+       "Seul le bois naturel peut brûler à l’air libre. Le bois traité va à l’usine d’incinération."
+      ],
+      [
+       "Pneus",
+       "Les garagistes les donnent à des négociants. Interdit en décharge depuis 2000."
+      ],
+      [
+       "Aluminium et canettes",
+       "Presses et points de collecte. On les refond sans perdre de qualité."
+      ],
+      [
+       "Terre et pierres",
+       "La terre propre va en décharge. Celle qui est polluée est traitée."
+      ],
+      [
+       "Piles",
+       "On les rapporte au magasin ou au point de collecte. C’est gratuit."
+      ],
+      [
+       "Déchets verts",
+       "Compost ou biogaz."
+      ],
+      [
+       "Appareils électriques",
+       "On les rapporte gratuitement dans un magasin."
+      ],
+      [
+       "Verre",
+       "Conteneurs à verre. On trie par couleur."
+      ],
+      [
+       "Frigos",
+       "On les rapporte. Les vieux frigos contiennent du fréon. Il nuit à la couche d’ozone."
+      ],
+      [
+       "Plastiques",
+       "Surtout les bouteilles PET. Le reste est souvent brûlé."
+      ],
+      [
+       "Lampes fluorescentes",
+       "Elles contiennent du mercure. Jamais dans les ordures. On les rapporte."
+      ],
+      [
+       "Déchets médicaux",
+       "Ils vont dans des conteneurs spéciaux. Ils peuvent être infectieux."
+      ],
+      [
+       "Métaux",
+       "Points de collecte. L’industrie livre aux récupérateurs."
+      ],
+      [
+       "Meubles",
+       "Objets encombrants. Ou magasins d’occasion."
+      ],
+      [
+       "Papier et carton",
+       "Collecte au bord de la route."
+      ],
+      [
+       "Bouteilles PET",
+       "Points de collecte. Pas les bouteilles de lait ni d’huile."
+      ],
+      [
+       "Textiles et chaussures",
+       "Collecte. Souvent des organismes de bienfaisance."
+      ],
+      [
+       "Emballages",
+       "Ils doivent avoir le moins d’impact possible sur l’environnement."
+      ]
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "Les ampoules normales et les halogènes ne contiennent pas de substance nocive. Elles vont avec les déchets urbains."
+    }
+   ]
+  },
+  {
+   "id": "les-lois-sur-les-d-chets",
+   "title": "Les lois sur les déchets",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Sans règles, tout le monde jetterait ses déchets n’importe où."
+    },
+    {
+     "t": "p",
+     "text": "C’est pourquoi la gestion des déchets est dans la loi."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "La Constitution fédérale : c’est la loi la plus importante de la Suisse. L’article 74 dit que la Confédération protège l’être humain et l’environnement.",
+      "La loi sur la protection de l’environnement (LPE) : acceptée en 1983. Elle règle la limitation, l’élimination et le financement des déchets."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Trois ordonnances règlent les détails :"
+    },
+    {
+     "t": "table",
+     "headers": [
+      "Ordonnance",
+      "Ce qu’elle règle"
+     ],
+     "rows": [
+      [
+       "OTD",
+       "Le traitement des déchets : décharges, usines d’incinération, compostage."
+      ],
+      [
+       "OMoD",
+       "Les mouvements de déchets, surtout les déchets spéciaux."
+      ],
+      [
+       "OREA",
+       "Le retour et l’élimination des appareils électriques et électroniques."
+      ]
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-d-chets-sp-ciaux",
+   "title": "Les déchets spéciaux",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Un déchet spécial est nocif pour l’environnement ou pour l’homme."
+    },
+    {
+     "t": "p",
+     "text": "Il faut un traitement particulier."
+    },
+    {
+     "t": "p",
+     "text": "On ne peut pas les collecter avec les déchets urbains."
+    },
+    {
+     "t": "p",
+     "text": "Exemples :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "peintures, colles, solvants",
+      "acides, produits chimiques, détergents",
+      "piles et batteries de voiture",
+      "huiles et graisses usagées",
+      "sols pollués, boues avec métaux"
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Ils sont surtout produits par l’industrie. Ils représentent 10 % de tous les déchets."
+    },
+    {
+     "t": "note",
+     "kind": "warn",
+     "label": "Attention",
+     "text": "En cas de doute, une substance est dangereuse. Même sans étiquette de danger."
+    },
+    {
+     "t": "p",
+     "text": "Selon Paracelse : « la dose seule fait que quelque chose n’est pas un poison »."
+    }
+   ]
+  },
+  {
+   "id": "qui-peut-liminer-des-d-chets-sp-ciaux",
+   "title": "Qui peut éliminer des déchets spéciaux ?",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Un particulier retourne le produit au magasin.",
+      "Une entreprise le rend à son fournisseur.",
+      "Seules les personnes avec une autorisation peuvent les recevoir. Le canton la donne.",
+      "Celui qui remet les déchets doit vérifier cette autorisation.",
+      "Les grandes entreprises sont inscrites dans la base de données de l’OFEV."
+     ]
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "OFEV",
+       "definition": "Office fédéral de l’environnement."
+      },
+      {
+       "term": "Autorisation",
+       "definition": "La permission officielle de faire quelque chose."
+      }
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "4 catégories : chantier, urbains, spéciaux, boues.",
+      "Les déchets spéciaux sont dangereux. Il faut une autorisation.",
+      "Les lois principales : LPE, OTD, OMoD, OREA."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [],
+ "source": "Guide FALC Logistique Modules 101-110"
+}

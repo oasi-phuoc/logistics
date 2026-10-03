@@ -1,0 +1,280 @@
+{
+ "code": "103",
+ "chapter": 3,
+ "title": "Les tâches et les buts de la logistique",
+ "goals": [
+  "Tu connais le but de la logistique.",
+  "Tu connais les 6 « B ».",
+  "Tu sais ce que veulent dire « efficace » et « efficient »."
+ ],
+ "words": 284,
+ "sections": [
+  {
+   "id": "introduction",
+   "title": "Introduction",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "reflect",
+     "label": "Réfléchis",
+     "text": "Tu commandes une console de jeu sur Internet. Quand la livraison est-elle bonne ? Écris 3 critères. Compare avec ton voisin ou ta voisine."
+    }
+   ]
+  },
+  {
+   "id": "pourquoi-la-logistique-est-importante",
+   "title": "Pourquoi la logistique est importante",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Aujourd’hui, on achète en un clic."
+    },
+    {
+     "t": "p",
+     "text": "Les entreprises doivent donc bien s’organiser."
+    },
+    {
+     "t": "p",
+     "text": "Elles veulent gagner de l’argent. Pour cela, elles doivent travailler de façon efficace et efficiente."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Efficace",
+       "definition": "On atteint les buts à temps."
+      },
+      {
+       "term": "Efficient",
+       "definition": "On atteint les buts sans gaspiller de ressources."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-d-finition-de-la-logistique",
+   "title": "La définition de la logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique, c’est organiser le chemin des marchandises et des informations."
+    },
+    {
+     "t": "p",
+     "text": "Ce chemin va du fournisseur jusqu’au client. Il continue jusqu’au service après-vente."
+    },
+    {
+     "t": "p",
+     "text": "Une autre définition dit : la logistique est l’art et la science d’organiser et de planifier ce dont on a besoin pour atteindre ses buts."
+    }
+   ]
+  },
+  {
+   "id": "le-but-de-la-logistique",
+   "title": "Le but de la logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Le but de la logistique est d’assurer le meilleur flux possible de marchandises et de données."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "Pour y arriver, la logistique poursuit 3 buts en même temps."
+    },
+    {
+     "t": "p",
+     "text": "Les activités principales sont :"
+    },
+    {
+     "t": "ul",
+     "items": [
+      "acheter du matériel et des ressources",
+      "transformer ces ressources en produits ou en services",
+      "distribuer les produits ou les services sur le marché"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-6-b-du-professeur-j-nemann",
+   "title": "Les 6 « B » du professeur Jünemann",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique doit offrir un travail de haute qualité."
+    },
+    {
+     "t": "p",
+     "text": "Pour cela, elle respecte les 6 « B »."
+    },
+    {
+     "t": "p",
+     "text": "Avant, on parlait des 4 « B » : le bon produit, la bonne qualité, le bon moment, le bon endroit."
+    },
+    {
+     "t": "p",
+     "text": "Ensuite, la quantité et le prix se sont ajoutés. Cela fait 6."
+    },
+    {
+     "t": "p",
+     "text": "Aujourd’hui, on parle aussi de 7 « B » et de 8 « B »."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "7 B : les 6 B + la bonne information.",
+      "8 B : les 7 B + le bon client."
+     ]
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "Le but : le meilleur flux possible de marchandises et de données.",
+      "Les 6 B : bonne marchandise, bonne quantité, bonne qualité, bon moment, bon endroit, bon prix."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Cite les 6 « B » de la logistique.",
+   "answer": "Bonne marchandise, bonne quantité, bonne qualité, bon moment, bon endroit, bon prix."
+  }
+ ],
+ "source": "Guide FALC Logistique Modules 101-110"
+}

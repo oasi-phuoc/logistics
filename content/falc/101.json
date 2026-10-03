@@ -1,0 +1,340 @@
+{
+ "code": "101",
+ "chapter": 1,
+ "title": "L’histoire de la logistique",
+ "goals": [
+  "Tu sais que la logistique existe depuis très longtemps.",
+  "Tu connais quelques grandes dates.",
+  "Tu comprends que les buts n’ont pas changé."
+ ],
+ "words": 361,
+ "sections": [
+  {
+   "id": "la-logistique-existe-depuis-toujours",
+   "title": "La logistique existe depuis toujours",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les hommes de la préhistoire faisaient déjà de la logistique."
+    },
+    {
+     "t": "p",
+     "text": "Ils devaient trouver de la nourriture. Ils devaient la garder. Ensuite, ils la mangeaient."
+    },
+    {
+     "t": "p",
+     "text": "Les buts de la logistique n’ont pas changé."
+    },
+    {
+     "t": "p",
+     "text": "Ce sont les outils qui ont changé."
+    },
+    {
+     "t": "glossary",
+     "entries": [
+      {
+       "term": "Approvisionnement",
+       "definition": "Aller chercher ce dont on a besoin."
+      },
+      {
+       "term": "Production",
+       "definition": "Fabriquer des produits."
+      },
+      {
+       "term": "Distribution",
+       "definition": "Apporter les produits aux clients."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-logistique-pendant-la-guerre",
+   "title": "La logistique pendant la guerre",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Une armée doit manger tous les jours."
+    },
+    {
+     "t": "p",
+     "text": "Les soldats et les animaux ont besoin de nourriture."
+    },
+    {
+     "t": "p",
+     "text": "Sans nourriture, l’armée perd la guerre."
+    },
+    {
+     "t": "p",
+     "text": "Autrefois, on emmenait des troupeaux avec l’armée. C’était de la viande vivante."
+    },
+    {
+     "t": "p",
+     "text": "Parfois, les soldats allaient voler de la nourriture."
+    },
+    {
+     "t": "p",
+     "text": "Certains chefs donnaient du tabac aux soldats. Avec le tabac, les soldats mangeaient moins."
+    },
+    {
+     "t": "p",
+     "text": "Napoléon Bonaparte a fait de la logistique militaire une vraie science."
+    },
+    {
+     "t": "p",
+     "text": "Il organisait la nourriture, le matériel de guerre et les munitions."
+    }
+   ]
+  },
+  {
+   "id": "la-logistique-et-les-pyramides",
+   "title": "La logistique et les pyramides",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Les pyramides sont un grand défi de logistique."
+    },
+    {
+     "t": "ul",
+     "items": [
+      "Les blocs de granit pèsent plus de 50 tonnes.",
+      "Ils venaient de carrières à 800 kilomètres.",
+      "On construisait parfois un port exprès."
+     ]
+    },
+    {
+     "t": "p",
+     "text": "On pense que les Égyptiens utilisaient de grandes rampes."
+    },
+    {
+     "t": "p",
+     "text": "Ils poussaient ou tiraient les pierres de plus en plus haut."
+    }
+   ]
+  },
+  {
+   "id": "les-routes-du-commerce",
+   "title": "Les routes du commerce",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Autrefois, des routes commerciales traversaient les déserts."
+    },
+    {
+     "t": "p",
+     "text": "Les chameaux sont devenus un moyen de transport très important."
+    }
+   ]
+  },
+  {
+   "id": "la-route-de-la-soie",
+   "title": "La route de la soie",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Elle relie la Chine, l’Asie centrale et la Méditerranée.",
+      "Elle part de la ville de Luoyang.",
+      "Elle existe depuis plus de 2000 ans.",
+      "La soie est le produit le plus important.",
+      "On échange aussi du thé, du sel, des épices, du sucre et de la porcelaine."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "la-route-de-l-ambre",
+   "title": "La route de l’ambre",
+   "level": 3,
+   "blocks": [
+    {
+     "t": "ul",
+     "items": [
+      "Elle va du nord au sud de l’Europe.",
+      "Elle part de la mer Baltique et va jusqu’à la Méditerranée.",
+      "L’ambre est une résine fossile de couleur jaune doré.",
+      "On l’appelait « l’or de la mer »."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "les-grandes-dates-de-la-logistique",
+   "title": "Les grandes dates de la logistique",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "La logistique a changé très vite. Voici quelques dates."
+    },
+    {
+     "t": "p",
+     "text": "En 1955, le mot « logistique » est utilisé pour la première fois dans l’économie. C’était aux États-Unis."
+    }
+   ]
+  },
+  {
+   "id": "l-informatique-a-tout-chang",
+   "title": "L’informatique a tout changé",
+   "level": 2,
+   "blocks": [
+    {
+     "t": "p",
+     "text": "Le mot « informatique » est connu depuis les années 1960."
+    },
+    {
+     "t": "p",
+     "text": "Il vient de deux mots : information et automatisme."
+    },
+    {
+     "t": "p",
+     "text": "Depuis l’informatique, la logistique change de plus en plus vite."
+    },
+    {
+     "t": "note",
+     "kind": "remember",
+     "label": "À retenir",
+     "items": [
+      "La logistique existe depuis la préhistoire.",
+      "Les buts sont les mêmes. Les outils changent.",
+      "L’informatique a beaucoup changé la logistique."
+     ]
+    }
+   ]
+  }
+ ],
+ "glossary": [
+  {
+   "term": "Approvisionnement",
+   "definition": "Aller chercher ce dont on a besoin."
+  },
+  {
+   "term": "Autorisation",
+   "definition": "La permission officielle de faire quelque chose."
+  },
+  {
+   "term": "Chaîne de processus",
+   "definition": "Les étapes d’une marchandise : approvisionnement, production, distribution, élimination."
+  },
+  {
+   "term": "Check-list",
+   "definition": "Une liste de contrôle."
+  },
+  {
+   "term": "Consommables",
+   "definition": "Produits qu’on utilise puis qu’on jette : huile, produits de nettoyage."
+  },
+  {
+   "term": "Déchet",
+   "definition": "Une chose dont on se débarrasse."
+  },
+  {
+   "term": "Déchet spécial",
+   "definition": "Un déchet dangereux. Il demande un traitement particulier."
+  },
+  {
+   "term": "Distribution",
+   "definition": "Apporter les produits aux clients."
+  },
+  {
+   "term": "Efficace",
+   "definition": "On atteint le but à temps."
+  },
+  {
+   "term": "Efficient",
+   "definition": "On atteint le but sans gaspiller."
+  },
+  {
+   "term": "ERP",
+   "definition": "Le logiciel de gestion de l’entreprise."
+  },
+  {
+   "term": "Flux",
+   "definition": "Un mouvement continu de marchandises ou d’informations."
+  },
+  {
+   "term": "Incinération",
+   "definition": "Brûler des déchets dans une usine."
+  },
+  {
+   "term": "Inerte",
+   "definition": "Qui ne réagit presque pas."
+  },
+  {
+   "term": "Interface",
+   "definition": "L’endroit où deux entreprises ou services se rencontrent."
+  },
+  {
+   "term": "KPI",
+   "definition": "Un chiffre clé pour mesurer la performance."
+  },
+  {
+   "term": "Littering",
+   "definition": "Jeter ses déchets dans la rue ou la nature."
+  },
+  {
+   "term": "Logistique",
+   "definition": "Organiser le chemin des marchandises, des informations et de l’argent."
+  },
+  {
+   "term": "Manutention",
+   "definition": "Déplacer et manipuler des marchandises."
+  },
+  {
+   "term": "Matière première",
+   "definition": "Une marchandise pas encore transformée."
+  },
+  {
+   "term": "Mondialisation",
+   "definition": "Le monde entier est relié."
+  },
+  {
+   "term": "Périssable",
+   "definition": "Qui se gâte vite."
+  },
+  {
+   "term": "Produit fini",
+   "definition": "Prêt pour le client."
+  },
+  {
+   "term": "Produit semi-fini",
+   "definition": "Déjà transformé, mais pas encore fini."
+  },
+  {
+   "term": "Recyclage",
+   "definition": "Redonner de la valeur à un déchet."
+  },
+  {
+   "term": "SCM",
+   "definition": "Gestion de la chaîne d’approvisionnement."
+  },
+  {
+   "term": "SME",
+   "definition": "Système de management environnemental."
+  },
+  {
+   "term": "Stockage",
+   "definition": "Garder des marchandises en entrepôt."
+  },
+  {
+   "term": "TTS",
+   "definition": "Transport, Transbordement, Stockage."
+  },
+  {
+   "term": "UIOM",
+   "definition": "Usine d’incinération des ordures ménagères."
+  }
+ ],
+ "quiz": [
+  {
+   "question": "Depuis quand la logistique existe-t-elle ?",
+   "answer": "Depuis la préhistoire."
+  }
+ ],
+ "source": "Guide FALC Logistique Modules 101-110"
+}
